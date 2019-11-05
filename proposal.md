@@ -1,22 +1,16 @@
 proposal
 ================
-...; Jiafei Li, jl5548
+Jingyi Tang, jt3174; Jiafei Li, jl5548
 November 4, 2019
 
-Tentative project title
------------------------
+## Tentative project title
 
-Motivation for this project
----------------------------
+## Motivation for this project
 
-Intended final products
------------------------
+## Intended final products
 
-Anticipated data sources
-------------------------
+## Anticipated data sources
 
-Planned analyses / visualizations / coding challenges
------------------------------------------------------
+## Planned analyses / visualizations / coding challenges
 
-Planned timeline
-----------------
+## Planned timeline
