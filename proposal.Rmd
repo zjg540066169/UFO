@@ -32,3 +32,10 @@ Our team is trying to attack the problem with multiple angles. For starters, we 
 
 ## Planned timeline
 
+
+
+## Credits
+
+* Finding the dataset: Jungang Zou
+* Intended Analysis Methods: Ran Wang
+* Writing the proposal: Keyi Wang, Jiafei Li, Jingyi Tang
