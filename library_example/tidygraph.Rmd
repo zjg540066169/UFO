@@ -12,19 +12,10 @@ output: github_document
 # copy from Jeff
 
 # install dependency
-try(source("../dependencies.R"), silent = TRUE)
+try(source("..Ω/dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
 set.seed(10)
-
-# load library
-library(tidyverse)
-library(viridis)
-library(ggridges)
-library(patchwork)
-library(rvest)
-library(tidygraph)
-
 
 knitr::opts_chunk$set(
   # display the code in the code truck above its results in the final document
@@ -54,7 +45,7 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 
 Test tidygraph 
 
-```{r test}
+```{r cars}
 play_erdos_renyi(10, 0.5) %>% 
   activate(nodes) %>% 
   mutate(degree = centrality_degree()) %>% 
@@ -63,12 +54,16 @@ play_erdos_renyi(10, 0.5) %>%
   arrange(centrality)
 ```
 
-## Including Plots
+## Data source
 
-You can also embed plots, for example:
+use real data
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r  echo=FALSE}
+library(readr)
+
+url <- "https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-02-26/small_trains.csv"
+small_trains <- read_csv(url)
+head(small_trains)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
