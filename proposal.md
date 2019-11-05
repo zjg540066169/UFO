@@ -27,10 +27,13 @@ Our data comes from tidytuesday weekly project, which encourages new and
 experienced users to use the tidyverse tools to analyze data sets that
 change every week. Our dataset is [UFP Sightings around the
 world](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25).
+<<<<<<< HEAD
 This data included more than 80,000 recorded UFO “sightings” around the
 world, including the UFO shape, state,country, latitude and longitude of
 where the sighting occurred, duration of the “event” and the data time
 when it occurred.
+=======
+>>>>>>> 440920bcdeb869aa68bf23e7b8d13d0be91a59e9
 
 ## Planned analyses / visualizations / coding challenges
 
@@ -48,3 +51,12 @@ interested in making a prediction or perform an outlier detection for
 the dataset depending on which question we will ask in the project.
 
 ## Planned timeline
+<<<<<<< HEAD
+=======
+
+## Credits
+
+  - Finding the dataset: Jungang Zou
+  - Intended Analysis Methods: Ran Wang
+  - Writing the proposal: Keyi Wang, Jiafei Li, Jingyi Tang
+>>>>>>> 440920bcdeb869aa68bf23e7b8d13d0be91a59e9
