@@ -1,0 +1,28 @@
+---
+title: "proposal"
+author: "...; Jiafei Li, jl5548"
+date: "November 4, 2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tentative project title
+
+
+## Motivation for this project
+
+
+## Intended final products
+
+
+## Anticipated data sources
+
+
+## Planned analyses / visualizations / coding challenges
+
+
+## Planned timeline
+
