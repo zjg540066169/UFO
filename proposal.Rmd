@@ -1,6 +1,6 @@
 ---
 title: "proposal"
-author: "Jingyi Tang, jt3174; Jiafei Li, jl5548"
+author: "Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873"
 date: "November 4, 2019"
 output: github_document
 ---
@@ -23,7 +23,9 @@ We are interested to find out whether there is any relationship between state an
 
 ## Anticipated data sources
 
-Our data comes from tidytuesday weekly project, which encourages new and experienced users to use the tidyverse tools to analyze data sets that change every week. Our dataset is [UFP Sightings around the world](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25). 
+Our data comes from tidytuesday weekly project, which encourages new and experienced users to use the tidyverse tools to analyze data sets that change every week. Our dataset is [UFP Sightings around the world](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25).
+This data included more than 80,000 recorded UFO "sightings" around the world, including the UFO shape, state,country, latitude and longitude of where the sighting occurred, duration of the "event" and the data time when it occurred.
+
 
 ## Planned analyses / visualizations / coding challenges
 
