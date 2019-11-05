@@ -23,6 +23,7 @@ We are interested to find out whether there is any relationship between state an
 
 ## Anticipated data sources
 
+Our data comes from tidytuesday weekly project, which encourages new and experienced users to use the tidyverse tools to analyze data sets that change every week. Our dataset is [UFP Sightings around the world](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25). 
 
 ## Planned analyses / visualizations / coding challenges
 
