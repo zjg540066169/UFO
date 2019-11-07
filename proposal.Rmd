@@ -1,6 +1,6 @@
 ---
 title: "proposal"
-author: "Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873; Ran Wang rw2708"
+author: "Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873; Ran Wang rw2708; Jungang Zou, jz3183"
 date: "November 4, 2019"
 output: github_document
 ---

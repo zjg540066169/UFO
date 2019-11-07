@@ -1,6 +1,7 @@
 proposal
 ================
-Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873; Ran Wang rw2708
+Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873; Ran Wang rw2708; Jungang
+Zou, jz3183
 November 4, 2019
 
 ## Tentative project title
