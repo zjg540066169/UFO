@@ -1,6 +1,6 @@
 proposal
 ================
-Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873
+Jingyi Tang, jt3174; Jiafei Li, jl5548, kw2873; Ran Wang rw2708
 November 4, 2019
 
 ## Tentative project title
@@ -49,8 +49,20 @@ the dataset depending on which question we will ask in the project.
 
 ## Planned timeline
 
+07/11/2019: turn in proposal
+
+08/11/2019-10/11/2019 tidy data, plot 5 graphs + linear regression
+
+11/11/2019-16/11/2019 anova + chi\_square
+
+17/11/2019 outliers/prediction
+
+18/11/2019-22/11/2019 webpage+screencast
+
+24/11/2019-05/12/2019 start to write report + review the report
+
 ## Credits
 
   - Finding the dataset: Jungang Zou
   - Intended Analysis Methods: Ran Wang
-  - Writing the proposal: Keyi Wang, Jiafei Li, Jingyi Tang
+  - Writing the proposal: Keyi Wang, Jiafei Li, Jingyi Tang, Ran Wang

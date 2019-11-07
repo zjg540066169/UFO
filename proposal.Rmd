@@ -34,10 +34,15 @@ Our team is trying to attack the problem with multiple angles. For starters, we 
 
 ## Planned timeline
 07/11/2019: turn in proposal
+
 08/11/2019-10/11/2019 tidy data, plot 5 graphs + linear regression
+
 11/11/2019-16/11/2019 anova + chi_square 
+
 17/11/2019 outliers/prediction
+
 18/11/2019-22/11/2019 webpage+screencast
+
 24/11/2019-05/12/2019 start to write report + review the report
 
 
