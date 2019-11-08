@@ -6,25 +6,55 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(rvest)
+library(httr)
+library(plotly)
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  fig.width = 8,
+  fig.height = 6, 
+  out.width = "90%"
+)
+
+
+options(
+  ggplot2.countinuous.colour = "viridis",
+  ggplot2.countinuous.fill = "viridis"
+)
+scale_colour_discrete = scale_colour_viridis_d
+scale_fill_discrete = scale_fill_viridis_d
+
+theme_set(theme_minimal() + theme(legend.position = "bottom"))
+
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+## reading data
+```{r}
+ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
+## Number of UFO observed across time among 4 countries --Line Plot
+```{r}
+line_plot =
+ufo_data %>%  
+na.omit(ufo_data) %>% ## omit missing data
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate( date, into = c("month","day","year"), sep = "/") %>%
+group_by(year) %>%
+count(country) %>%
+  ggplot(aes(x = year,y = n,group = country)) +
+  geom_line(aes(color = country)) +
+  theme(axis.text.x = element_text (angle = 90)) +
+  labs(
+    title = " Line Plot of Number of UFO Observed Across Time Among different Countries",
+    x = "Year",
+    y = "Number Of UFO Observed"
+  )
+  ggplotly(line_plot)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
