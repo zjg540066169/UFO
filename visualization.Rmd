@@ -1,6 +1,6 @@
 ---
 title: "visualization"
-author: "Keyi Wang"
+author: "Keyi Wang, Jingyi Tang"
 date: "11/8/2019"
 output: github_document
 ---
@@ -43,11 +43,13 @@ ufo_data %>%
 na.omit(ufo_data) %>% ## omit missing data
 separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate( date, into = c("month","day","year"), sep = "/") %>%
+mutate(year = as.numeric(year)) %>% 
 group_by(year) %>%
 count(country) %>%
   ggplot(aes(x = year,y = n,group = country)) +
   geom_line(aes(color = country)) +
   theme(axis.text.x = element_text (angle = 90)) +
+  scale_x_continuous(breaks = c(1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020)) +
   labs(
     title = " Line Plot of Number of UFO Observed Across Time Among different Countries",
     x = "Year",
