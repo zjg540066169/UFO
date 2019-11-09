@@ -1,39 +1,30 @@
----
-title: "visualization"
-author: "Keyi Wang"
-date: "11/8/2019"
-output: github_document
----
-
-```{r setup, include=FALSE}
-library(tidyverse)
-library(rvest)
-library(plotly)
-
-knitr::opts_chunk$set(
-  echo = TRUE,
-  warning = FALSE,
-  fig.width = 8,
-  fig.height = 6, 
-  out.width = "90%"
-)
-
-
-options(
-  ggplot2.countinuous.colour = "viridis",
-  ggplot2.countinuous.fill = "viridis"
-)
-scale_colour_discrete = scale_colour_viridis_d
-scale_fill_discrete = scale_fill_viridis_d
-
-theme_set(theme_minimal() + theme(legend.position = "bottom"))
-
-```
+visualization
+================
+Keyi Wang
+11/8/2019
 
 ## reading data
-```{r}
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
 
+``` r
+ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+```
+
+    ## Parsed with column specification:
+    ## cols(
+    ##   date_time = col_character(),
+    ##   city_area = col_character(),
+    ##   state = col_character(),
+    ##   country = col_character(),
+    ##   ufo_shape = col_character(),
+    ##   encounter_length = col_double(),
+    ##   described_encounter_length = col_character(),
+    ##   description = col_character(),
+    ##   date_documented = col_character(),
+    ##   latitude = col_double(),
+    ##   longitude = col_double()
+    ## )
+
+``` r
 ufo =
 ufo_data %>%  
 na.omit(ufo_data) %>% 
@@ -46,8 +37,7 @@ mutate(country = recode(country ,
                         "ca" = "Canada")) 
 ```
 
-
-```{r}
+``` r
 ## A bargraph showing the total number of UFO observed among 4 countries. As the number of UFO  observed in Australia and Britain is really low, for later graphs, we decided to omit data in these two countries.
 
 ufo %>%
@@ -60,12 +50,11 @@ ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percen
               vjust = -0.5,   size = 3) + 
     labs(title = "Bargraph of the precentage of UFO Observed by Country",
          x = "Country",y = "Precentage") 
-
-
-
 ```
 
-```{r}
+<img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-2-1.png" width="90%" />
+
+``` r
 ## line plot showing the number of UFO observed across time among countries
 
 ufo %>%
@@ -81,12 +70,11 @@ title = " Line Plot of Number of UFO Observed Across Time Among different Countr
     x = "Year",
     y = "Number Of UFO Observed"
   )
-
-
 ```
 
+<img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
 
-```{r}
+``` r
 ### Boxplot showing the distribution of the UFO Shape Observed in US
   
 ufo %>%
@@ -108,3 +96,4 @@ ufo %>%
   )
 ```
 
+<img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-4-1.png" width="90%" />
