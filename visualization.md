@@ -1,39 +1,30 @@
----
-title: "visualization"
-author: "Keyi Wang, Jingyi Tang"
-date: "11/8/2019"
-output: github_document
----
-
-```{r setup, include=FALSE}
-library(tidyverse)
-library(rvest)
-library(plotly)
-
-knitr::opts_chunk$set(
-  echo = TRUE,
-  warning = FALSE,
-  fig.width = 8,
-  fig.height = 6, 
-  out.width = "90%"
-)
-
-
-options(
-  ggplot2.countinuous.colour = "viridis",
-  ggplot2.countinuous.fill = "viridis"
-)
-scale_colour_discrete = scale_colour_viridis_d
-scale_fill_discrete = scale_fill_viridis_d
-
-theme_set(theme_minimal() + theme(legend.position = "bottom"))
-
-```
+visualization
+================
+Keyi Wang, Jingyi Tang
+11/8/2019
 
 ## reading data
-```{r}
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
 
+``` r
+ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+```
+
+    ## Parsed with column specification:
+    ## cols(
+    ##   date_time = col_character(),
+    ##   city_area = col_character(),
+    ##   state = col_character(),
+    ##   country = col_character(),
+    ##   ufo_shape = col_character(),
+    ##   encounter_length = col_double(),
+    ##   described_encounter_length = col_character(),
+    ##   description = col_character(),
+    ##   date_documented = col_character(),
+    ##   latitude = col_double(),
+    ##   longitude = col_double()
+    ## )
+
+``` r
 ufo =
 ufo_data %>%  
 na.omit(ufo_data) %>% 
@@ -41,9 +32,9 @@ separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate( date, into = c("month","day","year"), sep = "/") 
 ```
 
+## Number of UFO observed across time among 4 countries –Line Plot
 
-## Number of UFO observed across time among 4 countries --Line Plot
-```{r}
+``` r
 line_plot =
 ufo %>% 
 mutate(year = as.numeric(year)) %>% 
@@ -58,10 +49,9 @@ count(country) %>%
     x = "Year",
     y = "Number Of UFO Observed"
   )
-
 ```
 
-```{r}
+``` r
   ## 4 countries plots
   ufo %>% 
   group_by(country,state)%>%
@@ -82,7 +72,11 @@ count(country) %>%
     x = "UFO Shape",
     y = "Number"
   )
+```
 
+<img src="visualization_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
+
+``` r
 ### US plot 
   ufo %>%
   filter(country == "us")%>%
@@ -98,7 +92,6 @@ count(country) %>%
     x = "UFO Shape",
     y = "Number"
   )
-
-
 ```
 
+<img src="visualization_files/figure-gfm/unnamed-chunk-3-2.png" width="90%" />
