@@ -44,20 +44,6 @@ separate( date, into = c("month","day","year"), sep = "/")
 
 ## Number of UFO observed across time among 4 countries --Line Plot
 ```{r}
-line_plot =
-ufo %>% 
-mutate(year = as.numeric(year)) %>% 
-group_by(year) %>%
-count(country) %>%
-  ggplot(aes(x = year,y = n,group = country)) +
-  geom_line(aes(color = country)) +
-  theme(axis.text.x = element_text (angle = 90)) +
-  scale_x_continuous(breaks = c(1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020)) +
-  labs(
-    title = " Line Plot of Number of UFO Observed Across Time Among different Countries",
-    x = "Year",
-    y = "Number Of UFO Observed"
-  )
 
 ```
 
