@@ -4,6 +4,7 @@ devtools::install_github("tidymodels/tidymodels", quiet = TRUE)
 devtools::install_github('thomasp85/tidygraph', quiet = TRUE)
 devtools::install_cran("ggraph", quiet = TRUE)
 devtools::install_cran("tidytext", quiet = TRUE)
+devtools::install_github("michaeldorman/mapsapi")
 #devtools::install_github("r-spatial/sf")
 
 
