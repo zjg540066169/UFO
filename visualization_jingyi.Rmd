@@ -50,21 +50,21 @@ ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/ti
 ufo = ufo_data %>%  
   na.omit(ufo_data) %>% 
   separate(date_time, into = c("date","time"), sep = " " ) %>%
-  separate(date, into = c("month","day","year"), sep = "/") 
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
+    mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
+         country = recode(country, "us" = "the United States", 
+                          "au" = "Australia",
+                          "gb" = "the United Kingdom",
+                          "ca" = "Canada")) 
 
 ```
 
 ```{r Length Descriptive Data}
 
-Length = ufo %>% 
-  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
-         country = recode(country, "us" = "the United States", 
-                          "au" = "Australia",
-                          "gb" = "the United Kingdom",
-                          "ca" = "Canada")) %>% 
-  select(country, encounter_length) %>% 
+Length_Data = ufo %>% 
   group_by(country) %>% 
-  summarize(mean = mean(encounter_length),
+  summarize(count = n(),
+            mean = mean(encounter_length),
             median = median(encounter_length),
             sd = sd(encounter_length),
             Q1 = quantile(encounter_length, 0.25),
@@ -74,9 +74,30 @@ Length = ufo %>%
   arrange(desc(mean)) %>% 
   # knit a table
   knitr::kable(digits = 2)
-  
-  #ggplot(aes(x = encounter_length, fill = country)) +
-  #geom_density(alpha = 0.4, adjust = 0.5)
+
+Length_Data
+
+```
+
+Since we only have `r ufo %>% filter(country == "the United Kingdom") %>% nrow()` observations for the United Kingdom and `r ufo %>% filter(country == "Australia") %>% nrow()` observations for Australia, we are going to omit these two countries. 
+
+Meanwhile, we are looking for reader-friendly and meaningful display of density plot. As we can see that the standard deviations of the United States and Canada are way too large for a "readable" display, we are going to omit extreme values. 
+
+```{r Length Density Plot}
+
+filtered_ufo = ufo %>% 
+  group_by(country) %>% 
+  mutate(
+    Q3 = quantile(encounter_length, 0.75),
+    IQR = IQR(encounter_length)
+  ) %>% 
+  ungroup() %>% 
+  filter(encounter_length < Q3 + 1.5 * IQR)
+
+filtered_ufo %>%
+  ggplot(aes(x = encounter_length, fill = country)) +
+  geom_density(alpha = 0.4, adjust = 0.5, color = "cornsilk4") +
+  scale_fill_viridis(option = "plasma", discrete = TRUE)
 
 ```
 
