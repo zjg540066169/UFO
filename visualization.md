@@ -3,7 +3,8 @@ visualization
 Keyi Wang, Jingyi Tang
 11/8/2019
 
-## reading data
+reading data
+------------
 
 ``` r
 ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
@@ -16,7 +17,7 @@ ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/ti
     ##   state = col_character(),
     ##   country = col_character(),
     ##   ufo_shape = col_character(),
-    ##   encounter_length = col_double(),
+    ##   encounter_length = col_integer(),
     ##   described_encounter_length = col_character(),
     ##   description = col_character(),
     ##   date_documented = col_character(),
@@ -32,7 +33,8 @@ separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate( date, into = c("month","day","year"), sep = "/") 
 ```
 
-## Number of UFO observed across time among 4 countries –Line Plot
+Number of UFO observed across time among 4 countries --Line Plot
+----------------------------------------------------------------
 
 ``` r
   ## 4 countries plots
@@ -57,7 +59,7 @@ separate( date, into = c("month","day","year"), sep = "/")
   )
 ```
 
-<img src="visualization_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
+<img src="visualization_files/figure-markdown_github/unnamed-chunk-3-1.png" width="90%" />
 
 ``` r
 ### US plot 
@@ -77,4 +79,4 @@ separate( date, into = c("month","day","year"), sep = "/")
   )
 ```
 
-<img src="visualization_files/figure-gfm/unnamed-chunk-3-2.png" width="90%" />
+<img src="visualization_files/figure-markdown_github/unnamed-chunk-3-2.png" width="90%" />
