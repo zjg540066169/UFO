@@ -12,7 +12,7 @@ output: github_document
 # copy from Jeff
 
 # install dependency
-try(source("..Ω/dependencies.R"), silent = TRUE)
+try(source("../dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
 set.seed(10)
