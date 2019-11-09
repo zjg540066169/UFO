@@ -54,18 +54,29 @@ ufo = ufo_data %>%
 
 ```
 
-```{r Length Density Plot}
+```{r Length Descriptive Data}
 
- ufo %>% 
-  mutate(
-  ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
-  country = recode(country, 
-                   "us" = "the United States", 
-                   "au" = "Australia",
-                   "gb" = "the United Kingdom",
-                   "ca" = "Canada")) %>%
-  ggplot(aes(x = encounter_length, fill = country)) +
-  geom_density(alpha = 0.4, adjust = 0.5)
+Length = ufo %>% 
+  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
+         country = recode(country, "us" = "the United States", 
+                          "au" = "Australia",
+                          "gb" = "the United Kingdom",
+                          "ca" = "Canada")) %>% 
+  select(country, encounter_length) %>% 
+  group_by(country) %>% 
+  summarize(mean = mean(encounter_length),
+            median = median(encounter_length),
+            sd = sd(encounter_length),
+            Q1 = quantile(encounter_length, 0.25),
+            Q3 = quantile(encounter_length, 0.75),
+            IQR = IQR(encounter_length)) %>% 
+  # arrange according to sales for each group
+  arrange(desc(mean)) %>% 
+  # knit a table
+  knitr::kable(digits = 2)
+  
+  #ggplot(aes(x = encounter_length, fill = country)) +
+  #geom_density(alpha = 0.4, adjust = 0.5)
 
 ```
 
