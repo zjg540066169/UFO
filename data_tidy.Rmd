@@ -81,34 +81,45 @@ ufo_original_data %>%
 Since there are a lot of massive data in "city_area", "state" and "country", we write a function to use Google Map`s api, to clean the data.
 
 ```{r clean_place, echo = FALSE}
-api_key = "AIzaSyAxm_kcnsTq0QRM6Ovnz3C_KqAsEF6XqgY"
-place_tidy = function(df) {
-  print(df)
-  city_area = df["city_area"]
-  state = df["state"]
-  country = df["country"]
-  
+
+place_tidy = function(city_area, state, country) {
+  print(city_area)
+  #city_area = df["city_area"]
+  #state = df["state"]
+  #country = df["country"]
+  api_key = "AIzaSyC2BBNoODEb5Pg7wbY-Pqvl9VdYRkJ9sHM"
   if (is.na(state)) {
-    state = mutate(state, state = "")
+    state = ""#"mutate(state, state = "")""
   } else if (is.na(country)) {
-    country = mutate(country, country = "")
+    country = ""# mutate(country, country = "")
   }
-  place_string = paste(city_area, state, country, sep = ",")
-  doc = mp_geocode(addresses = place_string)
+  place_string = paste(city_area, state, country, sep = ", ")
+  
+  doc = mp_geocode(addresses = place_string, key = api_key)
+  #print(doc)
   pnt = mp_get_points(doc)
+  print(pnt)
   pnt
 }
 
 
 ufo_tidy_data = 
   ufo_original_data %>% 
-  #separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]") %>% 
+  separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]") %>% 
   slice(1:10) %>% 
   #pull(city_area)
   #print(ufo_tidy_data[c("city_area", "state", "country")])
-  select(city_area, state, country) %>% 
+  #select(city_area, state, country) %>% 
+  mutate(state = replace(state, is.na(state), ""), country = replace(country, is.na(country), ""), city_description = replace(city_description, is.na(city_description), "")) %>% 
+  mutate(place_string = paste(city_area, city_description, state, country, sep = ", "))# %>% 
+
+doc = 
+  mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
+  mp_get_points() %>% 
+  select(address, address_google)
   
-  map(.x = ., ~place_tidy(city_area))
+#ufo_tidy_data = pmap_df(list(ufo_tidy_data$city_area, ufo_tidy_data$state, ufo_tidy_data$country), place_tidy)
+  #pmap(list(pull(., city_area), pull(., state), pull(., country)), ~place_tidy)
 
 ```
 
