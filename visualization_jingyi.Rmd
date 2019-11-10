@@ -61,8 +61,9 @@ ufo = ufo_data %>%
 
 ```{r Length Descriptive Data}
 
-Length_Data = ufo %>% 
+ufo %>% 
   group_by(country) %>% 
+  # create columns for count, mean, median, sd, Q1, Q3, IQR for each country
   summarize(count = n(),
             mean = mean(encounter_length),
             median = median(encounter_length),
@@ -70,12 +71,10 @@ Length_Data = ufo %>%
             Q1 = quantile(encounter_length, 0.25),
             Q3 = quantile(encounter_length, 0.75),
             IQR = IQR(encounter_length)) %>% 
-  # arrange according to sales for each group
+  # arrange according to mean for each group
   arrange(desc(mean)) %>% 
   # knit a table
   knitr::kable(digits = 2)
-
-Length_Data
 
 ```
 
@@ -85,18 +84,26 @@ Meanwhile, we are looking for reader-friendly and meaningful display of density 
 
 ```{r Length Density Plot}
 
+# create dataframe for the plot (which got rid of outliers for each country)
 filtered_ufo = ufo %>% 
   group_by(country) %>% 
+  # add two columns according to its country: Q3, IQR
   mutate(
     Q3 = quantile(encounter_length, 0.75),
     IQR = IQR(encounter_length)
   ) %>% 
+  # ungroup
   ungroup() %>% 
+  # filter out outliers
   filter(encounter_length < Q3 + 1.5 * IQR)
 
+# make a density plot
 filtered_ufo %>%
+  # make x-aixs = encounter_length, fill the color by country
   ggplot(aes(x = encounter_length, fill = country)) +
+  # set the transparency to 0.4 and set several customerized parameter
   geom_density(alpha = 0.4, adjust = 0.5, color = "cornsilk4") +
+  # to make the fill colors a bit prettier
   scale_fill_viridis(option = "plasma", discrete = TRUE)
 
 ```
