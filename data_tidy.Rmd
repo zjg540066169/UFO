@@ -9,7 +9,7 @@ output: github_document
 # knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
 
-try(source("../dependencies.R"), silent = TRUE)
+try(source("./dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
 set.seed(10)
@@ -20,6 +20,8 @@ library(viridis)
 library(ggridges)
 library(patchwork)
 library(rvest)
+library(mapsapi)
+
 
 knitr::opts_chunk$set(
   # display the code in the code truck above its results in the final document
@@ -70,8 +72,52 @@ According to the relationships of "city_area", "state" and "country", we can fil
 
 Since there are some abnormal data in "city_area" like these, we first clean the missing value:
 
-```{r clean_city, echo = FALSE}
+```{r city_abnormal, echo = FALSE}
 ufo_original_data %>% 
   select(city_area, state) %>% 
   filter(str_detect(pull(., city_area), "\\("))
+```
+
+Since there are a lot of massive data in "city_area", "state" and "country", we write a function to use Google Map`s api, to clean the data.
+
+```{r clean_place, echo = FALSE}
+api_key = "AIzaSyAxm_kcnsTq0QRM6Ovnz3C_KqAsEF6XqgY"
+place_tidy = function(df) {
+  print(df)
+  city_area = df["city_area"]
+  state = df["state"]
+  country = df["country"]
+  
+  if (is.na(state)) {
+    state = mutate(state, state = "")
+  } else if (is.na(country)) {
+    country = mutate(country, country = "")
+  }
+  place_string = paste(city_area, state, country, sep = ",")
+  doc = mp_geocode(addresses = place_string)
+  pnt = mp_get_points(doc)
+  pnt
+}
+
+
+ufo_tidy_data = 
+  ufo_original_data %>% 
+  #separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]") %>% 
+  slice(1:10) %>% 
+  #pull(city_area)
+  #print(ufo_tidy_data[c("city_area", "state", "country")])
+  select(city_area, state, country) %>% 
+  
+  map(.x = ., ~place_tidy(city_area))
+
+```
+
+
+We seperate the variable "city_area" into 2 variable "city_area" and "city_description"
+
+```{r clean_city, echo = FALSE}
+ufo_tidy_data = 
+  ufo_original_data %>% 
+  separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]")# %>% 
+print(unique(pull(ufo_original_data, city_area)))
 ```
