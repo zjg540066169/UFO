@@ -42,7 +42,6 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ```
 
-
 ```{r read data}
 
 ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
@@ -50,33 +49,108 @@ ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/ti
 ufo = ufo_data %>%  
   na.omit(ufo_data) %>% 
   separate(date_time, into = c("date","time"), sep = " " ) %>%
-  separate(date, into = c("month","day","year"), sep = "/") 
-
-```
-
-```{r Length Descriptive Data}
-
-Length = ufo %>% 
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
   mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
          country = recode(country, "us" = "the United States", 
                           "au" = "Australia",
                           "gb" = "the United Kingdom",
-                          "ca" = "Canada")) %>% 
-  select(country, encounter_length) %>% 
+                          "ca" = "Canada")) 
+
+```
+
+# Length Table and Plot
+
+```{r Length Descriptive Data}
+
+ufo %>% 
   group_by(country) %>% 
-  summarize(mean = mean(encounter_length),
+  # create columns for count, mean, median, sd, Q1, Q3, IQR for each country
+  summarize(count = n(),
+            mean = mean(encounter_length),
             median = median(encounter_length),
             sd = sd(encounter_length),
             Q1 = quantile(encounter_length, 0.25),
             Q3 = quantile(encounter_length, 0.75),
             IQR = IQR(encounter_length)) %>% 
-  # arrange according to sales for each group
+  # arrange according to mean for each group
   arrange(desc(mean)) %>% 
   # knit a table
   knitr::kable(digits = 2)
-  
-  #ggplot(aes(x = encounter_length, fill = country)) +
-  #geom_density(alpha = 0.4, adjust = 0.5)
 
 ```
 
+Since we only have `r ufo %>% filter(country == "the United Kingdom") %>% nrow()` observations for the United Kingdom and `r ufo %>% filter(country == "Australia") %>% nrow()` observations for Australia, we are going to omit these two countries. 
+
+Meanwhile, we are looking for reader-friendly and meaningful display of density plot. As we can see that the standard deviations of the United States and Canada are way too large for a "readable" display, we are going to omit extreme values. 
+
+```{r Length Density Plot}
+
+# create dataframe for the plot (which got rid of outliers for each country)
+filtered_ufo = ufo %>% 
+  group_by(country) %>% 
+  # add two columns according to its country: Q3, IQR
+  mutate(
+    Q3 = quantile(encounter_length, 0.75),
+    IQR = IQR(encounter_length)
+  ) %>% 
+  # ungroup
+  ungroup() %>% 
+  # filter out outliers
+  filter(encounter_length < Q3 + 1.5 * IQR)
+
+# make a density plot
+filtered_ufo %>%
+  # make x-aixs = encounter_length, fill the color by country
+  ggplot(aes(x = encounter_length, fill = country)) +
+  # set the transparency to 0.4 and set several customerized parameter
+  geom_density(alpha = 0.4, adjust = 0.5, color = "cornsilk4") +
+  # to make the fill colors a bit prettier
+  scale_fill_viridis(option = "plasma", discrete = TRUE)
+
+```
+
+In the plot, we can see that the United States has the most data and spreaded out a lot with some spikes of encounter length of time. But we can also tell that for the United States, a lot of encounter happened within 500 seconds. We can see that for the United States, there seems to be a pattern of sighting time (due to the spikes). Hence, we can conduct a categorical analysis later in the project. Meanwhile, we also noticed that Canada is somehow similar to the United State, yet "milder". They both share similar spikes and distribution. Hence, we can also try to find if there is a particular pattern behind the UFO sighting, and with certain other data (if we have any), we can maybe explain the why people were seeing UFO's with this pattern.  
+
+# Data Description
+
+In this dataset, it contains time and location data about UFO sighting across `r length(unique(pull(ufo, country)))` countries, from the year of `r min(pull(ufo, year))` to the year of `r max(pull(ufo, year))`. They are ` r nrow(ufo)` observations and `r ncol(ufo)` variables in the dataset. 
+
+The variables in the dataset are:
+
+* `year`: the year of UFO sighting
+* `month`: the month of UFO sighting
+* `day`: the day of UFO sighting
+* `time`: the extra time of UFO sighting
+* `city_area`: the city of UFO sighting
+* `state`: the state of UFO sighting
+* `ufo_shape`: the shape of the sighted UFO
+* `encounter_length`: the encounter time length of sighting UFO
+* `described_encounter_length`: the description from the people who reported the UFO encounter
+* `description`: the description of the UFO from the people who reported the UFO encounter
+* `date_documented`: the date of documentation of the UFO encounter
+* `latitude`: the latitude of UFO encounter
+* `longtitude`: the longtitude of UFO encounter
+* `country`: the country of UFO sighting
+
+# Lag in Documentation
+
+In the dataset, we noticed that for a lot of the data, there are lags in time regards to their sighting time and the documentation time. Therefore, here is a plot that shows the distribution of lag time in years for each sighting by country.
+
+```{r}
+
+# tidy data
+lag_data = ufo %>% 
+  # separate the date_documented into month, day and year
+  separate(date_documented, into = c("doc_month","doc_day","doc_year"), sep = "/") %>% 
+  # add a variable called lag
+  mutate(lag = as.numeric(doc_year) - as.numeric(year))
+  
+# violin plot for the lag
+lag_data %>% 
+  ggplot(aes(x = country, y = lag)) +
+  geom_violin(aes(fill = country), color = "cornsilk4", alpha = 0.4) +
+  stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3)
+
+```
+
+This plot indicates that most of the data are documented relatively recent to their sighting, which is a good thing, because the longer the lag, the larger the possibility of wrongly documentation. 
