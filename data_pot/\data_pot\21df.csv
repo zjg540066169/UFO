@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"brookline, , ma, us","Brookline, MA, USA","OK",-71.1211635,42.3317642
+"punta gorda , near, fl, us","Punta Gorda, FL, USA","OK",-82.0453664,26.9297836
+"saugus, , ca, us","Saugus, Santa Clarita, CA, USA","OK",-118.5404007,34.4135244
+"wingdale, , ny, us","Wingdale, NY 12594, USA","OK",-73.5667744,41.6465446
+"great falls, , mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"mckenzie bridge, , or, us","McKenzie Bridge, OR 97413, USA","OK",-122.1639473,44.1751238
+"trenton, , nj, us","Trenton, NJ, USA","OK",-74.759717,40.2205824
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"calabash, , nc, us","Calabash, NC 28467, USA","OK",-78.5683446,33.8907278
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"el paso , rural, il, us","El Paso, IL 61738, USA","OK",-89.0164626,40.7392017
+"rock hill, , sc, us","Rock Hill, SC, USA","OK",-81.0250784,34.9248667
+"east scarborough , canada, on, ","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"saint paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"waterloo , canada, on, ca","Waterloo, ON, Canada","OK",-80.5204096,43.4642578
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"new caney, , tx, us","New Caney, TX 77357, USA","OK",-95.2155158,30.1550179
+"la crosse, , wi, us","La Crosse, WI, USA","OK",-91.2519017,43.8137751
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"ammon, , id, us","Ammon, ID, USA","OK",-111.9666355,43.4696366
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"oxford, , oh, us","Oxford, OH 45056, USA","OK",-84.745231,39.5069974
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"st. charles, , mo, us","St Charles, MO, USA","OK",-90.4974359,38.7881062
+"joliet, , il, us","Joliet, IL, USA","OK",-88.0817251,41.525031
+"phoenix, , or, us","Phoenix, OR, USA","OK",-122.818092,42.2754058
+"thrall, , la, ",NA,"ZERO_RESULTS",NA,NA
+"cary, , nc, us","Cary, NC, USA","OK",-78.7811169,35.79154
+"mineola, , tx, us","Mineola, TX 75773, USA","OK",-95.4882896,32.6631884
+"marlton, , nj, us","Marlton, Evesham Township, NJ, USA","OK",-74.9218324,39.8912248
+"hiwassee, , va, us","Hiwassee, VA 24347, USA","OK",-80.7136789,36.9687335
+"bartlesville, , ok, us","Bartlesville, OK, USA","OK",-95.9808179,36.7473114
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"bullhead city, laughlin, az, ","Bullhead City, AZ, USA","OK",-114.5285981,35.1359386
+"brentwood, , nh, us","Brentwood, NH 03833, USA","OK",-71.0735503,42.9780248
+"gleason, , wi, us","Gleason, WI 54435, USA","OK",-89.4965979,45.3090511
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"gleason, , wi, us","Gleason, WI 54435, USA","OK",-89.4965979,45.3090511
+"americus, , ga, us","Americus, GA, USA","OK",-84.2326876,32.0723861
+"converse, , in, us","Converse, IN 46919, USA","OK",-85.8733179,40.5775397
+"gleason, , wi, us","Gleason, WI 54435, USA","OK",-89.4965979,45.3090511
+"schuylkill haven, , pa, us","Schuylkill Haven, PA 17972, USA","OK",-76.171054,40.6306464
+"thunder bay , canada, on, ca","Thunder Bay, ON, Canada","OK",-89.2476823,48.3808951
+"spanaway, , wa, us","Spanaway, WA, USA","OK",-122.4345661,47.103988
+"moab, , ut, us","Moab, UT 84532, USA","OK",-109.5498395,38.5733155
+"lockport, , il, us","Lockport, IL, USA","OK",-88.057837,41.5894752
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"euharlee, , ga, us","Euharlee, GA, USA","OK",-84.9329986,34.1448193
+"kalispell, , mt, us","Kalispell, MT 59901, USA","OK",-114.316813,48.1919889
+"beltzhoover, , pa, us","Beltzhoover, Pittsburgh, PA, USA","OK",-80.0045811,40.4157077
+"las cruces, , nm, us","Las Cruces, NM, USA","OK",-106.7636538,32.3199396
+"silver city, , nc, us","Silver City, NC 28376, USA","OK",-79.2261441,34.9959999
+"panacea, , fl, us","Panacea, FL 32346, USA","OK",-84.3986166,30.0291195
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"thompson , canada, mb, ca","Thompson, MB, Canada","OK",-97.8508715,55.7449251
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"heber, , az, us","Heber-Overgaard, AZ, USA","OK",-110.5632588,34.413874
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"waterford, , mi, us","Waterford Twp, MI, USA","OK",-83.4066132,42.6907443
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"wolf point, , mt, us","Wolf Point, MT 59201, USA","OK",-105.6405566,48.0905736
+"mission, , sd, us","Mission, SD 57555, USA","OK",-100.6581944,43.3058368
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"lincoln beach, , or, us","Lincoln Beach, OR, USA","OK",-124.0467818,44.85039
+"tucson, marana, az, ","Marana, AZ, USA","OK",-111.2224422,32.436381
+"arden, , nc, us","Arden, NC 28704, USA","OK",-82.5166982,35.4661613
+"pancake bay , canada, on, ","Pancake Bay Provincial Park, 12729 Hwy 17N, Batchawana Bay, ON P0S 1A0, Canada","OK",-84.6871068,46.9693434
+"liberty, , ny, us","Liberty, NY, USA","OK",-74.74655,41.8012001
+"bretton woods, , nh, us","Bretton Woods, Carroll, NH, USA","OK",-71.4433295,44.2582949
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"rye patch, , nv, us","Rye Patch, NV 89419, USA","OK",-118.2895906,40.4474067
+"cedar city, , ut, us","Cedar City, UT, USA","OK",-113.0618931,37.6774769
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"ballston lake, , ny, us","Ballston Lake, NY 12019, USA","OK",-73.8680872,42.9117377
+"loretto, , tn, us","Loretto, TN 38469, USA","OK",-87.439743,35.0778595
+"waynesboro, , pa, us","Waynesboro, PA 17268, USA","OK",-77.5777692,39.755927
+"gardiner , near, me, us","Gardiner, ME, USA","OK",-69.7753222,44.2300698
+"winchester, , tn, us","Winchester, TN 37398, USA","OK",-86.1122071,35.1859163
+"winchester, , tn, us","Winchester, TN 37398, USA","OK",-86.1122071,35.1859163
+"st. george , over, ut, us","St. George, UT, USA","OK",-113.5684164,37.0965278
+"norman, , ok, us","Norman, OK, USA","OK",-97.4394777,35.2225668
+"hancock county, , ia, us","Hancock County, IA, USA","OK",-93.6623239,43.0387322
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"nine mile river , canada, ns, ","Nine Mile River, NS B2S 2V8, Canada","OK",-63.576942,45.041538
+"hull , uk, , gb","Hull, UK","OK",-0.3274198,53.7676236
+"olathe, , ks, us","Olathe, KS, USA","OK",-94.8191285,38.8813958
+"winchester, , tn, us","Winchester, TN 37398, USA","OK",-86.1122071,35.1859163
+"ozark, , al, us","Ozark, AL 36360, USA","OK",-85.640289,31.459017
+"tucumcari, , nm, us","Tucumcari, NM 88401, USA","OK",-103.7249662,35.171723
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"quincy, , fl, us","Quincy, FL, USA","OK",-84.591058,30.5880468
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

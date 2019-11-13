@@ -9,7 +9,7 @@ output: github_document
 # knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
 
-try(source("../dependencies.R"), silent = TRUE)
+try(source("./dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
 set.seed(10)
@@ -20,6 +20,9 @@ library(viridis)
 library(ggridges)
 library(patchwork)
 library(rvest)
+library(mapsapi)
+library(sf)
+
 
 knitr::opts_chunk$set(
   # display the code in the code truck above its results in the final document
@@ -70,8 +73,76 @@ According to the relationships of "city_area", "state" and "country", we can fil
 
 Since there are some abnormal data in "city_area" like these, we first clean the missing value:
 
-```{r clean_city, echo = FALSE}
+```{r city_abnormal, echo = FALSE}
 ufo_original_data %>% 
   select(city_area, state) %>% 
   filter(str_detect(pull(., city_area), "\\("))
+```
+
+Since there are a lot of massive data in "city_area", "state" and "country", we write a function to use Google Map`s api, to clean the data.
+
+```{r clean_place, echo = FALSE}
+
+place_tidy = function(city_area, state, country) {
+  print(city_area)
+  #city_area = df["city_area"]
+  #state = df["state"]
+  #country = df["country"]
+  
+  if (is.na(state)) {
+    state = ""#"mutate(state, state = "")""
+  } else if (is.na(country)) {
+    country = ""# mutate(country, country = "")
+  }
+  place_string = paste(city_area, state, country, sep = ", ")
+  
+  doc = mp_geocode(addresses = place_string, key = api_key)
+  #print(doc)
+  pnt = mp_get_points(doc)
+  print(pnt)
+  pnt
+}
+
+
+api_key = "AIzaSyC2BBNoODEb5Pg7wbY-Pqvl9VdYRkJ9sHM"
+
+ufo_tidy_data = 
+  ufo_original_data %>% 
+  separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]") %>% 
+  #slice(1:2) %>% 
+  mutate(state = replace(state, is.na(state), ""), country = replace(country, is.na(country), ""), city_description = replace(city_description, is.na(city_description), "")) %>% 
+  mutate(place_string = paste(city_area, city_description, state, country, sep = ", ")) %>%
+  
+  filter(place_string == "spokane , about 30 miles sw of&#44i-90&#44 maybe mm 254, wa, us")
+
+df_pnt = 
+  mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
+  mp_get_points() %>% 
+  tibble(
+    .$address,
+    .$address_google,
+    .$pnt
+  ) %>% 
+  #filter()
+  rename("place_string" = ".$address", "address_google" = ".$address_google", "pnt" = ".$pnt") %>% 
+  select(place_string, address_google, pnt) %>%
+  mutate(lat = unlist(map(pull(., pnt), 1)),
+           long = unlist(map(pull(., pnt), 2))) %>% 
+  select(-pnt) %>% 
+  write.table(file = "df.csv", sep = ",", row.names = FALSE)
+  #map_df(.x = pull(., pnt), ~unclass(.x))
+#mutate(df_pnt, unnest(pnt))
+  #
+  
+#ufo_tidy_data = pmap_df(list(ufo_tidy_data$city_area, ufo_tidy_data$state, ufo_tidy_data$country), place_tidy)
+  #pmap(list(pull(., city_area), pull(., state), pull(., country)), ~place_tidy)
+
+```
+
+
+We seperate the variable "city_area" into 2 variable "city_area" and "city_description"
+
+```{r clean_city, echo = FALSE}
+ufo_tidy_data = 
+  read_csv("df.csv")
 ```
