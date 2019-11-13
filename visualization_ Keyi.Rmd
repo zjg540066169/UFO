@@ -165,7 +165,4 @@ labels = paste( "<p>","Number Of UFO Observed in Year 2010：", US$Num.observed,
               position = "topright")
 ```
 
-```{r}
-map
-```
 
