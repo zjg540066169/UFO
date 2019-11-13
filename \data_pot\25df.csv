@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"ignacio, , co, us","Ignacio, CO 81137, USA","OK",-107.633113,37.1150037
+"oxnard, camarillo , ca, ","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"ottawa , woodroffe &amp; baseline, on, ca","Woodroffe Ave, Ottawa, ON, Canada","OK",-75.7441489,45.3210914
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"bridgewater, , sd, us","Bridgewater, SD 57319, USA","OK",-97.507566,43.5516489
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"pensacola beach, , fl, us","Pensacola Beach, FL, USA","OK",-87.1411089,30.3337006
+"duluth , around&#44 lawrenceville exit area, ga, us",NA,"REQUEST_DENIED",NA,NA
+"signal mountain, , tn, us","Signal Mountain, TN 37377, USA","OK",-85.3438488,35.1225727
+"moab, , ut, us","Moab, UT 84532, USA","OK",-109.5498395,38.5733155
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"covington, , wa, us","Covington, WA 98042, USA","OK",-122.1180119,47.3595592
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"napoleonville, , la, us","Napoleonville, LA 70390, USA","OK",-91.0274993,29.9382674
+"yampa, , co, us","Yampa, CO 80483, USA","OK",-106.9086582,40.1524837
+"oakland park, , fl, us","Oakland Park, FL, USA","OK",-80.1319893,26.1723065
+"eureka, , ca, us","Eureka, CA, USA","OK",-124.1636729,40.8020712
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"johnstown, , oh, us","Johnstown, OH 43031, USA","OK",-82.6851699,40.1536742
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"cadiz-wallonia area, , ky, ","Cadiz, KY 42211, USA","OK",-87.835295,36.8650496
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"bonita springs, , fl, us","Bonita Springs, FL, USA","OK",-81.7786972,26.339806
+"battle ground, , wa, us","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"brighton, , ma, us","Brighton, Boston, MA, USA","OK",-71.1626756,42.3463503
+"ditcot&#44 oxordshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"south stoke&#44 goring , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"kracow , poland, , ","Kraków, Poland","OK",19.9449799,50.0646501
+"vrsac , yugoslavia, , ","Vršac, Serbia","OK",21.2944883,45.1181926
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"marietta, , ga, us","Marietta, GA, USA","OK",-84.5499327,33.952602
+"cape town , south africa, , ","Cape Town, South Africa","OK",18.4240553,-33.9248685
+"payson, , az, us","Payson, AZ 85541, USA","OK",-111.3251355,34.2308684
+"west jordan, , ut, us","West Jordan, UT, USA","OK",-111.9391031,40.6096698
+"richardson, , tx, us","Richardson, TX, USA","OK",-96.7298519,32.9483335
+"venice, , fl, us","Venice, FL, USA","OK",-82.4542632,27.0997775
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"opp, , al, us","Opp, AL 36467, USA","OK",-86.2555067,31.2826685
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"lovingston, , va, us","Lovingston, VA 22949, USA","OK",-78.8707458,37.7598066
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"north platte, , ne, us","North Platte, NE 69101, USA","OK",-100.7601454,41.1402759
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"somers, , ny, us","Somers, NY, USA","OK",-73.7360175,41.2996305
+"fairfax, , ca, us","Fairfax, CA 94930, USA","OK",-122.5888686,37.9871454
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"converse , near, in, us","100 Citadel Dr Suite 579, Commerce, CA 90040, USA","OK",-118.150784,34.007657
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"sterling, , il, us","Sterling, IL 61081, USA","OK",-89.6962194,41.788642
+"liveley , canada, on, ","Lively, Greater Sudbury, ON P0M, Canada","OK",-81.1465746,46.4365557
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"south daytona beach, , fl, ","South Daytona, FL, USA","OK",-81.0044995,29.1658158
+"carbondale, , il, us","Carbondale, IL, USA","OK",-89.2167501,37.7272727
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"west valley, , ut, ","West Valley City, UT, USA","OK",-112.0010501,40.6916132
+"kearns, , ut, us","Kearns, UT 84118, USA","OK",-111.9963275,40.6599468
+"kearns, , ut, us","Kearns, UT 84118, USA","OK",-111.9963275,40.6599468
+"clementon, , nj, us","Clementon, NJ 08021, USA","OK",-74.9829443,39.8115033
+"yukon, , ok, us","Yukon, OK, USA","OK",-97.7625441,35.5067215
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"chambersburg, , pa, us","Chambersburg, PA, USA","OK",-77.6611022,39.9375911
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"wixom, , mi, us","Wixom, MI, USA","OK",-83.5363268,42.5247555
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"corinth, , ms, us","Corinth, MS 38834, USA","OK",-88.5222702,34.9342548
+"downers grove, , il, us","Downers Grove, IL, USA","OK",-88.0111746,41.8089191
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"talent, , or, us","Talent, OR 97540, USA","OK",-122.7886462,42.2456844
+"choctaw beach, , fl, us","Choctaw Beach, FL 32439, USA","OK",-86.3432794,30.4713089
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"leeds , west yorkshire, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"clinton, , nj, us","Clinton, NJ 08809, USA","OK",-74.90989,40.6367682
+"kristiansand , norway, , ","Kristiansand, Norway","OK",8.0182064,58.1599119
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"mesquite, , tx, us","Mesquite, TX, USA","OK",-96.5991593,32.7667955
+"leesburg, , va, us","Leesburg, VA, USA","OK",-77.5636015,39.1156615
+"playa del rey, , ca, us","Playa Del Rey, Los Angeles, CA, USA","OK",-118.4422317,33.9564194
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"enfield, , ct, us","Enfield, CT 06082, USA","OK",-72.5441445,42.0027181
+"colony , 1 mile nw of, wy, us","Colony, WY 82710, USA","OK",-104.1552184,44.8699865
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"camp hill, , pa, us","Camp Hill, PA 17011, USA","OK",-76.9199742,40.2398118
+"camp hill, , pa, us","Camp Hill, PA 17011, USA","OK",-76.9199742,40.2398118
+"dundalk , ireland, , ","Dundalk, Co. Louth, Ireland","OK",-6.405957,53.9979451
+"rancho santa margarita, , ca, us","Rancho Santa Margarita, CA, USA","OK",-117.602832,33.640171
+"bracknell , uk, , gb","Bracknell, UK","OK",-0.75398,51.41604
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
