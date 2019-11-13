@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"woodbridge, , va, us","Woodbridge, VA 22191, USA","OK",-77.2497049,38.6581722
+"hogansville, , ga, us","Hogansville, GA 30230, USA","OK",-84.9147836,33.1730399
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"dahlgren, , va, us","Dahlgren, VA 22485, USA","OK",-77.0510857,38.3312379
+"arnold, , md, us","Arnold, MD, USA","OK",-76.5027395,39.0320554
+"west vancouver , canada, bc, ca","West Vancouver, BC, Canada","OK",-123.1601982,49.3286251
+"cedarville, , ca, us","Cedarville, CA 96104, USA","OK",-120.1732781,41.5290606
+"fuquay varina, , nc, ","Fuquay-Varina, NC, USA","OK",-78.8000128,35.5843235
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"lakeland, , tn, us","Lakeland, TN 38002, USA","OK",-89.7403606,35.2306435
+"brothers, , or, us","Brothers, OR 97712, USA","OK",-120.6027418,43.8136366
+"edgewater, , md, us","Edgewater, MD, USA","OK",-76.5629398,38.940564
+"garland, , tx, us","Garland, TX, USA","OK",-96.6388833,32.912624
+"plainview, , ny, us","Plainview, NY, USA","OK",-73.4673454,40.7764882
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"mitchell, , sd, us","Mitchell, SD 57301, USA","OK",-98.0297992,43.7094283
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"wilkes-barre, , pa, us","Wilkes-Barre, PA, USA","OK",-75.8813075,41.2459149
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"rosamond, , ca, us","Rosamond, CA, USA","OK",-118.1634075,34.8641446
+"new castle, , pa, us","New Castle, PA, USA","OK",-80.347009,41.0036719
+"irving, , tx, us","Irving, TX, USA","OK",-96.9488945,32.8140177
+"ogilvie, , mn, us","Ogilvie, MN 56358, USA","OK",-93.4263416,45.8321825
+"waterloo, , ia, us","Waterloo, IA, USA","OK",-92.3425775,42.492786
+"mansfield, , tx, us","Mansfield, TX, USA","OK",-97.1416768,32.5631924
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"brandon, , ms, us","Brandon, MS, USA","OK",-90.001384,32.2788733
+"terrebonne, , or, us","Terrebonne, OR, USA","OK",-121.1778129,44.3528981
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"wellsville, , ny, us","Wellsville, NY 14895, USA","OK",-77.9480575,42.1220124
+"from sr 41 s. and  miami trace rd. to sr 41s and sr 753. it, , oh, ","State Rte 41, Ohio, USA","OK",-83.4347859,39.4533329
+"muscatine , area approx. 7mi south, ia, us","Muscatine, IA 52761, USA","OK",-91.0432051,41.424473
+"christmas valley, , or, us","Christmas Valley, OR, USA","OK",-120.6708853,43.237797
+"virginia city, , mt, us","Virginia City, MT 59729, USA","OK",-111.9460911,45.2938143
+"monroe, , nc, us","Monroe, NC, USA","OK",-80.5495112,34.9854275
+"california valley , cattle country&#44 not too distant airbase, ca, us",NA,"REQUEST_DENIED",NA,NA
+"orange, , ma, us","Orange, MA, USA","OK",-72.3097914,42.590354
+"hawthorne, , ca, us","Hawthorne, CA, USA","OK",-118.3525748,33.9164032
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"endako , canada, bc, ca","Endako, BC V0J, Canada","OK",-125.0211534,54.0856688
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"fish point, , mi, ","Fish Point Wildlife Refuge, 7968 Ringle Rd, Unionville, MI 48767, USA","OK",-83.5267734,43.6963807
+"center valley, , pa, us","Center Valley, Upper Saucon Township, PA, USA","OK",-75.3936935,40.5294058
+"sion mills , northern ireland, , ","Sion Mills, Strabane BT82, UK","OK",-7.4719522,54.7848696
+"sandals royal jamaican resort&#44 montego bay , jamaica, , ",NA,"REQUEST_DENIED",NA,NA
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"lake charles, , la, us","Lake Charles, LA, USA","OK",-93.2173758,30.2265949
+"laurel, , md, us","Laurel, MD, USA","OK",-76.8483061,39.0992752
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"vallejo, , ca, us","Vallejo, CA, USA","OK",-122.2566367,38.1040864
+"perrine, , fl, us","Perrine, West Perrine, FL 33157, USA","OK",-80.3550766,25.5998322
+"pocatello, , id, us","Pocatello, ID, USA","OK",-112.4506191,42.8621042
+"pell city , 33.56&#39 52&quot;n - 86.15&#39 00&quot; w, al, us",NA,"REQUEST_DENIED",NA,NA
+"florence, , ms, us","Florence, MS, USA","OK",-90.1239399,32.1544162
+"corinne, , ut, us","Corinne, UT, USA","OK",-112.1102262,41.5510441
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"yadkinville, , nc, us","Yadkinville, NC 27055, USA","OK",-80.6595079,36.1345807
+"bullhead city, , az, us","Bullhead City, AZ, USA","OK",-114.5285981,35.1359386
+"munhall, , pa, us","Munhall, PA, USA","OK",-79.9000499,40.3922914
+"northampton, , ma, us","Northampton, MA, USA","OK",-72.6412013,42.3250896
+"peoria, , az, us","Peoria, AZ, USA","OK",-112.2373779,33.5805955
+"poulsbo, , wa, us","Poulsbo, WA 98370, USA","OK",-122.6465372,47.735928
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"alma, , nm, us","Alma, NM 88039, USA","OK",-108.903398,33.3795055
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"terrel, , tx, ","Terrell, TX, USA","OK",-96.2752569,32.7359626
+"klamath falls, , or, us","Klamath Falls, OR, USA","OK",-121.7816704,42.224867
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"hamilton , uk, , gb","Hamilton, UK","OK",-4.053679,55.777633
+"amherst, , va, us","Amherst, VA 24521, USA","OK",-79.0514134,37.5851412
+"guttenberg, , nj, us","Guttenberg, NJ 07093, USA","OK",-74.0037505,40.7920454
+"bruce, , wa, us","Bruce, WA 99344, USA","OK",-119.0522307,46.8395857
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"fleetwood, , pa, us","Fleetwood, PA 19522, USA","OK",-75.8179764,40.4539828
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"scappoose, , or, us","Scappoose, OR 97056, USA","OK",-122.878086,45.757732
+"westminster, , co, us","Westminster, CO, USA","OK",-105.0372046,39.8366528
+"killeen, , tx, us","Killeen, TX, USA","OK",-97.7277959,31.1171194
+"san lorenzo, , ca, us","San Lorenzo, CA, USA","OK",-122.1267054,37.6793968
+"trotwood, , oh, us","Trotwood, OH, USA","OK",-84.3113334,39.7972788
+"trotwood, , oh, us","Trotwood, OH, USA","OK",-84.3113334,39.7972788
+"mcminnville, , or, us","McMinnville, OR 97128, USA","OK",-123.1987163,45.2101162
+"fountain hills, , az, us","Fountain Hills, AZ 85268, USA","OK",-111.7256936,33.6042079
+"m. fokani, hims , , ","Al-Mukharram Fokani, Al Mukharram Alfuqaney, Syria","OK",37.094261,34.809422
+"brewster, , wa, us","Brewster, WA 98812, USA","OK",-119.7806166,48.0959784
+"brecksville, , oh, us","Brecksville, OH 44141, USA","OK",-81.6267904,41.3197763
+"burlington, , ma, us","Burlington, MA, USA","OK",-71.1956205,42.5047161
+"bedford, , in, us","Bedford, IN 47421, USA","OK",-86.4872149,38.8611619
+"fortson, , ga, us","Fortson, Columbus, GA 31808, USA","OK",-84.9371542,32.6070821
+"morgan hill, , ca, us","Morgan Hill, CA, USA","OK",-121.6543901,37.1305012
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

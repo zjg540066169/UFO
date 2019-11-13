@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"center valley, , pa, us","Center Valley, Upper Saucon Township, PA, USA","OK",-75.3936935,40.5294058
+"wellington, , fl, us","Wellington, FL, USA","OK",-80.2683571,26.6617635
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"hartley, , ia, us","Hartley, IA 51346, USA","OK",-95.4770511,43.1802719
+"waterloo, , ia, us","Waterloo, IA, USA","OK",-92.3425775,42.492786
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"kennebec, , sd, us","Kennebec, SD 57544, USA","OK",-99.8617833,43.903602
+"coto de caza, , ca, us","Coto De Caza, CA 92679, USA","OK",-117.5906715,33.5951048
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"chula vista, , ca, us","Chula Vista, CA, USA","OK",-117.0841955,32.6400541
+"new hope, , pa, us","New Hope, PA 18938, USA","OK",-74.9512785,40.3642728
+"east haven, , ct, us","East Haven, CT, USA","OK",-72.8684565,41.2841687
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"henrietta, , ny, us","Henrietta, NY 14467, USA","OK",-77.6128039,43.0592452
+"mountgomery county, , pa, ","Montgomery County, PA, USA","OK",-75.3878525,40.2290075
+"murton , uk, , gb","Murton, UK","OK",-1.38712,54.814642
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"cleburne, , tx, us","Cleburne, TX, USA","OK",-97.3866837,32.3476438
+"bayside, , ny, us","Bayside, Queens, NY, USA","OK",-73.7654367,40.7585569
+"howell, , nj, ","Howell Township, NJ, USA","OK",-74.2082671,40.1645785
+"horsham, , pa, us","Horsham, PA, USA","OK",-75.1285061,40.1784422
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"tuscaloosa, , al, us","Tuscaloosa, AL, USA","OK",-87.5691735,33.2098407
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"orange, , ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"laguna hills, , ca, us","Laguna Hills, CA, USA","OK",-117.6986604,33.5916433
+"brampton , canada, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"dover , uk, , gb","Dover, UK","OK",1.3134027,51.1278758
+"sidney, , tx, us","Sidney, TX 76442, USA","OK",-98.737273,31.9493123
+"fairlee, , vt, us","Fairlee, VT, USA","OK",-72.1518675,43.9053567
+"rushville, , il, us","Rushville, IL 62681, USA","OK",-90.5631829,40.1211577
+"georgetown, , ma, us","Georgetown, MA, USA","OK",-70.9911659,42.7250918
+"circle city, , az, us","Circle City, AZ 85342, USA","OK",-112.5826176,33.8163585
+"okeechobee, , fl, us","Okeechobee, FL, USA","OK",-80.8297828,27.2439349
+"carmel, , ca, ","Carmel-By-The-Sea, CA 93923, USA","OK",-121.9232879,36.5552386
+"cape town , south africa, , ","Cape Town, South Africa","OK",18.4240553,-33.9248685
+"morland to hill city, , ks, ",NA,"ZERO_RESULTS",NA,NA
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"juneau, , ak, us","Juneau, AK, USA","OK",-134.4197221,58.3019444
+"millersville, , pa, us","Millersville, PA, USA","OK",-76.3541274,39.9978764
+"berlin , assateague island, md, us","11800 Marsh View Ln, Berlin, MD 21811, USA","OK",-75.1545041,38.2475777
+"boardman, , oh, us","Boardman, OH, USA","OK",-80.6628528,41.0242256
+"massillon, , oh, us","Massillon, OH, USA","OK",-81.5215093,40.7967244
+"randburg , johannesburg, , ","Randburg, South Africa","OK",27.9951862,-26.1438399
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"plainfield, , il, us","Plainfield, IL, USA","OK",-88.2120315,41.632223
+"alma, , wi, us","Alma, WI 54610, USA","OK",-91.9148839,44.3199654
+"spotsylvania, , va, us","Spotsylvania County, VA, USA","OK",-77.6077865,38.204165
+"mckeesport, , pa, us","McKeesport, PA, USA","OK",-79.8641232,40.3470671
+"newnan, , ga, us","Newnan, GA, USA","OK",-84.7996573,33.3806716
+"gravette, , ar, us","Gravette, AR 72736, USA","OK",-94.4535484,36.4220207
+"midland, , tx, us","Midland, TX, USA","OK",-102.0779146,31.9973456
+"south charleston, , wv, us","South Charleston, WV, USA","OK",-81.6998865,38.3685523
+"stafford, , va, us","Stafford Courthouse, VA 22554, USA","OK",-77.4083086,38.4220687
+"nesmith, , sc, us","Nesmith, SC 29580, USA","OK",-79.5133935,33.6590552
+"bangalore , india, , ","Bengaluru, Karnataka, India","OK",77.5945627,12.9715987
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"laie, , hi, us","Laie, HI 96762, USA","OK",-157.9225549,21.6482858
+"montreal east , canada, qc, ","Montréal-Est, QC, Canada","OK",-73.5066981,45.6320003
+"draper, , ut, us","Draper, UT, USA","OK",-111.8638226,40.5246711
+"kearney, , ne, us","Kearney, NE, USA","OK",-99.0816784,40.6993303
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"saugerties, kingston, ny, ","Saugerties, NY 12477, USA","OK",-73.9529126,42.0775906
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"houlton, , me, us","Houlton, ME 04730, USA","OK",-67.8402316,46.1261806
+"providence, , ri, us","Providence, RI, USA","OK",-71.4128343,41.8239891
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"chapmanville, , wv, us","Chapmanville, WV 25508, USA","OK",-82.0173502,37.9737114
+"irondale, , al, us","Irondale, AL, USA","OK",-86.7072102,33.5381601
+"jacksonville, , il, us","Jacksonville, IL 62650, USA","OK",-90.2290098,39.733936
+"cordell, , ok, us","New Cordell, OK 73632, USA","OK",-98.9876227,35.291271
+"christ church , barbados, , ","Christ Church, Barbados","OK",-59.5261392,13.0728209
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"aquilla, , tx, us","Aquilla, TX 76622, USA","OK",-97.2180635,31.8515484
+"butte, , mt, us","Butte, MT, USA","OK",-112.5347775,46.0038232
+"florence, , ky, us","Florence, KY, USA","OK",-84.6266111,38.9989499
+"rock hill, , sc, us","Rock Hill, SC, USA","OK",-81.0250784,34.9248667
+"milton , canada, on, ca","Milton, ON, Canada","OK",-79.8774042,43.5182991
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"st. charles, , mi, us","St Charles, MI 48655, USA","OK",-84.1428734,43.2994596
+"high point, , nc, us","High Point, NC, USA","OK",-80.0053176,35.9556923
+"hampton, , ga, us","Hampton, GA 30228, USA","OK",-84.2829784,33.3870578
+"captiva, , fl, us","Captiva, FL 33924, USA","OK",-82.1892614,26.5220227
+"st. johnsbury, , vt, us","St Johnsbury, VT, USA","OK",-72.0151184,44.4192627
+"rio rancho, , nm, us","Rio Rancho, NM, USA","OK",-106.6630437,35.2327544
+"rio rancho, , nm, us","Rio Rancho, NM, USA","OK",-106.6630437,35.2327544
+"lodi, , wi, us","Lodi, WI 53555, USA","OK",-89.5265093,43.313878
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"adel, , ga, us","Adel, GA 31620, USA","OK",-83.4234936,31.1371358
+"mount airy, , nc, us","Mt Airy, NC 27030, USA","OK",-80.6072858,36.4993007
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

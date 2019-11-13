@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"penn valley, , ca, us","Penn Valley, CA 95946, USA","OK",-121.1910659,39.196005
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"highland springs, , va, us","Highland Springs, VA, USA","OK",-77.3277568,37.545979
+"summerville, , sc, us","Summerville, SC, USA","OK",-80.1756481,33.0185039
+"black rock, , ct, us","Black Rock, Bridgeport, CT, USA","OK",-73.2265251,41.153683
+"suva , fiji, , ","Suva, Fiji","OK",178.4500789,-18.1248086
+"morehead, , ky, us","Morehead, KY 40351, USA","OK",-83.4326841,38.1839705
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"skykomish, , wa, us","Skykomish, WA 98288, USA","OK",-121.3601013,47.7092746
+"champaign, , il, us","Champaign, IL, USA","OK",-88.2433829,40.1164204
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"bainbridge island, , wa, ","Bainbridge Island, WA, USA","OK",-122.5210007,47.6248791
+"washougal, , wa, us","Washougal, WA, USA","OK",-122.3538327,45.5811463
+"monument valley, , ut, ","Oljato-Monument Valley, UT 84536, USA","OK",-110.1734785,37.0042454
+"albany , 3 hrs w of: on interstate-90 near exit 44, ny, us","I-90, New York, USA","OK",-74.2474737,42.933013
+"north bergen, , nj, us","North Bergen, NJ, USA","OK",-74.012084,40.8042674
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"columbia, , md, us","Columbia, MD, USA","OK",-76.8610462,39.2037144
+"bridgewater, , nj, ","Bridgewater Township, NJ, USA","OK",-74.6049061,40.5939636
+"geoje island , south korea, ca, ","Geojedo, Gohyeon-dong, Geoje-si","OK",128.623886,34.8869142
+"independence, , mo, us","Independence, MO, USA","OK",-94.4155068,39.0911161
+"bridgewater, , nj, ","Bridgewater Township, NJ, USA","OK",-74.6049061,40.5939636
+"belton, , mo, us","Belton, MO, USA","OK",-94.5318982,38.8119527
+"exeter, , nh, us","Exeter, NH 03833, USA","OK",-70.9477546,42.9814292
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"newark, , oh, us","Newark, OH, USA","OK",-82.4012642,40.0581205
+"stratham, , nh, us","Stratham, NH, USA","OK",-70.9163873,43.0228677
+"goodyear, , az, us","Goodyear, AZ, USA","OK",-112.3576567,33.4353394
+"charleston, , wv, us","Charleston, WV, USA","OK",-81.6326234,38.3498195
+"hialeah, , fl, us","Hialeah, FL, USA","OK",-80.2781057,25.8575963
+"republic, , wa, us","Republic, WA 99166, USA","OK",-118.7378067,48.6482183
+"livonia, , mi, us","Livonia, MI, USA","OK",-83.3527097,42.36837
+"warwick, , ny, us","Warwick, NY, USA","OK",-74.3822058,41.2638494
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"windsor , seen from, ct, us","Windsor, CT, USA","OK",-72.6437022,41.8525984
+"fort towson, , ok, us","Fort Towson, OK 74735, USA","OK",-95.266344,34.0187169
+"hancock, , wi, us","Hancock, WI 54943, USA","OK",-89.523177,44.133584
+"brockton, , ma, us","Brockton, MA, USA","OK",-71.0183787,42.0834335
+"aiea, , hi, us","Aiea, HI 96701, USA","OK",-157.9255357,21.386338
+"monroe, , ct, us","Monroe, CT, USA","OK",-73.2073358,41.3325962
+"garden city, , sc, us","Garden City, SC, USA","OK",-79.0086464,33.5929472
+"vallejo, , ca, us","Vallejo, CA, USA","OK",-122.2566367,38.1040864
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"holly, , mi, us","Holly, MI 48442, USA","OK",-83.6277255,42.7919727
+"manchester, , vt, us","Manchester, VT 05255, USA","OK",-73.0723268,43.1636875
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"ashland, , me, us","Ashland, ME 04732, USA","OK",-68.3895276,46.6609983
+"warren, , mi, us","Warren, MI, USA","OK",-83.0146526,42.5144566
+"helena, , mt, us","Helena, MT, USA","OK",-112.0391057,46.5891452
+"sandpoint, , id, us","Sandpoint, ID 83864, USA","OK",-116.553465,48.276577
+"santa paula, , ca, us","Santa Paula, CA 93060, USA","OK",-119.0592705,34.3541659
+"coventry, , ri, us","Coventry, RI, USA","OK",-71.5642076,41.6885978
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"sturgis, , mi, us","Sturgis, MI 49091, USA","OK",-85.4191482,41.799217
+"pinole, , ca, us","Pinole, CA, USA","OK",-122.2988587,38.0043667
+"eustis, , fl, us","Eustis, FL, USA","OK",-81.6853534,28.8527675
+"lake wylie, , sc, us","Lake Wylie, SC 29710, USA","OK",-81.0428538,35.108476
+"surry, , va, us","Surry, VA, USA","OK",-76.8352384,37.1379265
+"lake wylie, , sc, us","Lake Wylie, SC 29710, USA","OK",-81.0428538,35.108476
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"swanzey, , nh, us","Swanzey, NH, USA","OK",-72.2795383,42.8741204
+"south daytona, , fl, us","South Daytona, FL, USA","OK",-81.0044995,29.1658158
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"fayetteville, , ar, us","Fayetteville, AR, USA","OK",-94.1718542,36.082156
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"palm habor, , fl, ","Palm Harbor, FL, USA","OK",-82.7637127,28.0780718
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"florida , central, fl, ","Central Florida, FL, USA","OK",-81.8661442,28.0582985
+"new hampton, , nh, us","New Hampton, NH, USA","OK",-71.6304407,43.6236211
+"columbus, , wi, us","Columbus, WI 53925, USA","OK",-89.0153875,43.3380464
+"williamstown, , ma, us","Williamstown, MA 01267, USA","OK",-73.2036898,42.7120196
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"harlowton , in general vicinity of malmstrom afb, mt, us","Harlowton, MT 59036, USA","OK",-109.8343499,46.435512
+"portland, , mi, us","Portland, MI 48875, USA","OK",-84.9100792,42.8672048
+"poway, , ca, us","Poway, CA, USA","OK",-117.0358646,32.9628232
+"bismarck, , nd, us","Bismarck, ND, USA","OK",-100.7837392,46.8083268
+"bismarck, , nd, us","Bismarck, ND, USA","OK",-100.7837392,46.8083268
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"salisbury, , md, us","Salisbury, MD, USA","OK",-75.5993692,38.3606736
+"salisbury, , md, us","Salisbury, MD, USA","OK",-75.5993692,38.3606736
+"palm harbor, , fl, us","Palm Harbor, FL, USA","OK",-82.7637127,28.0780718
+"sandpoint, , id, us","Sandpoint, ID 83864, USA","OK",-116.553465,48.276577
+"alton bay, , nh, us","Alton Bay, Alton, NH, USA","OK",-71.2334509,43.470732
+"calhoun, , ga, us","Calhoun, GA, USA","OK",-84.9510542,34.502587
+"valdosta, , ga, us","Valdosta, GA, USA","OK",-83.2784851,30.8327022
+"kenton, , oh, us","Kenton, OH 43326, USA","OK",-83.6096516,40.6469982
+"ashland, , oh, us","Ashland, OH 44805, USA","OK",-82.3182178,40.8686675
+"mechanicsburg, , pa, us","Mechanicsburg, PA, USA","OK",-77.0080309,40.2132692
+"bitterroot valley, , mt, ","Ravalli County, MT, USA","OK",-114.1817423,46.0174639
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"brookfield, , mo, us","Brookfield, MO 64628, USA","OK",-93.0735348,39.7844687
+"tri-cities, , wa, ","Tri-Cities, WA, USA","OK",-119.2233014,46.2349999
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"atlanta , going northwest toward&#44 highway 316, ga, us",NA,"REQUEST_DENIED",NA,NA
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

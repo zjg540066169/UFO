@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"colombo , sri lanka, , ","Colombo, Sri Lanka","OK",79.861243,6.9270786
+"north pole, , ak, us","North Pole, AK 99705, USA","OK",-147.3494443,64.7511111
+"monterrey , mexico, , ","Monterrey, Nuevo Leon, Mexico","OK",-100.3161126,25.6866142
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"galesburg area, , il, ","Galesburg, IL 61401, USA","OK",-90.3712395,40.9478158
+"del mar, , ca, us","Del Mar, CA 92014, USA","OK",-117.2653146,32.9594891
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"whitetail, , mt, us","Whitetail, MT, USA","OK",-105.1626389,48.8962155
+"west molesey , uk, , gb","East Molesey, UK","OK",-0.3562949,51.400766
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"claymont, , de, us","Claymont, DE 19703, USA","OK",-75.4596404,39.8006685
+"jacksonville, , il, us","Jacksonville, IL 62650, USA","OK",-90.2290098,39.733936
+"malvern, , ar, us","Malvern, AR 72104, USA","OK",-92.8129462,34.3623149
+"glen rock, , pa, us","Glen Rock, PA 17327, USA","OK",-76.7302495,39.7931577
+"lebanon, , ky, us","Lebanon, KY 40033, USA","OK",-85.2527381,37.5697868
+"modesto , west of, ca, us","West Modesto, CA, USA","OK",-121.0363768,37.6179435
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"stoke-on-trent , uk, , gb","Stoke-on-Trent, UK","OK",-2.179404,53.002668
+"whitehouse station, , nj, us","Whitehouse Station, Readington Township, NJ, USA","OK",-74.7702576,40.6155663
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"prescot, , az, ","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"caledonia , canada, on, ca","Caledonia, ON, Canada","OK",-79.9550748,43.0647528
+"deming, , nm, us","Deming, NM 88030, USA","OK",-107.7586404,32.2686981
+"windham, , nh, us","Windham, NH 03087, USA","OK",-71.304229,42.8006441
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"dover , uk, , gb","Dover, UK","OK",1.3134027,51.1278758
+"natchitoches, , la, us","Natchitoches, LA, USA","OK",-93.0862749,31.7607195
+"dartmouth , canada, ns, ca","Dartmouth, NS, Canada","OK",-63.5579269,44.7000282
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"crawford, , tx, us","Crawford, TX 76638, USA","OK",-97.44307,31.5343308
+"san rafael, , ca, us","San Rafael, CA, USA","OK",-122.5310874,37.9735346
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"burlington , south of, in, us","Burlington, VT, USA","OK",-73.212072,44.4758825
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"tipton, , mo, us","Tipton, MO 65081, USA","OK",-92.7799153,38.655578
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"hialeah, , fl, us","Hialeah, FL, USA","OK",-80.2781057,25.8575963
+"elmhurst, , il, us","Elmhurst, IL, USA","OK",-87.9403418,41.8994744
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"geelong , australia, , au","Geelong VIC 3220, Australia","OK",144.3617186,-38.1499181
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"sutherland, , ia, us","Sutherland, IA 51058, USA","OK",-95.4975058,42.9741434
+"leicester , uk, , gb","Leicester, UK","OK",-1.1397592,52.6368778
+"papillion, , ne, us","Papillion, NE, USA","OK",-96.0422378,41.1544432
+"murtoa , australia, , au","Murtoa VIC 3390, Australia","OK",142.4698649,-36.6144503
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"newtown, , ct, us","Newtown, CT, USA","OK",-73.3035656,41.4141116
+"maryville, , tn, us","Maryville, TN, USA","OK",-83.9704593,35.7564719
+"west los angeles, , ca, us","West Los Angeles, Los Angeles, CA, USA","OK",-118.442596,34.0412085
+"maui, , hi, ","Maui, Hawaii, USA","OK",-156.3319253,20.7983626
+"arden, , nc, us","Arden, NC 28704, USA","OK",-82.5166982,35.4661613
+"lake wales , east of , fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"lake wales , east of, fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"fairless hills, , pa, us","Fairless Hills, PA, USA","OK",-74.8551644,40.1795537
+"wimberley, , tx, us","Wimberley, TX, USA","OK",-98.0986204,29.9974362
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"stanwood, , wa, us","Stanwood, WA 98292, USA","OK",-122.3706837,48.2410895
+"perth , australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"willow creek, , ca, us","Willow Creek, CA, USA","OK",-123.6314412,40.9395774
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"clarksville, , tn, us","Clarksville, TN, USA","OK",-87.3594528,36.5297706
+"apache junction, , az, us","Apache Junction, AZ, USA","OK",-111.5495777,33.4150485
+"hicksville, , ny, us","Hicksville, NY, USA","OK",-73.5240738,40.7580684
+"sunrise beach village, , tx, us","Sunrise Beach Village, TX 78643, USA","OK",-98.4100274,30.5996319
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"bunker, , mo, us","Bunker, MO 63629, USA","OK",-91.2095758,37.4556019
+"trinity, , tx, us","Trinity, TX 75862, USA","OK",-95.375496,30.9451862
+"washington, , pa, us","Washington, PA 15301, USA","OK",-80.2461714,40.17396
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"north las vegas, , nv, us","North Las Vegas, NV, USA","OK",-115.1175013,36.1988592
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"mauldin, , sc, us","Mauldin, SC, USA","OK",-82.310119,34.77873
+"tyler, , tx, us","Tyler, TX, USA","OK",-95.3010624,32.3512601
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"bunn, , nc, us","Bunn, NC 27508, USA","OK",-78.2536054,35.9609861
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"current, , nv, ","4205 S Grand Canyon Dr #19, Las Vegas, NV 89147, USA","OK",-115.3110119,36.1127153
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"medellin , colombia, , ","Medellin, Antioquia, Colombia","OK",-75.5742467,6.2486069
+"window rock, , az, us","Window Rock, AZ, USA","OK",-109.0525929,35.680573
+"exeter, , nh, us","Exeter, NH 03833, USA","OK",-70.9477546,42.9814292
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"sylva, , nc, us","Sylva, NC 28779, USA","OK",-83.2259803,35.3737111
+"leupp, , az, us","Leupp, AZ, USA","OK",-111.0062528,35.2980659
+"greenville, , sc, us","Greenville, SC, USA","OK",-82.3940104,34.8526176
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"franklin, , nc, us","Franklin, NC 28734, USA","OK",-83.3815429,35.1823171
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

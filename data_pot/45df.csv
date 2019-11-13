@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"canon city, , co, us","Cañon City, CO 81212, USA","OK",-105.2253316,38.4494063
+"miami beach, , fl, us","Miami Beach, FL, USA","OK",-80.1300455,25.790654
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"colorado , in flight to, , ","Colorado Springs Airport (COS), 7770 Milton E Proby Pkwy, Colorado Springs, CO 80916, USA","OK",-104.7026039,38.801712
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"champaign, , il, us","Champaign, IL, USA","OK",-88.2433829,40.1164204
+"tokyo , japan, , ","Tokyo, Japan","OK",139.6503106,35.6761919
+"fairbury, , il, us","Fairbury, IL 61739, USA","OK",-88.5147789,40.7472566
+"mandan, , nd, us","Mandan, ND 58554, USA","OK",-100.8895761,46.8266603
+"paphos , cyprus, , ","Paphos, Cyprus","OK",32.4297369,34.7720133
+"cooper city, , fl, us","Cooper City, FL, USA","OK",-80.271716,26.0573112
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"fort pierce, , fl, us","Fort Pierce, FL, USA","OK",-80.3256056,27.4467056
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"imperial beach, , ca, us","Imperial Beach, CA, USA","OK",-117.1130849,32.5839444
+"jensen beach, , ga, ","4150 NW Federal Hwy, Jensen Beach, FL 34957, USA","OK",-80.2812419,27.2550883
+"forestville, , ca, us","Forestville, CA 95436, USA","OK",-122.8902721,38.4735237
+"forestville, , ca, us","Forestville, CA 95436, USA","OK",-122.8902721,38.4735237
+"warwick, , ri, us","Warwick, RI, USA","OK",-71.4161671,41.7001009
+"defiance, , oh, us","Defiance, OH 43512, USA","OK",-84.3557802,41.2844933
+"tinker afb, , ok, ","Tinker Air Force Base, Oklahoma City, OK 73145, USA","OK",-97.4158295,35.4277
+"sioux falls&#44 sd, , sd, ",NA,"REQUEST_DENIED",NA,NA
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"wood lake, , ne, us","Wood Lake, NE 69221, USA","OK",-100.2381824,42.6386118
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"vulcan , 14 miles nw of, ab, ca","Vulcan, AB T0L 2B0, Canada","OK",-113.2622064,50.4038365
+"marion, , ia, us","Marion, IA, USA","OK",-91.5968958,42.033279
+"new gloucester, , me, us","New Gloucester, ME, USA","OK",-70.2825536,43.962853
+"new gloucester, , me, us","New Gloucester, ME, USA","OK",-70.2825536,43.962853
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"san jose del cabo , baja&#44 mexico, , ",NA,"REQUEST_DENIED",NA,NA
+"oak forest, , il, us","Oak Forest, IL, USA","OK",-87.7439384,41.6028116
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"windsor, , ca, us","Windsor, CA, USA","OK",-122.8163802,38.5471327
+"mililani , around, hi, ","Mililani, HI 96789, USA","OK",-158.0152807,21.4513314
+"rock springs, , wy, us","Rock Springs, WY 82901, USA","OK",-109.2029043,41.5874644
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"fort walton beach, , fl, us","Fort Walton Beach, FL, USA","OK",-86.6170308,30.4200708
+"marion, , oh, us","Marion, OH 43302, USA","OK",-83.1285242,40.5886699
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"doris, weed , ca, ","Weed, CA, USA","OK",-122.3861269,41.4226498
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"wonder valley, , ca, ","Wonder Valley, Twentynine Palms, CA 92277, USA","OK",-115.8758354,34.155373
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"bath, , ny, us","Bath, NY 14810, USA","OK",-77.3177577,42.3370164
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"gardnerville, , nv, us","Gardnerville, NV, USA","OK",-119.7496216,38.9412959
+"lavalette, , wv, us","Lavalette, WV 25535, USA","OK",-82.4468201,38.3228619
+"sturgeon bay, , wi, us","Sturgeon Bay, WI 54235, USA","OK",-87.3770419,44.8341639
+"the woodlands, , tx, us","The Woodlands, TX, USA","OK",-95.4612625,30.1658207
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"barrhead , canada, ab, ca","Barrhead, AB, Canada","OK",-114.4019291,54.1231305
+"yuba city, , ca, us","Yuba City, CA, USA","OK",-121.6169108,39.1404477
+"omer, , mi, us","Omer, MI 48749, USA","OK",-83.8544333,44.0475198
+"plainfield, , il, us","Plainfield, IL, USA","OK",-88.2120315,41.632223
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"amherst, , va, us","Amherst, VA 24521, USA","OK",-79.0514134,37.5851412
+"mt. vernon, , wa, us","Mt Vernon, WA, USA","OK",-122.3374543,48.4201105
+"bridgend , uk, , gb","Bridgend, UK","OK",-3.576945,51.504286
+"north bergen, , nj, us","North Bergen, NJ, USA","OK",-74.012084,40.8042674
+"bernardsville, , nj, us","Bernardsville, NJ, USA","OK",-74.569324,40.7187119
+"accokeek , on hwy 210, md, us","MD-210, Maryland, USA","OK",-77.0210722,38.662417
+"troy, , nc, us","Troy, NC 27371, USA","OK",-79.8944901,35.3584743
+"troy, , nc, us","Troy, NC 27371, USA","OK",-79.8944901,35.3584743
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"stratford, , ct, us","Stratford, CT, USA","OK",-73.1331651,41.1845415
+"stroudsburg, , pa, us","Stroudsburg, PA 18360, USA","OK",-75.1946248,40.9867609
+"jefferson, , ga, us","Jefferson, GA, USA","OK",-83.5723876,34.1170537
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"matteson, , il, us","Matteson, IL, USA","OK",-87.7131018,41.5039235
+"matteson, , il, us","Matteson, IL, USA","OK",-87.7131018,41.5039235
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"hanover, , nh, us","Hanover, NH, USA","OK",-72.2895526,43.7022451
+"brighton , canada, on, ca","Brighton, ON, Canada","OK",-77.7368828,44.0422599
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"palmer-monson, , ma, ","Palmer Rd, Monson, MA 01057, USA","OK",-72.3066218,42.1264597
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"greensburg, , ky, us","Greensburg, KY 42743, USA","OK",-85.4988548,37.2608936
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"st. louis , west, mo, us","Downtown West, St. Louis, MO, USA","OK",-90.2091541,38.6299046
+"cape san blas, , fl, ","Cape San Blas, FL 32456, USA","OK",-85.3524776,29.6675478
+"north augusta, , sc, us","North Augusta, SC, USA","OK",-81.9651152,33.5018026
+"kings park, , ny, us","Kings Park, NY 11754, USA","OK",-73.2573369,40.886209
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

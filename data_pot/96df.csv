@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"odessa, , tx, us","Odessa, TX, USA","OK",-102.3676431,31.8456816
+"healdsburg, , ca, us","Healdsburg, CA 95448, USA","OK",-122.8691609,38.6104658
+"odessa, , tx, us","Odessa, TX, USA","OK",-102.3676431,31.8456816
+"port st john, , fl, ","Port St John, FL 32927, USA","OK",-80.7886657,28.4769458
+"farmington, , mo, us","Farmington, MO 63640, USA","OK",-90.4217895,37.7808846
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"bellingham, , ma, us","Bellingham, MA, USA","OK",-71.4745881,42.0867608
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"lakewood, , wa, us","Lakewood, WA, USA","OK",-122.518458,47.1717649
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"fishers, , in, us","Fishers, IN, USA","OK",-86.01335,39.9567548
+"farmington, , ct, us","Farmington, CT, USA","OK",-72.795027,41.7360305
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"stockton, , ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"bloomington, , in, us","Bloomington, IN, USA","OK",-86.5263857,39.165325
+"berlin township , just east of south rockwood, mi, ","South Rockwood, Charter Twp of Berlin, MI, USA","OK",-83.2610406,42.0639323
+"berlin township , just east of s.rockwood, mi, ","South Rockwood, Charter Twp of Berlin, MI, USA","OK",-83.2610406,42.0639323
+"meppel , netherlands, , ","Meppel, Netherlands","OK",6.1937187,52.6921234
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"rock falls, , il, us","Rock Falls, IL 61071, USA","OK",-89.6889967,41.7797533
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"parma, , oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"brentwood, , nh, us","Brentwood, NH 03833, USA","OK",-71.0735503,42.9780248
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"neenah, , wi, us","Neenah, WI 54956, USA","OK",-88.462609,44.1858193
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"washougal , nearest, wa, us","3087 Evergreen Way, Washougal, WA 98671, USA","OK",-122.3380065,45.5789865
+"ferndale, , wa, us","Ferndale, WA 98248, USA","OK",-122.5910056,48.8464991
+"sunny isles beach, , fl, ","Sunny Isles Beach, FL 33160, USA","OK",-80.1233802,25.9428707
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"appleton, , wi, us","Appleton, WI, USA","OK",-88.4153847,44.2619309
+"watertown, , ny, us","Watertown, NY 13601, USA","OK",-75.9107565,43.9747838
+"perth amboy, , nj, us","Perth Amboy, NJ, USA","OK",-74.2654234,40.5067723
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"mammoth lakes, , ca, us","Mammoth Lakes, CA 93546, USA","OK",-118.972079,37.648546
+"brownsville, , tx, us","Brownsville, TX, USA","OK",-97.4974838,25.9017472
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"brampton , canada, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"st. clair shores, , mi, ","St Clair Shores, MI, USA","OK",-82.8963604,42.4974085
+"douglassville, , pa, us","Douglassville, PA 19518, USA","OK",-75.7262916,40.2581117
+"blue ash, , oh, us","Blue Ash, OH, USA","OK",-84.3782734,39.2320029
+"lexington, , nc, us","Lexington, NC, USA","OK",-80.2533838,35.8240265
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"savona , canada, bc, ca","Savona, BC V0K 2J0, Canada","OK",-120.843769,50.7527649
+"sudbury , canada, on, ca","Greater Sudbury, ON, Canada","OK",-80.993029,46.4917317
+"wasilla, , ak, us","Wasilla, AK 99654, USA","OK",-149.4410598,61.5808763
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"martin, , mi, us","Martin, MI 49070, USA","OK",-85.6416846,42.5369783
+"portage, , wi, us","Portage, WI 53901, USA","OK",-89.4626202,43.5391486
+"spring valley, , ca, us","Spring Valley, CA, USA","OK",-116.998916,32.744774
+"enumclaw, , wa, us","Enumclaw, WA 98022, USA","OK",-121.9915003,47.2042681
+"oxon hill, , md, us","Oxon Hill, MD, USA","OK",-76.9897278,38.8033178
+"westminster, , co, us","Westminster, CO, USA","OK",-105.0372046,39.8366528
+"hamburg, , wi, us","Hamburg, WI 54411, USA","OK",-89.8851301,45.0905228
+"savage, , mn, us","Savage, MN, USA","OK",-93.3591147,44.7647329
+"washington township, , nj, ","Washington Township, NJ, USA","OK",-75.0727956,39.7561387
+"burnsville, , mn, us","Burnsville, MN, USA","OK",-93.2777226,44.7677424
+"wautoma, , wi, us","Wautoma, WI 54982, USA","OK",-89.287897,44.0746995
+"lisbon, , ny, us","Lisbon, NY 13658, USA","OK",-75.3210467,44.727284
+"portage, , wi, us","Portage, WI 53901, USA","OK",-89.4626202,43.5391486
+"berlin, , ct, us","Berlin, CT, USA","OK",-72.7456519,41.621488
+"waterloo, , ia, us","Waterloo, IA, USA","OK",-92.3425775,42.492786
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"millis, , ma, us","Millis, MA 02054, USA","OK",-71.351738,42.1669661
+"alexandria, , la, us","Alexandria, LA, USA","OK",-92.4451371,31.3112936
+"pilot, , va, us","Pilot, VA 24138, USA","OK",-80.3636592,37.0520752
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"wisconsin dells, , wi, us","Wisconsin Dells, WI, USA","OK",-89.7709579,43.6274794
+"lincoln, , ca, us","Lincoln, CA, USA","OK",-121.2930079,38.891565
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"gainesville, , ga, us","Gainesville, GA, USA","OK",-83.8240663,34.2978794
+"syosset, , ny, us","Syosset, NY, USA","OK",-73.502068,40.8262101
+"juneau, , wi, us","Juneau, WI 53039, USA","OK",-88.7051037,43.4055504
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"petoskey, , mi, us","Petoskey, MI 49770, USA","OK",-84.9553296,45.3733428
+"elk grove, , ca, us","Elk Grove, CA, USA","OK",-121.3716178,38.4087993
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"canton, , pa, us","Canton, PA 17724, USA","OK",-76.8532927,41.656464
+"silver spring, , md, us","Silver Spring, MD, USA","OK",-77.026088,38.9906657
+"riverside, , nj, us","Riverside, NJ 08075, USA","OK",-74.9573908,40.0323338
+"lake city, , wa, us","Lake City, Seattle, WA, USA","OK",-122.2953165,47.7192912
+"odessa, , ny, us","Odessa, NY 14869, USA","OK",-76.7885655,42.3367406
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"greenwich, , ct, us","Greenwich, CT, USA","OK",-73.6281964,41.0262417
+"frostburg, , md, us","Frostburg, MD 21532, USA","OK",-78.928357,39.6581424
+"watkins glen, , ny, us","Watkins Glen, NY, USA","OK",-76.8732921,42.3806287
+"mansfield, , pa, us","Mansfield, PA 16933, USA","OK",-77.077468,41.8072961
+"austin , round rock, tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

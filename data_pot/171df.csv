@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"lancaster, , wi, us","Lancaster, WI 53813, USA","OK",-90.7106821,42.8474905
+"kent, setac, wa, ","SeaTac, WA, USA","OK",-122.2960726,47.4435903
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"sherman, , tx, us","Sherman, TX, USA","OK",-96.6088805,33.6356618
+"cardiff , uk, , gb","Cardiff, UK","OK",-3.17909,51.481581
+"loves park, , il, us","Loves Park, IL, USA","OK",-89.0581621,42.3200189
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"waterford, , vt, ","Waterford, VT 05819, USA","OK",-71.9508384,44.3729726
+"florissant, , co, us","Florissant, CO 80816, USA","OK",-105.2893555,38.946154
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"belzoni, , ms, us","Belzoni, MS 39038, USA","OK",-90.4892562,33.1842911
+"june lake, , ca, us","June Lake, CA 93529, USA","OK",-119.0754232,37.7797825
+"royal oak, , mi, us","Royal Oak, MI, USA","OK",-83.1446485,42.4894801
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"coconut creek, , fl, us","Coconut Creek, FL, USA","OK",-80.1789351,26.2517482
+"monmouth beach, , nj, us","Monmouth Beach, NJ, USA","OK",-73.9815262,40.3303883
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"college park, , md, us","College Park, MD, USA","OK",-76.93776,38.9896967
+"denton, , tx, us","Denton, TX, USA","OK",-97.1330683,33.2148412
+"williamsport, , md, us","Williamsport, MD 21795, USA","OK",-77.8205508,39.6006523
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"van alstyne, , tx, us","Van Alstyne, TX, USA","OK",-96.5772109,33.4214995
+"van alstyne, , tx, us","Van Alstyne, TX, USA","OK",-96.5772109,33.4214995
+"greenville, , tx, us","Greenville, TX, USA","OK",-96.1108066,33.1384488
+"king, , nc, us","King, NC, USA","OK",-80.3592197,36.2806939
+"mililani, , hi, ","Mililani, HI 96789, USA","OK",-158.0152807,21.4513314
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"west dundee, , il, ","West Dundee, IL 60118, USA","OK",-88.2828581,42.0980812
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"fox park, , wy, ","Foxpark, WY 82070, USA","OK",-106.1525152,41.0794185
+"pittsburg, , ca, us","Pittsburg, CA, USA","OK",-121.8846806,38.0279762
+"purcellville and lovettsville , near, va, ","Purcellville, VA, USA","OK",-77.7147153,39.1367717
+"riga, , mi, us","Riga, MI 49276, USA","OK",-83.8249404,41.8092159
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"santa clara, , ut, us","Santa Clara, UT, USA","OK",-113.6541266,37.1330355
+"conrad, , mt, us","Conrad, MT 59425, USA","OK",-111.9447411,48.1683058
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"bridgeville , near pittsburgh, pa, us","Bridgeville, PA, USA","OK",-80.1100556,40.3561805
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"doncaster , uk, , gb","Doncaster, UK","OK",-1.128462,53.52282
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"rochester, , nh, us","Rochester, NH, USA","OK",-70.9756186,43.304526
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"stony point, , ny, us","Stony Point, NY 10980, USA","OK",-73.9870847,41.2295386
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"madison, , al, us","Madison, AL, USA","OK",-86.7483318,34.6992579
+"madison, , al, us","Madison, AL, USA","OK",-86.7483318,34.6992579
+"bell buckle, , tn, us","Bell Buckle, TN 37020, USA","OK",-86.3541598,35.5917382
+"north east, , md, us","North East, MD 21901, USA","OK",-75.9413327,39.6001132
+"kuwait, , , ","Kuwait","OK",47.481766,29.31166
+"jackson, , mi, us","Jackson, MI, USA","OK",-84.4013462,42.245869
+"alexandria, , la, us","Alexandria, LA, USA","OK",-92.4451371,31.3112936
+"windsor , canada, , ca","Windsor, ON, Canada","OK",-83.0363633,42.3149367
+"chatham, , va, us","Chatham, VA 24531, USA","OK",-79.3980806,36.8256943
+"inver grove heights, , mn, us","Inver Grove Heights, MN, USA","OK",-93.0427153,44.8480218
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"spruce pine, , nc, us","Spruce Pine, NC 28777, USA","OK",-82.0645611,35.9154007
+"baton rouge, , la, us","Baton Rouge, LA, USA","OK",-91.1871466,30.4514677
+"dexter, , mi, us","Dexter, MI 48130, USA","OK",-83.8885552,42.3383697
+"shreveport, , la, us","Shreveport, LA, USA","OK",-93.7501789,32.5251516
+"sewell, , nj, us","Sewell, Mantua Township, NJ 08080, USA","OK",-75.1441926,39.7662167
+"rockville, , md, us","Rockville, MD, USA","OK",-77.1527578,39.0839973
+"st. louis park, , mn, us","St Louis Park, MN, USA","OK",-93.3702186,44.9597376
+"newport, , nj, us","Newport, Jersey City, NJ, USA","OK",-74.0344188,40.7290288
+"ft. pierce, , fl, us","Fort Pierce, FL, USA","OK",-80.3256056,27.4467056
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"newark, , nj, us","Newark, NJ, USA","OK",-74.1723667,40.735657
+"springfield, , nh, us","Springfield, NH, USA","OK",-72.0334187,43.4950734
+"jensen beach, , fl, us","Jensen Beach, FL 34957, USA","OK",-80.2297697,27.2544906
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"san fernando valley, , ca, ","San Fernando Valley, CA, USA","OK",-118.4396756,34.1825782
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"highland, , in, us","Highland, IN, USA","OK",-87.451984,41.5536468
+"lathrop, , ca, us","Lathrop, CA, USA","OK",-121.27661,37.8227046
+"saco, , me, us","Saco, ME, USA","OK",-70.4428286,43.5009176
+"yardville, , nj, us","Yardville, Hamilton Township, NJ 08620, USA","OK",-74.6643248,40.1812212
+"new paris, , in, us","New Paris, IN 46553, USA","OK",-85.8307059,41.5033572
+"new paris, , in, us","New Paris, IN 46553, USA","OK",-85.8307059,41.5033572
+"avalon, , ca, us","Avalon, CA 90704, USA","OK",-118.3282279,33.3428193
+"eureka springs, , ar, us","Eureka Springs, AR, USA","OK",-93.7379711,36.4011825
+"belton, , mo, us","Belton, MO, USA","OK",-94.5318982,38.8119527
+"washington, , dc, us","Washington, DC, USA","OK",-77.0368707,38.9071923
+"mazon, , il, us","Mazon, IL 60444, USA","OK",-88.4195101,41.2414216
+"yucaipa, , ca, us","Yucaipa, CA, USA","OK",-117.0430865,34.033625
+"brick township, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"berlin, , nh, us","Berlin, NH, USA","OK",-71.1850768,44.4686696
+"spokane valley, , wa, us","Spokane Valley, WA, USA","OK",-117.2393748,47.6732281
+"lisbon, , oh, us","Lisbon, OH 44432, USA","OK",-80.7681336,40.7720044
+"marshall, , nc, us","Marshall, NC 28753, USA","OK",-82.6840251,35.7973284
+"arroyo grande, , ca, us","Arroyo Grande, CA 93420, USA","OK",-120.5907252,35.1185868
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

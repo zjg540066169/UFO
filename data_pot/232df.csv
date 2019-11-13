@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"salters, , sc, us","Salters, SC 29590, USA","OK",-79.8529514,33.5974273
+"peterborough , uk, , gb","Peterborough, UK","OK",-0.2405299,52.5694985
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"alexandria, , la, us","Alexandria, LA, USA","OK",-92.4451371,31.3112936
+"kingsport, , tn, us","Kingsport, TN, USA","OK",-82.5618186,36.548434
+"midwest u. s., , oh, ","Ohio, USA","OK",-82.907123,40.4172871
+"ogunquit, , me, us","Ogunquit, ME, USA","OK",-70.5986223,43.2468352
+"portlaoise , republic of ireland, , ","Portlaoise, Co. Laois, Ireland","OK",-7.2987933,53.0328123
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"vinton, , ia, us","Vinton, IA 52349, USA","OK",-92.0185651,42.1646477
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"north wilkesboro, , nc, us","North Wilkesboro, NC, USA","OK",-81.1475841,36.1584651
+"abingdon, , md, us","Abingdon, MD, USA","OK",-76.2772223,39.4622357
+"keen mtn., , va, ","Keen Mountain, VA 24631, USA","OK",-81.9864244,37.2022366
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"corsica, , pa, us","Corsica, PA 15829, USA","OK",-79.2022618,41.1811753
+"mcdermott, , nv, ","McDermitt, NV 89421, USA","OK",-117.7189974,41.9972968
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"parsippany, , nj, us","Parsippany-Troy Hills, NJ, USA","OK",-74.4173877,40.8652865
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"lutz, , fl, us","Lutz, FL, USA","OK",-82.4614831,28.1511243
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"zephyrhills, , fl, us","Zephyrhills, FL, USA","OK",-82.1811947,28.2336196
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"pomona , wolfe lake, il, us","Wolf Lake, IL, USA","OK",-89.4381911,37.5038612
+"ukiah, , ca, us","Ukiah, CA 95482, USA","OK",-123.2077831,39.1501709
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"ferndale, , ar, us","Ferndale, Big Rock Township, AR 72223, USA","OK",-92.5576604,34.7789801
+"beloit, , wi, us","Beloit, WI 53511, USA","OK",-89.0317765,42.5083482
+"parker, , co, us","Parker, CO, USA","OK",-104.7613633,39.5186002
+"billerica, , ma, us","Billerica, MA, USA","OK",-71.2689461,42.5584218
+"hemsted, , tx, ","Hempstead, TX 77445, USA","OK",-96.0782918,30.0974405
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"stafford, , ct, us","Stafford, CT, USA","OK",-72.3162523,41.984407
+"brighton, , mi, us","Brighton, MI 48116, USA","OK",-83.7802214,42.5294773
+"garland, , tx, us","Garland, TX, USA","OK",-96.6388833,32.912624
+"meda , indonesia, , ","Medan, Medan City, North Sumatra, Indonesia","OK",98.6722227,3.5951956
+"tifton - omega, , ga, ","Omega, GA 31775, USA","OK",-83.5935011,31.3410184
+"enola, , pa, us","Enola, PA, USA","OK",-76.9338636,40.2900885
+"spotsylvania, , va, us","Spotsylvania County, VA, USA","OK",-77.6077865,38.204165
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"mountian home, , ar, ","Mountain Home, AR, USA","OK",-92.381346,36.3353949
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"columbus, , ga, us","Columbus, GA, USA","OK",-84.9877094,32.4609764
+"mapleridge , canada, bc, ","Maple Ridge, BC, Canada","OK",-122.5983981,49.2193226
+"norco, , ca, us","Norco, CA, USA","OK",-117.548661,33.9311257
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"warren, , pa, us","Warren, PA 16365, USA","OK",-79.1450445,41.8439486
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"launceston , australia, , au","Launceston TAS 7250, Australia","OK",147.1440875,-41.4332215
+"victoria , north of, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"etobicoke , canada, on, ca","Etobicoke, Toronto, ON, Canada","OK",-79.5131983,43.6204946
+"tazewell, , tn, us","Tazewell, TN 37879, USA","OK",-83.569352,36.45425
+"sackville , canada, ns, ca","Lower Sackville, NS, Canada","OK",-63.6791223,44.7764086
+"ellicott city, , md, us","Ellicott City, MD, USA","OK",-76.7983067,39.2673283
+"dos rios, , ca, us","Dos Rios, CA, USA","OK",-123.3533599,39.7169901
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"oxford, , ct, us","Oxford, CT, USA","OK",-73.1168393,41.4338203
+"rochester hills, , mi, us","Rochester Hills, MI, USA","OK",-83.1499322,42.6583661
+"briarwood , queens, ny, ","Briarwood, Queens, NY, USA","OK",-73.813561,40.7109315
+"apalachicola, , fl, us","Apalachicola, FL 32320, USA","OK",-84.9832435,29.7257675
+"apalachicola, , fl, us","Apalachicola, FL 32320, USA","OK",-84.9832435,29.7257675
+"cary, , il, us","Cary, IL, USA","OK",-88.247685,42.2132499
+"lost hills, , ca, us","Lost Hills, CA, USA","OK",-119.6942941,35.616349
+"junction city, , or, us","Junction City, OR 97448, USA","OK",-123.2056484,44.2192901
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"ojibwa, exeland, wi, ","Exeland, WI 54835, USA","OK",-91.2440479,45.6680167
+"mount vernon, , mo, us","Mt Vernon, MO 65712, USA","OK",-93.8185401,37.1036665
+"cheshire , uk, , gb","Cheshire, UK","OK",-2.6103158,53.2326344
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"runcorn , uk, , gb","Runcorn, UK","OK",-2.729673,53.342078
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"medi, , pa, ","Media, PA 19063, USA","OK",-75.387693,39.9167783
+"takoma park, , md, us","Takoma Park, MD, USA","OK",-77.0074765,38.9778882
+"easley, , sc, us","Easley, SC, USA","OK",-82.6015206,34.829838
+"empire and welsville, , oh, ","Empire, OH, USA","OK",-80.6239621,40.5075659
+"key west, , fl, us","Key West, FL 33040, USA","OK",-81.7799871,24.5550593
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"n. hollywood, , ca, ","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"christiansburg, , va, us","Christiansburg, VA 24073, USA","OK",-80.4089389,37.1298517
+"west jordan, , ut, us","West Jordan, UT, USA","OK",-111.9391031,40.6096698
+"arizona or colorano , inflight sighting, az, ","Arizona, USA","OK",-111.0937311,34.0489281
+"caracas , venezuela, , ","Caracas, Capital District, Venezuela","OK",-66.9036063,10.4805937
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"bozrah, , ct, ","Bozrah, CT, USA","OK",-72.1635959,41.5604427
+"mineral, , va, us","Mineral, VA 23117, USA","OK",-77.9086068,38.010695
+"marathon, , fl, us","Marathon, FL 33050, USA","OK",-81.0446262,24.726026
+"laredo, , tx, us","Laredo, TX, USA","OK",-99.5075519,27.5035613
+"smiths station, , al, us","Smiths Station, AL, USA","OK",-85.0985473,32.5401393
+"frazier park, , ca, us","Frazier Park, CA 93225, USA","OK",-118.9448219,34.8227556
+"newport, , me, us","Newport, ME, USA","OK",-69.2852859,44.8370741
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

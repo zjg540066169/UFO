@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"norwich, , vt, us","Norwich, VT, USA","OK",-72.307869,43.7153482
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"kuparuk, , ak, ","Kuparuk River, Prudhoe Bay, AK 99734, USA","OK",-148.8708332,70.4244444
+"montpelier, , vt, us","Montpelier, VT 05602, USA","OK",-72.5753869,44.2600593
+"new hampton, bri, nh, ","Squam River Covered Bridge, River St, Ashland, NH 03217, USA","OK",-71.6189373,43.718816
+"churchill, , pa, us","Churchill, PA, USA","OK",-79.8431042,40.438402
+"braddock hills , pittsburgh, pa, us","Braddock Hills, PA, USA","OK",-79.865049,40.4172912
+"macomb, , mi, us","Macomb Township, MI, USA","OK",-82.9286428,42.6651965
+"windermere, , fl, us","Windermere, FL 34786, USA","OK",-81.5347952,28.4955593
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"hollister, , ca, us","Hollister, CA 95023, USA","OK",-121.4016021,36.8524545
+"drums, , pa, us","Drums, PA 18222, USA","OK",-75.9949252,41.018139
+"freedom, , nh, us","Freedom, NH, USA","OK",-71.0349899,43.8129666
+"nogales, , az, us","Nogales, AZ 85621, USA","OK",-110.9342532,31.3403775
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"temple, , pa, us","Temple, PA 19560, USA","OK",-75.9215962,40.4087042
+"wexford, , pa, us","Wexford, PA 15090, USA","OK",-80.0549768,40.6266318
+"holden, , me, us","Holden, ME 04429, USA","OK",-68.6789218,44.7528499
+"pendleton , 2-2 1, in, us",NA,"ZERO_RESULTS",NA,NA
+"north branch , south of, mn, us","North Branch, MN, USA","OK",-92.9931054,45.5102135
+"clarksburg, , wv, us","Clarksburg, WV, USA","OK",-80.3445341,39.2806451
+"delmar, , de, us","Delmar, DE 19940, USA","OK",-75.5771471,38.4565052
+"north laguna beach, , ca, ","Laguna Beach, CA, USA","OK",-117.7853568,33.5427189
+"peyton, , co, us","Peyton, CO 80831, USA","OK",-104.4841284,39.0284685
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"washburn, , nd, us","Washburn, ND 58577, USA","OK",-101.0290346,47.28916
+"north kingstown, , ri, us","North Kingstown, RI, USA","OK",-71.4536835,41.5568315
+"fremont, , mi, us","Fremont, MI, USA","OK",-85.9420013,43.4675173
+"harrison, , mi, us","Harrison, MI 48625, USA","OK",-84.7994675,44.0191862
+"helena , north of&#44 on highway 49, ar, us",NA,"REQUEST_DENIED",NA,NA
+"avon , outer banks, nc, us","Avon, NC 27915, USA","OK",-75.5108445,35.3521855
+"lima , just south of mile marker 117, oh, us","OH-117, Ohio, USA","OK",-83.8041441,40.432204
+"rickman, , tn, us","Rickman, TN 38580, USA","OK",-85.3755267,36.2625616
+"norcross, , ga, us","Norcross, GA, USA","OK",-84.2135309,33.9412127
+"auburn , heading n on hwy 167, wa, us","WA-167, Auburn, WA, USA","OK",-122.2462533,47.3119043
+"warrior, , al, us","Warrior, AL, USA","OK",-86.8094394,33.8142682
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"fauske , norway, , ","Fauske, Norway","OK",15.3916321,67.2591843
+"morro bay, , ca, us","Morro Bay, CA, USA","OK",-120.8499924,35.3659445
+"cordova, , al, us","Cordova, AL 35550, USA","OK",-87.1833349,33.7598291
+"prince george , canada, bc, ca","Prince George, BC, Canada","OK",-122.7496693,53.9170641
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"richmond, , ky, us","Richmond, KY, USA","OK",-84.2946539,37.7478572
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"chatham , canada, on, ca","Chatham-Kent, ON, Canada","OK",-82.1910378,42.4048028
+"morgan hill, , ca, us","Morgan Hill, CA, USA","OK",-121.6543901,37.1305012
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"clemmons, , nc, us","Clemmons, NC, USA","OK",-80.3819984,36.0215258
+"vinita, , ok, us","Vinita, OK 74301, USA","OK",-95.1541339,36.6386937
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"tonawanda, , ny, us","Tonawanda, NY, USA","OK",-78.8722341,42.989131
+"waterville, , me, us","Waterville, ME, USA","OK",-69.6317121,44.5520105
+"dayton area, , oh, ","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"na, , dc, ","1200 G St NW, Washington, DC 20005, USA","OK",-77.0284697,38.8979638
+"bourbonnais, , il, us","Bourbonnais, IL 60914, USA","OK",-87.879523,41.1760108
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"snappertuna , finland, , ","10710 Snappertuna, Finland","OK",23.6514461,59.9971751
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"barnesville, , oh, us","Barnesville, OH 43713, USA","OK",-81.1764961,39.9881261
+"afton, , mi, ","Afton, MI 49705, USA","OK",-84.4966972,45.3739015
+"lewiston, , id, us","Lewiston, ID 83501, USA","OK",-117.001189,46.4004089
+"gettysburg, , pa, us","Gettysburg, PA 17325, USA","OK",-77.2310955,39.8309293
+"saint john , canada, nb, ca","Saint John, NB, Canada","OK",-66.063308,45.2733153
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"montague, , nj, us","Montague Township, NJ, USA","OK",-74.7839936,41.2956937
+"london , heathrow&#44 cranford, , gb",NA,"REQUEST_DENIED",NA,NA
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"north bend, , wa, us","North Bend, WA 98045, USA","OK",-121.7867775,47.4956579
+"brandon , canada, mb, ca","Brandon, MB, Canada","OK",-99.9500904,49.848471
+"magog, stanstead , qc, ","Stanstead, QC J0B, Canada","OK",-72.0957682,45.0126146
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"brandon , canada, mb, ca","Brandon, MB, Canada","OK",-99.9500904,49.848471
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"marlborough, glastonbury, ct, ","Marlborough Rd, Glastonbury, CT 06033, USA","OK",-72.4712106,41.6956262
+"union city, , nj, us","Union City, NJ 07087, USA","OK",-74.0237512,40.7795455
+"pickerington, , oh, us","Pickerington, OH, USA","OK",-82.7535049,39.8842304
+"west richland, , wa, us","West Richland, WA, USA","OK",-119.3614091,46.3043015
+"tustin, , ca, us","Tustin, CA, USA","OK",-117.8236391,33.7420005
+"saint bonifacius, , mn, us","St Bonifacius, MN 55375, USA","OK",-93.7474636,44.9055181
+"newmarket , uk, , gb","Newmarket CB8, UK","OK",0.407962,52.24488
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"elmo, , ut, us","Elmo, UT 84521, USA","OK",-110.8151613,39.389691
+"waterloo , north of, ny, us","Waterloo, NY 13165, USA","OK",-76.8627367,42.9047884
+"lakewood, , co, us","Lakewood, CO, USA","OK",-105.0813734,39.7047095
+"lebanon, , ct, us","Lebanon, CT 06249, USA","OK",-72.2127255,41.636391
+"huntington station, , ny, us","Huntington Station, NY, USA","OK",-73.4115091,40.8534318
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"gastonia, , nc, us","Gastonia, NC, USA","OK",-81.1873005,35.262082
+"enon, , oh, us","Enon, OH 45323, USA","OK",-83.9368765,39.8781151
+"denton, , tx, us","Denton, TX, USA","OK",-97.1330683,33.2148412
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"kingman , near; in mohave desert , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"red oak, , ia, us","Red Oak, IA 51566, USA","OK",-95.2214477,41.0170937
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

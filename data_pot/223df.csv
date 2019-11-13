@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"greenville, , sc, us","Greenville, SC, USA","OK",-82.3940104,34.8526176
+"leicester, , nc, us","Leicester, NC 28748, USA","OK",-82.6962438,35.6551074
+"valley view, sanger , tx, ","Valley View, TX, USA","OK",-97.1650128,33.4881671
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"robinson, , tx, us","Robinson, TX, USA","OK",-97.1147225,31.4676687
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"lower burrell, , pa, us","Lower Burrell, PA 15068, USA","OK",-79.7209802,40.5849232
+"johnson city, , tn, us","Johnson City, TN, USA","OK",-82.3534727,36.3134397
+"westmoreland , 5 miles ne of, ca, ","Westmorland, CA, USA","OK",-115.6213817,33.0372674
+"stonington, , ct, us","Stonington, CT, USA","OK",-71.9058854,41.3358915
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"milton , near banbury, , gb","Milton, Banbury OX15, UK","OK",-1.3495259,52.0085351
+"norcross, , ga, us","Norcross, GA, USA","OK",-84.2135309,33.9412127
+"astoria, , or, us","Astoria, OR 97103, USA","OK",-123.8312534,46.1878841
+"crane, , or, us","Crane, OR, USA","OK",-118.5786837,43.4166527
+"white plains, , ny, us","White Plains, NY, USA","OK",-73.7629097,41.0339862
+"hammond, , in, us","Hammond, IN, USA","OK",-87.5000412,41.5833688
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"eustis, , fl, us","Eustis, FL, USA","OK",-81.6853534,28.8527675
+"hammond, , in, us","Hammond, IN, USA","OK",-87.5000412,41.5833688
+"valley, , al, us","Valley, AL 36854, USA","OK",-85.1793852,32.8187406
+"waddington, , ny, us","Waddington, NY 13694, USA","OK",-75.2041019,44.8644999
+"dublin, , ga, us","Dublin, GA 31021, USA","OK",-82.903754,32.5404447
+"powder springs, , ga, us","Powder Springs, GA, USA","OK",-84.683824,33.8595491
+"new britain, , pa, us","New Britain, PA, USA","OK",-75.1810063,40.2989951
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"newport news, , va, us","Newport News, VA, USA","OK",-76.4730122,37.0870821
+"north east, bel air, md, ","2100 Laurel Bush Rd F2, Bel Air, MD 21015, USA","OK",-76.3236779,39.4980186
+"cheektowaga, , ny, us","Cheektowaga, NY, USA","OK",-78.7542892,42.9071477
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"montgomery, , tx, us","Montgomery, TX, USA","OK",-95.6963355,30.3882613
+"north riverside, , il, us","North Riverside, IL, USA","OK",-87.8157429,41.8461167
+"florence, , al, us","Florence, AL, USA","OK",-87.677251,34.79981
+"beatrice, , ne, us","Beatrice, NE 68310, USA","OK",-96.7466913,40.2659269
+"dixon, , mo, us","Dixon, MO 65459, USA","OK",-92.0937783,37.9917061
+"dixon, , mo, us","Dixon, MO 65459, USA","OK",-92.0937783,37.9917061
+"vassalboro, , me, us","Vassalboro, ME, USA","OK",-69.6777605,44.4588807
+"alexandria, , ky, us","Alexandria, KY 41001, USA","OK",-84.3879946,38.9595078
+"conway, , nh, us","Conway, NH, USA","OK",-71.1203479,43.9791831
+"yavatmal , india, , ","Yavatmal, Maharashtra, India","OK",78.1177053,20.3883103
+"heidelburg, , ms, ","Heidelberg, MS 39439, USA","OK",-88.9839419,31.8868224
+"parksley, , va, us","Parksley, VA 23421, USA","OK",-75.6535401,37.7820725
+"mcmurray, , pa, us","McMurray, PA, USA","OK",-80.0839431,40.2778478
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"fairbanks, , ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"lake city, , mi, us","Lake City, MI 49651, USA","OK",-85.2150455,44.3352872
+"cirencester , uk, , gb","Cirencester GL7, UK","OK",-1.968243,51.718495
+"canfield, , oh, us","Canfield, OH 44406, USA","OK",-80.7609121,41.0250584
+"sycamore, , il, us","Sycamore, IL, USA","OK",-88.6867538,41.9889173
+"woodsville, , nh, us","Woodsville, Haverhill, NH 03785, USA","OK",-72.0367187,44.1512867
+"manchester, , vt, us","Manchester, VT 05255, USA","OK",-73.0723268,43.1636875
+"ipswich&#44 qld , australia, , ",NA,"REQUEST_DENIED",NA,NA
+"youngstown, , oh, us","Youngstown, OH, USA","OK",-80.6495194,41.0997803
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"pipe creek, , tx, us","Pipe Creek, TX 78063, USA","OK",-98.9347206,29.7231426
+"mass city, , mi, us","Mass City, MI 49948, USA","OK",-89.0862501,46.7638275
+"danville, , va, us","Danville, VA, USA","OK",-79.3950228,36.5859718
+"fairless hills, , pa, us","Fairless Hills, PA, USA","OK",-74.8551644,40.1795537
+"morristown, , nj, us","Morristown, NJ 07960, USA","OK",-74.4815438,40.7967667
+"norwich , uk, , gb","Norwich, UK","OK",1.297355,52.6308859
+"cypress, , tx, us","Cypress, TX, USA","OK",-95.6937856,29.9716905
+"four oaks, , nc, us","Four Oaks, NC 27524, USA","OK",-78.4269489,35.4448836
+"yokohama , japan, , ","Yokohama, Kanagawa, Japan","OK",139.6379639,35.4436739
+"inglewood, , ca, us","Inglewood, CA, USA","OK",-118.3531311,33.9616801
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"ward, , ar, us","Ward, AR, USA","OK",-91.950421,35.0303648
+"peoria, , az, us","Peoria, AZ, USA","OK",-112.2373779,33.5805955
+"somerset, , nj, us","Somerset County, NJ, USA","OK",-74.6400432,40.5292099
+"peoria, , az, us","Peoria, AZ, USA","OK",-112.2373779,33.5805955
+"buxton, , me, us","Buxton, ME, USA","OK",-70.5189422,43.6378583
+"manchester, , ct, us","Manchester, CT, USA","OK",-72.5215009,41.7759301
+"merrill, , wi, us","Merrill, WI 54452, USA","OK",-89.683459,45.1805223
+"torrance, , ca, us","Torrance, CA, USA","OK",-118.3406288,33.8358492
+"seaton , uk, , gb","Seaton, UK","OK",-3.0718734,50.7053134
+"arvada, , co, us","Arvada, CO, USA","OK",-105.0874842,39.8027644
+"monterrey , mexico, , ","Monterrey, Nuevo Leon, Mexico","OK",-100.3161126,25.6866142
+"el dorado, , ks, us","El Dorado, KS 67042, USA","OK",-96.8622524,37.81724
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"hite river , canada, on, ","White River, ON P0M 3G0, Canada","OK",-85.274809,48.593953
+"capitola, , ca, us","Capitola, CA, USA","OK",-121.953293,36.9752283
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"greenville, , nc, us","Greenville, NC, USA","OK",-77.3663538,35.612661
+"staunton, , va, us","Staunton, VA 24401, USA","OK",-79.0716958,38.149576
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"bellevue, issaquah, wa, ","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"palmetto bay, , fl, ","Palmetto Bay, FL, USA","OK",-80.3247748,25.6217715
+"newark, , de, us","Newark, DE, USA","OK",-75.7496572,39.6837226
+"akola , india, , ","Akola, Maharashtra, India","OK",77.0081678,20.7002159
+"simsboro, , la, us","Simsboro, LA, USA","OK",-92.7884871,32.5345953
+"miesau , germany, , de","66892 Bruchmühlbach-Miesau, Germany","OK",7.4471353,49.3839906
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"westboro, , mo, us","Westboro, MO 64498, USA","OK",-95.3191475,40.5347196
+"guarenas , venezuela, dc, ","Guarenas, Miranda, Venezuela","OK",-66.6163401,10.4714668
+"washington&#44 dc, , dc, ",NA,"REQUEST_DENIED",NA,NA
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

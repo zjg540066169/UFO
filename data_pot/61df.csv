@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"burlington, , vt, us","Burlington, VT, USA","OK",-73.212072,44.4758825
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"cherry hill, , nj, us","Cherry Hill, NJ, USA","OK",-75.0246312,39.926813
+"newburgh, , in, us","Newburgh, IN 47630, USA","OK",-87.4052865,37.9444882
+"braintree, , ma, us","Braintree, MA, USA","OK",-71.0040013,42.2079017
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"utica, , ny, us","Utica, NY, USA","OK",-75.232664,43.100903
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"bailey, , co, us","Bailey, CO 80421, USA","OK",-105.4786412,39.4060536
+"shreveport, , la, us","Shreveport, LA, USA","OK",-93.7501789,32.5251516
+"miles city, , mt, us","Miles City, MT 59301, USA","OK",-105.8405582,46.4083362
+"garfield, , ar, us","Garfield, AR 72732, USA","OK",-93.9740892,36.4484053
+"canton, , ga, us","Canton, GA, USA","OK",-84.4907621,34.2367621
+"dufur, , or, us","Dufur, OR 97021, USA","OK",-121.1306244,45.4531754
+"ravenna, , oh, us","Ravenna, OH 44266, USA","OK",-81.2420473,41.1575566
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"lakewood, , ca, us","Lakewood, CA, USA","OK",-118.1339563,33.8536269
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"orange, , ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"high point, , nc, us","High Point, NC, USA","OK",-80.0053176,35.9556923
+"high springs, , fl, us","High Springs, FL, USA","OK",-82.5967832,29.8269064
+"tennessee ridge, , tn, us","Tennessee Ridge, TN, USA","OK",-87.7733556,36.3119992
+"mora, , mn, us","Mora, MN 55051, USA","OK",-93.2938352,45.8769031
+"plattsmouth, , ne, us","Plattsmouth, NE 68048, USA","OK",-95.8808424,41.0111103
+"mount vernon , pelham, ny, ","Pelham, NY, USA","OK",-73.8036752,40.8996475
+"canton township, , mi, ","Canton, MI, USA","OK",-83.482116,42.3086444
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"burnsville, , mn, us","Burnsville, MN, USA","OK",-93.2777226,44.7677424
+"chatham, , il, us","Chatham, IL, USA","OK",-89.7045439,39.676163
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"lima, , oh, us","Lima, OH, USA","OK",-84.1052256,40.742551
+"rockport-fulton, , tx, ","319 Broadway St, Rockport, TX 78382, USA","OK",-97.0502743,28.0261563
+"crossville, , tn, us","Crossville, TN, USA","OK",-85.0269014,35.9489566
+"panoche, mendota , ca, ","W Panoche Rd, Mendota, CA 93640, USA","OK",-120.370184,36.7272114
+"schenectady, , ny, us","Schenectady, NY, USA","OK",-73.9395687,42.8142432
+"lincolnton, , nc, us","Lincolnton, NC 28092, USA","OK",-81.2545251,35.473745
+"chawton&#44 hampshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"east lansing, , mi, us","East Lansing, MI, USA","OK",-84.4838654,42.7369792
+"denver, , nc, us","Denver, NC, USA","OK",-81.0295793,35.5316576
+"staunton, , va, us","Staunton, VA 24401, USA","OK",-79.0716958,38.149576
+"paducah, , ky, us","Paducah, KY, USA","OK",-88.6000478,37.0833893
+"calhan, , co, us","Calhan, CO 80808, USA","OK",-104.297186,39.0355459
+"kodiak, , ak, us","Kodiak, AK, USA","OK",-152.4072221,57.79
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"linton, , in, us","Linton, IN 47441, USA","OK",-87.1658458,39.0347666
+"hampden, , me, us","Hampden, ME, USA","OK",-68.8370436,44.7445421
+"knoxville and cleveland , between, tn, ","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"lakewood, , wa, us","Lakewood, WA, USA","OK",-122.518458,47.1717649
+"port colborne , canada, on, ca","Port Colborne, ON, Canada","OK",-79.2508558,42.8865204
+"trenton, , nc, us","Trenton, NC 28585, USA","OK",-77.3551852,35.0641234
+"lebanon, , tn, us","Lebanon, TN, USA","OK",-86.2911024,36.2081098
+"mill valley, , ca, us","Mill Valley, CA 94941, USA","OK",-122.5449763,37.9060368
+"tukwila, , wa, us","Tukwila, WA, USA","OK",-122.2609558,47.4739884
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"amelia, , oh, us","Amelia, OH 45102, USA","OK",-84.2177136,39.0283966
+"villa rica, , ga, us","Villa Rica, GA 30180, USA","OK",-84.9191081,33.732052
+"holland and grand haven , between, mi, ","96 W 15th St, Holland, MI 49423, USA","OK",-86.1115496,42.7835325
+"beecher, , il, us","Beecher, IL 60401, USA","OK",-87.6214286,41.34059
+"bloomington, , il, us","Bloomington, IL, USA","OK",-88.9936873,40.4842027
+"dubuque, , ia, us","Dubuque, IA, USA","OK",-90.6654675,42.5022661
+"kingston, , wa, us","Kingston, WA, USA","OK",-122.4981921,47.7987072
+"gilman city, , mo, us","Gilman City, MO 64642, USA","OK",-93.8724475,40.1416732
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"kanta , canada, on, ","Kanata, Ottawa, ON, Canada","OK",-75.8986835,45.3088185
+"dubuque, , ia, us","Dubuque, IA, USA","OK",-90.6654675,42.5022661
+"socorro, , nm, us","Socorro, NM 87801, USA","OK",-106.8914159,34.0583995
+"miles city, , mt, us","Miles City, MT 59301, USA","OK",-105.8405582,46.4083362
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"prince rupert , canada, bc, ca","Prince Rupert, BC, Canada","OK",-130.3208187,54.3150367
+"alice, , tx, us","Alice, TX 78332, USA","OK",-98.0697249,27.7522487
+"crosby, , tx, us","Crosby, TX 77532, USA","OK",-95.0621512,29.9118885
+"livonia, , mi, us","Livonia, MI, USA","OK",-83.3527097,42.36837
+"fredericksburg, , va, us","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"sault ste. marie, , mi, ","Sault Ste. Marie, MI 49783, USA","OK",-84.3475876,46.4977115
+"fenwick , canada, ns, ","Fenwick, NS B0L 1C0, Canada","OK",-64.186952,45.762939
+"lake elsinore, , ca, us","Lake Elsinore, CA, USA","OK",-117.3272615,33.6680772
+"setif , algeria, , ","Setif, Algeria","OK",5.4150871,36.1969027
+"gary, gary city, tx, ","Gary City, TX 75643, USA","OK",-94.3726252,32.031272
+"wagner, , sd, us","Wagner, SD 57380, USA","OK",-98.2931342,43.0797156
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"wautoma, , wi, us","Wautoma, WI 54982, USA","OK",-89.287897,44.0746995
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"bridgewater, , pa, us","Bridgewater, PA, USA","OK",-80.2965628,40.7038717
+"rochester, , pa, us","Rochester, PA, USA","OK",-80.2864509,40.7022882
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"lakeville, , mn, us","Lakeville, MN, USA","OK",-93.24272,44.6496868
+"lakeville, , mn, us","Lakeville, MN, USA","OK",-93.24272,44.6496868
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"beachwood, , nj, us","Beachwood, NJ, USA","OK",-74.1929188,39.9390069
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

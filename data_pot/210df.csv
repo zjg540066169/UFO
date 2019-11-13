@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"sissonville, , wv, us","Sissonville, WV, USA","OK",-81.6309601,38.5281485
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"centereach, selden, ny, ","Selden, NY, USA","OK",-73.0356625,40.8664873
+"central city, , ky, us","Central City, KY 42330, USA","OK",-87.1233292,37.2939322
+"havre de grace, , md, us","Havre De Grace, MD 21078, USA","OK",-76.091617,39.5492792
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"malibu , just w of&#44 on pacific crest highway, ca, us",NA,"REQUEST_DENIED",NA,NA
+"hadera , israel, , ","Hadera, Israel","OK",34.9196518,32.4340458
+"fox chapel, , pa, us","Fox Chapel, PA, USA","OK",-79.8797728,40.5134016
+"phoenixville, , pa, us","Phoenixville, PA 19460, USA","OK",-75.5149128,40.1303822
+"charleston, , wv, us","Charleston, WV, USA","OK",-81.6326234,38.3498195
+"hampstead, , nh, us","Hampstead, NH, USA","OK",-71.1809803,42.8744882
+"lancashire , uk, , gb","Lancashire, UK","OK",-2.7044052,53.7632254
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"wabowden , canada, mb, ca","Wabowden, MB, Canada","OK",-98.629417,54.909392
+"cancun , cancun, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"miami, , ok, us","Miami, OK 74354, USA","OK",-94.8774554,36.8745146
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"schoharie, , ny, us","Schoharie, NY 12157, USA","OK",-74.3095787,42.6659087
+"panama city beach, , fl, us","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"punta cana , dominican republic, , ","Punta Cana, Dominican Republic","OK",-68.372535,18.5600761
+"michigan , southeast portion, mi, ","1001 Woodward Ave #1400, Detroit, MI 48226, USA","OK",-83.0476,42.332029
+"duluth, , ga, us","Duluth, GA, USA","OK",-84.1446376,34.0028786
+"indiana, , pa, us","Indiana, PA, USA","OK",-79.1525349,40.6214551
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"bolivar, , pa, us","Bolivar, PA, USA","OK",-79.1516989,40.3970146
+"apollo, , pa, us","Apollo, PA 15613, USA","OK",-79.5664333,40.5814546
+"clayton, , mi, us","Clayton, MI 49235, USA","OK",-84.2363347,41.8633809
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"satellite beach, , fl, us","Satellite Beach, FL, USA","OK",-80.5900519,28.1761233
+"nacogdoches, , tx, us","Nacogdoches, TX, USA","OK",-94.6554874,31.6035129
+"bay city, , tx, us","Bay City, TX 77414, USA","OK",-95.969402,28.9827565
+"westwood, , ca, us","Westwood, CA 96137, USA","OK",-121.0057931,40.3059999
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"iron mountain, , mi, us","Iron Mountain, MI, USA","OK",-88.0659603,45.8202334
+"batesville, , in, us","Batesville, IN 47006, USA","OK",-85.222184,39.3000511
+"fort fairfield, , me, us","Fort Fairfield, ME, USA","OK",-67.8339005,46.7722294
+"harrogate , uk, , gb","Harrogate, UK","OK",-1.541812,53.99212
+"russlville, , ar, ","Russellville, AR, USA","OK",-93.1337856,35.2784173
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"salina, , ks, us","Salina, KS, USA","OK",-97.6114237,38.8402805
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"campbellsport, , wi, us","Campbellsport, WI 53010, USA","OK",-88.2789873,43.5977728
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"blackburn , uk, , gb","Blackburn, UK","OK",-2.487529,53.748575
+"mount cobb, , pa, us","Mt Cobb, PA 18436, USA","OK",-75.4932401,41.4134163
+"cherry grove, , sc, ","Cherry Grove Beach, North Myrtle Beach, SC 29582, USA","OK",-78.6430119,33.8278989
+"statesboro, , ga, us","Statesboro, GA, USA","OK",-81.7831674,32.4487876
+"oak harbor, , wa, us","Oak Harbor, WA 98277, USA","OK",-122.6484205,48.2882947
+"rock hill, , sc, us","Rock Hill, SC, USA","OK",-81.0250784,34.9248667
+"kowloon , hong kong, , ","Kowloon, Hong Kong","OK",114.1796057,22.3185673
+"fremont, , nh, us","Fremont, NH 03044, USA","OK",-71.1425606,42.9909194
+"norwalk, , ct, us","Norwalk, CT, USA","OK",-73.4081575,41.117744
+"skidmore, , md, us","Skidmore, MD 21409, USA","OK",-76.415556,39.021111
+"columbia, , pa, us","Columbia, PA, USA","OK",-76.5044098,40.0337085
+"colusa, , ca, us","Colusa, CA 95932, USA","OK",-122.0094175,39.2143343
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"auburn and westboro, , ma, ","4 Lyman St, Westborough, MA 01581, USA","OK",-71.606691,42.2798018
+"beacon, , ny, us","Beacon, NY 12508, USA","OK",-73.9695832,41.5048158
+"herculaneum, , mo, us","Herculaneum, MO, USA","OK",-90.3801201,38.2683879
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"rocky mount, , nc, us","Rocky Mount, NC, USA","OK",-77.7905339,35.9382103
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"xenia, , oh, us","Xenia, OH 45385, USA","OK",-83.9296526,39.6847822
+"lewiston, , id, us","Lewiston, ID 83501, USA","OK",-117.001189,46.4004089
+"gray, , me, us","Gray, ME, USA","OK",-70.3317195,43.885632
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"northridge, , ca, us","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"livingston, , tx, us","Livingston, TX 77351, USA","OK",-94.9329898,30.711029
+"edwards, , il, us","Edwards, IL 61528, USA","OK",-89.7489531,40.7455683
+"lincoln, , de, us","Lincoln, DE 19960, USA","OK",-75.4229746,38.8698352
+"milford, , de, us","Milford, DE 19963, USA","OK",-75.4279748,38.9126129
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"monitor, , wa, us","Monitor, WA 98815, USA","OK",-120.4181327,47.4867915
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"ladson, , sc, us","Ladson, SC, USA","OK",-80.1098123,32.9857275
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"ocatilio wells, , ca, ","Ocotillo Wells, CA 92004, USA","OK",-116.121498,33.14238
+"seattle , fremont district, wa, us","Fremont, Seattle, WA, USA","OK",-122.3500004,47.6541773
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"zionsville, , in, us","Zionsville, IN 46077, USA","OK",-86.261937,39.9508733
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"davison, , mi, us","Davison, MI 48423, USA","OK",-83.5180063,43.0347491
+"carson city, , nv, us","Carson City, NV, USA","OK",-119.7674034,39.1637984
+"grosse pointe park, , mi, us","Grosse Pointe Park, MI, USA","OK",-82.9374159,42.3758708
+"hamilton, , nj, us","Hamilton Township, NJ, USA","OK",-74.6796651,40.2115109
+"providence, , ri, us","Providence, RI, USA","OK",-71.4128343,41.8239891
+"rocky mount, , va, us","Rocky Mount, VA 24151, USA","OK",-79.8919774,36.9976403
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

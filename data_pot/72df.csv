@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"west covina, , ca, us","West Covina, CA, USA","OK",-117.9389526,34.0686208
+"laurel, , ms, us","Laurel, MS, USA","OK",-89.1306124,31.6940509
+"wind lake, , wi, us","Wind Lake, WI 53185, USA","OK",-88.1586997,42.8294603
+"bridgend, , , ","Bridgend, UK","OK",-3.576945,51.504286
+"seminole, , tx, us","Seminole, TX 79360, USA","OK",-102.6449101,32.7189926
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"eastern united states, , wv, ","West Virginia, USA","OK",-80.4549026,38.5976262
+"eastern usa, , , ","United States","OK",-95.712891,37.09024
+"hialeah, , fl, us","Hialeah, FL, USA","OK",-80.2781057,25.8575963
+"stirling , uk, , gb","Stirling, UK","OK",-3.9369029,56.1165227
+"deming , near, nm, us","Deming, NM 88030, USA","OK",-107.7586404,32.2686981
+"camarillo, , ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"pikeville , farmingdale drive, nc, us","Farmingdale Dr, Buck Swamp, NC 27863, USA","OK",-78.0226648,35.4656659
+"reading , uk, , gb","Reading, UK","OK",-0.9781303,51.4542645
+"oakland - near the bay bridge, , ca, ","San Francisco – Oakland Bay Bridge, San Francisco – Oakland Bay Bridge, San Francisco, CA, USA","OK",-122.3778182,37.7982799
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"richmond, , ky, us","Richmond, KY, USA","OK",-84.2946539,37.7478572
+"los angeles , metropolitan area - koreatown, ca, us","Koreatown, Los Angeles, CA, USA","OK",-118.3008918,34.0597117
+"fairfield , shiloh rd., ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"port orange, , fl, us","Port Orange, FL, USA","OK",-80.9956105,29.1383165
+"leesburg, , fl, us","Leesburg, FL, USA","OK",-81.8778582,28.810823
+"harker heigts, , tx, ","Harker Heights, TX, USA","OK",-97.6597376,31.0835102
+"kimberly, , al, us","Kimberly, AL, USA","OK",-86.8138832,33.7734352
+"border, , wy, ","Border Junction, WY 83114, USA","OK",-111.0424128,42.2132657
+"minnetonka, , mn, us","Minnetonka, MN, USA","OK",-93.4687489,44.9211836
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"emeryville, , ca, us","Emeryville, CA, USA","OK",-122.2892278,37.8395028
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"saugus, , ma, us","Saugus, MA, USA","OK",-71.0110473,42.4651421
+"lone pine, , ca, us","Lone Pine, CA, USA","OK",-118.0628654,36.6060444
+"forest park, , il, us","Forest Park, IL, USA","OK",-87.81367,41.8794758
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"golden, , co, us","Golden, CO, USA","OK",-105.2210997,39.755543
+"port charlotte, punta gorda area, fl, ","Port Charlotte, FL, USA","OK",-82.0906448,26.9761707
+"kista , sweden, , ","Kista, Stockholm, Sweden","OK",17.9464824,59.4024341
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"livonia, , mi, us","Livonia, MI, USA","OK",-83.3527097,42.36837
+"isle of palms, , sc, us","Isle of Palms, SC, USA","OK",-79.7343791,32.8194131
+"ferndale, , mi, us","Ferndale, MI 48220, USA","OK",-83.1346478,42.4605917
+"utica, , ny, us","Utica, NY, USA","OK",-75.232664,43.100903
+"smithers , canada, bc, ca","Smithers, BC, Canada","OK",-127.1685541,54.782355
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"toulouse , france, , ","Toulouse, France","OK",1.444209,43.604652
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"brookings harbor, , or, ","Harbor, OR, USA","OK",-124.2675917,42.0531665
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"port orange, , fl, us","Port Orange, FL, USA","OK",-80.9956105,29.1383165
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"hopatcong, , nj, us","Hopatcong, NJ, USA","OK",-74.6593281,40.9328762
+"river forest, , il, us","River Forest, IL, USA","OK",-87.8198478,41.8939617
+"lancaster, , sc, us","Lancaster, SC 29720, USA","OK",-80.7709014,34.7204257
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"arlington, , va, us","Arlington, VA, USA","OK",-77.1067698,38.8799697
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"denton, , tx, us","Denton, TX, USA","OK",-97.1330683,33.2148412
+"tulsa , near, ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"camarillo, , ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"garden city, , id, us","Garden City, ID, USA","OK",-116.2381744,43.6221108
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"clovis, , ca, us","Clovis, CA, USA","OK",-119.7029194,36.8252277
+"allentown, , nj, us","Allentown, NJ 08501, USA","OK",-74.5834887,40.1778886
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"stoke-on-trent , uk, , gb","Stoke-on-Trent, UK","OK",-2.179404,53.002668
+"deer park, , ny, us","Deer Park, NY, USA","OK",-73.3292857,40.7617653
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"arbuckle, , ca, us","Arbuckle, CA 95912, USA","OK",-122.0577477,39.0173963
+"cathedral city, , ca, us","Cathedral City, CA, USA","OK",-116.4668036,33.7805388
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"lake bluff, , il, us","Lake Bluff, IL 60044, USA","OK",-87.8443151,42.2791365
+"claremont, , ca, us","Claremont, CA, USA","OK",-117.7197785,34.0966764
+"canvey island , uk, , ","Canvey Island, UK","OK",0.578411,51.517083
+"bufod, , ga, ","Buford, GA, USA","OK",-84.0043513,34.1206564
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"mission viejo, , ca, us","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"madison, , ks, us","Madison, KS 66860, USA","OK",-96.135829,38.1355772
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"fulton, , mo, us","Fulton, MO 65251, USA","OK",-91.9479586,38.8467082
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"inverness, , fl, us","Inverness, FL, USA","OK",-82.3313955,28.8354507
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"loudon, , tn, us","Loudon, TN 37774, USA","OK",-84.3338112,35.7328541
+"mesquite, , tx, us","Mesquite, TX, USA","OK",-96.5991593,32.7667955
+"asbury, , nj, us","Asbury, NJ 08802, USA","OK",-75.0104066,40.6961188
+"auburn, , al, us","Auburn, AL, USA","OK",-85.4807825,32.6098566
+"terrell , close to, tx, us","Terrell, TX, USA","OK",-96.2752569,32.7359626
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"mckinney, , tx, us","McKinney, TX, USA","OK",-96.6389342,33.1983388
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"lombard, , il, us","Lombard, IL, USA","OK",-88.0078435,41.8800296
+"chicago ridge, , il, us","Chicago Ridge, IL, USA","OK",-87.7792196,41.7014217
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"riverbank, , ca, us","Riverbank, CA, USA","OK",-120.9354895,37.7360396
+"pompton lakes, , nj, us","Pompton Lakes, NJ, USA","OK",-74.2907041,41.0053753
+"wendover, , ut, us","Wendover, UT 84083, USA","OK",-114.0375102,40.7371524
+"brookline, , ma, us","Brookline, MA, USA","OK",-71.1211635,42.3317642
+"cliff, , nm, us","Cliff, NM, USA","OK",-108.6135032,32.9634373
+"valencia, , ca, us","Valencia, Santa Clarita, CA 91354, USA","OK",-118.5713823,34.456151
+"moree , australia, , au","Moree NSW 2400, Australia","OK",149.833889,-29.465833
+"veedersburg, , in, us","Veedersburg, IN 47987, USA","OK",-87.2625101,40.1130947
+"ardmore, , pa, us","Ardmore, PA, USA","OK",-75.2854622,40.0067785
+"s&atilde;o paulo , brasil, , ","1205 W 8th St, Coffeyville, KS 67337, USA","OK",-95.6350182,37.0359102
+"anderson, , sc, us","Anderson, SC, USA","OK",-82.6501332,34.5034394
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"farmers, , ky, us","Farmers, KY 40351, USA","OK",-83.5460211,38.1428591
+"bethel, , oh, us","Bethel, OH 45106, USA","OK",-84.0807664,38.9636771
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"gaylesville, , al, us","Gaylesville, AL 35973, USA","OK",-85.5569057,34.268426
+"roy, , ut, us","Roy, UT, USA","OK",-112.0263313,41.1616108
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"maryville, , tn, us","Maryville, TN, USA","OK",-83.9704593,35.7564719
+"newton, , ma, us","Newton, MA, USA","OK",-71.2092214,42.3370413
+"placentia, , ca, us","Placentia, CA 92870, USA","OK",-117.8627548,33.8710729
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"novato, , ca, us","Novato, CA, USA","OK",-122.5697032,38.1074198
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"fergus, guelph , on, ","Fergus, ON, Canada","OK",-80.3778336,43.7059522
+"port huron, , mi, us","Port Huron, MI, USA","OK",-82.4249142,42.9708634
+"bellaire, , oh, us","Bellaire, OH 43906, USA","OK",-80.7423054,40.0161843
+"butler, , oh, us","Butler, OH 44822, USA","OK",-82.4248862,40.5883933
+"cadiz, , oh, us","Cadiz, OH 43907, USA","OK",-80.9967628,40.2728452
+"cadiz, , oh, us","Cadiz, OH 43907, USA","OK",-80.9967628,40.2728452
+"fairfax county, , va, us","Fairfax County, VA, USA","OK",-77.2405153,38.9085472
+"north jackson, , oh, us","North Jackson, OH, USA","OK",-80.8875121,41.1179797
+"pottstown, , pa, us","Pottstown, PA 19464, USA","OK",-75.6496302,40.2453741
+"south of new holland, , pa, ","New Holland, PA 17557, USA","OK",-76.085227,40.1017643
+"stafford, , va, us","Stafford Courthouse, VA 22554, USA","OK",-77.4083086,38.4220687
+"valencia, , pa, us","Valencia, PA 16059, USA","OK",-79.9895022,40.6747887
+"dunbar, , pa, us","Dunbar, PA 15431, USA","OK",-79.6144835,39.9778528
+"beaver, , pa, us","Beaver, PA, USA","OK",-80.3047846,40.6953437
+"centerville, , pa, us","Centerville, PA 16404, USA","OK",-79.7631081,41.7361695
+"bridgenorth , canada, on, ","Bridgenorth, ON, Canada","OK",-78.3824506,44.3877851
+"millersburg, , oh, us","Millersburg, OH 44654, USA","OK",-81.9179198,40.5545071
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"elizabethtown, , ky, us","Elizabethtown, KY, USA","OK",-85.8649408,37.7030646
+"st. thomas , canada, on, ca","St Thomas, ON, Canada","OK",-81.1826527,42.7777214
+"benton , north of, oh, us","Benton, OH 44882, USA","OK",-83.0938034,40.9270009
+"altamonte springs, , fl, us","Altamonte Springs, FL, USA","OK",-81.3656242,28.6611089
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"union city, , nj, us","Union City, NJ 07087, USA","OK",-74.0237512,40.7795455
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"bellis , canada, ab, ca","Bellis, AB T0A 0J0, Canada","OK",-112.151108,54.145854
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"decatur, , ga, us","Decatur, GA 30030, USA","OK",-84.2963123,33.7748275
+"hershey, , pa, us","Hershey, PA, USA","OK",-76.6502468,40.2859239
+"guadalajara&#44 jalisco , mexico, , ",NA,"REQUEST_DENIED",NA,NA
+"osgood&#44 pierceville&#44 milan, , in, ",NA,"REQUEST_DENIED",NA,NA
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"duncan, , ok, us","Duncan, OK, USA","OK",-97.9578128,34.5023028
+"tampa, leesburg , fl, ","1107 Thomas Ave, Leesburg, FL 34748, USA","OK",-81.9047702,28.8270611
+"carrollton, , ky, us","Carrollton, KY 41008, USA","OK",-85.1793979,38.6808958
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"syracuse, , ny, us","Syracuse, NY, USA","OK",-76.1474244,43.0481221
+"chino, , ca, us","Chino, CA, USA","OK",-117.688944,34.0122346
+"middletown, , ny, us","Middletown, NY 10940, USA","OK",-74.4229341,41.4459271
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"gilmer, , tx, us","Gilmer, TX, USA","OK",-94.9424379,32.7287472
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"leakey, , tx, us","Leakey, TX 78873, USA","OK",-99.761448,29.7288351
+"perris, , ca, us","Perris, CA, USA","OK",-117.2286478,33.7825194
+"beirut , lebanon, , ","Beirut, Lebanon","OK",35.5017767,33.8937913
+"sparks, , nv, us","Sparks, NV, USA","OK",-119.7526886,39.5349112
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"draper, , ut, us","Draper, UT, USA","OK",-111.8638226,40.5246711
+"coleman , near, tx, us","Coleman, TX 76834, USA","OK",-99.4264532,31.8273679
+"airmont, , ny, us","Airmont, NY, USA","OK",-74.1162544,41.1009293
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"bloomington, , ca, us","Bloomington, CA, USA","OK",-117.3958797,34.07029
+"hopewell, , va, us","Hopewell, VA, USA","OK",-77.2872001,37.3043154
+"pelham, , ga, us","Pelham, GA 31779, USA","OK",-84.1518466,31.1276849
+"leominster, , ma, us","Leominster, MA, USA","OK",-71.759794,42.5250906
+"lamartine, , wi, us","Lamartine, WI 53065, USA","OK",-88.5687187,43.7333214
+"ashgrove, , mo, ","Ash Grove, MO 65604, USA","OK",-93.5852004,37.3153257
+"white bear lake, , mn, us","White Bear Lake, MN, USA","OK",-93.0081479,45.0853814
+"manhattan, , il, us","Manhattan, IL 60442, USA","OK",-87.9858863,41.4225316
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"manchester, , ct, us","Manchester, CT, USA","OK",-72.5215009,41.7759301
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"atlantic ocean , in flight, , ","Atlantic Ocean","OK",-28.6731465,-14.5994134
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"tabriz, , , ","Tabriz, East Azerbaijan Province, Iran","OK",46.2738013,38.096239
+"cooksville, , md, ","Cooksville, MD 21723, USA","OK",-77.0203913,39.3176586
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"haleiwa, , hi, us","Haleiwa, HI 96712, USA","OK",-158.1034112,21.5927614
+"long beach, , wa, us","Long Beach, WA 98631, USA","OK",-124.0543234,46.3523219
+"durant, , ok, us","Durant, OK, USA","OK",-96.3971233,33.9924186
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

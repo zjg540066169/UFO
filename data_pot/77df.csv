@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"avon, , ny, us","Avon, NY 14414, USA","OK",-77.7455583,42.9120072
+"piedmont, , ks, us","Piedmont, KS 67122, USA","OK",-96.3655604,37.6236395
+"woodward, , ok, us","Woodward, OK 73801, USA","OK",-99.3903862,36.4336481
+"coral gables, , fl, us","Coral Gables, FL, USA","OK",-80.2635411,25.7491968
+"vancleave, , ms, us","Vancleave, MS 39565, USA","OK",-88.6875237,30.5404745
+"port isabel, , tx, us","Port Isabel, TX, USA","OK",-97.2085844,26.0734119
+"lake oswego, , or, us","Lake Oswego, OR, USA","OK",-122.7163273,45.415734
+"st. charles, , in, ","St Charles, MO, USA","OK",-90.4974359,38.7881062
+"johnson city, , ny, us","Johnson City, NY 13790, USA","OK",-75.9588092,42.1156308
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"calabasas, , ca, us","Calabasas, CA, USA","OK",-118.6614809,34.1367208
+"quartzsite, , az, us","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"bastrop, , tx, us","Bastrop, TX 78602, USA","OK",-97.3152701,30.1104947
+"east grand forks, , mn, us","East Grand Forks, MN 56721, USA","OK",-97.009347,47.9311871
+"accra , ghana, , ","Accra, Ghana","OK",-0.1869644,5.6037168
+"swartz creek, , mi, us","Swartz Creek, MI, USA","OK",-83.8305144,42.9572508
+"kingstown, , ri, ","North Kingstown, RI, USA","OK",-71.4536835,41.5568315
+"sylvania, , ga, us","Sylvania, GA 30467, USA","OK",-81.636776,32.7504441
+"thornton, , co, us","Thornton, CO, USA","OK",-104.9719243,39.8680412
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"quartzite, , az, ","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"millville, brockport, ny, ","Millville, NY 14103, USA","OK",-78.325,43.2075
+"lewiston, , me, us","Lewiston, ME, USA","OK",-70.2147764,44.100351
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"eastpointe, , mi, us","Eastpointe, MI 48021, USA","OK",-82.9554746,42.4683698
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"washington&#44 d.c. , area, dc, ",NA,"REQUEST_DENIED",NA,NA
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"east windsor, , nj, ","East Windsor, NJ, USA","OK",-74.5402506,40.2677539
+"tuscola, , tx, us","Tuscola, TX 79562, USA","OK",-99.7967542,32.2095776
+"sophia, , nc, us","Sophia, NC 27350, USA","OK",-79.8608677,35.823192
+"las vegas, rachel , nv, ","9631 Old Mill Rd, Alamo, NV 89001, USA","OK",-115.7458847,37.646816
+"buena park, , ca, us","Buena Park, CA, USA","OK",-117.9981387,33.8674044
+"fort lauderdale , near, fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"north pole, , ak, us","North Pole, AK 99705, USA","OK",-147.3494443,64.7511111
+"galt, , ca, us","Galt, CA, USA","OK",-121.2999485,38.2546373
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"barrie , canada, on, ca","Barrie, ON, Canada","OK",-79.6903316,44.3893556
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"canyon lake, , tx, us","Canyon Lake, TX, USA","OK",-98.2625127,29.8752177
+"springfield, , va, us","Springfield, VA, USA","OK",-77.1872036,38.7892801
+"simpsonville, , sc, us","Simpsonville, SC, USA","OK",-82.2542834,34.7370639
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"stuart, , fl, us","Stuart, FL, USA","OK",-80.2528257,27.197548
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"sebastian, , fl, us","Sebastian, FL, USA","OK",-80.4706078,27.816415
+"la conner, , wa, us","La Conner, WA 98257, USA","OK",-122.4962753,48.3887142
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"lakeville, , ma, us","Lakeville, MA, USA","OK",-70.9495226,41.8459169
+"lynnfield, , ma, us","Lynnfield, MA, USA","OK",-71.0465638,42.53869
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"uniontown, , oh, us","Uniontown, OH 44685, USA","OK",-81.4081673,40.9750568
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"pagosa springs, , co, us","Pagosa Springs, CO 81147, USA","OK",-107.0097617,37.26945
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"oakland, , tn, us","Oakland, TN, USA","OK",-89.5150764,35.228976
+"handforth&#44 wilmslow&#44 cheshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"west bend, , wi, ","West Bend, WI, USA","OK",-88.1834277,43.4252776
+"jackson, , nj, us","Jackson Township, NJ, USA","OK",-74.3587473,40.0918895
+"burbank , outside of; near pasco, wa, us","Hood Park, 2339 Ice Harbor Rd, Burbank, WA 99323, United States","OK",-119.0131341,46.2145152
+"mission viejo, , ca, us","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"mission viejo, , ca, us","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"pirenopolis , brazil, , ","Pirenópolis, State of Goiás, 72980-000, Brazil","OK",-48.9585642,-15.8514301
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"boston, , ny, us","Boston, NY 14025, USA","OK",-78.7376522,42.6289049
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"kahului, , hi, us","Kahului, HI, USA","OK",-156.4729469,20.8893351
+"atlantic beach, , fl, us","Atlantic Beach, FL, USA","OK",-81.398696,30.3344077
+"front royal, , va, us","Front Royal, VA 22630, USA","OK",-78.1944446,38.9181671
+"groesbeck, , tx, us","Groesbeck, TX 76642, USA","OK",-96.5338693,31.5243379
+"pottsville, , pa, us","Pottsville, PA 17901, USA","OK",-76.195499,40.6856456
+"verona, , ny, us","Verona, NY 13478, USA","OK",-75.5706945,43.1381455
+"crete, , il, us","Crete, IL 60417, USA","OK",-87.6314312,41.4444791
+"montville, , ct, ","Montville, CT, USA","OK",-72.1556189,41.4639922
+"spruce pine, , nc, us","Spruce Pine, NC 28777, USA","OK",-82.0645611,35.9154007
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"new sharon, , me, us","New Sharon, ME, USA","OK",-70.0154885,44.6393784
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"malibu, , ca, us","Malibu, CA, USA","OK",-118.7797571,34.0259216
+"canyon lake, , ca, us","Canyon Lake, CA 92587, USA","OK",-117.2730931,33.6850215
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"galivants ferry, , sc, us","Galivants Ferry, SC 29544, USA","OK",-79.2464342,34.056275
+"stockbridge, , ga, us","Stockbridge, GA, USA","OK",-84.2338093,33.5442781
+"frisco, , tx, us","Frisco, TX, USA","OK",-96.8236116,33.1506744
+"hoquiam, , wa, us","Hoquiam, WA, USA","OK",-123.8839028,46.977043
+"crosby, , tx, us","Crosby, TX 77532, USA","OK",-95.0621512,29.9118885
+"dandridge, , tn, us","Dandridge, TN, USA","OK",-83.4148895,36.0153693
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"summersville, , wv, us","Summersville, WV 26651, USA","OK",-80.8525981,38.2812203
+"eldridge, , ia, us","Eldridge, IA 52748, USA","OK",-90.5845822,41.6580864
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

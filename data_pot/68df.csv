@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"bonney lake, , wa, us","Bonney Lake, WA, USA","OK",-122.1865055,47.1770457
+"brownsburg, , in, us","Brownsburg, IN 46112, USA","OK",-86.3977735,39.8433769
+"downingtown, , pa, us","Downingtown, PA 19335, USA","OK",-75.7032742,40.0064958
+"torrington, , ct, us","Torrington, CT, USA","OK",-73.1211715,41.8003049
+"marinette, , wi, us","Marinette, WI 54143, USA","OK",-87.6306623,45.0999849
+"north salt lake, , ut, us","North Salt Lake, UT, USA","OK",-111.9068824,40.8485564
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"brockville , near, on, ca","Brockville, ON, Canada","OK",-75.6842858,44.5895244
+"salem, , nh, us","Salem, NH 03079, USA","OK",-71.2008912,42.7885553
+"west columbia, , sc, us","West Columbia, SC 29169, USA","OK",-81.0739825,33.9934867
+"st. charles, , il, us","St. Charles, IL, USA","OK",-88.3086867,41.9141945
+"rockport, , ma, us","Rockport, MA, USA","OK",-70.620363,42.6556505
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"thompson , canada, mb, ca","Thompson, MB, Canada","OK",-97.8508715,55.7449251
+"eastsound, , wa, us","Eastsound, WA 98245, USA","OK",-122.9061068,48.696654
+"greeneville, , tn, us","Greeneville, TN, USA","OK",-82.8309861,36.1631574
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"torrance, , ca, us","Torrance, CA, USA","OK",-118.3406288,33.8358492
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"mccall, , id, us","McCall, ID 83638, USA","OK",-116.1171311,44.906183
+"ashford, , ct, us","Ashford, CT 06278, USA","OK",-72.1216163,41.8730657
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"manson, , wa, us","Manson, WA 98831, USA","OK",-120.1567011,47.8847447
+"lake placid, , fl, us","Lake Placid, FL 33852, USA","OK",-81.3628502,27.2930999
+"steamboat springs, , co, us","Steamboat Springs, CO 80487, USA","OK",-106.8317158,40.4849769
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"canyonville, , or, us","Canyonville, OR, USA","OK",-123.2811748,42.9273406
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"opelika, , al, us","Opelika, AL, USA","OK",-85.3782795,32.6454116
+"reseda, , ca, us","Reseda, Los Angeles, CA, USA","OK",-118.5360517,34.2011141
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"kitchener , canada, on, ca","Kitchener, ON, Canada","OK",-80.4925337,43.4516395
+"beruit , lebanon, , ","Beirut, Lebanon","OK",35.5017767,33.8937913
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"new haven, , ct, us","New Haven, CT, USA","OK",-72.9278835,41.308274
+"chigwell essex , uk, , ","Chigwell, UK","OK",0.080647,51.626281
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"harrison, , ny, us","Harrison, NY, USA","OK",-73.7176337,40.9700171
+"libya, , , ","Libya","OK",17.228331,26.3351
+"virginia dale, , co, ","Virginia Dale, CO 80536, USA","OK",-105.3462273,40.9508614
+"jacksonville , in mandarin, fl, us","Mandarin, Jacksonville, FL 32223, USA","OK",-81.6409217,30.1494918
+"mm82, mm83 , pa, ","Pennsylvania, USA","OK",-77.1945247,41.2033216
+"twin mountain, , nh, us","Twin Mountain, Carroll, NH, USA","OK",-71.5543051,44.267317
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"gonzales, , la, us","Gonzales, LA 70737, USA","OK",-90.9200987,30.2385294
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"goose creek, , sc, us","Goose Creek, SC, USA","OK",-80.0325867,32.9810059
+"elkton, , md, us","Elkton, MD 21921, USA","OK",-75.8332718,39.6067789
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"vallejo, , ca, us","Vallejo, CA, USA","OK",-122.2566367,38.1040864
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"toledo to marion, , oh, ",NA,"ZERO_RESULTS",NA,NA
+"kennett, , mo, us","Kennett, MO 63857, USA","OK",-90.0556493,36.2361762
+"richmond, , ky, us","Richmond, KY, USA","OK",-84.2946539,37.7478572
+"new philadelphia, , oh, us","New Philadelphia, OH 44663, USA","OK",-81.4456706,40.4897871
+"lake elsinore, , ca, us","Lake Elsinore, CA, USA","OK",-117.3272615,33.6680772
+"decatur , near, il, us","Decatur, IL, USA","OK",-88.9548001,39.8403147
+"castle rock, , co, us","Castle Rock, CO, USA","OK",-104.8560902,39.3722121
+"camden, , ar, us","Camden, AR 71701, USA","OK",-92.8343294,33.5845581
+"pelarco , chile, , ","Pelarco, Maule Region, Chile","OK",-71.447192,-35.3838823
+"jersey city, , nj, us","Jersey City, NJ, USA","OK",-74.0431435,40.7177545
+"huddersfield , uk, , gb","Huddersfield, UK","OK",-1.7850351,53.645792
+"rome, , ny, us","Rome, NY, USA","OK",-75.4557303,43.2128473
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"sky city, , nm, ","Acoma Pueblo, NM 87034, USA","OK",-107.5823086,34.8963194
+"plymouth meeting, , pa, us","Plymouth Meeting, PA, USA","OK",-75.2743467,40.1023319
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"melbourne village, , fl, us","Melbourne Village, FL 32904, USA","OK",-80.6664435,28.0852939
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"las cruces, , nm, us","Las Cruces, NM, USA","OK",-106.7636538,32.3199396
+"pleasant hill, , mo, us","Pleasant Hill, MO 64080, USA","OK",-94.2693911,38.7875094
+"walnut creek, , ca, us","Walnut Creek, CA, USA","OK",-122.0651819,37.9100783
+"carbondale, , il, us","Carbondale, IL, USA","OK",-89.2167501,37.7272727
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"vonda , canada, sk, ca","Vonda, SK S0K 4N0, Canada","OK",-106.1004682,52.3182621
+"fairfield, , ia, us","Fairfield, IA, USA","OK",-91.9636914,41.0076114
+"fairfield, , ia, us","Fairfield, IA, USA","OK",-91.9636914,41.0076114
+"urbandale, , ia, us","Urbandale, IA, USA","OK",-93.7121656,41.6266555
+"urbandale, , ia, us","Urbandale, IA, USA","OK",-93.7121656,41.6266555
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"waterloo, , ia, us","Waterloo, IA, USA","OK",-92.3425775,42.492786
+"effingham, , il, us","Effingham, IL 62401, USA","OK",-88.5433829,39.1200418
+"harlow&#44 essex , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"malmesbury, , , ","Malmesbury SN16, UK","OK",-2.102834,51.586357
+"swanton, , vt, us","Swanton, VT 05488, USA","OK",-73.1242977,44.9180982
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"monticello, , in, us","Monticello, IN 47960, USA","OK",-86.7647343,40.7453169
+"swedesboro, , nj, us","Swedesboro, NJ 08085, USA","OK",-75.3104654,39.7476136
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"hermitage, , tn, us","Hermitage, Nashville, TN, USA","OK",-86.6197777,36.1988486
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"jacksonville beach, , fl, us","Jacksonville Beach, FL, USA","OK",-81.3961338,30.2841224
+"centerville, , oh, us","Centerville, OH, USA","OK",-84.1593818,39.6283928
+"centerville, , oh, us","Centerville, OH, USA","OK",-84.1593818,39.6283928
+"baytown, , tx, us","Baytown, TX, USA","OK",-94.9774274,29.7355047
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"arcadia, , la, us","Arcadia, LA, USA","OK",-92.920158,32.5490406
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"reston, , va, us","Reston, VA, USA","OK",-77.3570028,38.9586307
+"hollister, , ca, us","Hollister, CA 95023, USA","OK",-121.4016021,36.8524545
+"tyrrhenian sea, , , ","Tyrrhenian Sea","OK",11.3431058,40.0769862
+"springfield, , oh, us","Springfield, OH, USA","OK",-83.8088171,39.9242266
+"norfolk, , va, us","Norfolk, VA, USA","OK",-76.2858726,36.8507689
+"blountville, , tn, us","Blountville, TN 37617, USA","OK",-82.326806,36.5331586
+"musquodoboit harbour , canada, ns, ca","Musquodoboit Harbour, NS, Canada","OK",-63.148104,44.787241
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"fairfield, , ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"delray beach, , fl, us","Delray Beach, FL, USA","OK",-80.0728201,26.4614625
+"oakville , canada, on, ca","Oakville, ON, Canada","OK",-79.6876659,43.467517
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"iowa city, , ia, us","Iowa City, IA, USA","OK",-91.5301683,41.6611277
+"baldwin, , wi, us","Baldwin, WI 54002, USA","OK",-92.3743576,44.9666323
+"downers grove, , il, us","Downers Grove, IL, USA","OK",-88.0111746,41.8089191
+"gardena , los angeles county, ca, us","Gardena, CA, USA","OK",-118.3089624,33.8883487
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"medina, , oh, us","Medina, OH 44256, USA","OK",-81.8552196,41.143245
+"street, , md, us","Street, MD 21154, USA","OK",-76.3794051,39.6689941
+"gila bend, , az, us","Gila Bend, AZ, USA","OK",-112.7168305,32.9478236
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"manchester, , nh, us","Manchester, NH, USA","OK",-71.4547891,42.9956397
+"evanston, , wy, us","Evanston, WY 82930, USA","OK",-110.9632373,41.2682794
+"rotherham , uk, , gb","Rotherham, UK","OK",-1.3635009,53.4326035
+"manchester, , ct, us","Manchester, CT, USA","OK",-72.5215009,41.7759301
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"cheltenham , uk, , gb","Cheltenham, UK","OK",-2.0782533,51.8993855
+"lexington, , tn, us","Lexington, TN 38351, USA","OK",-88.3933796,35.6509029
+"hurst, , tx, us","Hurst, TX, USA","OK",-97.1705678,32.8234621
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"alice, , tx, us","Alice, TX 78332, USA","OK",-98.0697249,27.7522487
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"rockwood , canada, on, ","Rockwood, ON N0B, Canada","OK",-80.144189,43.61887
+"wickiup, , az, ","Wikieup, AZ 85360, USA","OK",-113.6118214,34.7051439
+"lancaster , uk, , gb","Lancaster, UK","OK",-2.8007399,54.046575
+"shawnee and geary, , ok, ","Shawnee, OK, USA","OK",-96.9253004,35.3272928
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"hampden, , me, us","Hampden, ME, USA","OK",-68.8370436,44.7445421
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"wald , switzerland, , ","Wald, Switzerland","OK",8.9155608,47.2771375
+"bethlehem, , pa, us","Bethlehem, PA, USA","OK",-75.3704579,40.6259316
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"trainer, , pa, us","Trainer, PA 19061, USA","OK",-75.4143604,39.8276126
+"pittsburgh, new castle, pa, ","New Castle Area Transit Authority, 311 Mahoning Ave, New Castle, PA 16102, USA","OK",-80.3566042,40.9826705
+"wheatfield, , in, us","Wheatfield, IN 46392, USA","OK",-87.0555805,41.193094
+"bridgeport, , oh, us","Bridgeport, OH 43912, USA","OK",-80.7400827,40.0697947
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"zanesville, , oh, us","Zanesville, OH 43701, USA","OK",-82.0131924,39.9403453
+"leet, , pa, ","Leet Township, PA, USA","OK",-80.2014543,40.5750609
+"holland, , mi, us","Holland, MI 49423, USA","OK",-86.1089301,42.7875235
+"weaverville, , nc, us","Weaverville, NC 28787, USA","OK",-82.5606851,35.6970547
+"owingsville, , ky, us","Owingsville, KY 40360, USA","OK",-83.7640847,38.1448015
+"wheeling, , wv, us","Wheeling, WV 26003, USA","OK",-80.7209149,40.0639616
+"na, , oh, ","United States","OK",-95.712891,37.09024
+"pittsburgh, new castle, pa, ","New Castle Area Transit Authority, 311 Mahoning Ave, New Castle, PA 16102, USA","OK",-80.3566042,40.9826705
+"pomeroy, , oh, us","Pomeroy, OH, USA","OK",-82.033752,39.0275781
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"missouri city, , tx, us","Missouri City, TX, USA","OK",-95.5377215,29.6185669
+"lauderhill, , fl, us","Lauderhill, FL, USA","OK",-80.2133808,26.1403635
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"ely , 7 mi. south of, nv, us","Ely, NV 89301, USA","OK",-114.874248,39.2533328
+"north miami, , fl, us","North Miami, FL, USA","OK",-80.1867138,25.8900949
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"queen creek, , az, us","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"shippensburg, , pa, us","Shippensburg, PA 17257, USA","OK",-77.5202647,40.0506453
+"rugby warks , uk, , ","Rugby, UK","OK",-1.265032,52.370878
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"hull , uk, , gb","Hull, UK","OK",-0.3274198,53.7676236
+"fort dodge, , ia, us","Fort Dodge, IA 50501, USA","OK",-94.1680158,42.4974694
+"mercer island, , wa, us","Mercer Island, WA 98040, USA","OK",-122.2220674,47.5706548
+"casselberry, , fl, us","Casselberry, FL, USA","OK",-81.3278455,28.677775
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"shepherd, , tx, us","Shepherd, TX 77371, USA","OK",-94.9964643,30.4977979
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

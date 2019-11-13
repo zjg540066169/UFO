@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hesperia, , ca, us","Hesperia, CA, USA","OK",-117.3008784,34.4263886
+"cameron, , nc, us","Cameron, NC 28326, USA","OK",-79.255303,35.3268226
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"pleasant gap, , pa, us","Pleasant Gap, PA 16823, USA","OK",-77.7466665,40.8681177
+"kaneohe, , hi, us","Kaneohe, HI 96744, USA","OK",-157.7973653,21.3996475
+"redondo beach, , ca, us","Redondo Beach, CA, USA","OK",-118.3884078,33.8491816
+"chino hills, , ca, us","Chino Hills, CA, USA","OK",-117.7325848,33.9898188
+"bridgeport, , il, us","Bridgeport, IL 62417, USA","OK",-87.7600285,38.7058806
+"havre, , mt, us","Havre, MT 59501, USA","OK",-109.6840887,48.549999
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"norwood, springfield , mo, ","N Norwood Dr, Springfield, MO 65802, USA","OK",-93.2456021,37.2170119
+"canby, , or, us","Canby, OR 97013, USA","OK",-122.6921253,45.262316
+"elmwood park, , il, us","Elmwood Park, IL 60707, USA","OK",-87.8092266,41.9211423
+"oxford, , ks, us","Oxford, KS 67119, USA","OK",-97.1689296,37.2741908
+"front royal, , va, us","Front Royal, VA 22630, USA","OK",-78.1944446,38.9181671
+"saginaw, , mi, us","Saginaw, MI, USA","OK",-83.9508068,43.4194699
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"krum, , tx, us","Krum, TX 76249, USA","OK",-97.2380725,33.2615068
+"front royal, , va, us","Front Royal, VA 22630, USA","OK",-78.1944446,38.9181671
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"damascus, , va, us","Damascus, VA 24236, USA","OK",-81.7837303,36.6337272
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"azusa, , ca, us","Azusa, CA, USA","OK",-117.9075627,34.1336186
+"hugo, , ok, us","Hugo, OK 74743, USA","OK",-95.5096821,34.01066
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"montrose, , ca, us","La Crescenta-Montrose, CA, USA","OK",-118.2351192,34.228754
+"amherst, , va, us","Amherst, VA 24521, USA","OK",-79.0514134,37.5851412
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"moncks corner, , sc, us","Moncks Corner, SC 29461, USA","OK",-80.0131374,33.1960027
+"kiev , ukraine, , ","Kyiv, Ukraine, 02000","OK",30.5234,50.4501
+"kiev , ukraine, , ","Kyiv, Ukraine, 02000","OK",30.5234,50.4501
+"citrus heights, , ca, us","Citrus Heights, CA, USA","OK",-121.2810611,38.7071247
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"san pedro, , ca, us","San Pedro, Los Angeles, CA, USA","OK",-118.2922461,33.7360619
+"arvada, , co, us","Arvada, CO, USA","OK",-105.0874842,39.8027644
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"blacksburg, , va, us","Blacksburg, VA, USA","OK",-80.4139393,37.2295733
+"columbia, , sc, us","Columbia, SC, USA","OK",-81.0348144,34.0007104
+"big sky, , mt, us","Big Sky, MT, USA","OK",-111.3080244,45.2617806
+"kingsford hieghts, , in, ","Kingsford Heights, IN, USA","OK",-86.6916859,41.4805988
+"district heights, , md, us","District Heights, MD 20747, USA","OK",-76.8894171,38.8576128
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"ocean springs, , ms, us","Ocean Springs, MS 39564, USA","OK",-88.8278057,30.4113097
+"singapore, , , ","Singapore","OK",103.819836,1.352083
+"queen creek, , az, us","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"alma, , mi, us","Alma, MI 48801, USA","OK",-84.6597274,43.3789199
+"lansing, , mi, us","Lansing, MI, USA","OK",-84.5555347,42.732535
+"hobart, , wa, us","Hobart, WA, USA","OK",-121.9948685,47.4081216
+"geelong , australia, , au","Geelong VIC 3220, Australia","OK",144.3617186,-38.1499181
+"kutztown, , pa, us","Kutztown, PA 19530, USA","OK",-75.7774177,40.5173165
+"petersburg, , tx, us","Petersburg, TX 79250, USA","OK",-101.5973877,33.8695249
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"grifton, , nc, ","Grifton, NC, USA","OK",-77.4374641,35.3726629
+"powhatan, , va, us","Powhatan, VA 23139, USA","OK",-77.9188239,37.5415273
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"rockford, , tn, us","Rockford, TN, USA","OK",-83.9407373,35.8275832
+"morton , lincolnshire, , gb","Morton, Bourne PE10, UK","OK",-0.373143,52.803497
+"fredriksburg, , va, ","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"meadville, , ms, us","Meadville, MS 39653, USA","OK",-90.8967682,31.4723928
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"barbourville, , ky, us","Barbourville, KY, USA","OK",-83.8888138,36.8664765
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"belpre, , oh, us","Belpre, OH 45714, USA","OK",-81.5729029,39.2739639
+"callands, , va, us","Callands, VA 24531, USA","OK",-79.5866965,36.8201391
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"macon, , ga, us","Macon, GA, USA","OK",-83.6324022,32.8406946
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"lansdale, , pa, us","Lansdale, PA, USA","OK",-75.2837862,40.2414952
+"woodstock, , vt, us","Woodstock, VT, USA","OK",-72.5185112,43.6242442
+"christiansburg, , va, us","Christiansburg, VA 24073, USA","OK",-80.4089389,37.1298517
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"thonotosassa, , fl, us","Thonotosassa, FL, USA","OK",-82.3023128,28.0614065
+"indialantic, , fl, us","Indialantic, FL 32903, USA","OK",-80.5656079,28.0894599
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"land o&#39lakes, , fl, ",NA,"REQUEST_DENIED",NA,NA
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"new port richey, , fl, us","New Port Richey, FL, USA","OK",-82.7192671,28.2441768
+"atkins, , ar, us","Atkins, AR 72823, USA","OK",-92.9365581,35.2464719
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"ketchikan, , ak, us","Ketchikan, AK 99901, USA","OK",-131.6461112,55.3422222
+"radford, , va, us","Radford, VA, USA","OK",-80.5764477,37.1317924
+"miami beach, , fl, us","Miami Beach, FL, USA","OK",-80.1300455,25.790654
+"antioch, , ca, us","Antioch, CA, USA","OK",-121.805789,38.0049214
+"st. stephen, , sc, us","St Stephen, SC 29479, USA","OK",-79.9251516,33.405202
+"lewiston, , me, us","Lewiston, ME, USA","OK",-70.2147764,44.100351
+"lisbon, , oh, us","Lisbon, OH 44432, USA","OK",-80.7681336,40.7720044
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"parsons , east of, ks, us","Parsons, KS, USA","OK",-95.2610838,37.3403384
+"stillwater, , ok, us","Stillwater, OK, USA","OK",-97.0583681,36.1156071
+"shoto, , wi, us","Shoto, WI 54241, USA","OK",-87.6494808,44.1752039
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"kirkcaldy , uk, , gb","Kirkcaldy, UK","OK",-3.158137,56.1168249
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"dandridge, , tn, us","Dandridge, TN, USA","OK",-83.4148895,36.0153693
+"mcgill, , nv, us","McGill, NV, USA","OK",-114.7786281,39.4049384
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"galena, , il, us","Galena, IL 61036, USA","OK",-90.4290168,42.4166744
+"orange, , ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"covington, , ga, us","Covington, GA, USA","OK",-83.8601827,33.5967815
+"pleasanton, , ca, us","Pleasanton, CA, USA","OK",-121.8757968,37.6604484
+"oroville, , wa, us","Oroville, WA 98844, USA","OK",-119.4356211,48.9390509
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"desert center, , ca, us","Desert Center, CA, USA","OK",-115.4004287,33.7133313
+"severn, glen burnie , md, ","Severn, MD, USA","OK",-76.6983022,39.1370528
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"st. louis , clayton, mo, us","Clayton, MO, USA","OK",-90.3237263,38.6425518
+"twin lakes, , wi, us","Twin Lakes, WI, USA","OK",-88.2481461,42.5311294
+"alligator alley, , fl, ","Everglades Pkwy, Florida, USA","OK",-81.0203819,26.1694445
+"san angelo, , tx, us","San Angelo, TX, USA","OK",-100.4370375,31.4637723
+"lake springs, , mo, us","Lake Springs, Lesterville Township, MO 63654, USA","OK",-90.7948435,37.4536594
+"lake springs, , mo, us","Lake Springs, Lesterville Township, MO 63654, USA","OK",-90.7948435,37.4536594
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"mayaguez , puerto rico, wv, ","PR-108, Mayagüez, 00682, Puerto Rico","OK",-67.1409025,18.2108895
+"marion, , in, us","Marion, IN, USA","OK",-85.6591442,40.5583739
+"new york mills, , mn, us","New York Mills, MN 56567, USA","OK",-95.3761465,46.518016
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"barahona , dominican republic, , ","Barahona 81000, Dominican Republic","OK",-71.1024076,18.2120807
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"yelm, , wa, us","Yelm, WA, USA","OK",-122.6059582,46.9420431
+"canton, , il, us","Illinois, USA","OK",-89.3985283,40.6331249
+"sanford, , nc, us","Sanford, NC, USA","OK",-79.1802994,35.4798757
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"klang , malaysia, , ","Klang, Selangor, Malaysia","OK",101.4455621,3.044917
+"taylorsville, , ut, us","Taylorsville, UT, USA","OK",-111.9388258,40.6677248
+"brandon, , vt, us","Brandon, VT 05733, USA","OK",-73.0876119,43.7981195
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"yucca valley, , ca, us","Yucca Valley, CA 92284, USA","OK",-116.432235,34.1141743
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"chula vista, , ca, us","Chula Vista, CA, USA","OK",-117.0841955,32.6400541
+"montana city, , mt, us","Montana City, MT, USA","OK",-111.9327688,46.5377111
+"conover, , nc, us","Conover, NC, USA","OK",-81.2186933,35.7065217
+"clinton, , ia, us","Clinton, IA, USA","OK",-90.1887379,41.8444735
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"eden, , id, us","Eden, ID 83325, USA","OK",-114.2108634,42.6057451
+"shepherdsville, , ky, us","Shepherdsville, KY 40165, USA","OK",-85.7157924,37.9883991
+"marshville, , nc, us","Marshville, NC, USA","OK",-80.3670085,34.988486
+"upper marlboro, , md, us","Upper Marlboro, MD 20772, USA","OK",-76.7496909,38.8159473
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"janesville, , wi, us","Janesville, WI, USA","OK",-89.0187222,42.6827885
+"la habra, , ca, us","La Habra, CA 90631, USA","OK",-117.946137,33.9318591
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"middletown, , oh, us","Middletown, OH, USA","OK",-84.3982763,39.5150576
+"sherwood, north little rock, ar, ","Sherwood, AR, USA","OK",-92.2243153,34.8150907
+"martinsburg, , wv, us","Martinsburg, WV, USA","OK",-77.9638869,39.4562099
+"fairfax station, , va, us","Fairfax Station, VA, USA","OK",-77.3254485,38.8015452
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"martin, , mi, us","Martin, MI 49070, USA","OK",-85.6416846,42.5369783
+"orrington, , me, us","Orrington, ME, USA","OK",-68.7904626,44.7202096
+"caledonia, , ny, us","Caledonia, NY 14423, USA","OK",-77.852785,42.9731175
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"waretown, , nj, us","Waretown, Ocean Twp, NJ 08758, USA","OK",-74.1951395,39.7915084
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"oneonta, , al, us","Oneonta, AL 35121, USA","OK",-86.472764,33.9481537
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"selma, , nc, us","Selma, NC, USA","OK",-78.2844435,35.5365485
+"portsmouth, , nh, us","Portsmouth, NH 03801, USA","OK",-70.7625532,43.0717552
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"interstate 10, , la, ","I-10, Los Angeles, CA, USA","OK",-118.2187303,34.0408509
+"green river, , ut, us","Green River, UT, USA","OK",-110.1596352,38.9955607
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"oak creek, , co, us","Oak Creek, CO 80467, USA","OK",-106.9583829,40.2749806
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"bessemer, , al, us","Bessemer, AL, USA","OK",-86.954437,33.4017766
+"auburn, , ca, us","Auburn, CA, USA","OK",-121.0768901,38.8965654
+"milford, , ca, us","Milford, CA 96121, USA","OK",-120.3725531,40.1713098
+"silverlake, , wa, ","Silver Lake, WA 98645, USA","OK",-122.7949992,46.3124807
+"rupert, , id, us","Rupert, ID 83350, USA","OK",-113.6772348,42.6190756
+"cincy , near&#44 rural ohio, oh, ",NA,"REQUEST_DENIED",NA,NA
+"kenton, bellcenter, oh, ","Kenton, OH 43326, USA","OK",-83.6096516,40.6469982
+"newtown square, , pa, us","Newtown Square, PA 19073, USA","OK",-75.4007058,39.9868904
+"ripley, , tn, us","Ripley, TN 38063, USA","OK",-89.5297973,35.7453552
+"klamath falls, , or, us","Klamath Falls, OR, USA","OK",-121.7816704,42.224867
+"hamilton, , oh, us","Hamilton, OH, USA","OK",-84.5613355,39.3995008
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"sikeston, , mo, us","Sikeston, MO 63801, USA","OK",-89.5878579,36.876719
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"oshkosh, , wi, us","Oshkosh, WI, USA","OK",-88.5426136,44.0247062
+"turlock, , ca, us","Turlock, CA, USA","OK",-120.8465941,37.4946568
+"lebanon, , pa, us","Lebanon, PA, USA","OK",-76.4113497,40.3409251
+"cooper city, , fl, us","Cooper City, FL, USA","OK",-80.271716,26.0573112
+"bridlington , uk, , gb","Bridlington, UK","OK",-0.198802,54.08535
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

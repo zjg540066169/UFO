@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hialeah, , fl, us","Hialeah, FL, USA","OK",-80.2781057,25.8575963
+"jeffersonville, , in, us","Jeffersonville, IN, USA","OK",-85.7371847,38.2775702
+"flemingsburg, , ky, us","Flemingsburg, KY 41041, USA","OK",-83.7338076,38.4222995
+"aurora, , oh, us","Aurora, OH 44202, USA","OK",-81.3453858,41.3175549
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"ovid, , mi, us","Ovid, MI 48866, USA","OK",-84.3716438,43.0058618
+"cambridge, , ma, us","Cambridge, MA, USA","OK",-71.1097335,42.3736158
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"moline, , il, us","Moline, IL, USA","OK",-90.5151342,41.5067003
+"lower burrell, , pa, us","Lower Burrell, PA 15068, USA","OK",-79.7209802,40.5849232
+"wakefield, , ri, us","Wakefield, South Kingstown, RI 02879, USA","OK",-71.5015546,41.4381721
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"valrico, , fl, us","Valrico, FL, USA","OK",-82.2420317,27.9462615
+"brecksville, , oh, us","Brecksville, OH 44141, USA","OK",-81.6267904,41.3197763
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"roswell, , ga, us","Roswell, GA, USA","OK",-84.3615555,34.0232431
+"orange, , ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"hereford , uk, , gb","Hereford, UK","OK",-2.715974,52.056398
+"hibbing, , mn, us","Hibbing, MN, USA","OK",-92.9376887,47.4271546
+"fenton, , mo, us","Fenton, MO, USA","OK",-90.4429881,38.5126456
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"watervliet, coloma, mi, ","Coloma, MI 49038, USA","OK",-86.308356,42.1861494
+"hermosa beach, , ca, us","Hermosa Beach, CA 90254, USA","OK",-118.3995194,33.8622366
+"south gate, , ca, us","South Gate, CA, USA","OK",-118.2120161,33.954737
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"anderson, , in, us","Anderson, IN, USA","OK",-85.6802541,40.1053196
+"farragut, , tn, us","Farragut, TN, USA","OK",-84.1711345,35.8778548
+"belen, , nm, us","Belen, NM 87002, USA","OK",-106.7761546,34.6627652
+"tunisia , in-flight; over ocean, , ",NA,"ZERO_RESULTS",NA,NA
+"chesterton, , in, us","Chesterton, IN 46304, USA","OK",-87.0641992,41.6105937
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"camas, , wa, us","Camas, WA, USA","OK",-122.402442,45.5867128
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"springville, , ca, us","Springville, CA 93265, USA","OK",-118.8181495,36.1302265
+"hastings, , mn, us","Hastings, MN 55033, USA","OK",-92.8513706,44.7443293
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"westland, , mi, us","Westland, MI, USA","OK",-83.400211,42.324204
+"college station, , tx, us","College Station, TX, USA","OK",-96.3344068,30.627977
+"roseneath , canada, on, ","Roseneath, ON K0K 2X0, Canada","OK",-78.057677,44.192768
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"jupiter, , fl, us","Jupiter, FL, USA","OK",-80.0942087,26.9342246
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"philipsburg, , pa, us","Philipsburg, PA 16866, USA","OK",-78.2205688,40.8964465
+"roselle, , il, us","Roselle, IL, USA","OK",-88.0797933,41.9847504
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"jupiter, , fl, us","Jupiter, FL, USA","OK",-80.0942087,26.9342246
+"northridge, , ca, us","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"monroe, , ct, us","Monroe, CT, USA","OK",-73.2073358,41.3325962
+"mooresville, , nc, us","Mooresville, NC, USA","OK",-80.8081413,35.5859146
+"holiday, , fl, us","Holiday, FL, USA","OK",-82.7395454,28.18779
+"stayton, , or, us","Stayton, OR 97383, USA","OK",-122.7945333,44.8006775
+"dunsmuir, , ca, us","Dunsmuir, CA, USA","OK",-122.2719529,41.2082089
+"cambridge, , oh, us","Cambridge, OH 43725, USA","OK",-81.5884561,40.031183
+"bardstown, , ky, us","Bardstown, KY 40004, USA","OK",-85.4669025,37.8092279
+"hardshell, , ky, us","Hardshell, KY 41317, USA","OK",-83.2510087,37.4575928
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"castleton on hudson, , ny, ","Castleton-On-Hudson, NY 12033, USA","OK",-73.7462997,42.5331974
+"torrance, , ca, us","Torrance, CA, USA","OK",-118.3406288,33.8358492
+"monroe, , mi, us","Monroe, MI, USA","OK",-83.3977101,41.9164343
+"dover, , nh, us","Dover, NH, USA","OK",-70.8736698,43.1978624
+"parma, , oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"clovis, , ca, us","Clovis, CA, USA","OK",-119.7029194,36.8252277
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"castro valley, , ca, us","Castro Valley, CA, USA","OK",-122.0738678,37.6955029
+"quincy, , il, us","Quincy, IL, USA","OK",-91.4098726,39.9356016
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"rock springs, , wy, us","Rock Springs, WY 82901, USA","OK",-109.2029043,41.5874644
+"dehradun , uttar pradesh, , ","E-34, Nehru Colony Rd, C Block, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001, India","OK",78.0542779,30.2989429
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"somers point, , nj, us","Somers Point, NJ, USA","OK",-74.6053047,39.3160641
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"hershey, , pa, us","Hershey, PA, USA","OK",-76.6502468,40.2859239
+"monroe, , mi, us","Monroe, MI, USA","OK",-83.3977101,41.9164343
+"round lake, , il, us","Round Lake, IL, USA","OK",-88.0934145,42.353355
+"lakeside, , ca, us","Lakeside, CA, USA","OK",-116.9222488,32.8572718
+"lapine, , or, ","La Pine, OR 97739, USA","OK",-121.503636,43.6703995
+"lakebay, , wa, us","Lakebay, WA 98349, USA","OK",-122.7584663,47.2570403
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"annapolis, , md, us","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"the woodlands, , tx, us","The Woodlands, TX, USA","OK",-95.4612625,30.1658207
+"commerce city, , co, us","Commerce City, CO, USA","OK",-104.9338675,39.8083196
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"carpentersville, , il, us","Carpentersville, IL, USA","OK",-88.2578582,42.1211364
+"pinehurst, , tx, us","Pinehurst, TX, USA","OK",-95.6820191,30.1702373
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"statesville, , nc, us","Statesville, NC, USA","OK",-80.8872959,35.7826363
+"winchester, , va, us","Winchester, VA 22601, USA","OK",-78.1633341,39.1856597
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"mt. orab, , oh, us","Mt Orab, OH, USA","OK",-83.919652,39.0275659
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"west oakland, , ca, us","West Oakland, Oakland, CA, USA","OK",-122.2839963,37.8155761
+"north topsail beach, , nc, us","North Topsail Beach, NC, USA","OK",-77.43163,34.4901665
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"bracknell , uk, , gb","Bracknell, UK","OK",-0.75398,51.41604
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"escondido, , ca, us","Escondido, CA, USA","OK",-117.086421,33.1192068
+"clearlake, , ca, us","Clearlake, CA, USA","OK",-122.6263728,38.9582307
+"lewiston, , me, us","Lewiston, ME, USA","OK",-70.2147764,44.100351
+"clarksville, , tn, us","Clarksville, TN, USA","OK",-87.3594528,36.5297706
+"clarksville, , tn, us","Clarksville, TN, USA","OK",-87.3594528,36.5297706
+"mt. vernon, , oh, us","Mt Vernon, OH 43050, USA","OK",-82.4857181,40.3933956
+"canberra , australia, , au","Canberra ACT 2601, Australia","OK",149.1300092,-35.2809368
+"muskegon, , mi, us","Muskegon, MI, USA","OK",-86.2483921,43.2341813
+"niskayuna, , ny, us","Niskayuna, NY, USA","OK",-73.8914407,42.8000049
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"key largo, , fl, us","Key Largo, FL 33037, USA","OK",-80.4472802,25.0865151
+"west columbia, , sc, us","West Columbia, SC 29169, USA","OK",-81.0739825,33.9934867
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"north eastham, , ma, us","North Eastham, Eastham, MA, USA","OK",-69.9911305,41.8651071
+"north st. paul, , mn, ","North St Paul, MN 55109, USA","OK",-92.9918828,45.0124657
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"flossmoor, , il, us","Flossmoor, IL, USA","OK",-87.6847684,41.5428123
+"angleton, , tx, us","Angleton, TX 77515, USA","OK",-95.4318847,29.16941
+"palestine, , tx, us","Palestine, TX, USA","OK",-95.6307891,31.7621153
+"yates center, , ks, us","Yates Center, KS 66783, USA","OK",-95.7333175,37.8811472
+"mumbai , india, , ","Mumbai, Maharashtra, India","OK",72.8776559,19.0759837
+"west kelowna , canada, bc, ca","West Kelowna, BC, Canada","OK",-119.5644584,49.863612
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"eureka, , ks, us","Eureka, KS 67045, USA","OK",-96.2891703,37.8239167
+"fredonia, , ks, us","Fredonia, KS 66736, USA","OK",-95.8266483,37.5339386
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"waimanalo, , hi, us","Waimānalo, HI 96795, USA","OK",-157.7208333,21.35
+"seattle , shoreline district, wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"kimberly, , id, us","Kimberly, ID 83341, USA","OK",-114.3647561,42.5338019
+"talkitna, , ak, ","Talkeetna, AK 99676, USA","OK",-150.1066221,62.3209046
+"yokahama , japan, , ","Yokohama, Kanagawa, Japan","OK",139.6379639,35.4436739
+"bristol, , va, us","Bristol, VA, USA","OK",-82.1887368,36.595142
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"fort smith, , ar, ","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"ft. smith, , ar, ","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"forbes afb, , ks, ","Topeka Regional Airport, 6510 SE Forbes Ave, Topeka, KS 66619, USA","OK",-95.6664279,38.9483444
+"el  escorial , spain, , ","El Escorial, Madrid, Spain","OK",-4.100217,40.592573
+"anjean, , wv, us","Anjean, WV 25984, USA","OK",-80.634849,38.021835
+"memramcook , canada, nb, ca","Memramcook, NB, Canada","OK",-64.5513093,46.0044309
+"buford, , ga, us","Buford, GA, USA","OK",-84.0043513,34.1206564
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"beardstown, , il, us","Beardstown, IL 62618, USA","OK",-90.4242916,40.0175483
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"turin&#44 northern italy, , , ",NA,"REQUEST_DENIED",NA,NA
+"malmstrom afb, , mt, ","Malmstrom AFB, MT, USA","OK",-111.1790622,47.5042584
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"puerto rico, , , ","Puerto Rico","OK",-66.590149,18.220833
+"winslow, , az, us","Winslow, AZ 86047, USA","OK",-110.6973571,35.0241873
+"cairo, , ny, us","Cairo, NY, USA","OK",-74.006509,42.2982586
+"pipestone, , mn, us","Pipestone, MN 56164, USA","OK",-96.3128117,43.9985815
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"springfield, , pa, us","Springfield, PA, USA","OK",-75.3201878,39.9306677
+"orchard lake, , mi, us","Orchard Lake Village, MI, USA","OK",-83.3735966,42.5894857
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"dingman&#39s ferry, , pa, ",NA,"REQUEST_DENIED",NA,NA
+"scottsbluff county , rural; western, ne, us","Scotts Bluff County, NE, USA","OK",-103.6362715,41.8140936
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"clines corners, tijeras , nm, ","768 NM-333, Tijeras, NM 87059, USA","OK",-106.351277,35.099825
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"albany, , il, us","Albany, IL 61230, USA","OK",-90.2192941,41.7894748
+"pittsburgh , north of, pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"davenport, , ia, us","Davenport, IA, USA","OK",-90.5776367,41.5236437
+"canberra , australia, , au","Canberra ACT 2601, Australia","OK",149.1300092,-35.2809368
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"atlantic ocean , canada, , ","Huron, Sault Ste. Marie, ON, Canada","OK",-84.3460896,46.521858
+"wampum, , pa, us","Wampum, PA 16157, USA","OK",-80.3381195,40.8881184
+"mcgrady , wilkes county, nc, us","McGrady, NC 28649, USA","OK",-81.2248121,36.3434632
+"sunbury, , pa, us","Sunbury, PA 17801, USA","OK",-76.7944104,40.862585
+"south gate, , ca, us","South Gate, CA, USA","OK",-118.2120161,33.954737
+"south yarmouth, , ma, us","South Yarmouth, Yarmouth, MA, USA","OK",-70.1847413,41.6667779
+"ojai, , ca, us","Ojai, CA 93023, USA","OK",-119.242889,34.4480495
+"little rock , northwest of, ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"vandalia, , mo, us","Vandalia, MO 63382, USA","OK",-91.4884887,39.3108745
+"groom lake, , nv, ","Groom Lake, Nevada, USA","OK",-115.798936,37.2766745
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"platteville, , wi, us","Platteville, WI 53818, USA","OK",-90.4784621,42.73416
+"hiawassee, , ga, us","Hiawassee, GA 30546, USA","OK",-83.7573948,34.9492586
+"melvin, , il, us","Melvin, IL 60952, USA","OK",-88.2478272,40.5675346
+"deseronto , canada, on, ca","Deseronto, ON K0K 1X0, Canada","OK",-77.0487329,44.1953988
+"sydney , canada, ns, ca","Sydney, NS, Canada","OK",-60.194224,46.1367899
+"willingboro, , nj, us","Willingboro, NJ, USA","OK",-74.8916458,40.028848
+"new church, , va, us","New Church, VA 23415, USA","OK",-75.530229,37.9791286
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"canadian, , tx, us","Canadian, TX 79014, USA","OK",-100.3820772,35.91282
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"dillon, , co, us","Dillon, CO, USA","OK",-106.0433518,39.6302643
+"hwy i-40 , west of flagstaff, az, ","I-40, Flagstaff, AZ, USA","OK",-111.6324967,35.1846073
+"alston, , mi, us","Alston, MI 49958, USA","OK",-88.7531908,46.7682671
+"acton, , ca, us","Acton, CA 93510, USA","OK",-118.1967418,34.469994
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"point arena, , ca, us","Point Arena, CA 95468, USA","OK",-123.6930726,38.908798
+"toledo, salkum , wa, ","150 N 2nd St, Toledo, WA 98591, USA","OK",-122.845788,46.439909
+"seatac, , wa, us","SeaTac, WA, USA","OK",-122.2960726,47.4435903
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"lakewood, , co, us","Lakewood, CO, USA","OK",-105.0813734,39.7047095
+"onodaga twp., , mi, ","Onondaga Township, MI, USA","OK",-84.5431867,42.4801145
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"mojave, , ca, us","Mojave, CA 93501, USA","OK",-118.1739645,35.0524699
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"amhearst, , oh, ","Amherst, OH, USA","OK",-82.2223774,41.3978217
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"wyncote, , pa, us","Wyncote, PA 19095, USA","OK",-75.1487863,40.0945549
+"camden, , ny, us","Camden, NY, USA","OK",-75.7836589,43.3387364
+"bellevue, , ne, us","Bellevue, NE, USA","OK",-95.9145568,41.1543623
+"pasadena, , tx, us","Pasadena, TX, USA","OK",-95.2091006,29.6910625
+"canastota, , ny, us","Canastota, NY 13032, USA","OK",-75.7507413,43.0795121
+"tunkhannock, , pa, us","Tunkhannock, PA 18657, USA","OK",-75.946588,41.5386878
+"albury , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"charlton, , ma, us","Charlton, MA 01507, USA","OK",-71.970074,42.13565
+"duxbury, , ma, us","Duxbury, MA, USA","OK",-70.6722767,42.0417525
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"baker, edwards afb, ca, ","Edwards AFB, CA, USA","OK",-117.8912085,34.9240314
+"bilbao , spain, , ","Bilbao, Biscay, Spain","OK",-2.9349852,43.2630126
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"shannon, , ms, us","Shannon, MS 38868, USA","OK",-88.7117181,34.1162203
+"kelseyville, , ca, us","Kelseyville, CA 95451, USA","OK",-122.8394375,38.9779531
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"mesquite, , tx, us","Mesquite, TX, USA","OK",-96.5991593,32.7667955
+"north miami, , fl, us","North Miami, FL, USA","OK",-80.1867138,25.8900949
+"fairview, , nc, us","Fairview, NC 28730, USA","OK",-82.3959511,35.5140058
+"san marcos , escondido&#44 rancho bernardo, ca, us",NA,"REQUEST_DENIED",NA,NA
+"chillicothe, , oh, us","Chillicothe, OH 45601, USA","OK",-82.9824019,39.3331197
+"orlando, , ga, ","2-50 W South St, Orlando, FL 32801, USA","OK",-81.3792365,28.5383355
+"north myrtle beach , cherry grove, sc, us","Cherry Grove Beach, North Myrtle Beach, SC 29582, USA","OK",-78.6430119,33.8278989
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"dublin, , va, us","Dublin, VA 24084, USA","OK",-80.6853433,37.1056784
+"hoover, , al, us","Hoover, AL, USA","OK",-86.8113781,33.4053867
+"verona, , ny, us","Verona, NY 13478, USA","OK",-75.5706945,43.1381455
+"newton le willows , uk, , ","Newton-le-Willows, UK","OK",-2.63508,53.452889
+"export, , pa, us","Export, PA 15632, USA","OK",-79.6255989,40.4181235
+"georgetown, , tx, us","Georgetown, TX, USA","OK",-97.6779842,30.6332618
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"queen creek, , az, us","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"marana, , az, us","Marana, AZ, USA","OK",-111.2224422,32.436381
+"morrison, , co, us","Morrison, CO, USA","OK",-105.1910996,39.6535988
+"northern territory , canada, nt, ","Northwest Territories, Canada","OK",-124.8457334,64.8255441
+"new milford, , ct, us","New Milford, CT, USA","OK",-73.4085463,41.5770433
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"dumont, , nj, us","Dumont, NJ 07628, USA","OK",-73.9968051,40.9406541
+"bear, , de, us","Bear, DE, USA","OK",-75.6582628,39.6292788
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"chandigarh , india, , ","Chandigarh, India","OK",76.7794179,30.7333148
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"el centro, , ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"flushing, , ny, us","Flushing, Queens, NY, USA","OK",-73.833079,40.7674987
+"harbor city, , ca, us","Harbor City, CA, USA","OK",-118.2965084,33.7906551
+"mt. charleston, , nv, us","Mt Charleston, NV 89124, USA","OK",-115.6427949,36.2571855
+"laramie, wamsutter , wy, ","Laramie, WY, USA","OK",-105.5911007,41.3113669
+"citronelle, , al, us","Citronelle, AL 36522, USA","OK",-88.2280622,31.0907338
+"neuss , germany, , de","Neuss, Germany","OK",6.6879511,51.2041968
+"stanley, , nm, us","Stanley, NM 87056, USA","OK",-105.98027,35.1485724
+"bucksport, , me, us","Bucksport, ME, USA","OK",-68.7701224,44.6289696
+"delray beach, , fl, us","Delray Beach, FL, USA","OK",-80.0728201,26.4614625
+"hampton bays, , ny, us","Hampton Bays, NY, USA","OK",-72.5175893,40.8689892
+"el dorado, , ar, us","El Dorado, AR 71730, USA","OK",-92.6662674,33.20763
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"bay point, , ca, us","Bay Point, CA, USA","OK",-121.9616274,38.0290872
+"exeter, , ne, us","Exeter, NE 68351, USA","OK",-97.4503271,40.6441737
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"jeffersonville, , pa, us","Jeffersonville, West Norriton, PA 19403, USA","OK",-75.3838454,40.1198351
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"erwinna, , pa, us","Erwinna, Tinicum Township, PA 18920, USA","OK",-75.0726401,40.5008011
+"christchurch , new zealand, , ","Christchurch, New Zealand","OK",172.6362254,-43.5320544
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"trinidad, , ca, us","Trinidad, CA 95570, USA","OK",-124.1431246,41.059291
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"satellite beach, , fl, us","Satellite Beach, FL, USA","OK",-80.5900519,28.1761233
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"webster, , tx, us","Webster, TX, USA","OK",-95.1182645,29.5377315
+"mount vernon, , wa, us","Mt Vernon, WA, USA","OK",-122.3374543,48.4201105
+"plant city, , fl, us","Plant City, FL, USA","OK",-82.1128641,28.0186323
+"woodbury, , mn, us","Woodbury, MN, USA","OK",-92.9593797,44.9238552
+"moundville, , al, us","Moundville, AL, USA","OK",-87.6300075,32.9976242
+"geneva, , ga, us","Geneva, GA 31801, USA","OK",-84.5507559,32.579862
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"magnolia, , tx, us","Magnolia, TX, USA","OK",-95.7507815,30.2093794
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"burleson, , tx, us","Burleson, TX, USA","OK",-97.3208492,32.5420821
+"cedar city, , ut, us","Cedar City, UT, USA","OK",-113.0618931,37.6774769
+"sugar land, , tx, us","Sugar Land, TX, USA","OK",-95.6225521,29.5984434
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

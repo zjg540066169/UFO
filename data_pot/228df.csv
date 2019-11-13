@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"desert hot springs, , ca, us","Desert Hot Springs, CA, USA","OK",-116.5016784,33.961124
+"centennial, , co, us","Centennial, CO, USA","OK",-104.8771726,39.5807452
+"hermon, , me, us","Hermon, ME, USA","OK",-68.9133724,44.81007
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"kennesaw, , ga, us","Kennesaw, GA, USA","OK",-84.6154897,34.0234337
+"elgini, , il, ","Elgin, IL, USA","OK",-88.2825668,42.0354084
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"whitefield, , nh, us","Whitefield, NH, USA","OK",-71.6117158,44.3723077
+"belgrade, , mt, us","Belgrade, MT 59714, USA","OK",-111.1770945,45.7762463
+"hollister, , ca, us","Hollister, CA 95023, USA","OK",-121.4016021,36.8524545
+"tewksbury, , ma, us","Tewksbury, MA, USA","OK",-71.2342248,42.6106478
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"diamond lake, , or, us","Diamond Lake, OR 97447, USA","OK",-122.1389202,43.1787376
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"whitefish, , mt, us","Whitefish, MT 59937, USA","OK",-114.3352652,48.4106373
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"sunrise, , fl, us","Sunrise, FL, USA","OK",-80.256595,26.1669711
+"jupiter, , fl, us","Jupiter, FL, USA","OK",-80.0942087,26.9342246
+"barbados, , , ","Barbados","OK",-59.543198,13.193887
+"washburn, , nd, us","Washburn, ND 58577, USA","OK",-101.0290346,47.28916
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"broadview heights, , oh, us","Broadview Heights, OH 44147, USA","OK",-81.6851271,41.3139426
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"newcastle , australia, , au","Newcastle NSW, Australia","OK",151.7816802,-32.9282712
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"farmington, , mo, us","Farmington, MO 63640, USA","OK",-90.4217895,37.7808846
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"concrete, , wa, us","Concrete, WA 98237, USA","OK",-121.7462513,48.5392813
+"lynnwood, , wa, us","Lynnwood, WA, USA","OK",-122.3151314,47.8209301
+"sedgewick, , me, ","Sedgwick, ME, USA","OK",-68.6155184,44.3040651
+"birkenhead , uk, , gb","Birkenhead, UK","OK",-3.023009,53.389991
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"columbus, , tx, us","Columbus, TX, USA","OK",-96.5396933,29.7066232
+"rome, , ga, us","Rome, GA, USA","OK",-85.1646726,34.257038
+"coconut creek, , fl, us","Coconut Creek, FL, USA","OK",-80.1789351,26.2517482
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"tjorn , sweden, , ","Tjörn Municipality, Sweden","OK",11.6836708,58.0410195
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"culpeper county , location unspecified, va, us","Culpeper County, VA, USA","OK",-77.973865,38.491821
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"philipsburg, , pa, us","Philipsburg, PA 16866, USA","OK",-78.2205688,40.8964465
+"orange , w, ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"marshall, , mo, us","Marshall, MO 65340, USA","OK",-93.1968704,39.1230777
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"humble, , tx, us","Humble, TX, USA","OK",-95.2621553,29.9988312
+"la veta, , co, us","La Veta, CO 81055, USA","OK",-105.0077747,37.5050118
+"thorntown, , in, us","Thorntown, IN 46071, USA","OK",-86.6066706,40.1294838
+"tonawanda, , ny, us","Tonawanda, NY, USA","OK",-78.8722341,42.989131
+"ottumwa, , ia, us","Ottumwa, IA 52501, USA","OK",-92.4083022,41.0160293
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"roswell, , nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"forks, , wa, us","Forks, WA 98331, USA","OK",-124.3854867,47.950355
+"westminster, , ca, us","Westminster, CA, USA","OK",-117.9897058,33.7591757
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"milton, , wv, us","Milton, WV 25541, USA","OK",-82.1323637,38.4345321
+"parrish, , fl, us","Parrish, FL 34219, USA","OK",-82.4250941,27.5875357
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"sante fe , near, nm, ","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"beaufort, , sc, us","Beaufort, SC, USA","OK",-80.6698286,32.4315813
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"branford, , ct, us","Branford, CT, USA","OK",-72.8141185,41.2799027
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"rowlett, , tx, us","Rowlett, TX, USA","OK",-96.56388,32.9029017
+"carlisle , uk, , gb","Carlisle, UK","OK",-2.932931,54.892473
+"crescent city, , ca, us","Crescent City, CA, USA","OK",-124.2025913,41.7557501
+"andover, , ma, us","Andover, MA, USA","OK",-71.1367953,42.6583356
+"wichita falls, , tx, us","Wichita Falls, TX, USA","OK",-98.4933873,33.9137085
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"halleck , near, nv, us","Halleck, NV 89823, USA","OK",-115.452839,40.9507552
+"kahana beach, , hi, ","Kahana Beach, Napili-Honokowai, HI 96761, USA","OK",-156.6825,20.9766667
+"pico rivera, , ca, us","Pico Rivera, CA, USA","OK",-118.096735,33.9830688
+"waco, , tx, us","Waco, TX, USA","OK",-97.1466695,31.549333
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"ithaca, , ny, us","Ithaca, NY, USA","OK",-76.5018807,42.4439614
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"antioch, , ca, us","Antioch, CA, USA","OK",-121.805789,38.0049214
+"arlington, , wa, us","Arlington, WA, USA","OK",-122.1251418,48.1987118
+"port angeles , 5.5 miles east of, wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"wilsonville, tualatin, or, ","Wilsonville, OR, USA","OK",-122.7726501,45.3029903
+"mt. vernon, , wa, us","Mt Vernon, WA, USA","OK",-122.3374543,48.4201105
+"chiloquin, , or, us","Chiloquin, OR 97624, USA","OK",-121.8661258,42.5776364
+"west linn, , or, ","West Linn, OR, USA","OK",-122.6400839,45.3859859
+"cape girardeau, , mo, us","Cape Girardeau, MO, USA","OK",-89.5181476,37.3058839
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"sheffield lake, , oh, us","Sheffield Lake, OH 44054, USA","OK",-82.1015369,41.48754
+"wrightsville beach, , nc, us","Wrightsville Beach, NC, USA","OK",-77.7963709,34.2085036
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

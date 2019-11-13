@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"noble , 15 miles east of, ok, us","Noble, OK, USA","OK",-97.394753,35.1392357
+"hazelwood, , mo, us","Hazelwood, MO, USA","OK",-90.3709489,38.7714396
+"mandeville, , la, us","Mandeville, LA, USA","OK",-90.0656311,30.3582506
+"spring lake park, , mn, us","Spring Lake Park, MN 55432, USA","OK",-93.2380038,45.1077433
+"abu dhabi , uae, , ","Abu Dhabi - United Arab Emirates","OK",54.3773438,24.453884
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"petersburg, , il, us","Petersburg, IL 62675, USA","OK",-89.8481652,40.0117151
+"petersburg, , il, us","Petersburg, IL 62675, USA","OK",-89.8481652,40.0117151
+"petersburg, , il, us","Petersburg, IL 62675, USA","OK",-89.8481652,40.0117151
+"hollandale, , mn, us","Hollandale, MN 56045, USA","OK",-93.2040929,43.7607932
+"conyers, , ga, us","Conyers, GA, USA","OK",-84.0176904,33.6676103
+"sanford, , fl, us","Sanford, FL, USA","OK",-81.269453,28.8028612
+"mount isa , australia, , au","Mount Isa QLD 4825, Australia","OK",139.4927085,-20.7255748
+"troy, , mi, us","Troy, MI, USA","OK",-83.1497751,42.6064095
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"arnhem , netherlands, , ","Arnhem, Netherlands","OK",5.8987296,51.9851034
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"monroe, , ct, us","Monroe, CT, USA","OK",-73.2073358,41.3325962
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"goodrich, , mi, us","Goodrich, MI 48438, USA","OK",-83.5063365,42.916972
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"tyrone, , ok, us","Tyrone, OK 73951, USA","OK",-101.065444,36.9541929
+"helena, , mt, us","Helena, MT, USA","OK",-112.0391057,46.5891452
+"troy, , nh, us","Troy, NH, USA","OK",-72.1771541,42.8314347
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"lake oswego, , or, us","Lake Oswego, OR, USA","OK",-122.7163273,45.415734
+"sturgeon bay, , wi, us","Sturgeon Bay, WI 54235, USA","OK",-87.3770419,44.8341639
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"pfafftown, , nc, ","Pfafftown, NC, USA","OK",-80.3622436,36.1527249
+"nasa tv, , nh, ",NA,"ZERO_RESULTS",NA,NA
+"delta , canada, bc, ca","Delta, BC, Canada","OK",-123.0264758,49.0952155
+"drummonds, , tn, us","Drummonds, TN 38023, USA","OK",-89.9101994,35.4634216
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"heber springs, , ar, us","Heber Springs, AR 72543, USA","OK",-92.03126,35.4914677
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"north smithfield, , ri, us","North Smithfield, RI, USA","OK",-71.5495071,41.9667652
+"haines city, , fl, us","Haines City, FL, USA","OK",-81.6178536,28.1141841
+"mitchell, , sd, us","Mitchell, SD 57301, USA","OK",-98.0297992,43.7094283
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"arnold, , mo, us","Arnold, MO, USA","OK",-90.3776187,38.4328317
+"milford, , ks, us","Milford, KS 66514, USA","OK",-96.9135344,39.1747137
+"haverstraw, , ny, us","Haverstraw, NY, USA","OK",-73.9645837,41.1975947
+"studio city, , ca, us","Studio City, Los Angeles, CA, USA","OK",-118.3870991,34.1395597
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"pleasantville, , nj, us","Pleasantville, NJ, USA","OK",-74.5240422,39.3898388
+"loveland, , oh, us","Loveland, OH, USA","OK",-84.263826,39.2689476
+"fall creek, , or, us","Fall Creek, OR 97438, USA","OK",-122.8203521,43.9595707
+"freeport, , me, us","Freeport, ME 04032, USA","OK",-70.1031201,43.8570065
+"revere beach, , ma, ","Revere Beach, Revere, MA 02151, USA","OK",-70.9828275,42.4250968
+"vaughan , canada, on, ","Vaughan, ON, Canada","OK",-79.5085383,43.8563158
+"polk city, , fl, us","Polk City, FL 33868, USA","OK",-81.8239676,28.1825147
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"newbury, , ma, ","Newbury, MA, USA","OK",-70.8714528,42.7649497
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"zion national park, , ut, ","Zion National Park, Utah, USA","OK",-113.0263005,37.2982022
+"house springs, , mo, us","House Springs, MO 63051, USA","OK",-90.5697085,38.4096193
+"amory, , ms, us","Amory, MS 38821, USA","OK",-88.488099,33.9842768
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"azusa, , ca, us","Azusa, CA, USA","OK",-117.9075627,34.1336186
+"vadnais heights, , mn, us","Vadnais Heights, MN, USA","OK",-93.0693008,45.05058
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"new canaan, , ct, us","New Canaan, CT 06840, USA","OK",-73.4948445,41.146763
+"prospect, , ct, us","Prospect, CT 06712, USA","OK",-72.9787163,41.5023192
+"amory, , ms, us","Amory, MS 38821, USA","OK",-88.488099,33.9842768
+"fairwood, , wa, us","Cascade-Fairwood, WA 98058, USA","OK",-122.1623725,47.4431185
+"new delhi , india, , ","New Delhi, Delhi, India","OK",77.2090212,28.6139391
+"gardiner, , ny, us","Gardiner, NY, USA","OK",-74.1504231,41.6798157
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"pittsfield, , ma, us","Pittsfield, MA 01201, USA","OK",-73.2453824,42.4500845
+"temperance, , mi, us","Temperance, MI 48182, USA","OK",-83.5688244,41.7792144
+"gilroy, , ca, us","Gilroy, CA 95020, USA","OK",-121.5566373,37.0029828
+"lafayette, , la, us","Lafayette, LA, USA","OK",-92.0198427,30.2240897
+"mukwonago, , wi, us","Mukwonago, WI, USA","OK",-88.3334274,42.8666803
+"hopkins, , mn, us","Hopkins, MN, USA","OK",-93.4044187,44.9260794
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"moncton , canada, nb, ca","Moncton, NB, Canada","OK",-64.7782313,46.0878165
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"oak harbor, , oh, us","Oak Harbor, OH 43449, USA","OK",-83.1465875,41.5067173
+"spring mount, , pa, us","Spring Mt, PA, USA","OK",-75.4565657,40.2756574
+"sobieski, , wi, us","Sobieski, Little Suamico, WI 54171, USA","OK",-88.0720484,44.7208265
+"lewes, , de, us","Lewes, DE 19958, USA","OK",-75.1393498,38.7745565
+"westford, , ma, us","Westford, MA 01886, USA","OK",-71.4378411,42.5792583
+"folly beach, , sc, us","Folly Beach, SC, USA","OK",-79.9403673,32.6551798
+"villa rica, , ga, us","Villa Rica, GA 30180, USA","OK",-84.9191081,33.732052
+"brick, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"weslaco, , tx, us","Weslaco, TX, USA","OK",-97.9908366,26.1595194
+"humboldt, , ia, us","Humboldt, IA 50548, USA","OK",-94.2152402,42.7208047
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"pelham, , nh, us","Pelham, NH 03076, USA","OK",-71.3245067,42.7345339
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"concord, , ma, us","Concord, MA, USA","OK",-71.3489484,42.4603719
+"hammond, , la, us","Hammond, LA, USA","OK",-90.4611995,30.5043583
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"holts summit, , mo, us","Holts Summit, MO 65043, USA","OK",-92.1224055,38.640315
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
