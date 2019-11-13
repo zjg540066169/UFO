@@ -7,8 +7,15 @@ output: github_document
 
 ```{r setup, include=FALSE}
 library(tidyverse)
-library(rvest)
-library(plotly)
+library(leaflet)
+library(dplyr)
+library(ggplot2)
+library(ggmap)
+library(sf)
+library(mapview)
+library(rgdal)
+library(htmltools)
+
 
 knitr::opts_chunk$set(
   echo = TRUE,
@@ -106,5 +113,59 @@ ufo %>%
     x = "UFO Shape",
     y = "Number"
   )
+```
+
+
+```{r include=FALSE}
+US =
+ufo %>%
+  filter(country == "the United State")%>%
+  filter(year == "2010") %>%
+  select(state, city_area,latitude,longitude,
+         encounter_length)%>%   
+  mutate(observed_min = round(encounter_length/60)
+         )%>%
+  arrange(desc(observed_min))%>%
+  select(-encounter_length) %>%
+  group_by(state)%>%
+  summarise(Num.observed = n())
+
+states = readOGR("data/cb_2018_us_state_500k.shp")
+
+#check for the matching bewtween shapefile and my US dataset
+is.element(US$state,tolower(states$STUSPS))
+is.element(tolower(states$STUSPS),US$state)
+
+# missing 14,38,39,46,45 so to create new_states df with only matching states
+new_states = subset(states, is.element(tolower(states$STUSPS),US$state))
+is.element(tolower(new_states$STUSPS),US$state)
+is.element(US$state,tolower(new_states$STUSPS))
+
+## make it into same order
+US = US[order(match(US$state, tolower(new_states$STUSPS))),]
+
+# set for the range based on number being observed--discrete
+# bins = c(0,50,100,150,200,250,300,350,400,450,500,550)
+# pal = colorBin("YlOrRdBu",domain = US$Num.observed,bins = bins)
+ 
+pal <- colorNumeric(palette = "Reds",domain = US$Num.observed)
+labels = paste( "<p>","Number Of UFO Observed in Year 2010：", US$Num.observed,"<p>",sep = "")
+  map = leaflet() %>%
+  setView(-96,37.8,4)%>%
+  addTiles() %>%
+  addPolygons(data = states,
+              weight = 1,smoothFactor = 0.2,
+              color = "white",fillOpacity = 1,
+              fillColor = pal(US$Num.observed),
+              label = lapply(labels, HTML)
+              )%>%
+    addLegend(pal = pal,
+              values = US$Num.observed,
+              opacity = 0.7,
+              position = "topright")
+```
+
+```{r}
+map
 ```
 
