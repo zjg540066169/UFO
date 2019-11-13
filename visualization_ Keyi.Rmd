@@ -150,16 +150,17 @@ US = US[order(match(US$state, tolower(new_states$STUSPS))),]
  
 pal <- colorNumeric(palette = "Reds",domain = US$Num.observed)
 labels = paste( "<p>","Number Of UFO Observed in Year 2010：", US$Num.observed,"<p>",sep = "")
-  map = leaflet() %>%
+  leaflet() %>%
   setView(-96,37.8,4)%>%
-  addTiles() %>%
+addProviderTiles(providers$Stamen.Toner)%>%
   addPolygons(data = states,
               weight = 1,smoothFactor = 0.2,
-              color = "white",fillOpacity = 1,
+              color = "black",fillOpacity = 0.75,
               fillColor = pal(US$Num.observed),
               label = lapply(labels, HTML)
               )%>%
     addLegend(pal = pal,
+              title = "UFO Observed (2010)",
               values = US$Num.observed,
               opacity = 0.7,
               position = "topright")
