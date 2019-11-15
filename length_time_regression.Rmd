@@ -1,0 +1,46 @@
+---
+title: "Length Time Regression"
+author: "Jingyi Tang"
+date: "11/13/2019"
+output: html_document
+---
+
+## set up
+
+```{r}
+
+# load necessary libraries
+library(tidyverse)
+
+# reproducibility
+set.seed(1)
+
+```
+
+## read dataset
+
+```{r}
+
+ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+
+ufo = ufo_data %>%  
+  na.omit(ufo_data) %>% 
+  separate(date_time, into = c("date","time"), sep = " " ) %>%
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
+  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
+         country = recode(country, "us" = "the United States", 
+                          "au" = "Australia",
+                          "gb" = "the United Kingdom",
+                          "ca" = "Canada")) 
+
+```
+
+
+## Checking Test Assumptions
+
+```{r Homogeneity of variance}
+
+#bartlett.test()
+
+```
+
