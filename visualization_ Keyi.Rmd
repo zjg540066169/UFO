@@ -120,6 +120,32 @@ ufo %>%
 Comment: 
 According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round. 
 
+```{r}
+## heatmap showing 
+  ufo %>%
+  filter(year >= 1950, encounter_length < 10000) %>%
+  select(year, month, encounter_length) %>%
+  mutate(month = month.name[as.numeric(month)]) %>%
+  group_by(year,month) %>%
+  mutate(
+  Ave_length_per_month = mean(encounter_length/60)) %>%
+  select(-encounter_length) %>%
+  ggplot(aes(x = year, y = month)) +
+  geom_tile(aes(fill = Ave_length_per_month), colour = "white") +
+  scale_fill_gradient(low = "lightyellow", high = "darkblue") +
+  labs(
+    title = "Average UFO Encounter Length Compared among Months Across Time ",
+    x = "Years",
+    y = "Month"
+  ) + 
+  theme(axis.text.x = element_text(angle = 90)) +
+  theme(plot.subtitle = element_text(hjust = 0.5))
+  
+```
+
+
+
+
 ```{r include=FALSE}
 US =
 ufo %>%
@@ -170,4 +196,11 @@ addProviderTiles(providers$Stamen.Toner)%>%
               position = "topright")
 ```
 
+
+```{r}
+
+  
+
+
+```
 
