@@ -40,6 +40,7 @@ line plot: UFO by time
 plot_time = ufo %>% 
   separate(time, into = c("hour", "minute"), sep = ":") %>% 
   mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
+  mutate(hour = recode(hour, "24" = "00")) %>%
   select(-minute) %>% 
   group_by(hour, country) %>% 
   summarize(n = n()) %>% 
