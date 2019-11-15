@@ -160,5 +160,41 @@ This plot indicates that most of the data are documented relatively recent to th
 
 ## Length Time and Shape Cross Checking
 
+```{r}
+
+# tidy data
+length_shape_data = ufo_data %>% 
+  drop_na() %>% 
+  mutate(ufo_shape = factor(ufo_shape),
+  ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
+
+length_shape_data %>% 
+  ggplot(aes(x = ufo_shape, y = encounter_length, group = ufo_shape)) +
+  geom_violin(aes(fill = ufo_shape), color = "cornsilk4", alpha = 0.4) +
+  theme(axis.text.x = element_text(angle = 300)) +
+  stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
+  labs(title = "The Violin Plot of Encounter Length Time for Each Shape of UFO", 
+       y = "Encounter Length of Time",
+       x = "UFO Shape")
+
+# tidy data
+median_length_shape_data = ufo_data %>% 
+  drop_na() %>% 
+  group_by(ufo_shape) %>% 
+  summarize(median_length = median(encounter_length), 
+            count = n()) %>% 
+  filter(count > 100) %>% 
+  arrange(desc(median_length)) %>% 
+  ungroup()
+
+median_length_shape_data %>% 
+  ggplot(aes(x = ufo_shape, y = median_length, fill = ufo_shape)) + 
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(angle = 300)) +
+  labs(title = "The Bar Chart of Median of Encounter Length Time for Each Shape of UFO",
+       y = "Median of Encounter Length Time",
+       x = "UFO Shape")
+
+```
 
 

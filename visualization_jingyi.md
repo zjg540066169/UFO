@@ -13,14 +13,14 @@ set.seed(1)
 library(tidyverse)
 ```
 
-    ## -- Attaching packages ---------------- tidyverse 1.2.1 --
+    ## -- Attaching packages ----------------------------------------------- tidyverse 1.2.1 --
 
     ## v ggplot2 3.2.1     v purrr   0.3.2
     ## v tibble  2.1.3     v dplyr   0.8.3
     ## v tidyr   1.0.0     v stringr 1.4.0
     ## v readr   1.3.1     v forcats 0.4.0
 
-    ## -- Conflicts ------------------- tidyverse_conflicts() --
+    ## -- Conflicts -------------------------------------------------- tidyverse_conflicts() --
     ## x dplyr::filter() masks stats::filter()
     ## x dplyr::lag()    masks stats::lag()
 
@@ -229,3 +229,44 @@ recent to their sighting, which is a good thing, because the longer the
 lag, the larger the possibility of wrongly documentation.
 
 ## Length Time and Shape Cross Checking
+
+``` r
+# tidy data
+length_shape_data = ufo_data %>% 
+  drop_na() %>% 
+  mutate(ufo_shape = factor(ufo_shape),
+  ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
+
+length_shape_data %>% 
+  ggplot(aes(x = ufo_shape, y = encounter_length, group = ufo_shape)) +
+  geom_violin(aes(fill = ufo_shape), color = "cornsilk4", alpha = 0.4) +
+  theme(axis.text.x = element_text(angle = 300)) +
+  stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
+  labs(title = "The Violin Plot of Encounter Length Time for Each Shape of UFO", 
+       y = "Encounter Length of Time",
+       x = "UFO Shape")
+```
+
+<img src="visualization_jingyi_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
+
+``` r
+# tidy data
+median_length_shape_data = ufo_data %>% 
+  drop_na() %>% 
+  group_by(ufo_shape) %>% 
+  summarize(median_length = median(encounter_length), 
+            count = n()) %>% 
+  filter(count > 100) %>% 
+  arrange(desc(median_length)) %>% 
+  ungroup()
+
+median_length_shape_data %>% 
+  ggplot(aes(x = ufo_shape, y = median_length, fill = ufo_shape)) + 
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(angle = 300)) +
+  labs(title = "The Bar Chart of Median of Encounter Length Time for Each Shape of UFO",
+       y = "Median of Encounter Length Time",
+       x = "UFO Shape")
+```
+
+<img src="visualization_jingyi_files/figure-gfm/unnamed-chunk-3-2.png" width="90%" />
