@@ -2,7 +2,7 @@
 title: "Visualization Jingyi"
 author: "Jingyi"
 date: "11/9/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r}
@@ -58,7 +58,7 @@ ufo = ufo_data %>%
 
 ```
 
-# Length Table and Plot
+# Length Time Descriptive Statistics Table and Plot
 
 ```{r Length Descriptive Data}
 
@@ -75,7 +75,7 @@ ufo %>%
   # arrange according to mean for each group
   arrange(desc(mean)) %>% 
   # knit a table
-  knitr::kable(digits = 2)
+  knitr::kable(digits = 2, caption = "The mean, median, sd, Q1, Q3 and IQR are for the variable lenght time (in seconds). ")
 
 ```
 
@@ -105,7 +105,9 @@ filtered_ufo %>%
   # set the transparency to 0.4 and set several customerized parameter
   geom_density(alpha = 0.4, adjust = 0.5, color = "cornsilk4") +
   # to make the fill colors a bit prettier
-  scale_fill_viridis(option = "plasma", discrete = TRUE)
+  scale_fill_viridis(option = "plasma", discrete = TRUE) +
+  labs(title = "Density Plot of Length Time for Each Country",
+       x = "Encounter Length Time")
 
 ```
 
@@ -149,8 +151,11 @@ lag_data = ufo %>%
 lag_data %>% 
   ggplot(aes(x = country, y = lag)) +
   geom_violin(aes(fill = country), color = "cornsilk4", alpha = 0.4) +
-  stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3)
+  stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
+  labs(title = "Violin Plot for the Lag Time in Actual Sighting Date and Documentation Date")
 
 ```
 
-This plot indicates that most of the data are documented relatively recent to their sighting, which is a good thing, because the longer the lag, the larger the possibility of wrongly documentation. 
+This plot indicates that most of the data are documented relatively recent to their sighting, which is a good thing, because the longer the lag, the larger the possibility of wrongly documentation.
+
+## Length Time and Shape Cross Checking
