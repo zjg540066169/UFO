@@ -53,6 +53,10 @@ ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percen
 ```
 
 <img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-2-1.png" width="90%" />
+Comment: According to the graph above, we can see that most of the data
+come from the United Statesa and some of them come from Canada.
+Australia and the United Kingdom contributed very litter amount of
+data.
 
 ``` r
 ## line plot showing the number of UFO observed across time among countries
@@ -73,6 +77,11 @@ title = " Line Plot of Number of UFO Observed Across Time Among different Countr
 ```
 
 <img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
+Comment: In this plot, we can see that for the United States the
+earliest data happens before 1925 and sometime after 1960 the amount of
+UFO sighting begins to increase. We can also see that most of UFO
+sighting reports taken place around 1990 and after. Similar trend for
+Canada, but the amount of them is not as much as the United States.
 
 ``` r
 ### Boxplot showing the distribution of the UFO Shape Observed in US
@@ -97,3 +106,33 @@ ufo %>%
 ```
 
 <img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-4-1.png" width="90%" />
+Comment: According to this plot, we can see that the light UFO shape was
+sighted most often, and the changed shape was the least often according
+to their medium value. Some of the most common sighted UFO shapes are
+light, trianle, circle, unknown, other, and fireball, disk, and sphere.
+Some of the least common sighted UFO shapes are changed crescent, delta,
+flare, hezagon, pyramid and round.
+
+``` r
+## heatmap showing 
+  ufo %>%
+  filter(year >= 1950, encounter_length < 10000) %>%
+  select(year, month, encounter_length) %>%
+  mutate(month = month.name[as.numeric(month)]) %>%
+  group_by(year,month) %>%
+  mutate(
+  Ave_length_per_month = mean(encounter_length/60)) %>%
+  select(-encounter_length) %>%
+  ggplot(aes(x = year, y = month)) +
+  geom_tile(aes(fill = Ave_length_per_month), colour = "white") +
+  scale_fill_gradient(low = "lightyellow", high = "darkblue") +
+  labs(
+    title = "Average UFO Encounter Length Compared among Months Across Time ",
+    x = "Years",
+    y = "Month"
+  ) + 
+  theme(axis.text.x = element_text(angle = 90)) +
+  theme(plot.subtitle = element_text(hjust = 0.5))
+```
+
+<img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-5-1.png" width="90%" />
