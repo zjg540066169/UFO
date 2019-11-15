@@ -125,14 +125,19 @@ According to this plot, we can see that the light UFO shape was sighted most oft
   ufo %>%
   filter(year >= 1950, encounter_length < 10000) %>%
   select(year, month, encounter_length) %>%
+  mutate(year = as.numeric(year))%>%
+  arrange(desc(month)) %>%
   mutate(month = month.name[as.numeric(month)]) %>%
   group_by(year,month) %>%
   mutate(
-  Ave_length_per_month = mean(encounter_length/60)) %>%
+  ave_encountered_length = mean(encounter_length/60)) %>%
   select(-encounter_length) %>%
   ggplot(aes(x = year, y = month)) +
-  geom_tile(aes(fill = Ave_length_per_month), colour = "white") +
+  geom_tile(aes(fill = ave_encountered_length), colour = "white") +
   scale_fill_gradient(low = "lightyellow", high = "darkblue") +
+  scale_x_continuous(name="Years", 
+                     breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
+                                ), limits=c (1950,2015))+
   labs(
     title = "Average UFO Encounter Length Compared among Months Across Time ",
     x = "Years",
