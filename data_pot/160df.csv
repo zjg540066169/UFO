@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"ozone park, , ny, us","Ozone Park, Queens, NY, USA","OK",-73.8507279,40.6794072
+"college point, , ny, us","College Point, Queens, NY, USA","OK",-73.8389657,40.786395
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"st. james, , ny, us","St James, NY, USA","OK",-73.1526623,40.8754335
+"washington, , nc, us","Washington, NC, USA","OK",-77.0521742,35.5465517
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"sequoia national park, , ca, us","Sequoia National Park, California, USA","OK",-118.5657516,36.4863668
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"stryker, , oh, us","Stryker, OH 43557, USA","OK",-84.4141164,41.5036623
+"lakewood, , co, us","Lakewood, CO, USA","OK",-105.0813734,39.7047095
+"niles, , il, us","Niles, IL, USA","OK",-87.8028402,42.0189191
+"la crescenta, , ca, us","La Crescenta-Montrose, CA, USA","OK",-118.2351192,34.228754
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"glen burnie, , md, us","Glen Burnie, MD, USA","OK",-76.6246886,39.1626084
+"shreveport, , la, us","Shreveport, LA, USA","OK",-93.7501789,32.5251516
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"deltona, , fl, us","Deltona, FL, USA","OK",-81.2636738,28.9005446
+"glocester, , ri, ","Glocester, RI, USA","OK",-71.691066,41.9043113
+"islamabad , pakistan, , ","Islamabad, Islamabad Capital Territory, Pakistan","OK",73.0478848,33.6844202
+"punta gorda, , fl, us","Punta Gorda, FL, USA","OK",-82.0453664,26.9297836
+"st. petersburg beach, , fl, ","St Pete Beach, FL, USA","OK",-82.7504542,27.7428134
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"bath, , nc, us","Bath, NC 27808, USA","OK",-76.8116045,35.4771094
+"ritzville , near; on i-90, wa, us","I-90, Ritzville, WA, USA","OK",-118.3679331,47.115698
+"st. peter, , mn, us","St Peter, MN 56082, USA","OK",-93.955691,44.3258932
+"hopkinton, , ma, us","Hopkinton, MA, USA","OK",-71.5225646,42.2286954
+"oswego, , il, us","Oswego, IL, USA","OK",-88.3514596,41.6828074
+"langley, , wa, us","Langley, WA 98260, USA","OK",-122.406257,48.0400945
+"mckees rocks, , pa, us","McKees Rocks, PA 15136, USA","OK",-80.0656106,40.4656244
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"agawam, , ma, us","Agawam, MA, USA","OK",-72.6148117,42.0695391
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"steamboat springs, , co, us","Steamboat Springs, CO 80487, USA","OK",-106.8317158,40.4849769
+"enterprise, , al, us","Enterprise, AL 36330, USA","OK",-85.8552161,31.3151708
+"mission viejo, , ca, us","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"hawthorne, , ca, us","Hawthorne, CA, USA","OK",-118.3525748,33.9164032
+"webster, , ny, us","Webster, NY 14580, USA","OK",-77.4299939,43.2122851
+"garden city , 30 miles east of, ks, us","Garden City, KS 67846, USA","OK",-100.8726618,37.9716898
+"newark, , de, us","Newark, DE, USA","OK",-75.7496572,39.6837226
+"barrington, , il, us","Barrington, IL 60010, USA","OK",-88.1361888,42.1539141
+"pleasant hill, , ca, us","Pleasant Hill, CA, USA","OK",-122.0607963,37.9479786
+"pleasant hill, , ca, us","Pleasant Hill, CA, USA","OK",-122.0607963,37.9479786
+"ahwatukee, , az, us","Ahwatukee Foothills Village, Phoenix, AZ, USA","OK",-112.0357137,33.3122624
+"antioch, , ca, us","Antioch, CA, USA","OK",-121.805789,38.0049214
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"wichita falls, , tx, us","Wichita Falls, TX, USA","OK",-98.4933873,33.9137085
+"natchitoches, , la, us","Natchitoches, LA, USA","OK",-93.0862749,31.7607195
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"westminster, , ca, us","Westminster, CA, USA","OK",-117.9897058,33.7591757
+"opposite of clearview hill&#44 clearview, , wa, ",NA,"REQUEST_DENIED",NA,NA
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"red bluff, , ca, us","Red Bluff, CA 96080, USA","OK",-122.2358302,40.1784886
+"annapolis, , md, us","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"hampstead, plaistow, nh, ","Plaistow, NH 03865, USA","OK",-71.0947805,42.8364781
+"tuscola, , tx, us","Tuscola, TX 79562, USA","OK",-99.7967542,32.2095776
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"almere , netherlands, fl, ","Almere, Netherlands","OK",5.2647016,52.3507849
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"fortville, , in, us","Fortville, IN 46040, USA","OK",-85.8480354,39.9322625
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"odessa, , tx, us","Odessa, TX, USA","OK",-102.3676431,31.8456816
+"odessa, , tx, us","Odessa, TX, USA","OK",-102.3676431,31.8456816
+"goodland, , ks, us","Goodland, KS 67735, USA","OK",-101.7101722,39.350833
+"new braunfels, , tx, us","New Braunfels, TX, USA","OK",-98.1244531,29.7030024
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"oregon, , il, us","Oregon, IL 61061, USA","OK",-89.3323279,42.0147513
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"hebron, , ct, us","Hebron, CT, USA","OK",-72.3659161,41.6578767
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"bovey, , mn, us","Bovey, MN 55709, USA","OK",-93.4159162,47.2955444
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"baytown, , tx, us","Baytown, TX, USA","OK",-94.9774274,29.7355047
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"silver spring, , md, us","Silver Spring, MD, USA","OK",-77.026088,38.9906657
+"crete, , il, us","Crete, IL 60417, USA","OK",-87.6314312,41.4444791
+"emmaus, , pa, us","Emmaus, PA 18049, USA","OK",-75.4968502,40.5395421
+"highspire, , pa, us","Highspire, PA, USA","OK",-76.7910821,40.2109244
+"newark, , de, us","Newark, DE, USA","OK",-75.7496572,39.6837226
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"aztec, , nm, us","Aztec, NM, USA","OK",-107.9928455,36.8222261
+"joao pessoa , brazil, , ","João Pessoa, State of Paraíba, Brazil","OK",-34.8450118,-7.1194958
+"enigma, , ga, us","Enigma, GA 31749, USA","OK",-83.3290468,31.4129695
+"ribeirao preto , brazil, , ","Ribeirao Preto - Conquista, Ribeirão Preto - State of São Paulo, Brazil","OK",-47.8103238,-21.1704008
+"mt. dora, , nm, us","Mt Dora, NM 88415, USA","OK",-103.4891183,36.51947
+"trabuco canyon, , ca, us","Trabuco Canyon, CA, USA","OK",-117.5869862,33.6655081
+"crystal river, , fl, us","Crystal River, FL, USA","OK",-82.5926012,28.902479
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

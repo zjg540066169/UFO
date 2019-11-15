@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"starke, , fl, us","Starke, FL 32091, USA","OK",-82.1098275,29.9441298
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"cookeville, , tn, us","Cookeville, TN, USA","OK",-85.5016423,36.162839
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"canyon country, , ca, us","Canyon Country, Santa Clarita, CA 91351, USA","OK",-118.4720633,34.4235425
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"thomson, , ga, us","Thomson, GA 30824, USA","OK",-82.5045733,33.4706927
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"hardy, , va, us","Hardy, VA 24101, USA","OK",-79.8114761,37.2317643
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"otis, , or, us","Otis, OR 97368, USA","OK",-123.9465021,45.0242748
+"charleston, , sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"northridge, , ca, us","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"alsip, , il, us","Alsip, IL, USA","OK",-87.7386619,41.6689223
+"granton, , wi, us","Granton, WI 54436, USA","OK",-90.4612469,44.5888512
+"burnsville, , nc, us","Burnsville, NC 28714, USA","OK",-82.300961,35.9173357
+"burnsville, , nc, us","Burnsville, NC 28714, USA","OK",-82.300961,35.9173357
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"ardmore, , ok, us","Ardmore, OK 73401, USA","OK",-97.1436254,34.1742611
+"emeryville, , ca, us","Emeryville, CA, USA","OK",-122.2892278,37.8395028
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"pelham , valleydale exit getting onto i-65 n, al, us","I-65, Alabama, USA","OK",-86.8008686,33.2855294
+"boone, , nc, us","Boone, NC, USA","OK",-81.6745517,36.216795
+"ardmore, , al, us","Ardmore, AL 35739, USA","OK",-86.8396032,34.9840722
+"hulett , near, wy, us","Hulett, WY 82720, USA","OK",-104.6016274,44.6827619
+"baytown, , tx, us","Baytown, TX, USA","OK",-94.9774274,29.7355047
+"boone, , nc, us","Boone, NC, USA","OK",-81.6745517,36.216795
+"east orange, , nj, us","East Orange, NJ, USA","OK",-74.2048677,40.767323
+"buffalo, , mn, us","Buffalo, MN 55313, USA","OK",-93.8747929,45.1717846
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"skippers, , va, us","Skippers, VA 23847, USA","OK",-77.5466463,36.6118169
+"kahnawake , canada, qc, ","Kahnawake, QC J0L 1B0, Canada","OK",-73.6814763,45.4107847
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"radcliff, , ky, us","Radcliff, KY, USA","OK",-85.9491298,37.8403456
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"rockport , aransas pass, tx, us","Rockport, TX 78382, USA","OK",-97.0544341,28.0205733
+"san jose del cabo , mexico, , ","San José del Cabo, Baja California Sur, Mexico","OK",-109.7024376,23.0636562
+"colby, , ks, us","Colby, KS 67701, USA","OK",-101.0523773,39.3958369
+"florence, , ky, us","Florence, KY, USA","OK",-84.6266111,38.9989499
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"morris, , il, us","Morris, IL 60450, USA","OK",-88.4211785,41.357254
+"troy, , mi, us","Troy, MI, USA","OK",-83.1497751,42.6064095
+"paradise valley, , az, us","Paradise Valley, AZ, USA","OK",-111.9426452,33.5311541
+"north las vegas, , nv, us","North Las Vegas, NV, USA","OK",-115.1175013,36.1988592
+"new bern, , nc, us","New Bern, NC, USA","OK",-77.0441143,35.108493
+"durham county , uk, , gb","Durham, UK","OK",-1.584852,54.77525
+"lafayette, , la, us","Lafayette, LA, USA","OK",-92.0198427,30.2240897
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"islamorada, , ny, ","Islamorada, FL, USA","OK",-80.6278364,24.9242943
+"stewartsville, , nj, us","Stewartsville, NJ 08886, USA","OK",-75.1110317,40.6939887
+"turner, , me, us","Turner, ME 04282, USA","OK",-70.2561671,44.2564588
+"wyoming, , mi, us","Wyoming, MI, USA","OK",-85.7053085,42.9133602
+"edgewater, , fl, us","Edgewater, FL, USA","OK",-80.9022758,28.9888754
+"lindsey , canada, on, ","Lindsay, Kawartha Lakes, ON, Canada","OK",-78.7407542,44.3565742
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"stanton, , mi, us","Stanton, MI 48888, USA","OK",-85.0814074,43.2925317
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"milford, , ct, us","Milford, CT, USA","OK",-73.064036,41.2306979
+"palm bay, , fl, us","Palm Bay, FL, USA","OK",-80.5886646,28.0344621
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"seguin , near, tx, us","Seguin, TX 78155, USA","OK",-97.9647269,29.5688411
+"tyson&#39s corner, , va, ",NA,"REQUEST_DENIED",NA,NA
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"kobe , japan, , ","Kobe, Hyogo, Japan","OK",135.1956311,34.6900806
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"cottonwood, , az, us","Cottonwood, AZ, USA","OK",-112.0098791,34.7391876
+"sugar land, , tx, us","Sugar Land, TX, USA","OK",-95.6225521,29.5984434
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"florenceville , canada, nb, ","Florenceville-Bristol, NB, Canada","OK",-67.6174347,46.4458166
+"framingham, , ma, us","Framingham, MA, USA","OK",-71.4161565,42.279286
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"shenzhen , china, , ","Shenzhen, Guangdong, China","OK",114.057865,22.543096
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"versailles, , mo, us","Versailles, MO 65084, USA","OK",-92.8410274,38.4314141
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"two rivers, , wi, us","Two Rivers, WI, USA","OK",-87.5692478,44.1538844
+"watertown, , ma, us","Watertown, MA, USA","OK",-71.1828321,42.3709299
+"wilson, , ok, us","Wilson, OK 73463, USA","OK",-97.4258551,34.1620385
+"barnegat, , nj, us","Barnegat Township, NJ, USA","OK",-74.2693297,39.7649223
+"oxford, , pa, us","Oxford, PA 19363, USA","OK",-75.9788349,39.785386
+"cleveland, , ok, us","Cleveland, OK 74020, USA","OK",-96.4641886,36.3100688
+"imperial, , mo, us","Imperial, MO, USA","OK",-90.3784525,38.3697763
+"twin lakes, , wi, us","Twin Lakes, WI, USA","OK",-88.2481461,42.5311294
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"charleston afs, , me, ","Charleston, ME 04422, USA","OK",-69.0405949,45.0850615
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"fishkill, , ny, us","Fishkill, NY 12524, USA","OK",-73.8990252,41.5356492
+"mexi-cali, , ca, ","Mexicali, Baja California, Mexico","OK",-115.4522623,32.6245389
+"new delhi , india, , ","New Delhi, Delhi, India","OK",77.2090212,28.6139391
+"bingen, , wa, us","Bingen, WA, USA","OK",-121.4645173,45.7148416
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"n. providence, , ri, ","North Providence, RI, USA","OK",-71.4676639,41.8535518
+"farmington, , mn, us","Farmington, MN, USA","OK",-93.1435497,44.6402434
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

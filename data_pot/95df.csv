@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"conway, , nc, us","Conway, NC 27820, USA","OK",-77.2288563,36.4370974
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"london, , oh, us","London, OH 43140, USA","OK",-83.4482529,39.8864493
+"dillon, , mt, us","Dillon, MT 59725, USA","OK",-112.6389244,45.2166324
+"endicott-vestal, , ny, ","East Dr, Vestal, NY 13850, USA","OK",-75.9615339,42.0876895
+"texas , location unspecified, tx, ","Texas, USA","OK",-99.9018131,31.9685988
+"st. joseph, , mi, us","St Joseph, MI, USA","OK",-86.4895463,42.0938577
+"marathon city, , wi, ","Marathon City, WI 54448, USA","OK",-89.8402105,44.9304719
+"hermosa beach, , ca, us","Hermosa Beach, CA 90254, USA","OK",-118.3995194,33.8622366
+"mayag&uuml;ez, , , ",NA,"ZERO_RESULTS",NA,NA
+"kilgore, , oh, us","Kilgore, OH 43903, USA","OK",-81.0017605,40.4642311
+"newbury park, , ca, us","Newbury Park, Thousand Oaks, CA, USA","OK",-118.9070887,34.1805403
+"rapid city,  box elder, sd, ","Box Elder, SD, USA","OK",-103.0682323,44.1124877
+"hinesburg, , vt, us","Hinesburg, VT, USA","OK",-73.110679,44.3292199
+"irmo, , sc, us","Irmo, SC, USA","OK",-81.1831513,34.0859829
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"feilding , new zealand, , ","Feilding, New Zealand","OK",175.5674795,-40.2253357
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"brisbane , australia, , au","Brisbane QLD, Australia","OK",153.0251235,-27.4697707
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"the colony, , tx, us","The Colony, TX, USA","OK",-96.8928309,33.0806083
+"martinez, , ca, us","Martinez, CA 94553, USA","OK",-122.1341321,38.0193657
+"ypsilanti township, , mi, ","Ypsilanti Charter Twp, MI, USA","OK",-83.6135572,42.1966292
+"fordsville, , ky, us","Fordsville, KY 42343, USA","OK",-86.7174873,37.6361638
+"nisga&#39a highway , canada, bc, ",NA,"REQUEST_DENIED",NA,NA
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"merritt island, , fl, us","Merritt Island, FL, USA","OK",-80.6659842,28.3180688
+"sembach , germany, , de","67681 Sembach, Germany","OK",7.8649826,49.511398
+"utah , just off i-70, ut, ","I-70, Utah, USA","OK",-111.0362337,38.8464861
+"camarillo, , ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"swansea , uk, , gb","Swansea, UK","OK",-3.943646,51.62144
+"quartzite, , az, ","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"lexington, , nc, us","Lexington, NC, USA","OK",-80.2533838,35.8240265
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"moraga, , ca, us","Moraga, CA, USA","OK",-122.1296871,37.8349263
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"lenwood, , ca, us","Lenwood, CA 92311, USA","OK",-117.1039314,34.8766497
+"salisbury, , md, us","Salisbury, MD, USA","OK",-75.5993692,38.3606736
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"fremont, , ca, us","Fremont, CA, USA","OK",-121.988583,37.5485396
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"fernwood, , id, us","Fernwood, ID 83830, USA","OK",-116.3931132,47.1122456
+"parsons, , ks, us","Parsons, KS, USA","OK",-95.2610838,37.3403384
+"hilo, , hi, us","Hilo, HI 96720, USA","OK",-155.0868193,19.7241106
+"colby, , ks, us","Colby, KS 67701, USA","OK",-101.0523773,39.3958369
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"lithonia, , ga, us","Lithonia, GA 30058, USA","OK",-84.1051939,33.7123305
+"mount ida, , ar, us","Mt Ida, AR 71957, USA","OK",-93.6340814,34.5567637
+"hyde park, , ny, us","Hyde Park, NY, USA","OK",-73.9015246,41.7667602
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"addison, , tx, us","Addison, TX, USA","OK",-96.8291685,32.96179
+"middlesex, , nj, us","Middlesex, NJ 08846, USA","OK",-74.4926541,40.572603
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"cape canaveral, , fl, us","Cape Canaveral, FL 32920, USA","OK",-80.6077132,28.3922182
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"lorain, , oh, us","Lorain, OH, USA","OK",-82.1823746,41.452819
+"youngstown, , oh, us","Youngstown, OH, USA","OK",-80.6495194,41.0997803
+"staunton, , va, us","Staunton, VA 24401, USA","OK",-79.0716958,38.149576
+"scranton, dunmore, pa, ","Dunmore, PA, USA","OK",-75.6324112,41.4198027
+"richmond hill, , ga, us","Richmond Hill, GA 31324, USA","OK",-81.3034433,31.9382652
+"lafayette, , la, us","Lafayette, LA, USA","OK",-92.0198427,30.2240897
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"rome, , ga, us","Rome, GA, USA","OK",-85.1646726,34.257038
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"sandy hook, , ms, us","Sandy Hook, MS 39478, USA","OK",-89.8047993,31.0362936
+"cork , republic of ireland, , ","Cork, Ireland","OK",-8.4756035,51.8985143
+"hurst, , tx, us","Hurst, TX, USA","OK",-97.1705678,32.8234621
+"jessup, , ga, ","Jesup, GA, USA","OK",-81.8853924,31.6074365
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"attleboro, , ma, us","Attleboro, MA, USA","OK",-71.2856082,41.9445441
+"braintree, , vt, ","Braintree, VT, USA","OK",-72.7046487,43.9621778
+"north topsail beach, , nc, us","North Topsail Beach, NC, USA","OK",-77.43163,34.4901665
+"hanford, , ca, us","Hanford, CA 93230, USA","OK",-119.6456844,36.3274502
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"bellingham-lummi, , wa, ","Lummi Nation, WA 98226, USA","OK",-122.6207684,48.7938886
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"spartanburg, , sc, us","Spartanburg, SC, USA","OK",-81.9320482,34.9495672
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"emeryville, , ca, us","Emeryville, CA, USA","OK",-122.2892278,37.8395028
+"san juan capistrano, , ca, us","San Juan Capistrano, CA, USA","OK",-117.6627655,33.5019027
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"burleson, , tx, us","Burleson, TX, USA","OK",-97.3208492,32.5420821
+"manitowoc, , wi, us","Manitowoc, WI 54220, USA","OK",-87.657584,44.0886059
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"bellefontaine, , oh, us","Bellefontaine, OH 43311, USA","OK",-83.7596557,40.3611643
+"eau clair, , wi, ","Eau Claire, WI, USA","OK",-91.4984941,44.811349
+"new york city , queens; elmhurst, ny, us","Elmhurst, Queens, NY, USA","OK",-73.8801301,40.737975
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"auburn, skaneateles , ny, ","4239 East Genesee Street Rd, Auburn, NY 13021, USA","OK",-76.460715,42.9438285
+"delta, , oh, us","Delta, OH 43515, USA","OK",-84.0052235,41.573663
+"litchfield, , me, ","Litchfield, ME 04350, USA","OK",-69.93356,44.1740739
+"belgrade, , me, us","Belgrade, ME, USA","OK",-69.8321003,44.4466514
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

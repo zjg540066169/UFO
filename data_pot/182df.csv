@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"red bank, , nj, us","Red Bank, NJ, USA","OK",-74.0643065,40.3470543
+"webster city, , ia, us","Webster City, IA 50595, USA","OK",-93.8159149,42.4694321
+"valley forge, , pa, us","Valley Forge, PA, USA","OK",-75.4690966,40.0989851
+"la plata, , md, us","La Plata, MD 20646, USA","OK",-76.9752514,38.5292877
+"richmond , canada, bc, ca","Richmond, BC, Canada","OK",-123.133569,49.1665898
+"joshua tree national park, , ca, ","Joshua Tree National Park, California, USA","OK",-115.9009923,33.873415
+"glenmore, , la, us","Glenmora, LA 71433, USA","OK",-92.5851402,30.9765797
+"viet nam , location not specified, , ",NA,"ZERO_RESULTS",NA,NA
+"richmond, berea, ky, ","Berea, KY, USA","OK",-84.2963223,37.568694
+"newton centre, , ma, ","Newton Centre, Newton, MA, USA","OK",-71.1948255,42.3300503
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"beaumont, , tx, us","Beaumont, TX, USA","OK",-94.1265562,30.080174
+"junction city, , ks, us","Junction City, KS, USA","OK",-96.8313978,39.0286093
+"new albany, , in, us","New Albany, IN 47150, USA","OK",-85.8241312,38.2856247
+"malvern, , ar, us","Malvern, AR 72104, USA","OK",-92.8129462,34.3623149
+"lake don pedro, , ca, ","Don Pedro Reservoir, California, USA","OK",-120.3839017,37.7354426
+"sisters , near, or, us","Sisters, OR 97759, USA","OK",-121.5492119,44.2909491
+"kaikoura , new zealand, , ","Kaikoura, New Zealand","OK",173.681386,-42.4008174
+"morris, , il, us","Morris, IL 60450, USA","OK",-88.4211785,41.357254
+"sanford, , fl, us","Sanford, FL, USA","OK",-81.269453,28.8028612
+"kingsport, , tn, us","Kingsport, TN, USA","OK",-82.5618186,36.548434
+"garner, , nc, us","Garner, NC, USA","OK",-78.6141709,35.7112642
+"santiago , chile, , ","Santiago, Santiago Metropolitan Region, Chile","OK",-70.6692655,-33.4488897
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"auburn, , al, us","Auburn, AL, USA","OK",-85.4807825,32.6098566
+"attleboro, , ma, us","Attleboro, MA, USA","OK",-71.2856082,41.9445441
+"guyana, , , ","Guyana","OK",-58.93018,4.860416
+"liberty, , nc, us","Liberty, NC 27298, USA","OK",-79.5716903,35.8534705
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"tete jaune cache , canada, bc, ","Tête Jaune Cache, BC V0J, Canada","OK",-119.43007,52.965885
+"lenox, , ma, us","Lenox, MA, USA","OK",-73.2848762,42.3564609
+"fairview , scott county, va, us","Fairview, 6, VA 24244, USA","OK",-82.9023863,36.6345377
+"elkland, , mo, us","Elkland, MO 65644, USA","OK",-93.031015,37.4430998
+"kaitaia , new zealand, , ","Kaitaia, New Zealand","OK",173.2675593,-35.1173296
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"laguna beach, , ca, us","Laguna Beach, CA, USA","OK",-117.7853568,33.5427189
+"warren, , pa, us","Warren, PA 16365, USA","OK",-79.1450445,41.8439486
+"youngstown, , oh, us","Youngstown, OH, USA","OK",-80.6495194,41.0997803
+"el toro, , ca, us","Lake Forest, CA, USA","OK",-117.6861023,33.6469437
+"st-bruno , canada, pq, ","St-Bruno-de-Montarville, QC, Canada","OK",-73.3406679,45.525974
+"alliance, , oh, us","Alliance, OH 44601, USA","OK",-81.1059309,40.9153362
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"carpinteria, , ca, us","Carpinteria, CA, USA","OK",-119.5184564,34.3988838
+"knoxville, , ia, us","Knoxville, IA 50138, USA","OK",-93.09967,41.320343
+"elkridge, , md, us","Elkridge, MD, USA","OK",-76.7625073,39.1978788
+"hawesville, , ky, us","Hawesville, KY 42348, USA","OK",-86.754988,37.9000554
+"ainsworth, , ne, us","Ainsworth, NE 69210, USA","OK",-99.8615126,42.5449992
+"newtown, , ct, us","Newtown, CT, USA","OK",-73.3035656,41.4141116
+"bartlett, , tn, us","Bartlett, TN, USA","OK",-89.8739753,35.2045328
+"thief river falls, , mn, us","Thief River Falls, MN 56701, USA","OK",-96.1811473,48.1191353
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"salida, , ca, us","Salida, CA, USA","OK",-121.0849369,37.7057623
+"iola, , il, us","Iola, IL 62838, USA","OK",-88.6281063,38.8344904
+"scranton, , pa, us","Scranton, PA, USA","OK",-75.6624122,41.408969
+"gardiner, , me, us","Gardiner, ME, USA","OK",-69.7753222,44.2300698
+"marlette, , mi, us","Marlette, MI 48453, USA","OK",-83.08022,43.3269685
+"waterford, , wi, us","Waterford, WI, USA","OK",-88.2142563,42.7630722
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"arab, , al, us","Arab, AL 35016, USA","OK",-86.4958219,34.3181497
+"rocky point, hampstead , nc, ","Rocky Point, NC, USA","OK",-77.8877304,34.4350957
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"carmel, , in, us","Carmel, IN, USA","OK",-86.1180435,39.978371
+"saratoga springs , crescent &amp; kaydeross ave., ny, us","Crescent Ave, Saratoga Springs, NY 12866, USA","OK",-73.7569028,43.0548101
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"saratoga lake, saratoga springs, ny, ","Saratoga Lake, New York, USA","OK",-73.7419017,43.0185777
+"easton, , pa, us","Easton, PA, USA","OK",-75.2207323,40.688432
+"fairbanks, , ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"bethlehem, , pa, us","Bethlehem, PA, USA","OK",-75.3704579,40.6259316
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"middletown, , oh, us","Middletown, OH, USA","OK",-84.3982763,39.5150576
+"hinton, , wv, us","Hinton, WV 25951, USA","OK",-80.8892539,37.674008
+"senftenberg , germany, , de","Senftenberg, Germany","OK",13.996908,51.5189796
+"orlando , disney world resort, fl, us","Walt Disney World Resort, Orlando, FL 32830, USA","OK",-81.563874,28.385233
+"county cork , republic of ireland, , ","Cork, Co. Cork, Ireland","OK",-8.7285446,51.994206
+"woodville , from&#44 to weeksville , nc, us",NA,"REQUEST_DENIED",NA,NA
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"mountain grove, cabool, mo, ","826 Ozark St, Cabool, MO 65689, USA","OK",-92.104572,37.123644
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"north syracuse, , ny, us","North Syracuse, NY, USA","OK",-76.1299238,43.1347897
+"redwood valley, , ca, us","Redwood Valley, CA 95470, USA","OK",-123.2041429,39.2652491
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"waldorf, , md, us","Waldorf, MD, USA","OK",-76.9105483,38.6265124
+"palo alto, , ca, us","Palo Alto, CA, USA","OK",-122.1430195,37.4418834
+"savoonga, , ak, us","Savoonga, AK 99769, USA","OK",-170.4788888,63.6941667
+"st. thomas , canada, on, ca","St Thomas, ON, Canada","OK",-81.1826527,42.7777214
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"north pole, , ak, us","North Pole, AK 99705, USA","OK",-147.3494443,64.7511111
+"beaver, , pa, us","Beaver, PA, USA","OK",-80.3047846,40.6953437
+"beaver, , pa, us","Beaver, PA, USA","OK",-80.3047846,40.6953437
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"gillsville, , ga, us","Gillsville, GA 30543, USA","OK",-83.6335036,34.3078817
+"brandon, , ms, us","Brandon, MS, USA","OK",-90.001384,32.2788733
+"cordova, , ak, us","Cordova, AK 99574, USA","OK",-145.7525414,60.5424087
+"republic of ireland , on beach, , ",NA,"ZERO_RESULTS",NA,NA
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

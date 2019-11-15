@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"shoreline, , wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"belgrade, , mt, us","Belgrade, MT 59714, USA","OK",-111.1770945,45.7762463
+"canon city, , co, us","Cañon City, CO 81212, USA","OK",-105.2253316,38.4494063
+"mcallen, , tx, us","McAllen, TX, USA","OK",-98.2300124,26.2034071
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"cary, , nc, us","Cary, NC, USA","OK",-78.7811169,35.79154
+"corinth, , ny, us","Corinth, NY 12822, USA","OK",-73.8323446,43.2445168
+"forsyth, , mo, us","Forsyth, MO 65653, USA","OK",-93.1199012,36.6850612
+"glenpool, , ok, us","Glenpool, OK, USA","OK",-96.0088843,35.9553737
+"north chesterfield, , va, ","North Chesterfield, Richmond, VA 23234, USA","OK",-77.468513,37.458993
+"buckhead, , ga, us","Buckhead, Atlanta, GA, USA","OK",-84.406761,33.8372663
+"shartlesville, , pa, us","Shartlesville, PA 19506, USA","OK",-76.1043858,40.5128706
+"loxahatchee, , fl, us","Loxahatchee, FL 33412, USA","OK",-80.238888,26.771624
+"clermont, , fl, us","Clermont, FL, USA","OK",-81.7728543,28.5494447
+"menifee, , ca, us","Menifee, CA, USA","OK",-117.185294,33.6971468
+"covington, , ky, us","Covington, KY, USA","OK",-84.5085536,39.0836712
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"coldwater, , ms, us","Coldwater, MS 38618, USA","OK",-89.9773124,34.6917684
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"carrollton , 6 miles west of&#44 on garrett circle, ga, us",NA,"REQUEST_DENIED",NA,NA
+"llanelli , uk, , gb","Llanelli, UK","OK",-4.160248,51.680886
+"kingsville, , oh, us","Kingsville, OH, USA","OK",-80.6758667,41.8901248
+"washburn, , mo, us","Washburn, MO, USA","OK",-93.9660351,36.587014
+"laramie, , wy, us","Laramie, WY, USA","OK",-105.5911007,41.3113669
+"iraq , 10 km inside border with kuwait, , ",NA,"ZERO_RESULTS",NA,NA
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"moorehead, , mn, ","Moorhead, MN, USA","OK",-96.7678039,46.8737648
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"wanaque, , nj, us","Wanaque, NJ, USA","OK",-74.2940378,41.0381525
+"fullerton , from&#44 spotted 20 deg. abovew horizon, ca, us",NA,"REQUEST_DENIED",NA,NA
+"cleveland, , ga, us","Cleveland, GA 30528, USA","OK",-83.7632366,34.5970402
+"sweetwater, , tx, us","Sweetwater, TX 79556, USA","OK",-100.4059384,32.4709519
+"isle of palms, , sc, us","Isle of Palms, SC, USA","OK",-79.7343791,32.8194131
+"shah alam, selangor , , ","Shah Alam, Selangor, Malaysia","OK",101.518461,3.073281
+"northbrook, , il, us","Northbrook, IL 60062, USA","OK",-87.8289548,42.1275267
+"almont, , mi, us","Almont, MI 48003, USA","OK",-83.0449347,42.9205842
+"princeton, , nj, us","Princeton, NJ, USA","OK",-74.6672226,40.3572976
+"hamedan , iran, , ","Hamedan, Hamadan Province, Iran","OK",48.5150225,34.7988575
+"parkton, , md, us","Parkton, MD 21120, USA","OK",-76.6582589,39.6430963
+"brookhaven, , ms, us","Brookhaven, MS 39601, USA","OK",-90.4406506,31.5790588
+"homer, , ak, us","Homer, AK, USA","OK",-151.5483333,59.6425
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"lackawaxen, , pa, us","Lackawaxen Township, PA, USA","OK",-75.0844757,41.476481
+"columbia, , ky, us","Columbia, KY 42728, USA","OK",-85.3063504,37.102841
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"philadelphia , south, pa, us","South Philadelphia, Philadelphia, PA, USA","OK",-75.1694502,39.9256138
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"three forks, , mt, us","Three Forks, MT 59752, USA","OK",-111.5521925,45.892428
+"orland, , ca, us","Orland, CA 95963, USA","OK",-122.1963748,39.7473803
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"columbia, , ky, us","Columbia, KY 42728, USA","OK",-85.3063504,37.102841
+"brimfield, , ma, us","Brimfield, MA, USA","OK",-72.2005059,42.1225482
+"alpine, , tx, us","Alpine, TX, USA","OK",-103.6610115,30.3584919
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"farmerville, , la, us","Farmerville, LA 71241, USA","OK",-92.4056985,32.7734728
+"chatham, , ny, us","Chatham, NY 12037, USA","OK",-73.5948391,42.3642516
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"west warwick, , ri, us","West Warwick, RI 02893, USA","OK",-71.5215024,41.7036711
+"west columbia, , tx, ","West Columbia, TX 77486, USA","OK",-95.6452249,29.1438582
+"williamsport, , pa, us","Williamsport, PA, USA","OK",-77.0010786,41.2411897
+"williamsport, , pa, us","Williamsport, PA, USA","OK",-77.0010786,41.2411897
+"swinnomish channel, , wa, ","Swinomish Channel, Washington, USA","OK",-122.5006349,48.4163677
+"nogales, , az, us","Nogales, AZ 85621, USA","OK",-110.9342532,31.3403775
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"enterprise, , al, us","Enterprise, AL 36330, USA","OK",-85.8552161,31.3151708
+"grand isle, , vt, us","Grand Isle, VT 05458, USA","OK",-73.2923538,44.7225436
+"saint cloud, , mn, us","St Cloud, MN, USA","OK",-94.1632404,45.5579451
+"castleford nr leeds, , , ","Castleford, UK","OK",-1.345968,53.723466
+"indianola, , ia, us","Indianola, IA 50125, USA","OK",-93.5574376,41.3580484
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"horizon city, , tx, us","Horizon City, TX 79928, USA","OK",-106.2074793,31.6926121
+"livingston, , mt, us","Livingston, MT 59047, USA","OK",-110.5599556,45.6614105
+"pikeville, , ky, us","Pikeville, KY 41501, USA","OK",-82.5187629,37.4792672
+"isle of palms, , sc, us","Isle of Palms, SC, USA","OK",-79.7343791,32.8194131
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"coralville, , ia, us","Coralville, IA, USA","OK",-91.5960643,41.6822756
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"frackville, , pa, us","Frackville, PA 17931, USA","OK",-76.2302211,40.7839774
+"leyland&#44 lancashire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"oxford, , al, us","Oxford, AL, USA","OK",-85.8349648,33.6142714
+"quesnel , canada, bc, ca","Quesnel, BC, Canada","OK",-122.4949058,52.9817372
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

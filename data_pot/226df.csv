@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"vernon , canada, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"tadmarton&#44 banbury , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"great falls , 14 miles north of, mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"acton, , ca, us","Acton, CA 93510, USA","OK",-118.1967418,34.469994
+"smithshire, , il, us","Smithshire, IL 61478, USA","OK",-90.7805392,40.7924196
+"cheyenne, , wy, us","Cheyenne, WY, USA","OK",-104.8202462,41.1399814
+"china spring, , tx, ","China Spring, TX 76633, USA","OK",-97.3079638,31.6522133
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"centennial, , co, us","Centennial, CO, USA","OK",-104.8771726,39.5807452
+"centralia, , wa, us","Centralia, WA, USA","OK",-122.9542972,46.7162136
+"west tawakoni, , tx, ","West Tawakoni, TX 75474, USA","OK",-96.0323902,32.903534
+"germansville, , pa, us","Germansville, PA 18053, USA","OK",-75.706936,40.7014311
+"aurora, , oh, us","Aurora, OH 44202, USA","OK",-81.3453858,41.3175549
+"woodbridge, , va, us","Woodbridge, VA 22191, USA","OK",-77.2497049,38.6581722
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"fairfield, , ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"high prairie , canada, ab, ca","High Prairie, AB T0G 1E0, Canada","OK",-116.4886918,55.4328991
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"farmington, , nm, us","Farmington, NM, USA","OK",-108.2186856,36.7280583
+"big pines, , ca, us","Big Pines, CA 92397, USA","OK",-117.68917,34.37889
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"blairsville, , ga, us","Blairsville, GA 30512, USA","OK",-83.9582412,34.8761989
+"antelope, , ca, us","Antelope, CA, USA","OK",-121.3644216,38.7166871
+"annapolis, severna park, md, ","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"centralia, , il, us","Centralia, IL 62801, USA","OK",-89.1316944,38.5285169
+"walnut creek, , ca, us","Walnut Creek, CA, USA","OK",-122.0651819,37.9100783
+"bloomfield, , nj, us","Bloomfield, NJ, USA","OK",-74.1854209,40.8067546
+"muncie, , in, us","Muncie, IN, USA","OK",-85.3863599,40.1933767
+"sonoma, , ca, us","Sonoma, CA 95476, USA","OK",-122.4580356,38.291859
+"kingman, , ks, us","Kingman, KS 67068, USA","OK",-98.1136734,37.6458491
+"san francisco bay area, , ca, ","San Francisco Bay Area, CA, USA","OK",-122.2913078,37.8271784
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"ware, , ma, us","Ware, MA 01082, USA","OK",-72.2398566,42.2598457
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"palatka, , fl, us","Palatka, FL 32177, USA","OK",-81.6375819,29.6485801
+"burlington, , co, us","Burlington, CO 80807, USA","OK",-102.2693563,39.3061082
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"ashford, , wa, us","Ashford, WA 98304, USA","OK",-122.0309408,46.7584413
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"colorado city, , co, us","Colorado City, CO, USA","OK",-104.8352628,37.9452861
+"brewster, carmel, ny, ","Brewster, NY 10509, USA","OK",-73.6170721,41.3973163
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"frankfort, , in, us","Frankfort, IN 46041, USA","OK",-86.5108355,40.2794809
+"newbury park, , ca, us","Newbury Park, Thousand Oaks, CA, USA","OK",-118.9070887,34.1805403
+"otterbein, , in, us","Otterbein, IN 47970, USA","OK",-87.0964025,40.4905905
+"deer park, , ny, us","Deer Park, NY, USA","OK",-73.3292857,40.7617653
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"port townsend, , wa, us","Port Townsend, WA 98368, USA","OK",-122.7604471,48.1170387
+"bath, , oh, us","Bath Township, OH, USA","OK",-81.6363869,41.1674946
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"mount pleasant, , mi, us","Mt Pleasant, MI 48858, USA","OK",-84.7675139,43.5978075
+"chesnee, , sc, us","Chesnee, SC 29323, USA","OK",-81.8609371,35.1484549
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"seminole, , fl, us","Seminole, FL, USA","OK",-82.7912134,27.8397466
+"prior lake, , mn, us","Prior Lake, MN, USA","OK",-93.4227274,44.7132969
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"acworth, , ga, us","Acworth, GA, USA","OK",-84.6768796,34.0659329
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"canby, , or, us","Canby, OR 97013, USA","OK",-122.6921253,45.262316
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"tiverton, , ri, us","Tiverton, RI, USA","OK",-71.2134231,41.6259211
+"lodi, , nj, us","Lodi, NJ 07644, USA","OK",-74.0831971,40.8823215
+"iquique, , , ","Iquique, Tarapacá Region, Chile","OK",-70.1356692,-20.2307033
+"grand rapids to nyc , in flight, ab, ","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"colquitt, , ga, us","Colquitt, GA 39837, USA","OK",-84.7332527,31.1712935
+"maiden, , nc, us","Maiden, NC, USA","OK",-81.2117473,35.5756889
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"south hiram, , me, us","South Hiram, Hiram, ME 04041, USA","OK",-70.8775639,43.8128529
+"anthony, , fl, us","Anthony, FL, USA","OK",-82.1116645,29.2894703
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"wildwood, , fl, us","Wildwood, FL, USA","OK",-82.0389743,28.865264
+"plymouth , uk, , gb","Plymouth, UK","OK",-4.1426565,50.3754565
+"suzhou , china, , ","Suzhou, Jiangsu, China","OK",120.585289,31.298974
+"kleive , norway, , ","Kleive, Norway","OK",7.6455558,62.7970569
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"azua , dominican republic, , ","Azua 71000, Dominican Republic","OK",-70.7346887,18.4531742
+"hugo , southeast ok, ok, us","300-398, US-70 BUS, Hugo, OK 74743, United States","OK",-95.5149432,34.0109395
+"gifford, , il, us","Gifford, IL, USA","OK",-88.0211489,40.3058679
+"webster groves , st. louis, mo, us","Webster Groves, MO, USA","OK",-90.3573389,38.5925524
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"bristol , uk, , gb","Bristol, UK","OK",-2.58791,51.454513
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"north miami beach, , fl, us","North Miami Beach, FL, USA","OK",-80.1625463,25.9331488
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"armonk, , ny, us","Armonk, NY 10504, USA","OK",-73.7140195,41.1264849
+"murray, , ky, us","Murray, KY 42071, USA","OK",-88.314761,36.6103334
+"menifee, , ca, us","Menifee, CA, USA","OK",-117.185294,33.6971468
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

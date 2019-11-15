@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"ashland, , ne, us","Ashland, NE 68003, USA","OK",-96.3683157,41.0393413
+"ashland, , ne, us","Ashland, NE 68003, USA","OK",-96.3683157,41.0393413
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"gastonia, , nc, us","Gastonia, NC, USA","OK",-81.1873005,35.262082
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"vernon , canada, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"belle chasse, , la, us","Belle Chasse, LA, USA","OK",-89.9906253,29.8549287
+"stockbridge and whitmore lake, , mi, ","Stockbridge, MI 49285, USA","OK",-84.1805146,42.4511466
+"kingston, , tn, us","Kingston, TN 37763, USA","OK",-84.5085447,35.8809084
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"pico rivera, , ca, us","Pico Rivera, CA, USA","OK",-118.096735,33.9830688
+"ashgrove, , mo, ","Ash Grove, MO 65604, USA","OK",-93.5852004,37.3153257
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"union, , mo, us","Union, MO 63084, USA","OK",-91.0084762,38.4500517
+"auberry, , ca, us","Auberry, CA, USA","OK",-119.4854113,37.0807823
+"lancaster, , oh, us","Lancaster, OH 43130, USA","OK",-82.5993294,39.7136754
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"syracuse, weedsport , ny, ","2483 NY-31, Weedsport, NY 13166, USA","OK",-76.576859,43.044311
+"wayne, , nj, us","Wayne, NJ 07470, USA","OK",-74.2765441,40.9253725
+"auberry, , ca, us","Auberry, CA, USA","OK",-119.4854113,37.0807823
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"laurel, , mt, us","Laurel, MT 59044, USA","OK",-108.7715328,45.6691159
+"owensville, , in, us","Owensville, IN 47665, USA","OK",-87.6878036,38.2719894
+"princeton, , in, us","Princeton, IN 47670, USA","OK",-87.5675222,38.3553236
+"gage, , ok, us","Gage, OK, USA","OK",-99.7576179,36.3155944
+"avondale, , az, us","Avondale, AZ, USA","OK",-112.3496021,33.4355977
+"wanamassa, , nj, us","Wanamassa, NJ 07712, USA","OK",-74.026081,40.233824
+"swarthmore, , pa, us","Swarthmore, PA 19081, USA","OK",-75.3499123,39.9020565
+"fort lewis, , wa, ","Fort Lewis, Joint Base Lewis-McChord, Washington, USA","OK",-122.4857321,47.1342432
+"lake village, , ar, us","Lake Village, AR 71653, USA","OK",-91.2842212,33.3314091
+"washington&#44 d.c.  , just outside of, va, ",NA,"REQUEST_DENIED",NA,NA
+"ajo , and southern arizona, az, us","Ajo, AZ 85321, USA","OK",-112.8607099,32.3717248
+"ajo, , az, us","Ajo, AZ 85321, USA","OK",-112.8607099,32.3717248
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"cold spring harbor, , ny, us","Cold Spring Harbor, NY, USA","OK",-73.456788,40.8714873
+"ajo, , az, us","Ajo, AZ 85321, USA","OK",-112.8607099,32.3717248
+"ajo, , or, ","Ajo, AZ 85321, USA","OK",-112.8607099,32.3717248
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"carrollton , hwy. 65&#44 northbound, mo, us",NA,"REQUEST_DENIED",NA,NA
+"nelsonville, , oh, us","Nelsonville, OH 45764, USA","OK",-82.2318156,39.458681
+"taft, , ca, ","Taft, CA, USA","OK",-119.4565078,35.1424671
+"monroe, , wa, us","Monroe, WA, USA","OK",-121.970958,47.8553772
+"north palm beach, , fl, us","North Palm Beach, FL, USA","OK",-80.0590804,26.8171165
+"heath, , oh, us","Heath, OH, USA","OK",-82.4445991,40.0228421
+"heath, , oh, us","Heath, OH, USA","OK",-82.4445991,40.0228421
+"sandy hook, , ms, us","Sandy Hook, MS 39478, USA","OK",-89.8047993,31.0362936
+"forsyth, , ga, us","Forsyth, GA 31029, USA","OK",-83.938242,33.0342974
+"arlington, , oh, us","Arlington, OH 45814, USA","OK",-83.6502092,40.8936647
+"oneonta, , ny, us","Oneonta, NY 13820, USA","OK",-75.0637746,42.4528571
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"junction city, , or, us","Junction City, OR 97448, USA","OK",-123.2056484,44.2192901
+"balapur&#44 hyderabad , india, , ",NA,"REQUEST_DENIED",NA,NA
+"galveston, , tx, us","Galveston, TX, USA","OK",-94.7976958,29.3013479
+"hiawassee, , ga, us","Hiawassee, GA 30546, USA","OK",-83.7573948,34.9492586
+"alamogordo, , nm, us","Alamogordo, NM 88310, USA","OK",-105.960265,32.8995325
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"litha, , fl, ","Lithia, FL, USA","OK",-82.1496049,27.8187623
+"sedalia, , mo, us","Sedalia, MO 65301, USA","OK",-93.2282613,38.7044609
+"menifee, , ca, us","Menifee, CA, USA","OK",-117.185294,33.6971468
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"playa del rey, , ca, us","Playa Del Rey, Los Angeles, CA, USA","OK",-118.4422317,33.9564194
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"elkton, , md, us","Elkton, MD 21921, USA","OK",-75.8332718,39.6067789
+"miami , kendall, fl, us","Kendall, FL, USA","OK",-80.357827,25.6660336
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"tallahasse, , fl, ","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"koshkonong, , mo, us","Koshkonong, MO 65692, USA","OK",-91.6456994,36.5958946
+"grande prairie , canada, ab, ca","Grande Prairie, AB, Canada","OK",-118.7884464,55.1707126
+"greensburg, , in, us","Greensburg, IN 47240, USA","OK",-85.483581,39.3372722
+"yankton, , sd, us","Yankton, SD 57078, USA","OK",-97.3972813,42.8711088
+"gurgaon , india, , ","Gurugram, Haryana, India","OK",77.0266383,28.4594965
+"kill devil hills, , nc, us","Kill Devil Hills, NC 27948, USA","OK",-75.6760101,36.0307226
+"kelley, , ia, us","Kelley, IA 50134, USA","OK",-93.66522,41.950542
+"palatine, , il, us","Palatine, IL, USA","OK",-88.03424,42.1103041
+"sandwich, , ma, us","Sandwich, MA, USA","OK",-70.4939317,41.7589615
+"calhoun, , ga, us","Calhoun, GA, USA","OK",-84.9510542,34.502587
+"union city, , ca, us","Union City, CA, USA","OK",-122.0438609,37.5933562
+"menasha, , wi, us","Menasha, WI, USA","OK",-88.4464973,44.2022084
+"schenectady, , ny, us","Schenectady, NY, USA","OK",-73.9395687,42.8142432
+"harker heights, , tx, us","Harker Heights, TX, USA","OK",-97.6597376,31.0835102
+"mukilteo, , wa, us","Mukilteo, WA, USA","OK",-122.3045815,47.9445396
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"dunedin, , fl, us","Dunedin, FL, USA","OK",-82.7717684,28.0197404
+"little chute, , wi, us","Little Chute, WI, USA","OK",-88.3184394,44.2799872
+"stanford, , ky, us","Stanford, KY 40484, USA","OK",-84.6618876,37.5311901
+"waukegan, , il, us","Waukegan, IL, USA","OK",-87.8447938,42.3636331
+"marietta, , ga, us","Marietta, GA, USA","OK",-84.5499327,33.952602
+"hampstead, , nh, us","Hampstead, NH, USA","OK",-71.1809803,42.8744882
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"coweta, , ok, us","Coweta, OK, USA","OK",-95.650814,35.9517674
+"oakley, , ca, us","Oakley, CA 94561, USA","OK",-121.7124536,37.9974219
+"oakley, , ca, us","Oakley, CA 94561, USA","OK",-121.7124536,37.9974219
+"bridgewater, , nj, ","Bridgewater Township, NJ, USA","OK",-74.6049061,40.5939636
+"douglasville, , ga, us","Douglasville, GA, USA","OK",-84.7477136,33.7514966
+"wilmington, , oh, us","Wilmington, OH 45177, USA","OK",-83.8285375,39.4453393
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

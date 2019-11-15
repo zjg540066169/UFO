@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"urbana, , il, us","Urbana, IL, USA","OK",-88.2072697,40.1105875
+"colleyville, , tx, us","Colleyville, TX 76034, USA","OK",-97.155012,32.8809603
+"dover, , ar, us","Dover, AR 72837, USA","OK",-93.1143407,35.4014712
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"bardstown, , ky, us","Bardstown, KY 40004, USA","OK",-85.4669025,37.8092279
+"watkinsville, , ga, us","Watkinsville, GA, USA","OK",-83.4087708,33.8628959
+"liberty, , ny, us","Liberty, NY, USA","OK",-74.74655,41.8012001
+"purchase, , ny, us","Purchase, Harrison, NY 10577, USA","OK",-73.7144477,41.0400135
+"dallas, , pa, us","Dallas, PA 18612, USA","OK",-75.9632546,41.3361911
+"iceland , approximately; over water, , ",NA,"ZERO_RESULTS",NA,NA
+"siedlce , poland, , ","Siedlce, Poland","OK",22.2901645,52.1676031
+"dalton, , ga, us","Dalton, GA, USA","OK",-84.9702228,34.7698021
+"helena, , mt, us","Helena, MT, USA","OK",-112.0391057,46.5891452
+"morganton, , nc, us","Morganton, NC 28655, USA","OK",-81.6848188,35.7454071
+"farmington , ?, me, us","Farmington, ME, USA","OK",-70.1512169,44.6704998
+"camdenton, , mo, us","Camdenton, MO 65020, USA","OK",-92.7446289,38.0080902
+"avon park, , fl, us","Avon Park, FL 33825, USA","OK",-81.5061862,27.5958672
+"warner robins, , ga, us","Warner Robins, GA, USA","OK",-83.624201,32.6130007
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"rainier, , wa, us","Rainier, WA 98576, USA","OK",-122.6884595,46.888155
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"medley, , fl, us","Medley, FL, USA","OK",-80.3264404,25.8406526
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"lakewood, , oh, us","Lakewood, OH, USA","OK",-81.7981908,41.4819932
+"spanish fork canyon, , ut, ","Spanish Fork Canyon, Spanish Fork, UT 84660, USA","OK",-111.5960297,40.0838445
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"memphis , 100 miles north of, tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"ridgefield, , wa, us","Ridgefield, WA 98642, USA","OK",-122.6881558,45.8143224
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"summerside , canada, pe, ca","Summerside, PE, Canada","OK",-63.7902331,46.3933777
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"dunstable , uk, , gb","Dunstable, UK","OK",-0.52039,51.885644
+"gardena, , ca, us","Gardena, CA, USA","OK",-118.3089624,33.8883487
+"gilmer, , tx, us","Gilmer, TX, USA","OK",-94.9424379,32.7287472
+"cathlamet, , wa, us","Cathlamet, WA 98612, USA","OK",-123.3831834,46.2031656
+"republic of ireland, , , ","Ireland","OK",-8.24389,53.41291
+"clarion, , pa, us","Clarion, PA 16214, USA","OK",-79.3853218,41.2147851
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"athens, , tx, us","Athens, TX, USA","OK",-95.8555207,32.2048735
+"kern, , tx, ","Kern Place, El Paso, TX 79902, USA","OK",-106.5009617,31.7831186
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"clanton, , al, us","Clanton, AL, USA","OK",-86.6294262,32.8387371
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"lichfield , uk, , gb","Lichfield, UK","OK",-1.831672,52.681602
+"highland park, , mi, us","Highland Park, MI 48203, USA","OK",-83.096868,42.4055925
+"paso robles, , ca, us","Paso Robles, CA 93446, USA","OK",-120.6545022,35.6368759
+"paso robles, , ca, us","Paso Robles, CA 93446, USA","OK",-120.6545022,35.6368759
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"groton, , ct, us","Groton, CT, USA","OK",-72.0790717,41.3497456
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"moses lake, , wa, us","Moses Lake, WA 98837, USA","OK",-119.2780771,47.1301417
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"blaine, , ky, us","Blaine, KY 41124, USA","OK",-82.8432177,38.0275889
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"orland park, , il, us","Orland Park, IL, USA","OK",-87.8539425,41.6303103
+"kingston, , ny, us","Kingston, NY 12401, USA","OK",-73.9973608,41.9270367
+"ocklawaha, , fl, us","Ocklawaha, FL 32179, USA","OK",-81.9292505,29.0427592
+"suwanee, gwinnett county, ga, ","Suwanee, GA 30024, USA","OK",-84.0712997,34.0514898
+"rockdale, , tx, us","Rockdale, TX 76567, USA","OK",-97.0013744,30.6554759
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"tipton, , mo, us","Tipton, MO 65081, USA","OK",-92.7799153,38.655578
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"lumberton, , tx, us","Lumberton, TX 77657, USA","OK",-94.1996286,30.2657655
+"rabun gap, , ga, ","Rabun Gap, GA 30568, USA","OK",-83.4299562,34.9464937
+"san diego area , on highway; beside camp pendleton, ca, ","Camp Pendleton North, CA, USA","OK",-117.3205123,33.3178416
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"kolar , bangalore, , ","Jayanagara, Kolar, Karnataka 563101, India","OK",78.1209201,13.1293642
+"pearland, , tx, us","Pearland, TX, USA","OK",-95.2860474,29.5635666
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"terlingua, , tx, us","Terlingua, TX 79852, USA","OK",-103.6160191,29.321586
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"warwick, , ri, us","Warwick, RI, USA","OK",-71.4161671,41.7001009
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"ardmore, , ok, us","Ardmore, OK 73401, USA","OK",-97.1436254,34.1742611
+"bethlehem, , pa, us","Bethlehem, PA, USA","OK",-75.3704579,40.6259316
+"mckinney, , tx, us","McKinney, TX, USA","OK",-96.6389342,33.1983388
+"clovis, , ca, us","Clovis, CA, USA","OK",-119.7029194,36.8252277
+"carson, , ca, us","Carson, CA, USA","OK",-118.281693,33.8316745
+"bear, , de, us","Bear, DE, USA","OK",-75.6582628,39.6292788
+"mount holly, , nc, us","Mt Holly, NC, USA","OK",-81.0159081,35.2981943
+"san diego , clairemont, ca, us","Clairemont, San Diego, CA, USA","OK",-117.1936969,32.82414
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"dallas , dfw airport, tx, us","DFW International Airport (DFW), 2400 Aviation Dr, DFW Airport, TX 75261, USA","OK",-97.0403352,32.8998091
+"weaverville, , ca, us","Weaverville, CA, USA","OK",-122.9419708,40.7309778
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"chadds ford, , pa, us","Chadds Ford Township, PA, USA","OK",-75.5684254,39.8653481
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"washington , near, ar, us","Washington County, AR, USA","OK",-94.1513764,35.9307703
+"winchester, , va, us","Winchester, VA 22601, USA","OK",-78.1633341,39.1856597
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

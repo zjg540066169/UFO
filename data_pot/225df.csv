@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"ripley, , ms, us","Ripley, MS 38663, USA","OK",-88.9506181,34.7298181
+"pahrump, , nv, us","Pahrump, NV, USA","OK",-115.9839147,36.2082943
+"coolidge, , az, us","Coolidge, AZ, USA","OK",-111.517624,32.977839
+"san francisco , ocean side of, ca, us","Oceanview, San Francisco, CA, USA","OK",-122.4566316,37.7141828
+"manchester, , tn, us","Manchester, TN 37355, USA","OK",-86.0885993,35.4817431
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"colombiana, , al, ","Columbiana, AL 35051, USA","OK",-86.6072054,33.1781718
+"weogufka, , al, us","Weogufka, AL 35151, USA","OK",-86.3121433,33.0167076
+"sterrett , 15 miles south of birmingham, al, us","Sterrett, AL 35147, USA","OK",-86.479982,33.448718
+"toney, , al, us","Toney, AL, USA","OK",-86.7333446,34.8983333
+"dalton, , ga, us","Dalton, GA, USA","OK",-84.9702228,34.7698021
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"cassville, , ga, us","Cassville, GA 30121, USA","OK",-84.852162,34.2448172
+"alabaster, , al, us","Alabaster, AL, USA","OK",-86.8163773,33.2442813
+"guyton, , ga, us","Guyton, GA 31312, USA","OK",-81.3921781,32.3421597
+"burna, , ky, us","Burna, KY 42028, USA","OK",-88.360591,37.2456099
+"west elkton, , oh, us","West Elkton, OH, USA","OK",-84.5543932,39.5878325
+"cleveland, , nc, us","Cleveland, NC 27013, USA","OK",-80.6770111,35.7331953
+"dallas , ft. worth area&#44 south of the, tx, ",NA,"REQUEST_DENIED",NA,NA
+"lutz, , fl, us","Lutz, FL, USA","OK",-82.4614831,28.1511243
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"o&#39fallon, , il, us",NA,"REQUEST_DENIED",NA,NA
+"darrington, , wa, us","Darrington, WA 98241, USA","OK",-121.6015142,48.2553867
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"brooklyn park, , mn, us","Brooklyn Park, MN, USA","OK",-93.3563405,45.0941315
+"ardmore, , ok, us","Ardmore, OK 73401, USA","OK",-97.1436254,34.1742611
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"gold bar, , wa, us","Gold Bar, WA, USA","OK",-121.6970606,47.8567695
+"montlu&ccedil;on , france, , ","03100 Montluçon, France","OK",2.6019912,46.3415466
+"prospect park, , pa, us","Prospect Park, PA, USA","OK",-75.3082426,39.8878904
+"isle of wight , uk, , gb","Isle of Wight, United Kingdom","OK",-1.304734,50.6938479
+"big bear city, , ca, us","Big Bear, CA 92314, USA","OK",-116.84503,34.2611183
+"avondale, , az, us","Avondale, AZ, USA","OK",-112.3496021,33.4355977
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"filion, , mi, us","Filion, MI 48432, USA","OK",-83.0035566,43.8955701
+"ferrum, , va, us","Ferrum, VA 24088, USA","OK",-80.0133712,36.9229159
+"sidney, , oh, us","Sidney, OH 45365, USA","OK",-84.1554987,40.2842164
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"callahan, , fl, us","Callahan, FL 32011, USA","OK",-81.8306621,30.5621807
+"birmingham, , tx, ","1303 Northwest Hwy, Garland, TX 75041, USA","OK",-96.6469259,32.864614
+"machesney park, , il, us","Machesney Park, IL, USA","OK",-89.0389956,42.3472406
+"baytown, , tx, us","Baytown, TX, USA","OK",-94.9774274,29.7355047
+"elk city, , ok, us","Elk City, OK, USA","OK",-99.4042592,35.4119944
+"richardson, , tx, us","Richardson, TX, USA","OK",-96.7298519,32.9483335
+"new providence, , pa, us","New Providence, PA 17560, USA","OK",-76.1980113,39.9253792
+"williamsport, , pa, us","Williamsport, PA, USA","OK",-77.0010786,41.2411897
+"greenwood, , la, us","Greenwood, LA, USA","OK",-93.9729615,32.4429323
+"mansfield , uk, , gb","Mansfield, UK","OK",-1.198674,53.147195
+"folsom , over, ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"bigelow, , ar, us","Bigelow, AR 72016, USA","OK",-92.6298847,35.0011986
+"dover, , tn, us","Dover, TN 37058, USA","OK",-87.8383567,36.4878291
+"avondale, , az, us","Avondale, AZ, USA","OK",-112.3496021,33.4355977
+"reseda , san fernando valley, ca, us","Reseda, Los Angeles, CA, USA","OK",-118.5360517,34.2011141
+"st. catharines , canada, on, ca","St. Catharines, ON, Canada","OK",-79.2468626,43.1593745
+"portage, , mi, us","Portage, MI, USA","OK",-85.5800022,42.2011538
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"havelock, , nc, us","Havelock, NC, USA","OK",-76.9013301,34.8790492
+"in-orbit , heard from americus&#44 ga, ga, ",NA,"REQUEST_DENIED",NA,NA
+"stafford, , va, us","Stafford Courthouse, VA 22554, USA","OK",-77.4083086,38.4220687
+"theodosia, , mo, us","Theodosia, MO 65761, USA","OK",-92.6760005,36.5828412
+"bensheim , germany, , de","64625 Bensheim, Germany","OK",8.6187296,49.6861354
+"dekalb , outside of, il, us","DeKalb, IL, USA","OK",-88.7503647,41.9294736
+"st charles, , il, us","St. Charles, IL, USA","OK",-88.3086867,41.9141945
+"lancaster, , pa, us","Lancaster County, PA, USA","OK",-76.1783739,40.0466571
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"orillia , canada, on, ca","Orillia, ON, Canada","OK",-79.4196783,44.6082465
+"cary, , nc, us","Cary, NC, USA","OK",-78.7811169,35.79154
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"corning, redding, ca, ","2655 Everett Freeman Way, Corning, CA 96021, USA","OK",-122.2028058,39.8746219
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"miami, , ok, us","Miami, OK 74354, USA","OK",-94.8774554,36.8745146
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"fruita, , co, us","Fruita, CO 81521, USA","OK",-108.7289882,39.1588696
+"northland, moerewa bay , , ","Moerewa, New Zealand","OK",174.0138692,-35.3878991
+"belleville, , il, us","Belleville, IL, USA","OK",-89.9839935,38.5200504
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"east stroudsburg, , pa, us","East Stroudsburg, PA 18301, USA","OK",-75.1817547,41.0030522
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"germantown, , tn, us","Germantown, TN, USA","OK",-89.8100858,35.0867577
+"desert hot springs, , ca, us","Desert Hot Springs, CA, USA","OK",-116.5016784,33.961124
+"carnarvon gorge , australia, , ","Obriens Rd, Carnarvon Park QLD 4702, Australia","OK",148.2553015,-25.0711829
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"homosassa, , fl, us","Homosassa, FL, USA","OK",-82.6151001,28.7813722
+"bainbridge, , ny, us","Bainbridge, NY 13733, USA","OK",-75.4793477,42.2934131
+"strathroy , canada, on, ca","Strathroy, ON, Canada","OK",-81.6232333,42.95542
+"bishkek , kyrgyzistan, , ","Bishkek, Kyrgyzstan","OK",74.5697617,42.8746212
+"fort pierce, , fl, us","Fort Pierce, FL, USA","OK",-80.3256056,27.4467056
+"fountain inn, , sc, us","Fountain Inn, SC, USA","OK",-82.1956679,34.6890095
+"forest hills , queens, ny, us","Forest Hills, Queens, NY 11375, USA","OK",-73.8448469,40.718106
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"los alamos, , nv, ","Los Alamos, NM 87544, USA","OK",-106.3031138,35.8800364
+"new carrollton, , md, us","New Carrollton, MD, USA","OK",-76.8802483,38.9657249
+"ypsilanti, , mi, us","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"center harbor, , nh, us","Center Harbor, NH, USA","OK",-71.4914747,43.7126985
+"belize , during cruise, , ","Fort St, Belize City, Belize","OK",-88.183619,17.492775
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

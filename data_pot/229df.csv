@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"appalachia, , va, us","Appalachia, VA 24216, USA","OK",-82.7818275,36.9067631
+"charleston, , sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"centralia, , il, us","Centralia, IL 62801, USA","OK",-89.1316944,38.5285169
+"australia, , , ","Australia","OK",133.775136,-25.274398
+"muenster , germany, , de","Münster, Germany","OK",7.6261347,51.9606649
+"sherman oaks, , ca, us","Sherman Oaks, Los Angeles, CA, USA","OK",-118.451357,34.1489719
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"chickasaw, , al, us","Chickasaw, AL, USA","OK",-88.0747222,30.7637991
+"dun laoghaire , county dublin , , ","Dún Laoghaire, Dublin, Ireland","OK",-6.1338666,53.2943958
+"sycamore, , ga, us","Sycamore, GA, USA","OK",-83.6373903,31.6743474
+"mabank, , tx, us","Mabank, TX, USA","OK",-96.1008056,32.3665322
+"oahu, , hi, ","O‘ahu, Hawaii, USA","OK",-158.0000565,21.4389123
+"richmond , australia, , au","Richmond VIC 3121, Australia","OK",144.998,-37.823
+"harbor beach, , mi, us","Harbor Beach, MI 48441, USA","OK",-82.6513186,43.8447369
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"brandford, , fl, ","Branford, FL 32008, USA","OK",-82.9281833,29.9591183
+"oxnard to yuma , enroute, ca, ",NA,"ZERO_RESULTS",NA,NA
+"elyria, , oh, us","Elyria, OH 44035, USA","OK",-82.1076486,41.3683798
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"oakwood, , ga, us","Oakwood, GA, USA","OK",-83.8843455,34.227602
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"rogersville, , tn, us","Rogersville, TN 37857, USA","OK",-83.0054423,36.407317
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"piedmont, , sc, us","Piedmont, SC 29673, USA","OK",-82.4645714,34.7023389
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"mount vernon, , wa, us","Mt Vernon, WA, USA","OK",-122.3374543,48.4201105
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"morristown, , tn, us","Morristown, TN, USA","OK",-83.2948922,36.2139814
+"saybrook, , oh, us","Saybrook, OH 44004, USA","OK",-80.8717567,41.8275537
+"grandville, , mi, us","Grandville, MI, USA","OK",-85.7630885,42.9097484
+"nova scotia , 200 miles se, ns, ","Nova Scotia, Canada","OK",-63.744311,44.6819866
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"baghdad , iraq, , ","Baghdad, Iraq","OK",44.3660671,33.315241
+"warrington, , pa, us","Warrington, PA 18976, USA","OK",-75.1340604,40.2492741
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"wheaton, , il, us","Wheaton, IL, USA","OK",-88.1070127,41.8661403
+"walden, , ny, us","Walden, NY 12586, USA","OK",-74.1884806,41.5612048
+"ennis, , tx, us","Ennis, TX, USA","OK",-96.6252679,32.3293111
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"lucedale, , ms, us","Lucedale, MS 39452, USA","OK",-88.5900235,30.9251869
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"corinth, bradford, vt, ","Bradford, VT, USA","OK",-72.1290054,43.9925315
+"denver, , pa, us","Denver, PA, USA","OK",-76.1371683,40.2331483
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"bloomsburg, , pa, us","Bloomsburg, PA 17815, USA","OK",-76.4549457,41.003698
+"covington, , ga, us","Covington, GA, USA","OK",-83.8601827,33.5967815
+"dixon, , il, us","Dixon, IL 61021, USA","OK",-89.4795478,41.8389213
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"osprey, , fl, us","Osprey, FL, USA","OK",-82.4903748,27.1961627
+"rocky mount, , nc, us","Rocky Mount, NC, USA","OK",-77.7905339,35.9382103
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"shropshire , uk, , gb","Shropshire, UK","OK",-2.7417849,52.7063657
+"stockton springs, , me, us","Stockton Springs, ME, USA","OK",-68.8569762,44.4895196
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"west warwick, , ri, us","West Warwick, RI 02893, USA","OK",-71.5215024,41.7036711
+"boynton beach, , fl, us","Boynton Beach, FL, USA","OK",-80.0905465,26.5317866
+"edinboro, , pa, us","Edinboro, PA 16412, USA","OK",-80.1317236,41.8742225
+"summit, , ms, us","Summit, MS, USA","OK",-90.4684315,31.2837867
+"hendersonville, , tn, us","Hendersonville, TN, USA","OK",-86.6199957,36.3047735
+"black diamond, , wa, us","Black Diamond, WA 98010, USA","OK",-122.0031692,47.3087121
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"crafton, , pa, ","Crafton, PA 15205, USA","OK",-80.066166,40.435069
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"nis , serbia, , ","Niš, Serbia","OK",21.8957589,43.3209022
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"marana, , az, us","Marana, AZ, USA","OK",-111.2224422,32.436381
+"johnson city , near, tn, us","Johnson City, TN, USA","OK",-82.3534727,36.3134397
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"lakeway, , tx, us","Lakeway, TX, USA","OK",-97.991679,30.3679788
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"rialto, , ca, us","Rialto, CA, USA","OK",-117.3703235,34.1064001
+"miami , downtown, fl, us","Downtown Miami, Miami, FL, USA","OK",-80.1918728,25.7712513
+"maumelle, , ar, us","Maumelle, AR, USA","OK",-92.4043219,34.8667565
+"rancho palos verdes, , ca, us","Rancho Palos Verdes, CA, USA","OK",-118.3870173,33.7444613
+"grover beach, , ca, us","Grover Beach, CA, USA","OK",-120.6212821,35.1216424
+"anaheim - brea - diamond bar, , ca, ","Brea, CA, USA","OK",-117.9002918,33.916475
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"placentia, , ca, us","Placentia, CA 92870, USA","OK",-117.8627548,33.8710729
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"low moor, , va, us","Low Moor, VA, USA","OK",-79.8836637,37.7887382
+"hendersonville, , nc, us","Hendersonville, NC, USA","OK",-82.4609528,35.3187279
+"sheffield, , pa, us","Sheffield, PA 16347, USA","OK",-79.035595,41.7039499
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"basingstoke , uk, , gb","Basingstoke, UK","OK",-1.0923964,51.26654
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"harris park , australia, , ","Harris Park NSW 2150, Australia","OK",151.0107506,-33.8219453
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"front royal, , va, us","Front Royal, VA 22630, USA","OK",-78.1944446,38.9181671
+"truckee , near donner lake, ca, us","Donner Lake, Truckee, CA 96161, USA","OK",-120.2642533,39.3219375
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

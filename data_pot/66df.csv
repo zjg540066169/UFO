@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"bude, , ms, us","Bude, MS, USA","OK",-90.8501014,31.4629491
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"warren, , nj, ","Warren, NJ 07059, USA","OK",-74.5004796,40.6342489
+"dane county, , wi, us","Dane County, WI, USA","OK",-89.5497632,43.0186073
+"bruceville, , in, us","Bruceville, IN 47516, USA","OK",-87.4155739,38.7594911
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"kaanapali, , hi, us","Kaanapali, HI 96761, USA","OK",-156.6831418,20.9331214
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"colchester, , vt, us","Colchester, VT 05446, USA","OK",-73.1479068,44.5439375
+"seoul , south korea, , ","Seoul, South Korea","OK",126.9779692,37.566535
+"seymour, , mo, us","Seymour, MO 65746, USA","OK",-92.7687818,37.1464398
+"seaside, , or, us","Seaside, OR 97138, USA","OK",-123.9226385,45.9931636
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"salem, , ma, us","Salem, MA, USA","OK",-70.8967155,42.51954
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"daphne, , al, us","Daphne, AL, USA","OK",-87.9036047,30.6035255
+"rexburg, , id, us","Rexburg, ID, USA","OK",-111.7924237,43.8231096
+"encinitas, , ca, us","Encinitas, CA, USA","OK",-117.2919818,33.0369867
+"aptos, , ca, us","Aptos, CA 95003, USA","OK",-121.8994016,36.9771729
+"oviedo, , fl, us","Oviedo, FL, USA","OK",-81.2081203,28.669997
+"clogher , uk, , gb","Clogher BT76 0AD, UK","OK",-7.16452,54.4143
+"kahalu&#39u, , hi, ",NA,"REQUEST_DENIED",NA,NA
+"deland, , fl, ","DeLand, FL, USA","OK",-81.3031179,29.028318
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"milton, , ga, ","Milton, GA, USA","OK",-84.300666,34.1321631
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"rockaway beach, , or, us","Rockaway Beach, OR 97136, USA","OK",-123.9429115,45.613438
+"whippany, , nj, us","Whippany, Hanover, NJ 07981, USA","OK",-74.4022355,40.8254055
+"el centro , a few miles west of, ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"nuriootpa , australia, , au","Nuriootpa SA 5355, Australia","OK",138.9916574,-34.4666111
+"janico , santiago, , ","Santo Tomas De Janico 51000, Dominican Republic","OK",-70.8164549,19.3259363
+"prishtina, , , ","Prishtina","OK",21.1655028,42.6629138
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"kansas city, , ks, us","Kansas City, KS, USA","OK",-94.6267873,39.1155314
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"fire island , long island, ny, us","Fire Island, NY, USA","OK",-73.1459474,40.6475997
+"vass , town of&#44 on hwy #1, nc, us",NA,"REQUEST_DENIED",NA,NA
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"bellevue, issaquah, wa, ","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"cream ridge, , nj, us","Cream Ridge, Upper Freehold, NJ 08514, USA","OK",-74.5236865,40.1340316
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"st. petersburg , 50 se of, fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"angleton , 5 miles north, tx, us","Angleton, TX 77515, USA","OK",-95.4318847,29.16941
+"manchester , st.louis, mo, us","Manchester, MO, USA","OK",-90.5092882,38.5969977
+"may&#39s landing, , nj, ",NA,"REQUEST_DENIED",NA,NA
+"conestoga, , pa, us","Conestoga, PA 17516, USA","OK",-76.3379045,39.9454909
+"almelo , netherlands, , ","Almelo, Netherlands","OK",6.6684919,52.3670267
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"rohnert park, , ca, us","Rohnert Park, CA, USA","OK",-122.7010984,38.3396367
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"park forest, , il, us","Park Forest, IL, USA","OK",-87.6744891,41.4914236
+"farmingdale, , ny, us","Farmingdale, NY 11735, USA","OK",-73.4454009,40.7325997
+"inwood, , ny, us","Inwood, NY, USA","OK",-73.7467989,40.6220487
+"thousand island bridge , near, ny, ","Thousand Islands Bridge, 860 ON-137, FRONT OF LEEDS AND LANSDOWNE, ON, Canada","OK",-75.9825018,44.3629438
+"union, , nj, us","Union, NJ, USA","OK",-74.2631635,40.6975898
+"taos, , nm, us","Taos, NM 87571, USA","OK",-105.5730665,36.4072485
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"north las vegas, , nv, us","North Las Vegas, NV, USA","OK",-115.1175013,36.1988592
+"harrisonville, , il, us","Harrisonville, IL 62295, USA","OK",-90.3501191,38.2775544
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"lander, , wy, us","Lander, WY 82520, USA","OK",-108.7306725,42.833014
+"corcoran, , mn, us","Corcoran, MN, USA","OK",-93.5474577,45.0952417
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"bladel , brabant, , ","5531 Bladel, Netherlands","OK",5.2136395,51.362963
+"holland, , mi, us","Holland, MI 49423, USA","OK",-86.1089301,42.7875235
+"shell knob, , mo, us","Shell Knob, MO, USA","OK",-93.6175382,36.6088329
+"rainbow lakes estates, , fl, us","Rainbow Lakes Estates, FL 34431, USA","OK",-82.499269,29.1460843
+"lebanon church, , va, us","Lebanon Church, VA 22657, USA","OK",-78.3680608,39.0551071
+"annapolis, , md, us","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"parker, , co, us","Parker, CO, USA","OK",-104.7613633,39.5186002
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"la vista, , ne, us","La Vista, NE, USA","OK",-96.031127,41.1838878
+"japan, , , ","Japan","OK",138.252924,36.204824
+"lebanon, , tn, us","Lebanon, TN, USA","OK",-86.2911024,36.2081098
+"greenbelt, , md, us","Greenbelt, MD, USA","OK",-76.8755282,39.0045544
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"normal, , il, us","Normal, IL, USA","OK",-88.9906312,40.5142026
+"ticknall , near derby, , gb","Ticknall, Derby DE73, UK","OK",-1.4769542,52.8120541
+"monroeville, , nj, us","Monroeville, Upper Pittsgrove, NJ 08343, USA","OK",-75.1593816,39.6290092
+"thorold , canada, on, ca","Thorold, ON, Canada","OK",-79.1989299,43.1236091
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"comstock, , mi, us","Comstock Twp, MI, USA","OK",-85.4581859,42.2844539
+"kincardine , canada, on, ca","Kincardine, ON, Canada","OK",-81.5596427,44.2759345
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"marietta, , pa, us","Marietta, PA 17547, USA","OK",-76.5521882,40.0570411
+"nampa, , id, us","Nampa, ID, USA","OK",-116.55978,43.5788175
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"coon rapids, fridley, mn, ","Fridley, MN, USA","OK",-93.2632821,45.0860765
+"huachuca city, , az, us","Huachuca City, AZ 85616, USA","OK",-110.3339678,31.6278703
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"cedar grove, , wi, us","Cedar Grove, WI 53013, USA","OK",-87.8234219,43.5697201
+"big cane , plaucheville area, la, us","Big Cane, Parish Governing Authority District 5, LA 71356, USA","OK",-92.0095616,30.8204712
+"south milwaukee, , wi, us","South Milwaukee, WI 53172, USA","OK",-87.8606367,42.9105722
+"uvalde, , tx, us","Uvalde, TX 78801, USA","OK",-99.7861679,29.2096836
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"al - jubail , approx. 35 miles sw of, , ","Al Jubail Saudi Arabia","OK",49.5687416,26.9597709
+"canal fulton, , oh, us","Canal Fulton, OH, USA","OK",-81.597623,40.8897784
+"yeehaw junction, , fl, us","Yeehaw Junction, FL 34972, USA","OK",-80.9042283,27.7003087
+"fulton, , ky, us","Fulton, KY 42041, USA","OK",-88.8742259,36.5042277
+"calcutta , kolkata, , ","Kolkata, West Bengal, India","OK",88.363895,22.572646
+"elkton, , md, us","Elkton, MD 21921, USA","OK",-75.8332718,39.6067789
+"lake edward , canada, nb, ","Lake Edward, NB E7G 1Z9, Canada","OK",-67.65,46.9166669
+"elizabethtown, , ky, us","Elizabethtown, KY, USA","OK",-85.8649408,37.7030646
+"college station, , tx, us","College Station, TX, USA","OK",-96.3344068,30.627977
+"belle fourche, , sd, us","Belle Fourche, SD 57717, USA","OK",-103.852148,44.6713733
+"mayfield, , ky, us","Mayfield, KY 42066, USA","OK",-88.6367154,36.7417235
+"sumter, , sc, us","Sumter, SC, USA","OK",-80.3414693,33.9204354
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"christmas valley, , or, us","Christmas Valley, OR, USA","OK",-120.6708853,43.237797
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"surfside , on the beach, tx, us","Surfside Beach, TX, USA","OK",-95.2888257,28.9444142
+"wirral , liverpool, , ","Wirral Peninsula, Wirral CH61 1BN, UK","OK",-3.0833333,53.3333333
+"parma , ??, oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"north port, , fl, us","North Port, FL, USA","OK",-82.2359254,27.044224
+"springfield , 25 miles northeast of, mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"frostbite falls, , mo, ","Missouri, USA","OK",-91.8318334,37.9642529
+"rock hill, , ny, us","Rock Hill, NY, USA","OK",-74.5976603,41.6259256
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"cedar river, , mi, us","Cedar River, MI 49887, USA","OK",-87.354563,45.4110884
+"brentwood, , ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"irvine , entering city from the south, ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"moline, , il, us","Moline, IL, USA","OK",-90.5151342,41.5067003
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"launceston , uk, , gb","Launceston PL15, UK","OK",-4.3604516,50.636834
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"hampton, , tn, us","Hampton, TN 37658, USA","OK",-82.1725484,36.2843983
+"sudbury , canada, on, ca","Greater Sudbury, ON, Canada","OK",-80.993029,46.4917317
+"anthony, , ks, us","Anthony, KS 67003, USA","OK",-98.0311727,37.1533554
+"midlothian, , va, us","Midlothian, VA, USA","OK",-77.6490005,37.5061069
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"west carrollton, , oh, us","West Carrollton, OH, USA","OK",-84.2521632,39.6722812
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"sudbury , canada, on, ca","Greater Sudbury, ON, Canada","OK",-80.993029,46.4917317
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"bellflower, , ca, us","Bellflower, CA, USA","OK",-118.1170117,33.8816818
+"belfry, , ky, us","Belfry, KY 41514, USA","OK",-82.2690293,37.6203804
+"lyndhurst, , va, us","Lyndhurst, VA, USA","OK",-78.9450242,38.0293036
+"st. joseph, , mo, us","St Joseph, MO, USA","OK",-94.846681,39.7674578
+"seagoville, , tx, us","Seagoville, TX, USA","OK",-96.5383228,32.6395776
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"oostburg, , wi, us","Oostburg, WI 53070, USA","OK",-87.7945323,43.6227748
+"panama city beach, , fl, us","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"perry , exit 35; almost to talahassee, fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"chilhowie, , va, us","Chilhowie, VA 24319, USA","OK",-81.6823411,36.7984482
+"dunlo, , pa, us","Dunlo, PA, USA","OK",-78.7207952,40.2945297
+"centennial, , co, us","Centennial, CO, USA","OK",-104.8771726,39.5807452
+"bel air, , md, us","Bel Air, MD 21014, USA","OK",-76.3482931,39.5359406
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"easton, , pa, us","Easton, PA, USA","OK",-75.2207323,40.688432
+"portsmouth, , oh, us","Portsmouth, OH 45662, USA","OK",-82.9976742,38.7317431
+"merritt , canada, bc, ca","Merritt, BC, Canada","OK",-120.7862222,50.1113079
+"johnstown, , pa, us","Johnstown, PA, USA","OK",-78.9219698,40.3267407
+"oak park, , ca, us","Oak Park, CA 91377, USA","OK",-118.7628685,34.1791715
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"el rito, , nm, us","El Rito, NM 87530, USA","OK",-106.1890455,36.3434814
+"los gatos, , ca, us","Los Gatos, CA, USA","OK",-121.9623751,37.2358078
+"los gatos, , ca, us","Los Gatos, CA, USA","OK",-121.9623751,37.2358078
+"salinas, , ca, us","Salinas, CA, USA","OK",-121.6555013,36.6777372
+"scotta valley, , ca, ","Scotts Valley, CA, USA","OK",-122.0146841,37.0510595
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"trinity, , nc, us","Trinity, NC, USA","OK",-79.9908729,35.894581
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"rohnert park, , ca, us","Rohnert Park, CA, USA","OK",-122.7010984,38.3396367
+"marin, , ca, ","Marin County, CA, USA","OK",-122.7633036,38.083403
+"omaha , outside of&#44 near i-80, ne, us",NA,"REQUEST_DENIED",NA,NA
+"watertown, , wi, us","Watertown, WI, USA","OK",-88.7289918,43.1947211
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"kuna, , id, us","Kuna, ID, USA","OK",-116.4201223,43.4918307
+"parker, , ks, us","Parker, KS 66072, USA","OK",-94.9919123,38.3283548
+"arbutus, , md, us","Arbutus, MD, USA","OK",-76.6999702,39.2545512
+"koh samui , thailand, , ","Ko Samui, Ko Samui District, Surat Thani, Thailand","OK",100.0135929,9.5120168
+"denham springs, , la, us","Denham Springs, LA, USA","OK",-90.9562125,30.4868564
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"tarpon springs, , fl, us","Tarpon Springs, FL, USA","OK",-82.7567679,28.1461248
+"pembroke pines, , fl, us","Pembroke Pines, FL, USA","OK",-80.2962555,26.007765
+"fountain hills, , az, us","Fountain Hills, AZ 85268, USA","OK",-111.7256936,33.6042079
+"hellevoetsluis , netherlands, , ","Hellevoetsluis, Netherlands","OK",4.13181,51.8318632
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"palo alto, , ca, us","Palo Alto, CA, USA","OK",-122.1430195,37.4418834
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"elk grove, , ca, us","Elk Grove, CA, USA","OK",-121.3716178,38.4087993
+"hawthorne, , ca, us","Hawthorne, CA, USA","OK",-118.3525748,33.9164032
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"barstow, , ca, us","Barstow, CA, USA","OK",-117.0172826,34.8957957
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

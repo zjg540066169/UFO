@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"mason city, , ia, us","Mason City, IA 50401, USA","OK",-93.2010367,43.1535728
+"park forest, , il, us","Park Forest, IL, USA","OK",-87.6744891,41.4914236
+"cedar falls, , ia, us","Cedar Falls, IA, USA","OK",-92.4453161,42.5348993
+"hempstead, , tx, us","Hempstead, TX 77445, USA","OK",-96.0782918,30.0974405
+"bartonville, , il, us","Bartonville, IL, USA","OK",-89.6520455,40.6503158
+"lynchburg, , va, us","Lynchburg, VA, USA","OK",-79.1422464,37.4137536
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"orchard park, , ny, us","Orchard Park, NY, USA","OK",-78.7440921,42.7675323
+"chester, , nj, us","Chester, NJ 07930, USA","OK",-74.6968284,40.7842667
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"texarkana, , tx, us","Texarkana, TX, USA","OK",-94.0476882,33.425125
+"centerville, , oh, us","Centerville, OH, USA","OK",-84.1593818,39.6283928
+"lisbon, , oh, us","Lisbon, OH 44432, USA","OK",-80.7681336,40.7720044
+"fes , morocco, , ","Fes, Morocco","OK",-5.0078451,34.0181246
+"bakersville , roan mountain, nc, us","Roan Mountain, Fork Mountain-Little Rock Creek, NC 28705, USA","OK",-82.1104431,36.1037634
+"brighton, , co, us","Brighton, CO, USA","OK",-104.8205283,39.9852617
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"new york city , upstate, ny, us","95 1st Avenue, New York, NY 10003, USA","OK",-73.9865533,40.7263542
+"johnstown, , ne, us","Johnstown, NE 69214, USA","OK",-100.0581809,42.5716664
+"oak view, , ca, us","Oak View, CA, USA","OK",-119.3001134,34.399996
+"brownlee , southwest of, ne, us","Brownlee, NE 69166, USA","OK",-100.6256949,42.2880549
+"franklinton, , la, us","Franklinton, LA 70438, USA","OK",-90.153141,30.8471283
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"boonville, , in, us","Boonville, IN 47601, USA","OK",-87.2741723,38.0492131
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"mountain view, , ca, us","Mountain View, CA, USA","OK",-122.0838511,37.3860517
+"sedalia, , co, us","Sedalia, CO 80135, USA","OK",-104.9597046,39.4369336
+"woodstock, , il, us","Woodstock, IL 60098, USA","OK",-88.4487021,42.3147436
+"walton, , ky, us","Walton, KY 41094, USA","OK",-84.6102213,38.8756194
+"uckfield , uk, , gb","Uckfield TN22, UK","OK",0.095913,50.966414
+"leamington spa , uk, , gb","Royal Leamington Spa, UK","OK",-1.5200789,52.2851905
+"willow, , ak, us","Willow, AK, USA","OK",-150.0401619,61.7364699
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"worthing , west sussex, , gb","Worthing, UK","OK",-0.372882,50.81787
+"lanagan, , mo, us","Lanagan, MO, USA","OK",-94.4477164,36.608128
+"conshohocken, , pa, us","Conshohocken, PA 19428, USA","OK",-75.3015714,40.0792766
+"hadley, , ma, us","Hadley, MA, USA","OK",-72.5884222,42.3417565
+"green lake, , wi, us","Green Lake, WI 54941, USA","OK",-88.9601133,43.8441481
+"chagrin falls, , oh, us","Chagrin Falls, OH 44022, USA","OK",-81.3910999,41.4298516
+"cuernavaca , mexico, , ","Cuernavaca, Morelos, Mexico","OK",-99.2215659,18.9242095
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"bridgeport, , ct, us","Bridgeport, CT, USA","OK",-73.1894384,41.1792258
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"victor, , ny, us","Victor, NY 14564, USA","OK",-77.4088794,42.9825633
+"lubbock, , tx, us","Lubbock, TX, USA","OK",-101.8551665,33.5778631
+"newark, , nj, us","Newark, NJ, USA","OK",-74.1723667,40.735657
+"ashburn, , va, us","Ashburn, VA, USA","OK",-77.4874416,39.0437567
+"durango, , co, us","Durango, CO, USA","OK",-107.8800667,37.27528
+"gila bend , near, az, us","Gila Bend, AZ, USA","OK",-112.7168305,32.9478236
+"gary, , in, us","Gary, IN, USA","OK",-87.3371523,41.6020403
+"harrisonburg, , va, us","Harrisonburg, VA, USA","OK",-78.8689155,38.4495688
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"appleton, , wi, us","Appleton, WI, USA","OK",-88.4153847,44.2619309
+"chaska, , mn, us","Chaska, MN 55318, USA","OK",-93.6018389,44.7893446
+"elk grove village, , il, us","Elk Grove Village, IL 60007, USA","OK",-87.9703461,42.0039178
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"edgerton, , ks, us","Edgerton, KS 66021, USA","OK",-95.0080224,38.7647302
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"chalk hill, , tx, us","Chalk Hill, TX 75652, USA","OK",-94.6510411,32.3529317
+"moran, , tx, us","Moran, TX 76464, USA","OK",-99.1659072,32.5476245
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"moncks corner, , sc, us","Moncks Corner, SC 29461, USA","OK",-80.0131374,33.1960027
+"grants pass , just outside merlin, or, us","801 NE 9th St, Grants Pass, OR 97526, USA","OK",-123.3169999,42.443787
+"stillwater, , ok, us","Stillwater, OK, USA","OK",-97.0583681,36.1156071
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"newburgh, , in, us","Newburgh, IN 47630, USA","OK",-87.4052865,37.9444882
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"buffalo, , mo, us","Buffalo, MO 65622, USA","OK",-93.0924093,37.6439289
+"frederick, , md, us","Frederick, MD, USA","OK",-77.4105409,39.4142688
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"macon, , ga, us","Macon, GA, USA","OK",-83.6324022,32.8406946
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"hampton, , ga, us","Hampton, GA 30228, USA","OK",-84.2829784,33.3870578
+"lagrange, , ga, ","LaGrange, GA, USA","OK",-85.0322444,33.0362218
+"flowery branch, , ga, us","Flowery Branch, GA, USA","OK",-83.9251809,34.1851017
+"flowery branch, , ga, us","Flowery Branch, GA, USA","OK",-83.9251809,34.1851017
+"bangs, , tx, us","Bangs, TX 76823, USA","OK",-99.1325528,31.7170958
+"bangs, , tx, us","Bangs, TX 76823, USA","OK",-99.1325528,31.7170958
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"ghent, , ny, us","Ghent, NY, USA","OK",-73.6300729,42.320699
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"saint petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"manchester, , wa, us","Manchester, WA, USA","OK",-122.5448559,47.5559302
+"ocean beach, , ca, us","Ocean Beach, San Diego, CA, USA","OK",-117.2470353,32.7494988
+"havertown, , pa, us","Havertown, PA 19083, USA","OK",-75.3149796,39.9763656
+"columbia, , sc, us","Columbia, SC, USA","OK",-81.0348144,34.0007104
+"reynoldsburg, , oh, us","Reynoldsburg, OH, USA","OK",-82.8121191,39.9547861
+"emerald , australia, , au","Emerald QLD 4720, Australia","OK",148.164573,-23.527291
+"spring city, , pa, us","Spring City, PA 19475, USA","OK",-75.5476876,40.1767688
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"freeport, , me, us","Freeport, ME 04032, USA","OK",-70.1031201,43.8570065
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"grand junction, , co, us","Grand Junction, CO, USA","OK",-108.5506486,39.0638705
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"marco island, , fl, ","Marco Island, FL 34145, USA","OK",-81.7075355,25.9397412
+"brookings, , or, us","Brookings, OR 97415, USA","OK",-124.2839819,42.0526114
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"albany , near, ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"coloma, , mi, us","Coloma, MI 49038, USA","OK",-86.308356,42.1861494
+"los angeles, silver lake, ca, ","Silver Lake, Los Angeles, CA, USA","OK",-118.2702036,34.0869409
+"brigham city, , ut, us","Brigham City, UT, USA","OK",-112.0155015,41.5102129
+"ivor, , va, us","Ivor, VA 23866, USA","OK",-76.8996824,36.9040391
+"webb, , ms, us","Webb, MS, USA","OK",-90.3442576,33.9473356
+"lisle, , il, us","Lisle, IL, USA","OK",-88.0747875,41.801141
+"hopewell, , nj, us","Hopewell, NJ 08525, USA","OK",-74.7618284,40.3892726
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"spartanburg, , sc, us","Spartanburg, SC, USA","OK",-81.9320482,34.9495672
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"kaneohe, , hi, us","Kaneohe, HI 96744, USA","OK",-157.7973653,21.3996475
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"woodbridge, , va, us","Woodbridge, VA 22191, USA","OK",-77.2497049,38.6581722
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"chinook, , wa, us","Chinook, WA 98614, USA","OK",-123.9454273,46.2728802
+"bristol, , va, us","Bristol, VA, USA","OK",-82.1887368,36.595142
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"orem, , ut, us","Orem, UT, USA","OK",-111.6946475,40.2968979
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"gardner, , ma, us","Gardner, MA, USA","OK",-71.998133,42.5750883
+"gulfport, , ms, us","Gulfport, MS, USA","OK",-89.0928155,30.3674198
+"crystal beach, , tx, us","Crystal Beach, Bolivar Peninsula, TX 77550, USA","OK",-94.6396378,29.457177
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"warren, , oh, us","Warren, OH, USA","OK",-80.8184166,41.2375569
+"puerto nuevo , puerto rico, pr, us","Puerto Nuevo, Vega Baja 00693, Puerto Rico","OK",-66.4063182,18.4795066
+"cherry hill, , nj, us","Cherry Hill, NJ, USA","OK",-75.0246312,39.926813
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"jonesboro , near, la, us","Jonesboro, LA 71251, USA","OK",-92.7159853,32.2412672
+"burnt hills, , ny, us","Burnt Hills, Ballston, NY 12027, USA","OK",-73.8951486,42.9096911
+"aruba, , , ","Aruba","OK",-69.968338,12.52111
+"macuto , venezuela, , ","Macuto, Vargas, Venezuela","OK",-66.8945591,10.603847
+"appleton, , wi, us","Appleton, WI, USA","OK",-88.4153847,44.2619309
+"sudbury , canada, on, ca","Greater Sudbury, ON, Canada","OK",-80.993029,46.4917317
+"cali , colombia s.a., , ","Santa Anita, Cali, Valle del Cauca, Colombia","OK",-76.5358173,3.3982259
+"cranbrook , canada, bc, ca","Cranbrook, BC V1C, Canada","OK",-115.7694002,49.5129678
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"florissant , st. louis, mo, us","Florissant, MO, USA","OK",-90.322614,38.789217
+"dover, , fl, us","Dover, FL 33527, USA","OK",-82.2195344,27.9941885
+"loves park, , il, us","Loves Park, IL, USA","OK",-89.0581621,42.3200189
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"santee, , ca, us","Santee, CA, USA","OK",-116.9739167,32.8383828
+"keys, ceres , ca, ","Walmart, 1670 Mitchell Rd, Ceres, CA 95307, United States","OK",-120.937649,37.6062864
+"keys, ceres , ca, ","Walmart, 1670 Mitchell Rd, Ceres, CA 95307, United States","OK",-120.937649,37.6062864
+"gold coast , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"bellflower, , ca, us","Bellflower, CA, USA","OK",-118.1170117,33.8816818
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"lake macquarie , nsw&#44 australia, , ",NA,"REQUEST_DENIED",NA,NA
+"pismo beach, , ca, us","Pismo Beach, CA, USA","OK",-120.6412827,35.1427533
+"pismo beach, , ca, us","Pismo Beach, CA, USA","OK",-120.6412827,35.1427533
+"lodi, , wi, us","Lodi, WI 53555, USA","OK",-89.5265093,43.313878
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"capitola, , ca, us","Capitola, CA, USA","OK",-121.953293,36.9752283
+"fountain hills, , az, us","Fountain Hills, AZ 85268, USA","OK",-111.7256936,33.6042079
+"spirit lake, , ia, us","Spirit Lake, IA 51360, USA","OK",-95.1022313,43.4226192
+"ybor, , fl, ","Ybor City, Tampa, FL, USA","OK",-82.4259518,27.9645757
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"pasadena, , tx, us","Pasadena, TX, USA","OK",-95.2091006,29.6910625
+"mission, , sd, us","Mission, SD 57555, USA","OK",-100.6581944,43.3058368
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"shoreline, edmonds, wa, ","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"burke, , va, us","Burke, VA, USA","OK",-77.2716505,38.7934466
+"buena park, , ca, us","Buena Park, CA, USA","OK",-117.9981387,33.8674044
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"monrovia, arcadia, ca, ","Arcadia, CA, USA","OK",-118.0353449,34.1397292
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"milpitas, , ca, us","Milpitas, CA 95035, USA","OK",-121.8995741,37.4323341
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"shelby township, , mi, ","Shelby Charter Twp, MI, USA","OK",-83.0329934,42.670782
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"selma, , or, us","Selma, OR 97538, USA","OK",-123.6161053,42.2793208
+"bloomingdale, , il, us","Bloomingdale, IL, USA","OK",-88.0809036,41.9575285
+"olive branch, , ms, us","Olive Branch, MS 38654, USA","OK",-89.8295315,34.9617604
+"san bruno, , ca, us","San Bruno, CA, USA","OK",-122.4110835,37.6304904
+"mattituck, , ny, us","Mattituck, NY, USA","OK",-72.5342547,40.9912115
+"lagrange, , me, us","Lagrange, ME, USA","OK",-68.8447783,45.1668297
+"warner robins, , ga, us","Warner Robins, GA, USA","OK",-83.624201,32.6130007
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"penfield, , ny, us","Penfield, NY 14526, USA","OK",-77.475551,43.1303407
+"canyon lake, , ca, us","Canyon Lake, CA 92587, USA","OK",-117.2730931,33.6850215
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"la mesa, , ca, us","La Mesa, CA, USA","OK",-117.0230839,32.7678287
+"dunstable , uk, , gb","Dunstable, UK","OK",-0.52039,51.885644
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

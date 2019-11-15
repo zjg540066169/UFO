@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"airdrie , canada, ab, ca","Airdrie, AB, Canada","OK",-114.0134073,51.2926993
+"northglenn, , co, us","Northglenn, CO, USA","OK",-104.9811468,39.8961821
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"bowral , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"columbia, , md, us","Columbia, MD, USA","OK",-76.8610462,39.2037144
+"south webster, , oh, us","South Webster, OH 45682, USA","OK",-82.7268333,38.8134097
+"peshastin, , wa, us","Peshastin, WA 98847, USA","OK",-120.6039743,47.5706779
+"vienna, , va, us","Vienna, VA 22180, USA","OK",-77.2652604,38.9012225
+"harlingen, , tx, us","Harlingen, TX, USA","OK",-97.6961026,26.1906306
+"madera, , ca, us","Madera, CA, USA","OK",-120.0607176,36.9613356
+"monterrey , mexico, , ","Monterrey, Nuevo Leon, Mexico","OK",-100.3161126,25.6866142
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"jefferson, , ga, us","Jefferson, GA, USA","OK",-83.5723876,34.1170537
+"plantation, , fl, us","Plantation, FL, USA","OK",-80.2331036,26.1275862
+"farmerville, , la, us","Farmerville, LA 71241, USA","OK",-92.4056985,32.7734728
+"waxhaw, , nc, us","Waxhaw, NC 28173, USA","OK",-80.7434019,34.9245935
+"anthem, , az, ","Anthem, Phoenix, AZ, USA","OK",-112.1357339,33.8652315
+"torrington, , ct, us","Torrington, CT, USA","OK",-73.1211715,41.8003049
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"dundas island , south of, bc, ","Dundas Island, Skeena-Queen Charlotte A, BC, Canada","OK",-130.8608765,54.5650863
+"drummond island, , mi, ","Drummond, MI 49726, USA","OK",-83.7311138,46.0200211
+"berlin, , ct, us","Berlin, CT, USA","OK",-72.7456519,41.621488
+"arcadia, , ny, ","Arcadia, NY, USA","OK",-77.0794705,43.0764083
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"farmington, , mi, us","Farmington, MI, USA","OK",-83.3763218,42.4644795
+"sanford, , mi, us","Sanford, MI 48657, USA","OK",-84.3805544,43.6728053
+"woodland, , ca, us","Woodland, CA, USA","OK",-121.7732971,38.6785157
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"elmwood pk, , il, ","Elmwood Park, IL 60707, USA","OK",-87.8092266,41.9211423
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"phila., camden, pa, ","Camden, NJ, USA","OK",-75.1196199,39.9259463
+"brownsville, , tx, us","Brownsville, TX, USA","OK",-97.4974838,25.9017472
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"alta loma, , ca, us","Alta Loma, Rancho Cucamonga, CA 91701, USA","OK",-117.5981086,34.1222317
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"east moline, , il, us","East Moline, IL, USA","OK",-90.4442979,41.5008673
+"moneta, , va, us","Moneta, VA 24121, USA","OK",-79.6195556,37.1826516
+"sanikiluaq , canada, nt, ca","Sanikiluaq, NU, Canada","OK",-79.22321,56.5407678
+"windermere, , fl, us","Windermere, FL 34786, USA","OK",-81.5347952,28.4955593
+"lakewood, , co, us","Lakewood, CO, USA","OK",-105.0813734,39.7047095
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"missouri , from passenger train, mo, ","Arcadia Valley Station, 13700 Missouri 21, Ironton, MO 63650, USA","OK",-90.624319,37.5922718
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"inverness, , fl, us","Inverness, FL, USA","OK",-82.3313955,28.8354507
+"edinburgh, , in, us","Edinburgh, IN 46124, USA","OK",-85.9666577,39.3542176
+"ely&#44 cambridge , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"kajaani, , , ","Kajaani, Finland","OK",27.7278497,64.2221775
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"uddingston , uk, , gb","Uddingston, Glasgow G71, UK","OK",-4.0791271,55.815735
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"auburn hills, , mi, us","Auburn Hills, MI, USA","OK",-83.2341028,42.6875323
+"fairfax, , va, us","Fairfax, VA, USA","OK",-77.3063733,38.8462236
+"snohomish, , wa, us","Snohomish, WA, USA","OK",-122.0981847,47.9128756
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"bath , uk, , gb","Bath, UK","OK",-2.3590167,51.3810641
+"consett , durham co., , gb","Consett DH8, UK","OK",-1.833026,54.851797
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"weymouth, , ma, us","Weymouth, MA, USA","OK",-70.9410356,42.2180724
+"greenock , uk, , gb","Greenock, UK","OK",-4.771983,55.956476
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"phillips ranch, , ca, ","Phillips Ranch, Pomona, CA 91766, USA","OK",-117.759877,34.0258202
+"morris-okmulgee, , ok, ","Morris Dr, Okmulgee, OK 74447, USA","OK",-95.9524152,35.6105677
+"chelsea, , ma, us","Chelsea, MA 02150, USA","OK",-71.0328284,42.3917638
+"gainesville, , va, us","Gainesville, VA, USA","OK",-77.6138802,38.7956706
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"cherry fork, , oh, us","Cherry Fork, OH, USA","OK",-83.6143632,38.8875703
+"columbia, , pa, us","Columbia, PA, USA","OK",-76.5044098,40.0337085
+"canton, , mi, us","Canton, MI, USA","OK",-83.482116,42.3086444
+"delray beach, , fl, us","Delray Beach, FL, USA","OK",-80.0728201,26.4614625
+"center valley, , pa, us","Center Valley, Upper Saucon Township, PA, USA","OK",-75.3936935,40.5294058
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"baton rouge, , la, us","Baton Rouge, LA, USA","OK",-91.1871466,30.4514677
+"lynn, , ma, us","Lynn, MA, USA","OK",-70.9494938,42.466763
+"pretoria , south africa, , ","Pretoria, South Africa","OK",28.2292712,-25.7478676
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"hobe sound, , fl, us","Hobe Sound, FL 33455, USA","OK",-80.1364323,27.059498
+"fairbanks, , ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"san leandro, , ca, us","San Leandro, CA, USA","OK",-122.1568554,37.7257663
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"salt cake city, , ut, ","10400 4000 West *By Appointment Only, South Jordan, UT 84095, United States","OK",-111.986384,40.559811
+"calistoga , 2 miles outside, ca, us","Calistoga, CA 94515, USA","OK",-122.5797054,38.5787965
+"tooele, , ut, us","Tooele, UT 84074, USA","OK",-112.29828,40.5307776
+"olney, , md, us","Olney, MD, USA","OK",-77.066923,39.1531627
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"henrico, , va, us","Henrico County, VA, USA","OK",-77.3324425,37.5059332
+"sammamish, , wa, us","Sammamish, WA, USA","OK",-122.0355736,47.6162683
+"clarks green, , pa, us","Clarks Green, PA 18411, USA","OK",-75.6981686,41.4951385
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

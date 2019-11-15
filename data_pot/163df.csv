@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"saco, , me, us","Saco, ME, USA","OK",-70.4428286,43.5009176
+"columbia, , md, us","Columbia, MD, USA","OK",-76.8610462,39.2037144
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"easton, , md, us","Easton, MD 21601, USA","OK",-76.0763305,38.7742826
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"royal palm beach, , fl, us","Royal Palm Beach, FL, USA","OK",-80.2306019,26.7083984
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"lake tawakoni, , tx, ","Lake Tawakoni, Texas, USA","OK",-95.9515399,32.8588053
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"kirksville, , mo, us","Kirksville, MO 63501, USA","OK",-92.5832496,40.1947539
+"westminster, , ca, us","Westminster, CA, USA","OK",-117.9897058,33.7591757
+"pawtucket, , ri, us","Pawtucket, RI, USA","OK",-71.3825558,41.878711
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"pharr, , tx, us","Pharr, TX 78577, USA","OK",-98.1836216,26.1947962
+"old saybrook, , ct, us","Old Saybrook, CT, USA","OK",-72.3845301,41.2960159
+"middletown, , ny, us","Middletown, NY 10940, USA","OK",-74.4229341,41.4459271
+"orange county, , ca, us","Orange County, CA, USA","OK",-117.8311428,33.7174708
+"beloit, , wi, us","Beloit, WI 53511, USA","OK",-89.0317765,42.5083482
+"coventry, , ri, us","Coventry, RI, USA","OK",-71.5642076,41.6885978
+"wilmont , south of, mn, us","Wilmont, MN 56185, USA","OK",-95.8272371,43.7646871
+"brandon , outside jackson, ms, us","Brandon, MS, USA","OK",-90.001384,32.2788733
+"nepean , canada, on, ca","Nepean, Ottawa, ON, Canada","OK",-75.7241006,45.3349046
+"laramie, , wy, us","Laramie, WY, USA","OK",-105.5911007,41.3113669
+"laprairie , montreal, pq, ca","La Prairie, QC, Canada","OK",-73.4830021,45.4159003
+"summit, , sd, us","Summit, SD 57266, USA","OK",-97.0364661,45.3044062
+"elizabeth, , nj, us","Elizabeth, NJ, USA","OK",-74.2107006,40.6639916
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"canyonville, , or, us","Canyonville, OR, USA","OK",-123.2811748,42.9273406
+"plymouth, , in, us","Plymouth, IN 46563, USA","OK",-86.3097278,41.3436554
+"newport , coast range&#44 east of, or, us",NA,"REQUEST_DENIED",NA,NA
+"rio de janeiro , brazil, , ","Rio de Janeiro, State of Rio de Janeiro, Brazil","OK",-43.1728965,-22.9068467
+"perkinston, , ms, us","Perkinston, MS 39573, USA","OK",-89.1427895,30.7822362
+"lyons, , co, us","Lyons, CO, USA","OK",-105.271378,40.2247075
+"peabody, , ma, us","Peabody, MA, USA","OK",-70.9286609,42.5278731
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"pacifica , rockaway beach, ca, us","Rockaway Beach, California, USA","OK",-122.4974755,37.6099367
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"killeen, fort hood, tx, ","Killeen, TX, USA","OK",-97.7277959,31.1171194
+"fort smith, , ar, ","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"cave spring, , ga, us","Cave Spring, GA 30124, USA","OK",-85.3363434,34.1075975
+"the colony, , tx, us","The Colony, TX, USA","OK",-96.8928309,33.0806083
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"carlinville , from&#44 until almost carrollton, il, us",NA,"REQUEST_DENIED",NA,NA
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"burgaw, , nc, us","Burgaw, NC 28425, USA","OK",-77.926098,34.5521113
+"dahlonega, , ga, us","Dahlonega, GA 30533, USA","OK",-83.9843953,34.5261465
+"mandaree, , nd, us","Mandaree, ND 58757, USA","OK",-102.6760243,47.729179
+"altoona, , pa, us","Altoona, PA, USA","OK",-78.3947359,40.5186809
+"el dorado, , ks, us","El Dorado, KS 67042, USA","OK",-96.8622524,37.81724
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"lake worth, , fl, us","Lake Worth, FL, USA","OK",-80.0684479,26.6167555
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"alvin, , tx, us","Alvin, TX, USA","OK",-95.2441009,29.4238472
+"potters bar , uk, , gb","Potters Bar, UK","OK",-0.175948,51.696636
+"edgewood, , nm, us","Edgewood, NM 87015, USA","OK",-106.1914141,35.0614358
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"elon, , nc, us","Elon, NC, USA","OK",-79.5115433,36.0982762
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9356776,45.526088
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"benzonia, , mi, us","Benzonia, MI 49616, USA","OK",-86.0992576,44.6213885
+"edgewater, , fl, us","Edgewater, FL, USA","OK",-80.9022758,28.9888754
+"slough , uk, , gb","Slough, UK","OK",-0.5950406,51.5105384
+"jamaica, , ny, us","Jamaica, Queens, NY, USA","OK",-73.7889689,40.702677
+"aberdeen , uk, , gb","Aberdeen, UK","OK",-2.094278,57.149717
+"annandale, , va, us","Annandale, VA, USA","OK",-77.1963703,38.8303905
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"santa margarita, , ca, us","Santa Margarita, CA, USA","OK",-120.6092971,35.3899526
+"norwich , east england, , gb","Norwich, UK","OK",1.297355,52.6308859
+"kingsville, , tx, us","Kingsville, TX 78363, USA","OK",-97.856109,27.5158689
+"mullen, , ne, us","Mullen, NE 69152, USA","OK",-101.0425144,42.0422345
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"arkansas city, , ks, us","Arkansas City, KS 67005, USA","OK",-97.0383712,37.0619736
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"long beach, , ms, us","Long Beach, MS 39560, USA","OK",-89.1528176,30.3504751
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"highlands, , nc, us","Highlands, NC 28741, USA","OK",-83.1968173,35.0525909
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"conway, , ar, us","Conway, AR, USA","OK",-92.4421011,35.0886963
+"batavia, , il, us","Batavia, IL, USA","OK",-88.3125738,41.8500284
+"rocklin, , ca, us","Rocklin, CA, USA","OK",-121.2357828,38.7907339
+"kau, , hi, ","Ka'u, HI, USA","OK",-155.5232577,19.2117658
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"cedaredge, , co, us","Cedaredge, CO 81413, USA","OK",-107.926454,38.9016487
+"rutledge, , pa, us","Rutledge, PA, USA","OK",-75.3285218,39.901779
+"nevada city, , ca, us","Nevada City, CA 95959, USA","OK",-121.0160594,39.2615606
+"puerto vallarto , mexico, , ","Puerto Vallarta, Jalisco, Mexico","OK",-105.2253316,20.653407
+"minot, , nd, us","Minot, ND, USA","OK",-101.2922906,48.2329668
+"moody, mcgregor , tx, ","Moody, TX 76557, USA","OK",-97.3613977,31.3082273
+"ueno city , japan, , ","Ueno, Tano District, Gunma, Japan","OK",138.777408,36.0833141
+"guilford, , ct, us","Guilford, CT, USA","OK",-72.674364,41.288906
+"tracy city, , tn, us","Tracy City, TN 37387, USA","OK",-85.7360833,35.2603569
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"fairfield, , pa, us","Fairfield, PA 17320, USA","OK",-77.3685984,39.7873173
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
