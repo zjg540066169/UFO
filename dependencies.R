@@ -6,8 +6,8 @@ devtools::install_cran("ggraph", quiet = TRUE)
 devtools::install_cran("tidytext", quiet = TRUE)
 devtools::install_github("michaeldorman/mapsapi", quiet = TRUE)
 devtools::install_github("dkahle/ggmap", quiet = TRUE)
-devtools::install_github("r-spatial/mapview", quiet = TRUE)
-
+devtools::install_github("mapview", quiet = TRUE)
+devtools::install_cran("mapview", quiet = TRUE)
 #devtools::install_github("r-spatial/sf")
 
 
