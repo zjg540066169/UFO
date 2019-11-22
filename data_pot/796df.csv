@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"ridgecrest, , ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"ridgecrest , near, ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"wesley chapel, , fl, us","Wesley Chapel, FL, USA","OK",-82.3641751,28.182893
+"quincy, , mi, us","Quincy, MI 49082, USA","OK",-84.8838525,41.9442145
+"baton rouge, , la, us","Baton Rouge, LA, USA","OK",-91.1871466,30.4514677
+"beverly hills,  los angeles, ca, ","Beverly Hills, CA, USA","OK",-118.4003563,34.0736204
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"paso robles, , ca, us","Paso Robles, CA 93446, USA","OK",-120.6545022,35.6368759
+"karachi , pakistan, , ","Karachi, Karachi City, Sindh, Pakistan","OK",67.0011364,24.8607343
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"newton, , ia, us","Newton, IA 50208, USA","OK",-93.0573533,41.7033177
+"mooresville, , nc, us","Mooresville, NC, USA","OK",-80.8081413,35.5859146
+"harrisville, , mi, us","Harrisville, MI 48740, USA","OK",-83.2946891,44.6564022
+"graford, , tx, us","Graford, TX 76449, USA","OK",-98.2469919,32.9376218
+"macomb, , il, us","Macomb, IL 61455, USA","OK",-90.6717971,40.4592076
+"port saint lucie, , fl, us","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"saint paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"st. johns, , mi, us","St Johns, MI 48879, USA","OK",-84.5591521,43.001143
+"mcallen, , tx, us","McAllen, TX, USA","OK",-98.2300124,26.2034071
+"lockport, , ny, us","Lockport, NY 14094, USA","OK",-78.6903098,43.1706128
+"kearny, , nj, us","Kearny, NJ, USA","OK",-74.1454214,40.7684342
+"babylon, , ny, us","Babylon, NY, USA","OK",-73.3673169,40.7107127
+"stratford, , ct, us","Stratford, CT, USA","OK",-73.1331651,41.1845415
+"willard, , ut, us","Willard, UT 84340, USA","OK",-112.0408891,41.4127699
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"azle, , tx, us","Azle, TX 76020, USA","OK",-97.5458565,32.8951262
+"fremont, , oh, us","Fremont, OH 43420, USA","OK",-83.1218634,41.3503303
+"nanaimo , canada, bc, ca","Nanaimo, BC, Canada","OK",-123.9400648,49.1658836
+"goodland, , ks, us","Goodland, KS 67735, USA","OK",-101.7101722,39.350833
+"frignano , italy, , ","81030 Frignano, Province of Caserta, Italy","OK",14.1756573,41.015742
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"covington, , ga, us","Covington, GA, USA","OK",-83.8601827,33.5967815
+"duvall, , wa, us","Duvall, WA 98019, USA","OK",-121.9856781,47.7423218
+"fountain, , co, us","Fountain, CO, USA","OK",-104.7008056,38.682219
+"cogar, , ok, us","Cogar, OK 73059, USA","OK",-98.130278,35.333889
+"bridgeport, , ca, us","Bridgeport, CA 93517, USA","OK",-119.2313932,38.2557045
+"north falmouth, , ma, us","North Falmouth, Falmouth, MA, USA","OK",-70.630494,41.6445703
+"east prairie, , mo, us","East Prairie, MO 63845, USA","OK",-89.3856298,36.7797776
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"lockport, , ny, us","Lockport, NY 14094, USA","OK",-78.6903098,43.1706128
+"beeton , canada, on, ","Beeton, New Tecumseth, ON L0G 1A0, Canada","OK",-79.784315,44.0791616
+"heath, , oh, us","Heath, OH, USA","OK",-82.4445991,40.0228421
+"new york city , ozone park, ny, us","Ozone Park, Queens, NY, USA","OK",-73.8507279,40.6794072
+"stafford, , va, us","Stafford Courthouse, VA 22554, USA","OK",-77.4083086,38.4220687
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"stroudsburg, , pa, us","Stroudsburg, PA 18360, USA","OK",-75.1946248,40.9867609
+"celina, , tx, us","Celina, TX, USA","OK",-96.7868794,33.2812885
+"sicklerville, , nj, us","Sicklerville, NJ 08081, USA","OK",-74.9697707,39.7172152
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"urbana, , oh, us","Urbana, OH 43078, USA","OK",-83.7524298,40.1083912
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"victoria, , mn, us","Victoria, MN, USA","OK",-93.6615338,44.8587227
+"augusta, , wv, us","Augusta, WV 26704, USA","OK",-78.6377912,39.2953787
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"johns creek, , ga, ","Johns Creek, GA, USA","OK",-84.198579,34.0289259
+"prosser, , wa, us","Prosser, WA 99350, USA","OK",-119.7689223,46.2067997
+"pyote, , tx, us","Pyote, TX, USA","OK",-103.1262722,31.5348555
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"gladstone, , mi, us","Gladstone, MI 49837, USA","OK",-87.0218049,45.8527435
+"hellertown, , pa, us","Hellertown, PA, USA","OK",-75.3407346,40.5795437
+"searsmont, , me, us","Searsmont, ME 04973, USA","OK",-69.1950411,44.3617419
+"broadlands, , va, ","Broadlands, VA 20148, USA","OK",-77.5202688,39.0181644
+"arthur, , nd, us","Arthur, ND 58006, USA","OK",-97.2181431,47.1041435
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"solomon, , ks, us","Solomon, KS 67480, USA","OK",-97.371137,38.9194442
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"dover , south of dover afb, de, us","442 13th St, Dover, DE 19902, USA","OK",-75.4684352,39.12773
+"stockton, , ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"west manchester, , oh, us","West Manchester, OH 45382, USA","OK",-84.6263431,39.9025504
+"gulf of mexico, , la, ","Rutherford Beach, Gulf of Mexico, Creole, LA 70632, United States","OK",-93.1241328,29.7587705
+"longmont , approx 8 miles south of&#44 co-i25 interchg, co, us",NA,"REQUEST_DENIED",NA,NA
+"berthierville , canada, qc, ca","Berthierville, QC, Canada","OK",-73.1847588,46.083474
+"fallon, , nv, us","Fallon, NV 89406, USA","OK",-118.7770407,39.4748693
+"barnsley , uk, , gb","Barnsley, UK","OK",-1.479726,53.55263
+"traverse city, , mi, us","Traverse City, MI, USA","OK",-85.6206317,44.7630567
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"witchita falls, ft worth , tx, ","E Fort Worth St, Wichita Falls, TX 76301, USA","OK",-98.4618743,33.8995646
+"orlando flrida, , fl, ","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"norman, , ok, us","Norman, OK, USA","OK",-97.4394777,35.2225668
+"clarendon , north of, ar, us","Clarendon, AR 72029, USA","OK",-91.313737,34.6931517
+"charlotte cty to sarasota on hwy. 75, , fl, ",NA,"ZERO_RESULTS",NA,NA
+"manasota key, , fl, us","Manasota Key, FL 34223, USA","OK",-82.3606349,26.9250629
+"slidell and thibadoux , new orleans, la, ",NA,"ZERO_RESULTS",NA,NA
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"south miami, , fl, us","South Miami, FL, USA","OK",-80.2907618,25.7050697
+"tavares, , fl, us","Tavares, FL 32778, USA","OK",-81.725632,28.8041579
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"gulfport, , ms, us","Gulfport, MS, USA","OK",-89.0928155,30.3674198
+"los angeles , 20 minutes e of, ca, ","100 N La Cienega E1, Los Angeles, CA 90048, USA","OK",-118.3761593,34.0750174
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

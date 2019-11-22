@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"fountain valley, , ca, us","Fountain Valley, CA 92708, USA","OK",-117.9544069,33.7090212
+"adachi-ku , tokyo, , ","Adachi City, Tokyo, Japan","OK",139.8044129,35.775017
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"milan, , ny, us","Milan, NY 12571, USA","OK",-73.7920752,41.9534255
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"gun barrel city, , tx, us","Gun Barrel City, TX, USA","OK",-96.1515623,32.3309699
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"reno, sparks, nv, ","Sparks, NV, USA","OK",-119.7526886,39.5349112
+"north arlington, , nj, us","North Arlington, NJ, USA","OK",-74.1331988,40.788434
+"easthampton, , ma, us","Easthampton, MA, USA","OK",-72.66898,42.266757
+"markesan, , wi, us","Markesan, WI 53946, USA","OK",-88.9901122,43.7072047
+"mansfield, , oh, us","Mansfield, OH, USA","OK",-82.5154471,40.75839
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"pleasanton, , ca, us","Pleasanton, CA, USA","OK",-121.8757968,37.6604484
+"lodi, , ca, us","Lodi, CA, USA","OK",-121.2722194,38.1341477
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"east providence, , ri, us","East Providence, RI, USA","OK",-71.3700545,41.8137116
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"westport , about 10 miles north of&#44 us hwy.1, ca, us",NA,"REQUEST_DENIED",NA,NA
+"gloucester , canada, on, ca","Gloucester, Ottawa, ON, Canada","OK",-75.5942867,45.4473421
+"edwards afb, , ca, ","Edwards AFB, CA, USA","OK",-117.8912085,34.9240314
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"warm beach, , wa, us","Warm Beach, WA 98292, USA","OK",-122.3645954,48.1706535
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"glendo, , wy, us","Glendo, WY 82213, USA","OK",-105.0260832,42.5027467
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"camarillo, , ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"lakeside, , ca, us","Lakeside, CA, USA","OK",-116.9222488,32.8572718
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"north dallas, , tx, ","Far North Dallas, Dallas, TX, USA","OK",-96.7863844,32.9620968
+"rock spings&#44 2miles west of, , wy, ",NA,"REQUEST_DENIED",NA,NA
+"york, , pa, us","York, PA, USA","OK",-76.727745,39.9625984
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"riley county, , ks, us","Riley County, KS, USA","OK",-96.8350999,39.3686475
+"austell, , ga, us","Austell, GA, USA","OK",-84.6343783,33.8126059
+"edgewood, , wa, us","Edgewood, WA, USA","OK",-122.293732,47.2501005
+"purmerend , netherlands, , ","Purmerend, Netherlands","OK",4.9640611,52.5143815
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"sharjah , uae, , ","Sharjah - United Arab Emirates","OK",55.4209317,25.3462553
+"payette, , id, us","Payette, ID 83661, USA","OK",-116.9337711,44.0782195
+"woodinvile, , wa, ","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"payette, , id, us","Payette, ID 83661, USA","OK",-116.9337711,44.0782195
+"south point, , oh, us","South Point, OH, USA","OK",-82.5862699,38.4178597
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"mumbai , india, , ","Mumbai, Maharashtra, India","OK",72.8776559,19.0759837
+"spring, , tx, us","Spring, TX 77373, USA","OK",-95.4171601,30.0799405
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"yucca valley, , ca, us","Yucca Valley, CA 92284, USA","OK",-116.432235,34.1141743
+"fallbrook, , ca, us","Fallbrook, CA 92028, USA","OK",-117.2511466,33.3764196
+"gilliam, , la, us","Gilliam, LA, USA","OK",-93.8451793,32.8270851
+"moundville, , al, us","Moundville, AL, USA","OK",-87.6300075,32.9976242
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"montclair, , ca, us","Montclair, CA, USA","OK",-117.6897776,34.0775104
+"kirkham&#44 preston , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"moab, , ut, us","Moab, UT 84532, USA","OK",-109.5498395,38.5733155
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"surat , india, , ","Surat, Gujarat, India","OK",72.8310607,21.1702401
+"west orange, , nj, us","West Orange, NJ 07052, USA","OK",-74.2390828,40.7985699
+"guilford, , ct, us","Guilford, CT, USA","OK",-72.674364,41.288906
+"hesperia , sse of, ca, us","Hesperia, CA, USA","OK",-117.3008784,34.4263886
+"pearl river, , ny, us","Pearl River, NY, USA","OK",-74.0218063,41.0589855
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"whitehouse, , tx, us","Whitehouse, TX 75791, USA","OK",-95.2255041,32.2268212
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"highland park, , il, us","Highland Park, IL 60035, USA","OK",-87.8003437,42.1816918
+"newtown, , ct, us","Newtown, CT, USA","OK",-73.3035656,41.4141116
+"boulder creek, , ca, us","Boulder Creek, CA 95006, USA","OK",-122.1221869,37.1260578
+"forest grove, , or, us","Forest Grove, OR 97116, USA","OK",-123.1211134,45.526998
+"smoaks, , sc, us","Smoaks, SC 29481, USA","OK",-80.8139879,33.0896069
+"poughkeepsie, , ny, us","Poughkeepsie, NY, USA","OK",-73.9209701,41.7003713
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"sturbridge, , ma, us","Sturbridge, MA, USA","OK",-72.0787059,42.1084122
+"bangalore , india, , ","Bengaluru, Karnataka, India","OK",77.5945627,12.9715987
+"halesowen , uk, , gb","Halesowen, UK","OK",-2.050526,52.449845
+"cameron, , mo, us","Cameron, MO 64429, USA","OK",-94.241057,39.7402801
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"whitburn , uk, , gb","Whitburn, Sunderland SR6, UK","OK",-1.3689213,54.955193
+"mexico city , mexico, , ","Mexico City, CDMX, Mexico","OK",-99.133208,19.4326077
+"germania, , pa, us","Germania, Abbott Township, PA 16922, USA","OK",-77.6602646,41.6475682
+"chandigarh , india, , ","Chandigarh, India","OK",76.7794179,30.7333148
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"cocoa beach, , fl, us","Cocoa Beach, FL 32931, USA","OK",-80.6075513,28.3200067
+"madison heights, , va, us","Madison Heights, VA 24572, USA","OK",-79.1230795,37.4309757
+"nipomo, , ca, us","Nipomo, CA 93444, USA","OK",-120.4759986,35.0427547
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"kinder, , la, us","Kinder, LA 70648, USA","OK",-92.850703,30.485479
+"reading , berkshire, , gb","Reading, UK","OK",-0.9781303,51.4542645
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"bradford , uk, , gb","Bradford, UK","OK",-1.759398,53.795984
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

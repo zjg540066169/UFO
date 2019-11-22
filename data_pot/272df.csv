@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"blackshear, , ga, us","Blackshear, GA 31516, USA","OK",-82.2420661,31.3060513
+"vincennes, , in, us","Vincennes, IN 47591, USA","OK",-87.5286325,38.677269
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"round rock, , tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"collinsville, , il, us","Collinsville, IL, USA","OK",-89.9845476,38.6703266
+"beatty, , nv, us","Beatty, NV, USA","OK",-116.7592265,36.9085566
+"bridgewater, , nj, ","Bridgewater Township, NJ, USA","OK",-74.6049061,40.5939636
+"cullman, , al, us","Cullman, AL, USA","OK",-86.8436124,34.1748208
+"batavia , near, ny, us","Batavia, NY 14020, USA","OK",-78.1875167,42.9981156
+"peru, , in, us",NA,"ZERO_RESULTS",NA,NA
+"rockwell, , nc, us","Rockwell, NC 28138, USA","OK",-80.4064485,35.5512508
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"silverdale, , wa, us",NA,"ZERO_RESULTS",NA,NA
+"colchester, , vt, us","Colchester, VT 05446, USA","OK",-73.1479068,44.5439375
+"lumberton, , nc, us","Lumberton, NC, USA","OK",-79.0086424,34.6182199
+"mission viejo, , ca, us","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"hays, , mt, us","Hays, MT 59527, USA","OK",-108.6943234,47.9891595
+"slana, , ak, ","Slana, AK, USA","OK",-143.9611111,62.7069444
+"st. james, , ny, us","St James, NY, USA","OK",-73.1526623,40.8754335
+"leawood, , ks, us","Leawood, KS, USA","OK",-94.6169012,38.966673
+"kapaa, , hi, us","Kapaʻa, HI 96746, USA","OK",-159.3379818,22.0881391
+"key west, , fl, us","Key West, FL 33040, USA","OK",-81.7799871,24.5550593
+"loves park, , il, us","Loves Park, IL, USA","OK",-89.0581621,42.3200189
+"titusville, , fl, us","Titusville, FL, USA","OK",-80.8075537,28.6122187
+"kingsford, , mi, us","Kingsford, MI 49802, USA","OK",-88.0720706,45.7949561
+"vaughn , hwy 285; south of, nm, us","US Hwy 285, Vaughn, NM, USA","OK",-105.2128717,34.6017597
+"white earth, , mn, us","White Earth, MN, USA","OK",-95.8433756,47.0966262
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"el segundo, , ca, us","El Segundo, CA 90245, USA","OK",-118.4164652,33.9191799
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"in flight, , , ","4650 Boulevard de la Côte-Vertu, Saint-Laurent, QC H4S 1C7, Canada","OK",-73.7170273,45.4863546
+"morrisville, , pa, us","Morrisville, PA 19067, USA","OK",-74.7746182,40.2086471
+"drummond island, , mi, ","Drummond, MI 49726, USA","OK",-83.7311138,46.0200211
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"haymarket-gainesville, , va, ","Haymarket, VA 20169, USA","OK",-77.6363806,38.8120591
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"hastings , uk, , gb","Hastings, UK","OK",0.573453,50.854259
+"blanchard, , mi, us","Blanchard, MI 49310, USA","OK",-85.0800237,43.5200611
+"ellerslie, , ga, us","Ellerslie, GA 31807, USA","OK",-84.8013182,32.6315258
+"raeford, , nc, us","Raeford, NC 28376, USA","OK",-79.2241997,34.9809995
+"mojave , 21 mi. nw of, ca, us","California, USA","OK",-119.4179324,36.778261
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"westwood, , ma, us","Westwood, MA, USA","OK",-71.2244987,42.2139873
+"shelbyville, , il, us","Shelbyville, IL 62565, USA","OK",-88.7900689,39.4064284
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"lebanon, , oh, us","Lebanon, OH 45036, USA","OK",-84.2029922,39.4353373
+"barboursville, , wv, us","Barboursville, WV, USA","OK",-82.2945923,38.4095298
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"tyler, , tx, us","Tyler, TX, USA","OK",-95.3010624,32.3512601
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"north bend, , wa, us","North Bend, WA 98045, USA","OK",-121.7867775,47.4956579
+"sag harbor, , ny, us","Sag Harbor, NY 11963, USA","OK",-72.2925819,40.9978773
+"north kingston, , ri, ","North Kingstown, RI, USA","OK",-71.4536835,41.5568315
+"chino hills, , ca, us","Chino Hills, CA, USA","OK",-117.7325848,33.9898188
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"quartzsite, , az, us","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"wollongong , nsw, , au","Wollongong NSW 2500, Australia","OK",150.8930607,-34.4278121
+"prineville, , or, us","Prineville, OR 97754, USA","OK",-120.8344664,44.2998485
+"brattleboro, , vt, us","Brattleboro, VT 05301, USA","OK",-72.5578678,42.8509152
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"miami lakes, , fl, us",NA,"ZERO_RESULTS",NA,NA
+"levittown, , pa, us","Levittown, PA, USA","OK",-74.8287747,40.1551096
+"newark, bear, de, ","Bear, DE, USA","OK",-75.6582628,39.6292788
+"taipa , south africa, , ","Taipa, Macao","OK",113.563922,22.1596848
+"pembroke, , nh, us","Pembroke, NH, USA","OK",-71.4418101,43.1814246
+"newcastle , australia, , au","Newcastle NSW, Australia","OK",151.7816802,-32.9282712
+"cape town , south africa, , ","Cape Town, South Africa","OK",18.4240553,-33.9248685
+"cut off, , la, us","Cut Off, LA 70345, USA","OK",-90.3381361,29.5427168
+"spokane county, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"bradford , west yorkshire, , gb","Bradford, UK","OK",-1.759398,53.795984
+"columbus, , ga, us","Columbus, GA, USA","OK",-84.9877094,32.4609764
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"fairmont, , wv, us","Fairmont, WV 26554, USA","OK",-80.1425781,39.4850848
+"danville, , ca, us","Danville, CA, USA","OK",-121.9999606,37.8215929
+"lihue, , hi, us","Lihue, HI 96766, USA","OK",-159.3711111,21.9811111
+"toney, , al, us",NA,"ZERO_RESULTS",NA,NA
+"toney, , al, us","Toney, AL, USA","OK",-86.7333446,34.8983333
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"cape canaveral, , fl, us","Cape Canaveral, FL 32920, USA","OK",-80.6077132,28.3922182
+"warr acres, , ok, us","Warr Acres, OK, USA","OK",-97.6189809,35.5223057
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"torquay , uk, , gb","Torquay, UK","OK",-3.525315,50.4619209
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"richmond, , in, us","Richmond, IN 47374, USA","OK",-84.8902382,39.8289369
+"wentzville, , mo, us","Wentzville, MO, USA","OK",-90.8529107,38.81144
+"mardela springs, , md, us","Mardela Springs, MD 21837, USA","OK",-75.7590991,38.4598391
+"lame deer, , mt, us","Lame Deer, MT, USA","OK",-106.6666984,45.6230476
+"fallbrook, , ca, us","Fallbrook, CA 92028, USA","OK",-117.2511466,33.3764196
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"rockyface, , ga, ","Rocky Face, GA 30740, USA","OK",-85.0274471,34.805079
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"golden valley, , mn, us","Golden Valley, MN, USA","OK",-93.3600034,44.9917149
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"custer, , wi, us","Custer, WI 54423, USA","OK",-89.4262266,44.5105265
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"edison, , nj, us","Edison, NJ, USA","OK",-74.4120953,40.5187154
+"elk grove, , ca, us","Elk Grove, CA, USA","OK",-121.3716178,38.4087993
+"cambria, , ca, us","Cambria, CA, USA","OK",-121.0807468,35.5641381
+"bangalore , india, , ","Bengaluru, Karnataka, India","OK",77.5945627,12.9715987
+"woodland, , wa, us","Woodland, WA 98674, USA","OK",-122.7439912,45.9045591
+"pismo, , ca, ","Pismo Beach, CA, USA","OK",-120.6412827,35.1427533
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"nellis afb , las vegas, nv, ","4475 England Ave, Nellis AFB, NV 89191, USA","OK",-115.0341922,36.2354092
+"canton, , ny, us","Canton, NY 13617, USA","OK",-75.1690942,44.5956163
+"cactus flats, , ca, ","Cactus Flat, California 92356, USA","OK",-116.8158624,34.3241715
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"waseca, , mn, us","Waseca, MN 56093, USA","OK",-93.5083843,44.0770411
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"barstow , aprox 35 mi west of&#44 mojave desert, ca, us",NA,"REQUEST_DENIED",NA,NA
+"loxahatchee, , fl, us","Loxahatchee, FL 33412, USA","OK",-80.238888,26.771624
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"lee vining , mt. warren, ca, us","Mt Warren, California 93541, USA","OK",-119.2232091,37.9921461
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"ashgrove, , mo, ","Ash Grove, MO 65604, USA","OK",-93.5852004,37.3153257
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"wisconsin dells, , wi, us","Wisconsin Dells, WI, USA","OK",-89.7709579,43.6274794
+"cornwall , canada, on, ca","Cornwall, ON, Canada","OK",-74.730345,45.0212762
+"pine hill, , nj, us","Pine Hill, NJ, USA","OK",-74.9921108,39.7842813
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"blackpool&#44 lancashire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"woodland park, , co, us","Woodland Park, CO 80863, USA","OK",-105.0569301,38.9938808
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"klamath falls, , or, us","Klamath Falls, OR, USA","OK",-121.7816704,42.224867
+"lavonia, , ga, us","Lavonia, GA 30553, USA","OK",-83.106818,34.4359361
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"frederick, , md, us","Frederick, MD, USA","OK",-77.4105409,39.4142688
+"dry ridge, , ky, us","Dry Ridge, KY, USA","OK",-84.5899426,38.6820122
+"moses lake, , wa, us","Moses Lake, WA 98837, USA","OK",-119.2780771,47.1301417
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"conyers, , ga, us","Conyers, GA, USA","OK",-84.0176904,33.6676103
+"troy, , oh, us",NA,"ZERO_RESULTS",NA,NA
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"price, , ut, us","Price, UT 84501, USA","OK",-110.8107148,39.5994095
+"roslindale, , ma, us","Roslindale, Boston, MA, USA","OK",-71.1270268,42.2832142
+"mattoon, , il, us","Mattoon, IL 61938, USA","OK",-88.3728255,39.4830897
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"royal palm beach, , fl, us","Royal Palm Beach, FL, USA","OK",-80.2306019,26.7083984
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"newmarket, luray , va, ","New Market, VA 22844, USA","OK",-78.6714064,38.647896
+"reston, , va, us","Reston, VA, USA","OK",-77.3570028,38.9586307
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"on highway, , ar, ","10324 I-30, Little Rock, AR 72209, USA","OK",-92.3828286,34.6718209
+"covington, , tn, us","Covington, TN, USA","OK",-89.6489786,35.5648087
+"phillipsburg, , nj, us","Phillipsburg, NJ 08865, USA","OK",-75.1901761,40.6937099
+"howell, , mi, us","Howell, MI, USA","OK",-83.9293952,42.6072552
+"carrollton, , mo, us","Carrollton, MO 64633, USA","OK",-93.4957675,39.3583539
+"harvard, , ma, us","Harvard, MA, USA","OK",-71.5828444,42.5000919
+"minneapolis, st. paul, mn, ","Twin Cities, MN, USA","OK",-93.2009998,44.9374831
+"paradise valley, , az, us","Paradise Valley, AZ, USA","OK",-111.9426452,33.5311541
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"mukwonago, , wi, us","Mukwonago, WI, USA","OK",-88.3334274,42.8666803
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"tucker, , ga, us","Tucker, GA, USA","OK",-84.2171424,33.8545479
+"sandersville, , ga, us","Sandersville, GA, USA","OK",-82.810138,32.9815431
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"mt. gilead, , nc, us","Mt Gilead, NC 27306, USA","OK",-80.0022784,35.2148671
+"glen cove, , ny, us","Glen Cove, NY, USA","OK",-73.6337389,40.8623217
+"waterloo , canada, on, ca","Waterloo, ON, Canada","OK",-80.5204096,43.4642578
+"great yarmouth , uk, , gb","Great Yarmouth, UK","OK",1.728047,52.598233
+"marlborough, , ct, us","Marlborough, CT 06447, USA","OK",-72.459634,41.6314378
+"index, , wa, us","Index, WA, USA","OK",-121.5551087,47.8206605
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"warren, , me, us","Warren, ME 04864, USA","OK",-69.2531464,44.116967
+"moorestown, , nj, us","Moorestown, NJ 08057, USA","OK",-74.948886,39.9688817
+"san manuel, , tx, us","San Manuel-Linn, TX, USA","OK",-98.1120116,26.5890392
+"cambridge, , ma, us","Cambridge, MA, USA","OK",-71.1097335,42.3736158
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"o&#39fallon, , il, us",NA,"REQUEST_DENIED",NA,NA
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"pacific, algona , wa, ","Algona, WA, USA","OK",-122.249923,47.2790619
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"sultan, , wa, us","Sultan, WA, USA","OK",-121.8165095,47.8626013
+"culiacan , mexico, , ","Culiacán, Sinaloa, Mexico","OK",-107.3940117,24.8090649
+"cerritos, , ca, us","Cerritos, CA, USA","OK",-118.0647871,33.8583483
+"west paris, , me, us","West Paris, ME, USA","OK",-70.5736688,44.3243357
+"livingston, , la, us","Livingston, LA 70754, USA","OK",-90.7478737,30.5021345
+"port elgion , canada, nb, ","Port Elgin, NB, Canada","OK",-64.0878207,46.0496462
+"colmesneil, , tx, us","Colmesneil, TX 75938, USA","OK",-94.4221436,30.9079752
+"haslett, , mi, us","Haslett, Meridian Charter Township, MI, USA","OK",-84.4010848,42.7469789
+"hastings on hudson, , ny, ","Hastings-On-Hudson, NY 10706, USA","OK",-73.8787461,40.994542
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"orange, , tx, us","Orange, TX, USA","OK",-93.7365549,30.0929879
+"paramus, oradell, nj, ","Oradell, NJ, USA","OK",-74.0368064,40.9587093
+"polk city, , fl, us","Polk City, FL 33868, USA","OK",-81.8239676,28.1825147
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

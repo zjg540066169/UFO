@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"fall river, , ma, us","Fall River, MA, USA","OK",-71.1550451,41.7014912
+"walla walla, , wa, us","Walla Walla, WA 99362, USA","OK",-118.3430208,46.0645809
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"granite falls, , wa, us","Granite Falls, WA 98252, USA","OK",-121.968742,48.0839895
+"newport news, , va, us","Newport News, VA, USA","OK",-76.4730122,37.0870821
+"st. peters, , mo, us","St Peters, MO, USA","OK",-90.6298922,38.7874699
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"st. annes , uk, , ","Saint Anne's on the Sea, UK","OK",-3.0164238,53.7587262
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"aviston, , il, us","Aviston, IL 62216, USA","OK",-89.6075894,38.6067151
+"walden, , vt, us","Walden, VT, USA","OK",-72.2231563,44.4497781
+"accord, , ny, us","Accord, NY 12404, USA","OK",-74.2290366,41.7856489
+"friday harbor, , wa, us","Friday Harbor, WA 98250, USA","OK",-123.0171242,48.5342662
+"millstone, , nj, us","Millstone, NJ, USA","OK",-74.4291135,40.2015266
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"hilton head, , sc, ","Hilton Head Island, SC, USA","OK",-80.752608,32.216316
+"germantown, , tn, us","Germantown, TN, USA","OK",-89.8100858,35.0867577
+"jamaica, , ny, us","Jamaica, Queens, NY, USA","OK",-73.7889689,40.702677
+"washington&#44 d.c. , georgetown, dc, ",NA,"REQUEST_DENIED",NA,NA
+"granby, , ct, us","Granby, CT, USA","OK",-72.7887705,41.9540614
+"langle , canada, bc, ","Langley City, BC, Canada","OK",-122.6603519,49.1041779
+"central square, , ny, us","Central Square, NY 13036, USA","OK",-76.1460357,43.2867356
+"hamburg, , ny, us","Hamburg, NY 14075, USA","OK",-78.8294768,42.7158927
+"foxborough, , ma, us","Foxborough, MA, USA","OK",-71.2478251,42.0653812
+"milford, , oh, us","Milford, OH, USA","OK",-84.2943821,39.1753377
+"fallon, , nv, us","Fallon, NV 89406, USA","OK",-118.7770407,39.4748693
+"maui, , hi, ","Maui, Hawaii, USA","OK",-156.3319253,20.7983626
+"dunnville , canada, on, ca","Dunnville, Haldimand, ON, Canada","OK",-79.6170044,42.9035374
+"fife , uk, , gb","Fife, UK","OK",-3.1495175,56.2082078
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"wichita falls, , tx, us","Wichita Falls, TX, USA","OK",-98.4933873,33.9137085
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"bedminster, , nj, us","Bedminster, NJ, USA","OK",-74.6804,40.669264
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"grimsby , uk, , gb","Grimsby, UK","OK",-0.080784,53.567471
+"pacheco, , ca, us","Pacheco, CA, USA","OK",-122.0720633,37.9854114
+"waikele, , hi, ","94-790 Lumiaina St, Waipahu, HI 96797, USA","OK",-158.0067933,21.402128
+"euless, , tx, us","Euless, TX, USA","OK",-97.0819541,32.8370727
+"maywood, , ca, us","Maywood, CA 90270, USA","OK",-118.185349,33.9866807
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"amboy, , wa, us","Amboy, WA, USA","OK",-122.446487,45.9101124
+"columbiana, , oh, us","Columbiana, OH 44408, USA","OK",-80.6939643,40.8883931
+"gainesville, , ga, us","Gainesville, GA, USA","OK",-83.8240663,34.2978794
+"montr&eacute;al , canada, qc, ","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"morehead, , ky, us","Morehead, KY 40351, USA","OK",-83.4326841,38.1839705
+"los angeles , downtown, ca, us","Downtown Los Angeles, Los Angeles, CA, USA","OK",-118.2467693,34.040713
+"chenango forks, , ny, us","Chenango Forks, NY 13746, USA","OK",-75.8463022,42.2380181
+"westboro, , ma, ","Westborough, MA, USA","OK",-71.6161294,42.2695216
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"spirit lake, , id, us","Spirit Lake, ID 83869, USA","OK",-116.8685314,47.9662924
+"bryne , norway, , ","Bryne, Norway","OK",5.6477347,58.735793
+"orchard park, , ny, us","Orchard Park, NY, USA","OK",-78.7440921,42.7675323
+"hampton, , nh, us","Hampton, NH, USA","OK",-70.8389219,42.9375932
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"berwick, , me, us","Berwick, ME, USA","OK",-70.8635506,43.2683199
+"godfrey, , il, us","Godfrey, IL, USA","OK",-90.1867764,38.9556031
+"yatton&#44 somerset , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"isle of palms, , sc, us","Isle of Palms, SC, USA","OK",-79.7343791,32.8194131
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"grover beach, , ca, us","Grover Beach, CA, USA","OK",-120.6212821,35.1216424
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"stevensville, , mt, us","Stevensville, MT 59870, USA","OK",-114.0931588,46.5099225
+"hyde park, , vt, us","Hyde Park, VT, USA","OK",-72.6148414,44.5925275
+"onalaska, , wi, us","Onalaska, WI 54650, USA","OK",-91.2351393,43.8844092
+"st. bruno , canada, qc, ca","St-Bruno-de-Montarville, QC, Canada","OK",-73.3406679,45.525974
+"hampshire , uk, , gb","Hampshire, UK","OK",-1.3080629,51.0576948
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"buffalo , darren lake theme park, ny, us","9993 Alleghany Rd, Darien Center, NY 14040, USA","OK",-78.3822125,42.9278518
+"holly springs, , ar, us","Holly Springs, AR 71763, USA","OK",-92.7096054,33.8153834
+"fredericton , canada, nb, ca","Fredericton, NB, Canada","OK",-66.6431151,45.9635895
+"lynnville, , ky, us","Lynnville, KY 42079, USA","OK",-88.5692149,36.5603357
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"willbraham, , ma, ","Wilbraham, MA 01095, USA","OK",-72.431586,42.1237206
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"newbury park, , ca, us","Newbury Park, Thousand Oaks, CA, USA","OK",-118.9070887,34.1805403
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"muscatine, , ia, us","Muscatine, IA 52761, USA","OK",-91.0432051,41.424473
+"paradise, , ca, us","Paradise, CA 95969, USA","OK",-121.6219177,39.7596061
+"tuba city, , az, us","Tuba City, AZ 86045, USA","OK",-111.2398625,36.1349928
+"coppell, , tx, us","Coppell, TX, USA","OK",-97.0150078,32.9545687
+"eleva, , wi, us","Eleva, WI, USA","OK",-91.4701575,44.5757974
+"oxford, , mi, us","Oxford, Oxford Charter Township, MI 48371, USA","OK",-83.2646624,42.8247524
+"st. charles, , mo, us","St Charles, MO, USA","OK",-90.4974359,38.7881062
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"mckinney, , tx, us","McKinney, TX, USA","OK",-96.6389342,33.1983388
+"franklin parl, , il, ","Franklin Park, IL, USA","OK",-87.879523,41.9348537
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

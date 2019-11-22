@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"drums, , pa, us","Drums, PA 18222, USA","OK",-75.9949252,41.018139
+"north coventry, , pa, ","North Coventry Township, PA 19465, USA","OK",-75.6789905,40.2159602
+"bayfield , canada, on, ca","Bayfield, Bluewater, ON, Canada","OK",-81.6960075,43.5609071
+"punxsutawney, , pa, us","Punxsutawney, PA 15767, USA","OK",-78.9708668,40.9436753
+"werisdale, , fl, ","Weirsdale, FL 32195, USA","OK",-81.9243411,28.9818685
+"madison county, , nc, us","Madison County, NC, USA","OK",-82.6915429,35.8237518
+"canada, , mb, ","Manitoba, Canada","OK",-98.8138762,53.7608608
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"jefferson, , md, us","Jefferson, MD 21755, USA","OK",-77.5319922,39.3620902
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"dixon, , ca, us","Dixon, CA 95620, USA","OK",-121.8232958,38.4454641
+"riley, , or, us","Riley, OR 97758, USA","OK",-119.5038422,43.541538
+"reading , uk, , gb","Reading, UK","OK",-0.9781303,51.4542645
+"edinburg, , tx, us","Edinburg, TX, USA","OK",-98.1633432,26.3017374
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"broomfield, , co, us","Broomfield, CO, USA","OK",-105.0866504,39.9205411
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"kildare, , tx, us","Kildare, TX 75562, USA","OK",-94.2482437,32.9431905
+"leesburg, , fl, us","Leesburg, FL, USA","OK",-81.8778582,28.810823
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"north myrtle beach, , nc, ","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"longs, , sc, us","Longs, SC 29568, USA","OK",-78.7330737,33.9385051
+"parkville, , md, us","Parkville, MD, USA","OK",-76.5396875,39.3773292
+"brinnon, , wa, us","Brinnon, WA 98320, USA","OK",-122.8982142,47.679259
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"doral, , fl, us","Doral, FL, USA","OK",-80.3553302,25.8195424
+"decatur, , il, us","Decatur, IL, USA","OK",-88.9548001,39.8403147
+"mcgill, , nv, us","McGill, NV, USA","OK",-114.7786281,39.4049384
+"alice, , tx, us","Alice, TX 78332, USA","OK",-98.0697249,27.7522487
+"mansfield, , tx, us","Mansfield, TX, USA","OK",-97.1416768,32.5631924
+"louisburg, , nc, us","Louisburg, NC 27549, USA","OK",-78.301106,36.0990393
+"hardin, , mt, us","Hardin, MT 59034, USA","OK",-107.6120314,45.7324778
+"plainville, , ct, us","Plainville, CT 06062, USA","OK",-72.8633635,41.6757457
+"dayton, , me, ","Dayton, ME, USA","OK",-70.5704598,43.5358694
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"trinidad, tobago, , ","Trinidad and Tobago","OK",-61.222503,10.691803
+"provincetown, , ma, us","Provincetown, MA, USA","OK",-70.1786425,42.0584412
+"shelburne falls, , ma, us","Shelburne Falls, MA 01370, USA","OK",-72.7392588,42.6042514
+"ashburnham, , ma, us","Ashburnham, MA, USA","OK",-71.9097394,42.635545
+"chino, , ca, us","Chino, CA, USA","OK",-117.688944,34.0122346
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"lacey, , wa, us","Lacey, WA, USA","OK",-122.8232553,47.0358969
+"murray, , ut, us","Murray, UT, USA","OK",-111.8879909,40.6668916
+"gloucester, , ma, us","Gloucester, MA, USA","OK",-70.6619888,42.6159285
+"gardendale, , al, us","Gardendale, AL, USA","OK",-86.8127702,33.6601033
+"lowell, , ma, us","Lowell, MA, USA","OK",-71.3161718,42.6334247
+"williston, , vt, us","Williston, VT, USA","OK",-73.099194,44.4454432
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"washington, , dc, us","Washington, DC, USA","OK",-77.0368707,38.9071923
+"hurricane, , ut, us","Hurricane, UT 84737, USA","OK",-113.2899484,37.1752607
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"quinlan, , tx, us","Quinlan, TX 75474, USA","OK",-96.1355295,32.9103998
+"greenfield, , ma, us","Greenfield, MA 01301, USA","OK",-72.5994104,42.587915
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"pleasant prairie, , wi, us","Pleasant Prairie, WI, USA","OK",-87.9334118,42.5530753
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"fort stockton, , tx, us","Fort Stockton, TX 79735, USA","OK",-102.8793222,30.8940431
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"norman, , ok, us","Norman, OK, USA","OK",-97.4394777,35.2225668
+"wells, , me, us","Wells, ME 04090, USA","OK",-70.5805209,43.3222329
+"st-eustache , canada, qc, ","Saint-Eustache, QC, Canada","OK",-73.8960752,45.5585489
+"albion, , mi, us","Albion, MI 49224, USA","OK",-84.7530304,42.243097
+"thornton, , co, us","Thornton, CO, USA","OK",-104.9719243,39.8680412
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"grand forks, , nd, us","Grand Forks, ND, USA","OK",-97.0328547,47.9252568
+"benton, , ky, us","Benton, KY 42025, USA","OK",-88.350315,36.8572781
+"bristol, , wi, us","Bristol, WI 53104, USA","OK",-88.0504121,42.5587325
+"mount vernon, , oh, us","Mt Vernon, OH 43050, USA","OK",-82.4857181,40.3933956
+"marietta, , oh, us","Marietta, OH 45750, USA","OK",-81.4548436,39.415352
+"buffalo, , wy, us","Buffalo, WY 82834, USA","OK",-106.6989375,44.3483072
+"fremont, , ca, us","Fremont, CA, USA","OK",-121.988583,37.5485396
+"smithville, , tx, us","Smithville, TX 78957, USA","OK",-97.1594321,30.0085542
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"gresham, , or, us","Gresham, OR, USA","OK",-122.4347608,45.5098502
+"edison, , nj, us","Edison, NJ, USA","OK",-74.4120953,40.5187154
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"clifton park, , ny, ","Clifton Park, NY, USA","OK",-73.8183804,42.844668
+"north pole, , ak, us","North Pole, AK 99705, USA","OK",-147.3494443,64.7511111
+"redondo beach, , ca, us","Redondo Beach, CA, USA","OK",-118.3884078,33.8491816
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"beech grove, , in, us","Beech Grove, IN, USA","OK",-86.0899847,39.7219884
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"ahwatukee, , az, us","Ahwatukee Foothills Village, Phoenix, AZ, USA","OK",-112.0357137,33.3122624
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"plaistow, , nh, us","Plaistow, NH 03865, USA","OK",-71.0947805,42.8364781
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"scottdale, , pa, us","Scottdale, PA 15683, USA","OK",-79.5869834,40.1003506
+"scottdale, , pa, us","Scottdale, PA 15683, USA","OK",-79.5869834,40.1003506
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
