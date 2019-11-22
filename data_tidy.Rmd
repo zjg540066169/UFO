@@ -194,9 +194,12 @@ ufo_tidy =
     city = replace(city, city == "" || is.na(city), "unknown"),
     state = replace(state, state == "" || is.na(state), "unknown"),
     country = replace(country, country == "" || is.na(country), "unknown"),
-    country = replace(country, country == "United States", "USA")
+    country = replace(country, country == "United States", "USA"),
+    temp = lat,
+    lat = long,
+    long = temp
   ) %>% 
-  select(-address_google) %>% 
+  select(-address_google, -temp) %>% 
   rename("latitude" = "lat", "longitude" = "long")
 ```
 
