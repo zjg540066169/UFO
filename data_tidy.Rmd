@@ -167,7 +167,7 @@ ufo_tidy =
   separate(state, sep = ". ", into = c("state", "zip_code")) %>% 
   select(-zip_code) %>% 
   distinct() %>% 
-  rename("latitude" = "lat", latitude = "long")
+  rename("latitude" = "lat", "longitude" = "long")
 ```
 
 We assign "unknown" to NA in ufo_shape, 
