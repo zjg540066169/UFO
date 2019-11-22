@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"vallejo, , ca, us","Vallejo, CA, USA","OK",-122.2566367,38.1040864
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"south yarmouth, , ma, us","South Yarmouth, Yarmouth, MA, USA","OK",-70.1847413,41.6667779
+"welland , canada, on, ca","Welland, ON, Canada","OK",-79.2482555,42.9921579
+"riverton , canada, mb, ca","Riverton, MB R0C 2R0, Canada","OK",-96.9997559,50.9961332
+"morganfield, , ky, us","Morganfield, KY 42437, USA","OK",-87.9166915,37.6833776
+"walla walla, , wa, us","Walla Walla, WA 99362, USA","OK",-118.3430208,46.0645809
+"uk, scotland, , ","Scotland, UK","OK",-4.2026458,56.4906712
+"tomahawk, , wi, us","Tomahawk, WI 54487, USA","OK",-89.7298594,45.4710792
+"pecos, , nm, us","Pecos, NM 87552, USA","OK",-105.675016,35.5742031
+"tillamook, , or, us","Tillamook, OR 97141, USA","OK",-123.8440137,45.4562158
+"caribou, , me, us","Caribou, ME 04736, USA","OK",-67.9980365,46.8639995
+"basking ridge , near, nj, us","Basking Ridge, NJ 07920, USA","OK",-74.5493284,40.7066174
+"romeo, , mi, us","Romeo, MI 48065, USA","OK",-83.0129874,42.802808
+"port richey, , fl, us","Port Richey, FL, USA","OK",-82.7195451,28.2716755
+"northern nsw , nsw&#44 australia, , ",NA,"REQUEST_DENIED",NA,NA
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"ann arbor, ypsilanti, mi, ","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"ann arbor, ypsilanti, mi, ","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"ypsilanti, , mi, us","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"berthid, , co, ","Berthoud, CO, USA","OK",-105.0810924,40.3083174
+"west manchester, , oh, us","West Manchester, OH 45382, USA","OK",-84.6263431,39.9025504
+"west manchester, , oh, us","West Manchester, OH 45382, USA","OK",-84.6263431,39.9025504
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"dickson city, , pa, us","Dickson City, PA, USA","OK",-75.6187766,41.467642
+"lenoir city, , tn, us","Lenoir City, TN, USA","OK",-84.2560299,35.7972998
+"polzeth , uk, , ","Polzeath, Wadebridge PL27, UK","OK",-4.9108949,50.5730845
+"bonmahon , county waterford , , ","Knockmahon, Bunmahon, Co. Waterford, Ireland","OK",-7.365204,52.1405503
+"titusville, , fl, us","Titusville, FL, USA","OK",-80.8075537,28.6122187
+"santa nella , along i-5, ca, us","Los Banos West / I-5 KOA Journey, 28485 Gonzaga Rd, Los Banos, CA 95322, USA","OK",-121.0071801,37.0554536
+"westminster, , ca, us","Westminster, CA, USA","OK",-117.9897058,33.7591757
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"pampa, , tx, us","Pampa, TX 79065, USA","OK",-100.9598709,35.5361559
+"payson , near roosevelt lake, az, us","Theodore Roosevelt Lake, Arizona, USA","OK",-111.1235382,33.6865184
+"prescott valley, , az, us","Prescott Valley, AZ, USA","OK",-112.315721,34.6100243
+"molalla, , or, us","Molalla, OR 97038, USA","OK",-122.5770888,45.1475308
+"american falls, , il, ","560 Sunbeam Rd, American Falls, ID 83211, USA","OK",-112.8495896,42.7773663
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"malone, , ny, us","Malone, NY 12953, USA","OK",-74.2948983,44.8486596
+"mooresville, , nc, us","Mooresville, NC, USA","OK",-80.8081413,35.5859146
+"mammoth lakes, , ca, us","Mammoth Lakes, CA 93546, USA","OK",-118.972079,37.648546
+"aveiro , portugal, , ","Aveiro, Portugal","OK",-8.6537539,40.6405055
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"evanston, , il, us","Evanston, IL, USA","OK",-87.6876969,42.0450722
+"evanston, , il, us","Evanston, IL, USA","OK",-87.6876969,42.0450722
+"muskegon, , mi, us","Muskegon, MI, USA","OK",-86.2483921,43.2341813
+"nampa, , id, us","Nampa, ID, USA","OK",-116.55978,43.5788175
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"scottsville, , ky, us","Scottsville, KY 42164, USA","OK",-86.1905424,36.7533781
+"richardson, , tx, us","Richardson, TX, USA","OK",-96.7298519,32.9483335
+"arlington, , wa, us","Arlington, WA, USA","OK",-122.1251418,48.1987118
+"humble, , tx, us","Humble, TX, USA","OK",-95.2621553,29.9988312
+"arlington, , va, us","Arlington, VA, USA","OK",-77.1067698,38.8799697
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"prospect valley, , co, us","Prospect Valley, CO 80643, USA","OK",-104.4149556,40.0735938
+"tukwila, , wa, us","Tukwila, WA, USA","OK",-122.2609558,47.4739884
+"luray, , va, us","Luray, VA 22835, USA","OK",-78.4594522,38.665397
+"barrington, , il, us","Barrington, IL 60010, USA","OK",-88.1361888,42.1539141
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"charleston, van buren, ar, ","Van Buren Dr, Charleston, AR 72933, USA","OK",-94.0445265,35.2991461
+"chicago , &#39burbs, il, us",NA,"REQUEST_DENIED",NA,NA
+"wilmington, , ca, us","Wilmington, Los Angeles, CA, USA","OK",-118.2643567,33.7857948
+"saint john, , in, us","St John, IN, USA","OK",-87.4700381,41.4500356
+"fairbanks, , ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"motala , sweden, , ","Motala, Sweden","OK",15.0470936,58.5380335
+"florida , north, fl, ","6500 W Newberry Rd, Gainesville, FL 32605, USA","OK",-82.4115103,29.6606723
+"newberry, , mi, us","Newberry, MI 49868, USA","OK",-85.5095586,46.3549984
+"endicott, , ny, us","Endicott, NY 13760, USA","OK",-76.0493684,42.098408
+"sierra nevada mountains, , ca, ","Sierra Nevada, California, USA","OK",-119.574224,38.2692123
+"yamuna nagar&#44 haryana , india, , ",NA,"REQUEST_DENIED",NA,NA
+"granada hills, , ca, us","Granada Hills, Los Angeles, CA, USA","OK",-118.5021527,34.2793576
+"maine , northern part, me, us","Maine, USA","OK",-69.4454689,45.253783
+"newberry crater national monument, , or, ","Bend, OR 97702, USA","OK",-121.3526952,43.9182177
+"sakinaw lake , sunshine coast, bc, ","Sakinaw Lake, Sunshine Coast A, BC V0N, Canada","OK",-124.0089859,49.6808548
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"johnson city, , tn, us","Johnson City, TN, USA","OK",-82.3534727,36.3134397
+"valentine, , tx, us","Valentine, TX 79854, USA","OK",-104.4965912,30.5873662
+"jakarta-tokyo , inflight, , ","Jakarta, Indonesia","OK",106.845599,-6.2087634
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"hopkinton, , ma, us","Hopkinton, MA, USA","OK",-71.5225646,42.2286954
+"chingford , london, , gb","Chingford, London E4, UK","OK",0.0073627,51.6320667
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"west hampton, , ny, us","Westhampton, NY, USA","OK",-72.6662075,40.8245437
+"ridgeland, , ms, us","Ridgeland, MS, USA","OK",-90.1323087,32.4284761
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"brooklyn center, , mn, us","Brooklyn Center, MN, USA","OK",-93.3327283,45.076076
+"new freedom, , pa, us","New Freedom, PA 17349, USA","OK",-76.7013609,39.7378811
+"oceangate, seaside heights, nj, ","Ocean Gate, NJ, USA","OK",-74.1337496,39.926785
+"medicine bow, , wy, us","Medicine Bow, WY 82329, USA","OK",-106.2047385,41.8955212
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

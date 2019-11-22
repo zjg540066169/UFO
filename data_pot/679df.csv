@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"dekalb, , il, us","DeKalb, IL, USA","OK",-88.7503647,41.9294736
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"edwards, , ny, us","Edwards, NY, USA","OK",-75.2452318,44.2825835
+"gifford pinchot national forrest, , wa, ","Gifford Pinchot National Forest, Washington 98377, USA","OK",-121.4511975,46.7581681
+"fowlerville, , mi, us","Fowlerville, MI 48836, USA","OK",-84.0730142,42.6605894
+"peoria county, , il, us","Peoria County, IL, USA","OK",-89.7755338,40.7156396
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"levittown, , pa, us","Levittown, PA, USA","OK",-74.8287747,40.1551096
+"tarryall reservoir, , co, ","Tarryall Reservoir, Colorado, USA","OK",-105.6104641,39.2284976
+"hamilton, , oh, us","Hamilton, OH, USA","OK",-84.5613355,39.3995008
+"kelseyville, , ca, us","Kelseyville, CA 95451, USA","OK",-122.8394375,38.9779531
+"friendship, , ny, us","Friendship, NY 14739, USA","OK",-78.1375099,42.2064566
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"eldon , near; rural, mo, us","Eldon, MO 65026, USA","OK",-92.5815759,38.3483636
+"cedar springs, , mi, us","Cedar Springs, MI 49319, USA","OK",-85.5514237,43.2233604
+"port aransas, , tx, us","Port Aransas, TX, USA","OK",-97.0610994,27.8339158
+"hastings on hudson, , ny, ","Hastings-On-Hudson, NY 10706, USA","OK",-73.8787461,40.994542
+"splendora, , tx, us","Splendora, TX, USA","OK",-95.1610438,30.2329914
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"clayton, , nc, us","Clayton, NC, USA","OK",-78.4563914,35.650711
+"farmington, , nm, us","Farmington, NM, USA","OK",-108.2186856,36.7280583
+"north kingstown, , ri, us","North Kingstown, RI, USA","OK",-71.4536835,41.5568315
+"winslow, , az, us","Winslow, AZ 86047, USA","OK",-110.6973571,35.0241873
+"winslow, , az, us","Winslow, AZ 86047, USA","OK",-110.6973571,35.0241873
+"newport, , tn, us","Newport, TN 37821, USA","OK",-83.1876578,35.9670412
+"overland park, , ks, us","Overland Park, KS, USA","OK",-94.6707917,38.9822282
+"parrsboro , canada, ns, ca","Parrsboro, NS, Canada","OK",-64.3258874,45.4056589
+"goshen, , oh, us","Goshen, OH 45122, USA","OK",-84.1613239,39.2333935
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"muncie, , in, us","Muncie, IN, USA","OK",-85.3863599,40.1933767
+"selma, , nc, us","Selma, NC, USA","OK",-78.2844435,35.5365485
+"lancaster , saddleback butte park, ca, us","Saddleback Butte State Park, 17102 E Ave. J, Lancaster, CA 93535, USA","OK",-117.8249619,34.6898696
+"normandy beach, , nj, us","Normandy Beach, Brick Township, NJ, USA","OK",-74.063793,40.0020322
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"carthage, , mo, us","Carthage, MO 64836, USA","OK",-94.3102228,37.176447
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"brunswick, , oh, us","Brunswick, OH 44212, USA","OK",-81.8418006,41.2381096
+"bowman, , sc, us","Bowman, SC 29018, USA","OK",-80.6828713,33.3487699
+"culver city, , ca, us","Culver City, CA, USA","OK",-118.3964665,34.0211224
+"west manchester, , oh, us","West Manchester, OH 45382, USA","OK",-84.6263431,39.9025504
+"romford , essex, , gb","Romford, UK","OK",0.178319,51.577076
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"camrose , 1.5 km north, ab, ca","Camrose, AB, Canada","OK",-112.8259861,53.0179364
+"lethbridge , canada, on, ca","Lethbridge, AB, Canada","OK",-112.8451364,49.6955856
+"pinckney, , mi, us","Pinckney, MI 48169, USA","OK",-83.9463358,42.4567013
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"penola , near&#44 rural, , au",NA,"REQUEST_DENIED",NA,NA
+"grande prairie , canada, ab, ca","Grande Prairie, AB, Canada","OK",-118.7884464,55.1707126
+"oxnard, , ca, us","Oxnard, CA, USA","OK",-119.1770516,34.1975048
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"chechauoene , morocco, , ","Chefchaouen, Morocco","OK",-5.2683641,35.168796
+"rushville, , il, us","Rushville, IL 62681, USA","OK",-90.5631829,40.1211577
+"gobles, , mi, us","Gobles, MI 49055, USA","OK",-85.8794635,42.3608691
+"illwaco, , wa, ","Ilwaco, WA, USA","OK",-124.0432099,46.3089891
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"high ridge, , mo, us","High Ridge, MO 63049, USA","OK",-90.5365126,38.4589432
+"wasaga beach , canada, on, ca","Wasaga Beach, ON, Canada","OK",-80.0160668,44.5207419
+"barstow, , ca, us","Barstow, CA, USA","OK",-117.0172826,34.8957957
+"fort smith, , ar, ","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"crisp point , on lake superior&#44 25 mi. nw of paradise, mi, ",NA,"REQUEST_DENIED",NA,NA
+"adelaide , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"grove city, , pa, us","Grove City, PA 16127, USA","OK",-80.0886703,41.1578377
+"granville, , oh, us","Granville, OH, USA","OK",-82.5196037,40.0681192
+"akron, , mi, us","Akron, MI 48701, USA","OK",-83.5141259,43.5680758
+"saskatoon , canada, sa, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"white city, , or, us","White City, OR, USA","OK",-122.8354426,42.431618
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"fairfield, , tx, us","Fairfield, TX, USA","OK",-96.1652481,31.7246128
+"bellevue , capehart, ne, us","Capehart Rd, Bellevue, NE, USA","OK",-95.96742,41.121759
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"dickson city, , pa, us","Dickson City, PA, USA","OK",-75.6187766,41.467642
+"white bear lake, , mn, us","White Bear Lake, MN, USA","OK",-93.0081479,45.0853814
+"pottstown, , pa, us","Pottstown, PA 19464, USA","OK",-75.6496302,40.2453741
+"maybrook, , ny, us","Maybrook, NY, USA","OK",-74.2176487,41.4839827
+"middletown, , ny, us","Middletown, NY 10940, USA","OK",-74.4229341,41.4459271
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"weissenburg , germany, , de","91781 Weissenburg in Bayern, Germany","OK",10.9710237,49.0272089
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"san diego , point loma, ca, us","Point Loma, San Diego, CA, USA","OK",-117.2466838,32.70003
+"calahonda , spain, , ","29649 Sitio de Calahonda, Málaga, Spain","OK",-4.7247795,36.4887375
+"lone pine, , ca, us","Lone Pine, CA, USA","OK",-118.0628654,36.6060444
+"dean, , tx, us","Dean, TX 76305, USA","OK",-98.34616,33.9503748
+"brewster, , ma, us","Brewster, MA, USA","OK",-70.0827905,41.7600902
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"arroyo grande, , ca, us","Arroyo Grande, CA 93420, USA","OK",-120.5907252,35.1185868
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"concord, , ca, us","Concord, CA, USA","OK",-122.0310733,37.9779776
+"natches , 30 se of, wa, ","Washington, USA","OK",-120.7401385,47.7510741
+"grapevine, , tx, us","Grapevine, TX, USA","OK",-97.0780654,32.9342919
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

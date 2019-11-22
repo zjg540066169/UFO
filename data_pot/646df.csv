@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"bethel, , ct, us","Bethel, CT 06801, USA","OK",-73.4139621,41.3712283
+"ashtabula, , oh, us","Ashtabula, OH 44004, USA","OK",-80.7898089,41.8650534
+"mt. sterling, , ky, us","Mt Sterling, KY 40353, USA","OK",-83.9432556,38.0564679
+"petersville, , al, us","Petersville, Underwood-Petersville, AL 35633, USA","OK",-87.691695,34.8553645
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"lahaina, , hi, us","Lahaina, HI, USA","OK",-156.6825,20.8783333
+"old lyme, , ct, us","Old Lyme, CT, USA","OK",-72.3289715,41.3159315
+"gillette, , wy, us","Gillette, WY, USA","OK",-105.5022205,44.2910915
+"hebbronville, , tx, us","Hebbronville, TX 78361, USA","OK",-98.6783516,27.3067057
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"delano, , ca, us","Delano, CA, USA","OK",-119.2470536,35.7688425
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"harefield , uk, , gb","Harefield, UK","OK",-0.484045,51.60314
+"ardmore, , ok, us","Ardmore, OK 73401, USA","OK",-97.1436254,34.1742611
+"newmarket , canada, on, ca","Newmarket, ON, Canada","OK",-79.461256,44.059187
+"hudson, , fl, us","Hudson, FL 34667, USA","OK",-82.6934343,28.3644485
+"brigantine, , pa, ","Brigantine Beach, New Jersey 08203, USA","OK",-74.3668129,39.4020614
+"n. ft. myers, , fl, ","North Fort Myers, FL, USA","OK",-81.8800861,26.6672935
+"dhubri , india, , ","Dhubri, Assam, India","OK",89.9743463,26.0206982
+"xalapa , mexico, , ","Xalapa, Ver., Mexico","OK",-96.9101806,19.5437751
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"quebec , canada, qc, ca","Quebec City, QC, Canada","OK",-71.2079809,46.8138783
+"panama city beach, , tn, ","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"phenix city, , al, us","Phenix City, AL, USA","OK",-85.0007653,32.4709761
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"stonington, , ct, us","Stonington, CT, USA","OK",-71.9058854,41.3358915
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"freeland, , mi, us","Freeland, MI 48623, USA","OK",-84.1227598,43.5250265
+"rushville, , in, us","Rushville, IN 46173, USA","OK",-85.4463594,39.6092137
+"garden city beach, , sc, us","Garden City, SC, USA","OK",-79.0086464,33.5929472
+"dewey, , de, ","Dewey Beach, DE 19971, USA","OK",-75.0746249,38.6928899
+"marshall, , ar, us","Marshall, AR 72650, USA","OK",-92.6312746,35.9089643
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"mchenry city, , il, ","McHenry, IL, USA","OK",-88.2667534,42.333355
+"cooper&#39s rock, , wv, ",NA,"REQUEST_DENIED",NA,NA
+"wyandotte, , mi, us","Wyandotte, MI, USA","OK",-83.1499239,42.2142064
+"lake worth, , fl, us","Lake Worth, FL, USA","OK",-80.0684479,26.6167555
+"orr&#39s island, , me, ",NA,"REQUEST_DENIED",NA,NA
+"hereford , uk, , gb","Hereford, UK","OK",-2.715974,52.056398
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"trafford, , pa, us","Trafford, PA, USA","OK",-79.7589347,40.3856246
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"beatrice, , ne, us","Beatrice, NE 68310, USA","OK",-96.7466913,40.2659269
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"west salem, , wi, us","West Salem, WI 54669, USA","OK",-91.0812465,43.8991321
+"buena park, , ca, us","Buena Park, CA, USA","OK",-117.9981387,33.8674044
+"north massapequa, , ny, us","North Massapequa, NY, USA","OK",-73.4620685,40.7009337
+"desoto, , mo, ","De Soto, MO 63020, USA","OK",-90.5551258,38.1394978
+"norway, , mi, us","Norway, MI 49870, USA","OK",-87.9037364,45.7869023
+"plainfield, , il, us","Plainfield, IL, USA","OK",-88.2120315,41.632223
+"poyntelle, , pa, us","Poyntelle, PA, USA","OK",-75.4234162,41.8157883
+"streetsboro, , oh, us","Streetsboro, OH, USA","OK",-81.3459405,41.2392227
+"oak bluffs, , ma, us","Oak Bluffs, MA, USA","OK",-70.5619724,41.4542793
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"wesley chapel, , fl, us","Wesley Chapel, FL, USA","OK",-82.3641751,28.182893
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"stowe, , vt, us","Stowe, VT 05672, USA","OK",-72.6874023,44.4654332
+"annapolis, , md, us","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"lagrange, , ga, ","LaGrange, GA, USA","OK",-85.0322444,33.0362218
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"bath county, , va, ","Bath County, VA, USA","OK",-79.6502105,38.111733
+"russellville, , ar, us","Russellville, AR, USA","OK",-93.1337856,35.2784173
+"stoke on trent , uk, , ","Stoke-on-Trent, UK","OK",-2.179404,53.002668
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"chicao, , il, ","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"mount pleasant, , sc, us","Mt Pleasant, SC, USA","OK",-79.8284258,32.8323225
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"lacona, , nh, ","Laconia, NH, USA","OK",-71.4703509,43.5278546
+"portland , garden home, or, us","Garden Home-Whitford, OR, USA","OK",-122.7590482,45.461816
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"bartlett, , il, us","Bartlett, IL, USA","OK",-88.1856301,41.9950276
+"kearns, , ut, us","Kearns, UT 84118, USA","OK",-111.9963275,40.6599468
+"kirkwood, , ca, us","Kirkwood, CA, USA","OK",-120.0722442,38.7023082
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"prescott, , az, us","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"altoona, , ia, us","Altoona, IA, USA","OK",-93.4750836,41.6435514
+"altoona, , ia, us","Altoona, IA, USA","OK",-93.4750836,41.6435514
+"north ogden, , ut, us","North Ogden, UT, USA","OK",-111.9602196,41.3071645
+"algona, , wa, us","Algona, WA, USA","OK",-122.249923,47.2790619
+"bartlett, , il, us","Bartlett, IL, USA","OK",-88.1856301,41.9950276
+"old lyme, , ct, us","Old Lyme, CT, USA","OK",-72.3289715,41.3159315
+"enumclaw, , wa, us","Enumclaw, WA 98022, USA","OK",-121.9915003,47.2042681
+"lake ariel, , pa, us","Lake Ariel, PA 18436, USA","OK",-75.3834512,41.4536638
+"park city, , ut, us","Park City, UT, USA","OK",-111.4979729,40.6460622
+"aurora, , il, us","Aurora, IL, USA","OK",-88.3200715,41.7605849
+"baldy village, , ca, ","Mt Baldy, CA 91759, USA","OK",-117.6589752,34.2363809
+"macomb, , mi, us","Macomb Township, MI, USA","OK",-82.9286428,42.6651965
+"saugatuck, , mi, us","Saugatuck, MI 49453, USA","OK",-86.2019825,42.6550248
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"union, , mi, us","Union, MI 49130, USA","OK",-85.8677756,41.7861603
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

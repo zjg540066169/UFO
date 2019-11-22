@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"bocholt , germany, , de","Bocholt, Germany","OK",6.6150917,51.8384277
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"lynn, , ma, us","Lynn, MA, USA","OK",-70.9494938,42.466763
+"essex , uk, , gb","Essex, UK","OK",0.4856781,51.5742447
+"lodi, , oh, us","Lodi, OH 44254, USA","OK",-82.0120908,41.0333889
+"grand prairie, , tx, us","Grand Prairie, TX, USA","OK",-96.9977846,32.7459645
+"santiago , chile, , ","Santiago, Santiago Metropolitan Region, Chile","OK",-70.6692655,-33.4488897
+"talladega , super speedway, al, us","3366 Speedway Blvd, Lincoln, AL 35096, USA","OK",-86.0661253,33.5669742
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"gresham, , or, us","Gresham, OR, USA","OK",-122.4347608,45.5098502
+"surrey , canada, bc, ca","Surrey, BC, Canada","OK",-122.8490125,49.1913466
+"emmelshausen , germany, , de","56281 Emmelshausen, Germany","OK",7.5557754,50.1558208
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"snelling, , ca, us","Snelling, CA 95369, USA","OK",-120.4377905,37.5193136
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"coos bay, , or, us","Coos Bay, OR, USA","OK",-124.2178903,43.3665007
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"adelaide , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"corapeake, , nc, us","Corapeake, NC 27926, USA","OK",-76.5763395,36.5343192
+"cherry grove , fire island, ny, us","Cherry Grove, Fire Island, NY, USA","OK",-73.0899622,40.6597917
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"ozamiz city&#44 philis , philippines, , ",NA,"REQUEST_DENIED",NA,NA
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"roy, , ut, us","Roy, UT, USA","OK",-112.0263313,41.1616108
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"laguna beach, , ca, us","Laguna Beach, CA, USA","OK",-117.7853568,33.5427189
+"lahore , pakistan, , ","Lahore, Punjab, Pakistan","OK",74.3587473,31.5203696
+"greenville, , de, us","Greenville, DE 19807, USA","OK",-75.5982599,39.7790012
+"worcester county, , ma, us","Worcester County, MA, USA","OK",-71.8571331,42.4096528
+"london , ne, , gb","London, UK","OK",-0.1277583,51.5073509
+"mazatlan , mexico, , ","Mazatlán, Sinaloa, Mexico","OK",-106.4111425,23.2494148
+"edinburg, , il, us","Edinburg, IL 62531, USA","OK",-89.3895338,39.6572697
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"penn valley, lake wildwood, ca, ","Penn Valley, CA 95946, USA","OK",-121.1910659,39.196005
+"peterborough , canada, on, ca","Peterborough, ON, Canada","OK",-78.319747,44.309058
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"albany, , ca, us","Albany, CA, USA","OK",-122.2977557,37.886704
+"marksville, , la, us","Marksville, LA, USA","OK",-92.0662356,31.1279652
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"jonesboro, , ar, us","Jonesboro, AR, USA","OK",-90.704279,35.8422967
+"europe, , , ","Europe","OK",15.2551187,54.5259614
+"ada, , ok, us","Ada, OK, USA","OK",-96.6783449,34.774531
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"newmarket , canada, on, ca","Newmarket, ON, Canada","OK",-79.461256,44.059187
+"northridge, , ca, us","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"fort walton beach, , fl, us","Fort Walton Beach, FL, USA","OK",-86.6170308,30.4200708
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"north lauderdale, , fl, us","North Lauderdale, FL, USA","OK",-80.2258811,26.217305
+"pompano beach, , fl, us","Pompano Beach, FL, USA","OK",-80.1247667,26.2378597
+"carterville, , il, us","Carterville, IL 62918, USA","OK",-89.0772991,37.7600501
+"nevada , on a highway in, nv, ","357 Hammill Ln, Reno, NV 89511, USA","OK",-119.7918131,39.4725486
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"boonville, , in, us","Boonville, IN 47601, USA","OK",-87.2741723,38.0492131
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"durand, , il, us","Durand, IL 61024, USA","OK",-89.3320582,42.4364033
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"bangkok , thailand, , ","Bangkok, Thailand","OK",100.5017651,13.7563309
+"laconia, , nh, us","Laconia, NH, USA","OK",-71.4703509,43.5278546
+"corrales, , nm, us","Corrales, NM, USA","OK",-106.6066926,35.2378197
+"mexico city , d.f., , ","Mexico City, CDMX, Mexico","OK",-99.133208,19.4326077
+"sedona, verde valley, az, ","3700 W State Rte 89A, Sedona, AZ 86336, USA","OK",-111.8234909,34.8559016
+"johnson city, , tn, us","Johnson City, TN, USA","OK",-82.3534727,36.3134397
+"warminster, , pa, us","Warminster, PA 18974, USA","OK",-75.099807,40.2067884
+"sedona, verde valley, az, ","3700 W State Rte 89A, Sedona, AZ 86336, USA","OK",-111.8234909,34.8559016
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"largo, , fl, us","Largo, FL, USA","OK",-82.7873244,27.9094665
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"amboy wasington, , wa, ","Amboy, WA, USA","OK",-122.446487,45.9101124
+"old forge, , pa, us","Old Forge, PA 18518, USA","OK",-75.7349143,41.3711906
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"new washington, , in, us","New Washington, IN, USA","OK",-85.5396829,38.5631176
+"brookville, trotwood, oh, ","Brookville, OH 45309, USA","OK",-84.4113366,39.8367207
+"davenport, , ia, us","Davenport, IA, USA","OK",-90.5776367,41.5236437
+"springhill , canada, ns, ca","Springhill, NS, Canada","OK",-64.0599649,45.6486482
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"atlantic ocean, , , ","Atlantic Ocean","OK",-28.6731465,-14.5994134
+"kitchener , canada, on, ca","Kitchener, ON, Canada","OK",-80.4925337,43.4516395
+"lakeville, , ma, us","Lakeville, MA, USA","OK",-70.9495226,41.8459169
+"new york city , whitestone, ny, us","Whitestone, Queens, NY, USA","OK",-73.8095574,40.7920449
+"tauranga , new zealand, , ","Tauranga, New Zealand","OK",176.1651295,-37.6877975
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"west plains, , mo, ","West Plains, MO 65775, USA","OK",-91.8523711,36.7281154
+"villa rica, , ga, us","Villa Rica, GA 30180, USA","OK",-84.9191081,33.732052
+"reedsport, , or, us","Reedsport, OR 97467, USA","OK",-124.0967779,43.7023389
+"savannah, , tn, us","Savannah, TN 38372, USA","OK",-88.2492037,35.2248034
+"tualatin, , or, us","Tualatin, OR, USA","OK",-122.7821817,45.3779988
+"chatham, , mi, us","Chatham, MI 49816, USA","OK",-86.9290375,46.3477228
+"holland, , oh, us","Holland, OH 43528, USA","OK",-83.711604,41.621718
+"austintown, , oh, us","Austintown, OH, USA","OK",-80.7645239,41.1017247
+"johns island, , sc, us","Johns Island, SC, USA","OK",-80.0311364,32.7038689
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

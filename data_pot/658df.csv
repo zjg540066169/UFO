@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"crystal lake, , il, us","Crystal Lake, IL, USA","OK",-88.3161965,42.2411344
+"crystal lake, , il, us","Crystal Lake, IL, USA","OK",-88.3161965,42.2411344
+"dade city, , fl, us","Dade City, FL, USA","OK",-82.1959178,28.3647248
+"el centro, , ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"aloha, , or, us","Aloha, OR, USA","OK",-122.8670454,45.4942838
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"tonawanda, , ny, us","Tonawanda, NY, USA","OK",-78.8722341,42.989131
+"annandale, , mn, us","Annandale, MN 55302, USA","OK",-94.1241667,45.2611111
+"forest park, , il, us","Forest Park, IL, USA","OK",-87.81367,41.8794758
+"guelph , canada, on, ca","Guelph, ON, Canada","OK",-80.2481666,43.5448048
+"truckee, , ca, us","Truckee, CA 96161, USA","OK",-120.1832533,39.327962
+"grand island, , ny, ","Grand Island, NY, USA","OK",-78.9657302,43.0216283
+"mattoon, , il, us","Mattoon, IL 61938, USA","OK",-88.3728255,39.4830897
+"bristolville, , oh, us","Bristolville, OH 44402, USA","OK",-80.8691273,41.3873741
+"dennis port , cape cod, ma, us","Dennis Port, Dennis, MA, USA","OK",-70.1286293,41.658445
+"bradford , canada, on, ca","Bradford, Bradford West Gwillimbury, ON, Canada","OK",-79.5794265,44.1109858
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"mt. hood parkdale, , or, ","Mt Hood, OR 97041, USA","OK",-121.568408,45.5378947
+"york, , me, ","York, ME, USA","OK",-70.6482581,43.1617483
+"norman, , ok, us","Norman, OK, USA","OK",-97.4394777,35.2225668
+"tucson, orovalley, az, ","Oro Valley, AZ, USA","OK",-110.966488,32.3909071
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"west bend, , wi, ","West Bend, WI, USA","OK",-88.1834277,43.4252776
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"taipei, , , ","Taipei, Taiwan","OK",121.5654177,25.0329694
+"santa rosa beach, , fl, us","Santa Rosa Beach, FL 32459, USA","OK",-86.2288322,30.3960324
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"bangor, , me, us","Bangor, ME 04401, USA","OK",-68.7712257,44.8016128
+"cedar falls, , ia, us","Cedar Falls, IA, USA","OK",-92.4453161,42.5348993
+"plant city, , fl, us","Plant City, FL, USA","OK",-82.1128641,28.0186323
+"rogue river ,  wildcat camp; lower river, or, us","Rogue River, Oregon, USA","OK",-123.5849029,42.6499325
+"bandon, , or, us","Bandon, OR 97411, USA","OK",-124.408448,43.1189978
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"north bend, , or, us","North Bend, OR 97459, USA","OK",-124.2242803,43.4065012
+"wilburton, , ok, us","Wilburton, OK 74578, USA","OK",-95.3091383,34.91871
+"o&#39brien, , or, us",NA,"REQUEST_DENIED",NA,NA
+"cardiff, , , ","Cardiff, UK","OK",-3.17909,51.481581
+"cloverdale, , ca, us","Cloverdale, CA 95425, USA","OK",-123.0172227,38.8054624
+"wilson, , nc, us","Wilson, NC, USA","OK",-77.9155395,35.7212689
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"woburn, , ma, us","Woburn, MA, USA","OK",-71.1522765,42.4792618
+"san diego , north of, ca, us","North County, CA, USA","OK",-117.2911248,33.1221548
+"fitchburg, , ma, us","Fitchburg, MA 01420, USA","OK",-71.8022955,42.5834228
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"east wenatchee, , wa, us","East Wenatchee, WA 98802, USA","OK",-120.2931263,47.4156824
+"okemos, , mi, us","Okemos, Meridian Charter Township, MI, USA","OK",-84.4274744,42.722257
+"heraklion , crete, , ","Heraklion, Greece","OK",25.1442126,35.3387352
+"southbury, , ct, us","Southbury, CT 06488, USA","OK",-73.2133715,41.4793072
+"wahiawa, , hi, us","Wahiawa, HI 96786, USA","OK",-158.0209227,21.5010495
+"wahiawa, , hi, us","Wahiawa, HI 96786, USA","OK",-158.0209227,21.5010495
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"tybee island, , ga, us","Tybee Island, GA 31328, USA","OK",-80.845666,32.0002152
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"arden, , on, ","Arden, ON K0H, Canada","OK",-76.923818,44.720484
+"ft. lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"ravenna, , oh, us","Ravenna, OH 44266, USA","OK",-81.2420473,41.1575566
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"batavia, , ny, us","Batavia, NY 14020, USA","OK",-78.1875167,42.9981156
+"cannon beach, , or, us","Cannon Beach, OR, USA","OK",-123.9615274,45.8917738
+"kamloops , canada, bc, ca","Kamloops, BC, Canada","OK",-120.3272675,50.674522
+"lake winnange , canada, on, ","Lake Winnipeg, Manitoba, Canada","OK",-97.9667841,53.2976733
+"fort dodge, , ia, us","Fort Dodge, IA 50501, USA","OK",-94.1680158,42.4974694
+"corte madera, , ca, us","Corte Madera, CA, USA","OK",-122.5274755,37.9254806
+"ticonderoga, , ny, us","Ticonderoga, NY 12883, USA","OK",-73.4234531,43.8486707
+"california , above&#44 northern part of, ca, ",NA,"REQUEST_DENIED",NA,NA
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"byron, , ga, us","Byron, GA 31008, USA","OK",-83.7596295,32.6537561
+"kentville , canada, ns, ca","Kentville, NS, Canada","OK",-64.4944735,45.0769115
+"milford, , ct, us","Milford, CT, USA","OK",-73.064036,41.2306979
+"olney, , il, us","Olney, IL 62450, USA","OK",-88.0853154,38.7308811
+"bracebridge , 14 miles north of, on, ca","Bracebridge, ON, Canada","OK",-79.3078787,45.0389565
+"saginaw, , mi, us","Saginaw, MI, USA","OK",-83.9508068,43.4194699
+"lee vining , north of, ca, us","Lee Vining, CA 93541, USA","OK",-119.119943,37.957592
+"ontario , canada, on, ","Ontario, Canada","OK",-85.323214,51.253775
+"hastings, , mi, us","Hastings, MI 49058, USA","OK",-85.2908403,42.6458682
+"eureka, , mt, us","Eureka, MT, USA","OK",-115.0535001,48.8799647
+"dorset coast , uk, , ","Jurassic Coast, UK","OK",-2.2747373,50.6214623
+"buckingham , canada, pq, ca","Buckingham, Gatineau, QC, Canada","OK",-75.4168654,45.5864086
+"inez, , ky, us","Inez, KY 41224, USA","OK",-82.5387633,37.8664833
+"ottawa , west of, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"calistoga , 7 miles outside of, ca, us","Calistoga, CA 94515, USA","OK",-122.5797054,38.5787965
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"snoqualmie pass, , wa, us","Snoqualmie Pass, WA, USA","OK",-121.4000942,47.3923346
+"burgess hill , uk, , gb","Burgess Hill, UK","OK",-0.128701,50.954469
+"silverton, , or, us","Silverton, OR 97381, USA","OK",-122.7831455,45.0051213
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"norco , river and trail, ca, us","Norco Santa Ana River Trail, Riverside, CA 92505, USA","OK",-117.5147559,33.9549173
+"the dalles, , or, us","The Dalles, OR 97058, USA","OK",-121.1786823,45.5945645
+"burlington, , nd, us","Burlington, ND, USA","OK",-101.4287751,48.2752881
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

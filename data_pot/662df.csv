@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"biola, , ca, us","Biola, CA, USA","OK",-120.0162684,36.8021676
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"lamont, , ca, us","Lamont, CA, USA","OK",-118.9142666,35.2596833
+"phouc vinh , viet nam, , ","Phước Vĩnh, Phú Giáo District, Binh Duong, Vietnam","OK",106.8060388,11.2963709
+"ensenada , 15 miles south of, , ","Ensenada, Baja California, Mexico","OK",-116.5963713,31.8667427
+"ocean city, , nj, us","Ocean City, NJ, USA","OK",-74.5746001,39.2776156
+"newport, , ri, us","Newport, RI, USA","OK",-71.3128285,41.4901024
+"seymore, farmer city, il, ","105 S Main St, Farmer City, IL 61842, USA","OK",-88.6419801,40.2439639
+"grand bay , canada, nb, ca","Grand Bay-Westfield, NB, Canada","OK",-66.2416978,45.3614925
+"beavercreek, , oh, us","Beavercreek, OH, USA","OK",-84.0632685,39.7092262
+"woodland, , wa, us","Woodland, WA 98674, USA","OK",-122.7439912,45.9045591
+"ellensburg , south of, wa, us","Ellensburg, WA, USA","OK",-120.5478474,46.9965144
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"phillipsburg, , nj, us","Phillipsburg, NJ 08865, USA","OK",-75.1901761,40.6937099
+"farmers branch, , tx, us","Farmers Branch, TX, USA","OK",-96.8961151,32.9265137
+"south china , three mile pond, me, us","Threemile Pond, Maine, USA","OK",-69.6075499,44.3673849
+"hudson, , ks, us","Hudson, KS 67545, USA","OK",-98.6600832,38.1055694
+"takoma park, , md, us","Takoma Park, MD, USA","OK",-77.0074765,38.9778882
+"brocton, , ny, us","Brocton, NY 14716, USA","OK",-79.4411573,42.3886688
+"kent, , oh, us","Kent, OH, USA","OK",-81.3578859,41.1536674
+"gold beach, , or, us","Gold Beach, OR 97444, USA","OK",-124.4217741,42.4073334
+"niagara falls, , ny, us","Niagara Falls, NY, USA","OK",-79.0377388,43.0962143
+"redondo, , wa, us","Redondo, Des Moines, WA 98198, USA","OK",-122.323456,47.348433
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"canon afb, , nm, ","Cannon AFB, NM, USA","OK",-103.3183038,34.3897838
+"girard, , oh, us","Girard, OH, USA","OK",-80.7014662,41.1539465
+"brigham city , west of, ut, us","Brigham City, UT, USA","OK",-112.0155015,41.5102129
+"luning , closest town, nv, us","Luning, NV 89420, USA","OK",-118.1785055,38.5054179
+"ricketts glen sp, , pa, ","Ricketts Glen State Park, 695 State Route 487, Benton, PA 17814, USA","OK",-76.2594981,41.3406907
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"orange lake, , fl, us","Orange Lake, FL 32686, USA","OK",-82.2167642,29.4235826
+"beverly, , ma, us","Beverly, MA, USA","OK",-70.880049,42.5584283
+"grenada, , ms, us","Grenada, MS 38901, USA","OK",-89.8084192,33.7690049
+"mckenzie, , tn, us","McKenzie, TN 38201, USA","OK",-88.5186636,36.1325616
+"albion, , ny, us","Albion, NY 14411, USA","OK",-78.1936319,43.2464477
+"lapeer, , mi, us","Lapeer, MI 48446, USA","OK",-83.3188341,43.0514161
+"fildale, , va, ","Fieldale, VA, USA","OK",-79.9386518,36.7001373
+"solomon, , ks, us","Solomon, KS 67480, USA","OK",-97.371137,38.9194442
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"avenue city, , mo, us","Avenue City, MO 64436, USA","OK",-94.7571864,39.8633274
+"mcdermitt , ne of;  lat 42 05&#39n  lon 117 00&#39w, nv, ",NA,"REQUEST_DENIED",NA,NA
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"buellton, , ca, us","Buellton, CA 93427, USA","OK",-120.1926505,34.613597
+"fort alexander , canada, mb, ","Fort Alexander, MB R0E 0P0, Canada","OK",-96.2987221,50.610446
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"lincoln park, , mi, us","Lincoln Park, MI 48146, USA","OK",-83.1785361,42.2505943
+"hatboro, , pa, us","Hatboro, PA 19040, USA","OK",-75.1068388,40.1742757
+"weekapaug, , ri, us","Weekapaug, RI 02891, USA","OK",-71.75556,41.33083
+"tierra verde, , fl, us","Tierra Verde, FL 33715, USA","OK",-82.7234337,27.6919746
+"rockford, , mn, us","Rockford, MN, USA","OK",-93.7415093,45.0872861
+"brea, , ca, us","Brea, CA, USA","OK",-117.9002918,33.916475
+"portage lake, , me, ","Portage Lake, ME 04768, USA","OK",-68.5105693,46.7962074
+"plymouth, , in, us","Plymouth, IN 46563, USA","OK",-86.3097278,41.3436554
+"bristol, , in, us","Bristol, IN 46507, USA","OK",-85.8174946,41.7214389
+"caribou , rural suburb of, me, us","Caribou, ME 04736, USA","OK",-67.9980365,46.8639995
+"interstate 65 , alabama, al, ","I-65, Alabama, USA","OK",-86.4314306,32.1739731
+"porto , portugal, , ","Porto, Portugal","OK",-8.6291053,41.1579438
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"west bloomfield, , mi, us","West Bloomfield Township, MI, USA","OK",-83.373339,42.5678534
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"rochester, , mn, us","Rochester, MN, USA","OK",-92.4801989,44.0121221
+"amherst , canada, ns, ca","Amherst, NS, Canada","OK",-64.2167206,45.816667
+"gadsden, , al, us","Gadsden, AL, USA","OK",-86.0066386,34.014264
+"kranglvea , cambodia, , ","Krang Lvea, Khum Krang Lvea, Cambodia","OK",104.5267449,11.9333621
+"romayor, , tx, us","Romayor, TX 77327, USA","OK",-94.8432625,30.4513173
+"covington, , wa, us","Covington, WA 98042, USA","OK",-122.1180119,47.3595592
+"cape cod, , ma, ","Cape Cod, Massachusetts, USA","OK",-70.2962408,41.6687897
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"carbon hill, , al, us","Carbon Hill, AL 35549, USA","OK",-87.5261236,33.8917742
+"statesboro, , ga, us","Statesboro, GA, USA","OK",-81.7831674,32.4487876
+"lawrenceburg, , tn, us","Lawrenceburg, TN, USA","OK",-87.3347389,35.2423023
+"suffolk, , va, us","Suffolk, VA, USA","OK",-76.5835621,36.7282054
+"ticonderoga, , ny, us","Ticonderoga, NY 12883, USA","OK",-73.4234531,43.8486707
+"heath, , ma, us","Heath, MA, USA","OK",-72.8217618,42.673417
+"steubenville, , oh, us","Steubenville, OH, USA","OK",-80.6339638,40.3697905
+"pendleton, athena , or, ","312 E Main St #798, Athena, OR 97813, USA","OK",-118.490132,45.811513
+"la habra, , ca, us","La Habra, CA 90631, USA","OK",-117.946137,33.9318591
+"mammoth lakes, , ca, us","Mammoth Lakes, CA 93546, USA","OK",-118.972079,37.648546
+"bistolville, , oh, ","Bristolville, OH 44402, USA","OK",-80.8691273,41.3873741
+"campbellsville, , ky, us","Campbellsville, KY 42718, USA","OK",-85.3419069,37.3433974
+"west new york, , nj, ","West New York, NJ 07093, USA","OK",-74.0143064,40.7878788
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"beach haven terrace , long beach island, nj, us","Beach Haven Terrace, Long Beach Township, NJ 08008, USA","OK",-74.2234733,39.5862296
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"arthur, , ne, us","Arthur, NE 69121, USA","OK",-101.691565,41.5716538
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"bricktown, , nj, us","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"apollo, , pa, us","Apollo, PA 15613, USA","OK",-79.5664333,40.5814546
+"glenndale, , md, ","Glenn Dale, MD, USA","OK",-76.8205265,38.9876104
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"gurnee, , il, us","Gurnee, IL, USA","OK",-87.9020186,42.3702996
+"jensen, , ut, us","Jensen, UT 84035, USA","OK",-109.3348516,40.3696849
+"sultan , sultan basin, wa, us","Sultan Basin Rd, Washington, USA","OK",-121.736817,47.9239073
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"vichy, , mo, us","Vichy, MO 65580, USA","OK",-91.7604389,38.1114322
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"cambridge, , oh, us","Cambridge, OH 43725, USA","OK",-81.5884561,40.031183
+"jacksonville beach, , fl, us","Jacksonville Beach, FL, USA","OK",-81.3961338,30.2841224
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

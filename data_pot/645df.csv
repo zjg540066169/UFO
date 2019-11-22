@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"royal palm beach, , fl, us","Royal Palm Beach, FL, USA","OK",-80.2306019,26.7083984
+"ivanhoe, , mn, us","Ivanhoe, MN 56142, USA","OK",-96.247263,44.4632981
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"mulino, , or, us","Mulino, OR, USA","OK",-122.5816605,45.2212415
+"mt ayr, , ia, us","Mt Ayr, IA 50854, USA","OK",-94.235232,40.7147147
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"ancaster , canada, on, ca","Ancaster, Hamilton, ON, Canada","OK",-79.9872835,43.2177791
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"belleville, , mi, us","Belleville, MI 48111, USA","OK",-83.4852133,42.2047619
+"elm grove, , la, us","Elm Grove, LA 71051, USA","OK",-93.556133,32.3520927
+"roxbury, , ct, us","Roxbury, CT, USA","OK",-73.3087285,41.5564843
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"petaling jaya, selangor , , ","Petaling Jaya, Selangor, Malaysia","OK",101.5944885,3.1278871
+"two creeks, , wi, us","Two Creeks, WI 54241, USA","OK",-87.5631378,44.3022186
+"san rafael, , ca, us","San Rafael, CA, USA","OK",-122.5310874,37.9735346
+"kirkfield , canada, on, ","Kirkfield, ON K0M 2B0, Canada","OK",-78.979981,44.563164
+"richelieu , canada, pq, ca","Richelieu, QC, Canada","OK",-73.2459879,45.4404215
+"weldon, , ca, us","Weldon, CA, USA","OK",-118.2903579,35.6657864
+"burien, , wa, us","Burien, WA, USA","OK",-122.3405305,47.4668384
+"stanwood, , wa, us","Stanwood, WA 98292, USA","OK",-122.3706837,48.2410895
+"marblemount, , wa, us","Marblemount, WA, USA","OK",-121.4495729,48.527619
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"salem, peabody, ma, ","6 Essex Center Dr Suite 112A, Peabody, MA 01960, USA","OK",-70.9503611,42.5390339
+"altadena, , ca, us","Altadena, CA, USA","OK",-118.1313188,34.190162
+"rome, , ga, us","Rome, GA, USA","OK",-85.1646726,34.257038
+"grand canyon , 100 miles from, az, us",NA,"ZERO_RESULTS",NA,NA
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"lugano , switzerland, , ","Lugano, Switzerland","OK",8.951052,46.0036778
+"vashon island, , wa, ","Vashon, WA 98070, USA","OK",-122.4598502,47.4473204
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"jefferson city, , mo, us","Jefferson City, MO, USA","OK",-92.1735164,38.5767017
+"kirkwood , saint louis, mo, us","Kirkwood, MO 63122, USA","OK",-90.406785,38.5833862
+"riding mountain , canada, mb, ","Riding Mountain, MB R0J 1T0, Canada","OK",-99.468598,50.531939
+"langley , canada, bc, ca","Langley City, BC, Canada","OK",-122.6603519,49.1041779
+"jackson, , mo, us","Jackson, MO 63755, USA","OK",-89.6662063,37.3822732
+"denver, , pa, us","Denver, PA, USA","OK",-76.1371683,40.2331483
+"temple city, , ca, us","Temple City, CA, USA","OK",-118.0578456,34.1072305
+"oroville, , wa, us","Oroville, WA 98844, USA","OK",-119.4356211,48.9390509
+"guilderland, , ny, us","Guilderland, NY 12084, USA","OK",-73.9116433,42.7043568
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"orem, , ut, us","Orem, UT, USA","OK",-111.6946475,40.2968979
+"sterling, , ok, us","Sterling, OK, USA","OK",-98.1717131,34.7503489
+"kemet , turkey, , ",NA,"ZERO_RESULTS",NA,NA
+"sterling, , ok, us","Sterling, OK, USA","OK",-98.1717131,34.7503489
+"lehigh acres, , fl, us","Lehigh Acres, FL, USA","OK",-81.6248026,26.6253497
+"sedro woolley, , wa, ","Sedro-Woolley, WA 98284, USA","OK",-122.2361101,48.50389
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"goleta, , ca, us","Goleta, CA, USA","OK",-119.8276389,34.4358294
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"n. cambria, , pa, ","Northern Cambria, PA, USA","OK",-78.7816937,40.6592342
+"suriname, , ak, ","Westkanaalstraat 40, Nieuw, Suriname","OK",-56.9927154,5.9420535
+"athens , near, ga, us","Athens, GA, USA","OK",-83.357567,33.9519347
+"bertram, , tx, us","Bertram, TX 78605, USA","OK",-98.0555763,30.7437957
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"edmonton, , ky, us","Edmonton, KY 42129, USA","OK",-85.6121906,36.9800563
+"mayland, , tn, us","Mayland, TN 38571, USA","OK",-85.1999662,36.0467324
+"greenville, , nc, us","Greenville, NC, USA","OK",-77.3663538,35.612661
+"homestead, , fl, us","Homestead, FL, USA","OK",-80.4775569,25.4687224
+"patterson, , ca, us","Patterson, CA 95363, USA","OK",-121.129656,37.4716001
+"northampton , uk, , gb","Northampton, UK","OK",-0.902656,52.240477
+"hamden, , ct, us","Hamden, CT, USA","OK",-72.9026064,41.3838782
+"sacramento , east of, ca, us","East Sacramento, Sacramento, CA, USA","OK",-121.4462073,38.567682
+"ashford hollow, , ny, us","Ashford Hollow, NY 14171, USA","OK",-78.6853057,42.403396
+"indiana, , pa, us","Indiana, PA, USA","OK",-79.1525349,40.6214551
+"bridgeville, , ca, us","Bridgeville, CA, USA","OK",-123.7995008,40.4694936
+"swarthmore, , pa, us","Swarthmore, PA 19081, USA","OK",-75.3499123,39.9020565
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"vaxjo , sweden, , ","Växjö, Sweden","OK",14.8058523,56.8790044
+"winter springs to sanford, , fl, ",NA,"ZERO_RESULTS",NA,NA
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"sheet harbour , canada, ns, ca","Sheet Harbour, NS B0J, Canada","OK",-62.544239,44.9278509
+"edinburg, , tx, us","Edinburg, TX, USA","OK",-98.1633432,26.3017374
+"oakdale, , ca, us","Oakdale, CA 95361, USA","OK",-120.8471545,37.7665947
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"pittsburg, antioch, ca, ","Pittsburg, CA, USA","OK",-121.8846806,38.0279762
+"grenada, , ca, us","Grenada, CA, USA","OK",-122.5267628,41.6403585
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"clarklake, , mi, us","Clarklake, MI 49234, USA","OK",-84.344951,42.1214293
+"humble, atascocita, tx, ","Humble, TX, USA","OK",-95.2621553,29.9988312
+"baton rouge, , la, us","Baton Rouge, LA, USA","OK",-91.1871466,30.4514677
+"tiskilwa, , il, us","Tiskilwa, IL 61368, USA","OK",-89.506204,41.292259
+"oxford , uk, , gb","Oxford, UK","OK",-1.2577263,51.7520209
+"gobi desert , mongolia, , ","Gobi Desert","OK",105.0323635,42.7951536
+"gretna, , va, us","Gretna, VA 24557, USA","OK",-79.3589134,36.9537526
+"harrison township, , mi, ","Harrison Charter Township, MI, USA","OK",-82.8293423,42.5835951
+"draper, , ut, us","Draper, UT, USA","OK",-111.8638226,40.5246711
+"sterling, , il, us","Sterling, IL 61081, USA","OK",-89.6962194,41.788642
+"coldwater, , mi, us","Coldwater, MI 49036, USA","OK",-85.0005215,41.9403263
+"bedford , uk, , gb","Bedford, UK","OK",-0.4667782,52.1386394
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

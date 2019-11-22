@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"denver , above, co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"hull, , ga, us","Hull, GA 30646, USA","OK",-83.2937659,34.0148352
+"danville, , pa, us","Danville, PA 17821, USA","OK",-76.6127329,40.96342
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"north hampton, , nh, us","North Hampton, NH, USA","OK",-70.8351792,42.9737623
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"barrington hills, , il, us","Barrington Hills, IL, USA","OK",-88.1957427,42.1391457
+"loomis, , ca, us","Loomis, CA, USA","OK",-121.1930041,38.8212889
+"lisbon, , oh, us","Lisbon, OH 44432, USA","OK",-80.7681336,40.7720044
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"bald eagle lake, , mn, ","Bald Eagle Lake, White Bear Lake, MN 55110, USA","OK",-93.0164606,45.116748
+"jeromesville, , oh, us","Jeromesville, OH 44840, USA","OK",-82.195712,40.8042238
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"grissom afb , approx. 20 south of, in, ","Grissom Joint Air Reserve Base, IN, USA","OK",-86.1446493,40.661823
+"highland park, , il, us","Highland Park, IL 60035, USA","OK",-87.8003437,42.1816918
+"pembroke , canada, on, ca","Pembroke, ON, Canada","OK",-77.1108826,45.8266513
+"frederick, , md, us","Frederick, MD, USA","OK",-77.4105409,39.4142688
+"pointe claire , canada, pq, ","Pointe-Claire, QC, Canada","OK",-73.7990191,45.4719655
+"torrevieja , spain, , ","Torrevieja, Alicante, Spain","OK",-0.6808233,37.9847003
+"cadillac, , mi, us","Cadillac, MI 49601, USA","OK",-85.4011619,44.2519526
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"citrus heights, , ca, us","Citrus Heights, CA, USA","OK",-121.2810611,38.7071247
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"san diego , mira mesa, ca, us","Mira Mesa, San Diego, CA, USA","OK",-117.1382404,32.9184763
+"woodland, , ca, us","Woodland, CA, USA","OK",-121.7732971,38.6785157
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"red rock canyon, , nv, ","Red Rock Canyon National Conservation Area, 1000 Scenic Loop Dr, Las Vegas, NV 89161, USA","OK",-115.4382967,36.1944273
+"red bluff, , ca, us","Red Bluff, CA 96080, USA","OK",-122.2358302,40.1784886
+"west covina, , ca, us","West Covina, CA, USA","OK",-117.9389526,34.0686208
+"covina, , ca, us","Covina, CA, USA","OK",-117.8903397,34.0900091
+"kingman , desert&#44 out of, az, us",NA,"REQUEST_DENIED",NA,NA
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"pacific palisades, , ca, us","Pacific Palisades, Los Angeles, CA, USA","OK",-118.5155901,34.0356331
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"tacna , approx, az, us","Tacna, AZ 85356, USA","OK",-113.9535427,32.6975472
+"thermal , near&#44 torres martinez indian reservation, ca, us",NA,"REQUEST_DENIED",NA,NA
+"tonapah, , nv, ","Tonopah, NV 89049, USA","OK",-117.2305861,38.069211
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"winnemucca, , nv, us","Winnemucca, NV 89445, USA","OK",-117.7356849,40.9729584
+"st. george, , ut, us","St. George, UT, USA","OK",-113.5684164,37.0965278
+"noshahr, , , ","Nowshahr, Mazandaran Province, Iran","OK",51.4887307,36.649364
+"sherman, , ny, us","Sherman, NY 14781, USA","OK",-79.5953258,42.1592235
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"bath , uk, , gb","Bath, UK","OK",-2.3590167,51.3810641
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"bartlesville, , ok, us","Bartlesville, OK, USA","OK",-95.9808179,36.7473114
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"haubstadt, , in, us","Haubstadt, IN 47639, USA","OK",-87.5741876,38.2050442
+"north bend, , or, us","North Bend, OR 97459, USA","OK",-124.2242803,43.4065012
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"hellesylt , norway, , ","Hellesylt, Norway","OK",6.8686937,62.086076
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"poposky, , mn, ","Puposky, MN 56601, USA","OK",-94.9072151,47.6777323
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"myrtle point, , or, us","Myrtle Point, OR 97458, USA","OK",-124.138992,43.064832
+"cedar hill, , tx, us","Cedar Hill, TX, USA","OK",-96.9561152,32.5884689
+"eagle butte, , sd, us","Eagle Butte, SD 57625, USA","OK",-101.2224805,44.9886537
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"chagrin falls, , oh, us","Chagrin Falls, OH 44022, USA","OK",-81.3910999,41.4298516
+"belleville , canada, on, ca","Belleville, ON, Canada","OK",-77.3832315,44.1627589
+"malton , uk, , gb","Malton YO17, UK","OK",-0.797897,54.136836
+"new mexico , rural, nm, ","8336 Washington Pl NE, Albuquerque, NM 87113, USA","OK",-106.5989118,35.1795539
+"jasper, , al, us","Jasper, AL, USA","OK",-87.2775053,33.8312185
+"verdun , canada, pq, ca","Verdun, Montreal, QC, Canada","OK",-73.5698729,45.4548269
+"warninglid village , uk, , ","Warninglid, Haywards Heath RH17 5TY, UK","OK",-0.220317,51.021339
+"bellevue, , ne, us","Bellevue, NE, USA","OK",-95.9145568,41.1543623
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"douglas, , ga, us","Douglas, GA, USA","OK",-82.8498654,31.5088073
+"carlbad, , nm, ","Carlsbad, NM 88220, USA","OK",-104.2288375,32.4206736
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"clementon, , nj, us","Clementon, NJ 08021, USA","OK",-74.9829443,39.8115033
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"monroe, , la, us","Monroe, LA, USA","OK",-92.1193012,32.5093109
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"heavener, , ok, us","Heavener, OK 74937, USA","OK",-94.6030084,34.8955218
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"el dorado, , ar, us","El Dorado, AR 71730, USA","OK",-92.6662674,33.20763
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"junction, , tx, us","Junction, TX 76849, USA","OK",-99.7720109,30.4893555
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"conyers, , ga, us","Conyers, GA, USA","OK",-84.0176904,33.6676103
+"burleson, , tx, us","Burleson, TX, USA","OK",-97.3208492,32.5420821
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

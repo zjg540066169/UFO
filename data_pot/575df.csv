@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hartford , near; highway 91, ct, us","I-91, Hartford, CT, USA","OK",-72.6680114,41.7659554
+"jacksonville , i-10&#44  10 milemarker 235&#44 heading e, fl, us",NA,"REQUEST_DENIED",NA,NA
+"jacksonville , i-10 milemarker 238&#44 heading e, fl, us",NA,"REQUEST_DENIED",NA,NA
+"jacksonville , interstate 10&#44 heading e, fl, us",NA,"REQUEST_DENIED",NA,NA
+"indianapolis , carmel, in, us","Carmel, IN, USA","OK",-86.1180435,39.978371
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"scunthorpe , uk, , gb","Scunthorpe, UK","OK",-0.654413,53.588646
+"tukwila , viewed from&#44 looking east, wa, us",NA,"REQUEST_DENIED",NA,NA
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"north bowers beach, , de, ","Bowers, DE, USA","OK",-75.4015675,39.0598755
+"sewell, , nj, us","Sewell, Mantua Township, NJ 08080, USA","OK",-75.1441926,39.7662167
+"sewell, , nj, us","Sewell, Mantua Township, NJ 08080, USA","OK",-75.1441926,39.7662167
+"hatton, , wa, us","Hatton, WA 99344, USA","OK",-118.8263881,46.7759744
+"sandusky, , oh, us","Sandusky, OH 44870, USA","OK",-82.7116821,41.4561754
+"maitland , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"silverdale, , wa, us","Silverdale, WA, USA","OK",-122.6948697,47.6445386
+"lake city, , ca, us","Lake City, CA 96115, USA","OK",-120.2168925,41.6426708
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"marlboro township, , nj, ","Marlboro Township, NJ, USA","OK",-74.2687291,40.3380949
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"puerto de mazarron , spain, , ","Puerto de Mazarrón, Murcia, Spain","OK",-1.266238,37.5640068
+"jensen beach, , fl, us","Jensen Beach, FL 34957, USA","OK",-80.2297697,27.2544906
+"fort pierce, , fl, us","Fort Pierce, FL, USA","OK",-80.3256056,27.4467056
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"st. john&#39s , canada, nf, ca",NA,"REQUEST_DENIED",NA,NA
+"jacksonville, , al, us","Jacksonville, AL 36265, USA","OK",-85.7613536,33.8137125
+"barton city, , mi, us","Barton City, MI 48705, USA","OK",-83.6060424,44.6839498
+"port liberte, , nj, ","20 Chapel Ave, Jersey City, NJ 07305, USA","OK",-74.0715398,40.6861213
+"cleveland, , tx, us","Cleveland, TX, USA","OK",-95.0854885,30.34132
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"fremont, , oh, us","Fremont, OH 43420, USA","OK",-83.1218634,41.3503303
+"addison, , tx, us","Addison, TX, USA","OK",-96.8291685,32.96179
+"jacksonville, , nc, us","Jacksonville, NC, USA","OK",-77.4302414,34.7540524
+"san felipe , baja california, , ","San Felipe, Baja California, Mexico","OK",-114.8407776,31.0250709
+"harbor beach, , mi, us","Harbor Beach, MI 48441, USA","OK",-82.6513186,43.8447369
+"duluth, , ga, us","Duluth, GA, USA","OK",-84.1446376,34.0028786
+"des moines, , wa, us","Des Moines, WA, USA","OK",-122.3242901,47.4017661
+"dousman, , wi, us","Dousman, WI, USA","OK",-88.4725983,43.014176
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"sandpoint, , id, us","Sandpoint, ID 83864, USA","OK",-116.553465,48.276577
+"scottsbluff, , ne, us","Scottsbluff, NE 69361, USA","OK",-103.6671662,41.8666341
+"windsor , canada, on, ca","Windsor, ON, Canada","OK",-83.0363633,42.3149367
+"columbia, , pa, us","Columbia, PA, USA","OK",-76.5044098,40.0337085
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"leola, , pa, us","Leola, Leacock-Leola-Bareville, PA 17540, USA","OK",-76.1874279,40.0876218
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"londonderry, , nh, us","Londonderry, NH, USA","OK",-71.3739272,42.8651298
+"st.thomas , canada, on, ","St Thomas, ON, Canada","OK",-81.1826527,42.7777214
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"trail , canada, bc, ca","Trail, BC, Canada","OK",-117.71173,49.0965676
+"cambridge springs, , pa, us","Cambridge Springs, PA 16403, USA","OK",-80.0564443,41.8036675
+"jackson, , wy, us","Jackson, WY, USA","OK",-110.7624282,43.4799291
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"brentwood , northern ca, ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"lewisburg, , oh, us","Lewisburg, OH 45338, USA","OK",-84.5396736,39.8461629
+"galt, , ca, us","Galt, CA, USA","OK",-121.2999485,38.2546373
+"kernville , 8 miles north of, ca, us","Kernville, CA, USA","OK",-118.4253627,35.7546732
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"shafter, , ca, ","Shafter, CA, USA","OK",-119.2717761,35.5005139
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"monticello, , ut, us","Monticello, UT 84535, USA","OK",-109.3428948,37.8713829
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"paragon, , in, us","Paragon, IN, USA","OK",-86.562499,39.3950468
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"portsmouth, , oh, us","Portsmouth, OH 45662, USA","OK",-82.9976742,38.7317431
+"lakewood, , ca, us","Lakewood, CA, USA","OK",-118.1339563,33.8536269
+"st. helens, , or, us","St Helens, OR, USA","OK",-122.8212356,45.858961
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"warnbro , australia, , au","Warnbro WA 6169, Australia","OK",115.7594984,-32.3367629
+"hawi, , hi, us","Hawi, HI 96719, USA","OK",-155.8327778,20.2413889
+"owasso, , ok, us","Owasso, OK, USA","OK",-95.8547119,36.2695388
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"barstow, , ca, us","Barstow, CA, USA","OK",-117.0172826,34.8957957
+"kingston, , ny, us","Kingston, NY 12401, USA","OK",-73.9973608,41.9270367
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"pasadena, , md, us","Pasadena, MD 21122, USA","OK",-76.5710753,39.1073317
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"canton, , ga, us","Canton, GA, USA","OK",-84.4907621,34.2367621
+"doraville, , ga, us","Doraville, GA, USA","OK",-84.2832564,33.8981579
+"langley , canada, bc, ca","Langley City, BC, Canada","OK",-122.6603519,49.1041779
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"kettleman city, coalinga , ca, ","Kettleman City, CA 93239, USA","OK",-119.9617998,36.0082864
+"newport, , ri, us","Newport, RI, USA","OK",-71.3128285,41.4901024
+"sevierville, , tn, us","Sevierville, TN, USA","OK",-83.561835,35.8681455
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"leakey, , tx, us","Leakey, TX 78873, USA","OK",-99.761448,29.7288351
+"lebanon, , il, us","Lebanon, IL 62254, USA","OK",-89.8073195,38.6039375
+"abbotsford , canada, bc, ca","Abbotsford, BC, Canada","OK",-122.3044697,49.0504377
+"macon, , ga, us","Macon, GA, USA","OK",-83.6324022,32.8406946
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hoover, , al, us","Hoover, AL, USA","OK",-86.8113781,33.4053867
+"lenior city, , tn, ","Lenoir City, TN, USA","OK",-84.2560299,35.7972998
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"perth , australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"exeter, , ne, us","Exeter, NE 68351, USA","OK",-97.4503271,40.6441737
+"filmore, , ut, ","Fillmore, UT 84631, USA","OK",-112.3397377,38.9638553
+"jackson, , mi, us","Jackson, MI, USA","OK",-84.4013462,42.245869
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"kannapolis, , nc, us","Kannapolis, NC, USA","OK",-80.6217341,35.4873613
+"hoffman estates , 8 mi. nw of o&#39hare airport, il, us",NA,"REQUEST_DENIED",NA,NA
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"brentwood, , ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"bremen , germany, , de","Bremen, Germany","OK",8.8016936,53.0792962
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"dryden , canada, on, ca","Dryden, ON P0V, Canada","OK",-92.8369592,49.7800938
+"north riverside, , il, us","North Riverside, IL, USA","OK",-87.8157429,41.8461167
+"westchester , canada, il, us","Westchester, IL, USA","OK",-87.8806738,41.8498339
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"nye county , central, nv, ","Nye County, NV, USA","OK",-116.0413889,38.5807111
+"jasper, , in, us","Jasper, IN, USA","OK",-86.9311094,38.3914418
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"westfield, , in, us","Westfield, IN, USA","OK",-86.1274888,40.0428151
+"augusta, , ga, us","Augusta, GA, USA","OK",-82.0105148,33.4734978
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"branford, , ct, us","Branford, CT, USA","OK",-72.8141185,41.2799027
+"durham, , nc, us","Durham, NC, USA","OK",-78.898619,35.9940329
+"el centro , east of, az, ","504 E Danenberg Dr, El Centro, CA 92243, USA","OK",-115.5344629,32.7673895
+"atlantic city, , nj, us","Atlantic City, NJ, USA","OK",-74.4229266,39.3642834
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"warner springs, , ca, us","Warner Springs, CA 92086, USA","OK",-116.6494394,33.2769753
+"lakeridge, , va, ","Lake Ridge, VA 22192, USA","OK",-77.2977618,38.687894
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"maumee, , oh, us","Maumee, OH, USA","OK",-83.6538244,41.5628294
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"grand junction, , co, us","Grand Junction, CO, USA","OK",-108.5506486,39.0638705
+"kent, , oh, us","Kent, OH, USA","OK",-81.3578859,41.1536674
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"butler, , in, us","Butler, IN 46721, USA","OK",-84.8713502,41.4297727
+"hermiston, , or, us","Hermiston, OR, USA","OK",-119.2894604,45.8404101
+"fenton, , mi, us","Fenton, MI, USA","OK",-83.7049498,42.7978061
+"clarks summit, , pa, us","Clarks Summit, PA 18411, USA","OK",-75.7085248,41.4886892
+"summersville, , wv, us","Summersville, WV 26651, USA","OK",-80.8525981,38.2812203
+"lincoln , uk, , gb","Lincoln, UK","OK",-0.540579,53.230688
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"greenwich, , ct, us","Greenwich, CT, USA","OK",-73.6281964,41.0262417
+"triplet, , nc, ","Triplett, NC 28618, USA","OK",-81.5587148,36.2031844
+"somerviller, , ma, ","Somerville, MA, USA","OK",-71.0994968,42.3875968
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"oak hill, , oh, us","Oak Hill, OH 45656, USA","OK",-82.573495,38.8939645
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"chillicothe, , oh, us","Chillicothe, OH 45601, USA","OK",-82.9824019,39.3331197
+"fremont, , in, us","Fremont, IN 46737, USA","OK",-84.9327395,41.7308834
+"newark, , oh, us","Newark, OH, USA","OK",-82.4012642,40.0581205
+"hernando, , ms, us","Hernando, MS, USA","OK",-89.9937018,34.823987
+"marquette, , mi, us","Marquette, MI, USA","OK",-87.3953713,46.5436199
+"la vega , dominican republic, , ","La Vega 41000, Dominican Republic","OK",-70.5238948,19.2188547
+"wheaton, , mn, us","Wheaton, MN 56296, USA","OK",-96.499233,45.8044052
+"holt, , mi, us","Holt, Delhi Charter Township, MI 48842, USA","OK",-84.5152545,42.6405912
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"running springs, , ca, us","Running Springs, CA, USA","OK",-117.1092049,34.2077859
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"chateauroux , france, , ","36000 Châteauroux, France","OK",1.686779,46.811434
+"st. augustine beach, , fl, us","St Augustine Beach, FL 32080, USA","OK",-81.2711546,29.8439828
+"san tan valley, , az, ","San Tan Valley, AZ, USA","OK",-111.5468301,33.177294
+"newark, , oh, us","Newark, OH, USA","OK",-82.4012642,40.0581205
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"santa nella, , ca, us","Santa Nella, CA 95322, USA","OK",-121.016866,37.0977209
+"dinosaur point , pacheco pass on sr152, ca, ","Pacheco State Park, 38787 Dinosaur Point Rd, Hollister, CA 95023, USA","OK",-121.2116388,37.0650751
+"los banos, , ca, us","Los Banos, CA, USA","OK",-120.8499151,37.0582786
+"los banos , near, ca, us","Los Banos, CA, USA","OK",-120.8499151,37.0582786
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"old town, , me, us","Old Town, ME, USA","OK",-68.6453092,44.9342349
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"greenland, , nh, us","Greenland, NH, USA","OK",-70.8328322,43.0361995
+"natick, , ma, us","Natick, MA, USA","OK",-71.3468091,42.2775281
+"uk, england , , ","England, UK","OK",-1.1743197,52.3555177
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"langhorne, , pa, us","Langhorne, PA, USA","OK",-74.9226665,40.1745538
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"mohawk, , ny, us","Mohawk, NY 13407, USA","OK",-75.0040449,43.0114592
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"kimberly , canada, bc, ca","Kimberley, BC, Canada","OK",-115.9967207,49.6651567
+"vernon , canada, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"cranbrook , canada, bc, ca","Cranbrook, BC V1C, Canada","OK",-115.7694002,49.5129678
+"kimberly , st. mary&#39s lake, bc, ca",NA,"REQUEST_DENIED",NA,NA
+"lithia springs, , ga, us","Lithia Springs, GA, USA","OK",-84.6604899,33.7939953
+"pinellas county, , fl, ","Pinellas County, FL, USA","OK",-82.7778579,27.876394
+"marysville, , ks, us","Marysville, KS 66508, USA","OK",-96.647242,39.8411129
+"burlingame, , ca, us","Burlingame, CA, USA","OK",-122.34809,37.5778696
+"richland , tri-cities, wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"lapu-lapu , philippines, , ","Lapu-Lapu City, Cebu, Philippines","OK",123.997295,10.2661822
+"keizer, , or, us","Keizer, OR, USA","OK",-123.0262077,44.9901194
+"ocean shores , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"yamuna nagar&#44 haryana , india, , ",NA,"REQUEST_DENIED",NA,NA
+"stillwater, , mn, us","Stillwater, MN 55082, USA","OK",-92.8088443,45.056004
+"pasco, , wa, us","Pasco, WA 99301, USA","OK",-119.0922316,46.2305049
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"keerbergen , 51.00 n&#44 4.617 e, , ",NA,"REQUEST_DENIED",NA,NA
+"pacific grove, , ca, us","Pacific Grove, CA, USA","OK",-121.9166215,36.6177374
+"new mexico , interstate 25&#44 exit 138, nm, ",NA,"REQUEST_DENIED",NA,NA
+"ashland, , ma, us","Ashland, MA, USA","OK",-71.4633956,42.2612067
+"mojave, , ca, us","Mojave, CA 93501, USA","OK",-118.1739645,35.0524699
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"larchmont, , ny, us","Larchmont, NY, USA","OK",-73.7517983,40.9278769
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"columbia , near, mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"west babylon, , ny, us","West Babylon, NY, USA","OK",-73.354287,40.718155
+"norfolk, , va, us","Norfolk, VA, USA","OK",-76.2858726,36.8507689
+"brightwood, , or, us","Brightwood, Mt Hood Village, OR 97011, USA","OK",-122.0167481,45.3762302
+"yukon, , ok, us","Yukon, OK, USA","OK",-97.7625441,35.5067215
+"ottumwa, , ia, us","Ottumwa, IA 52501, USA","OK",-92.4083022,41.0160293
+"east northport, , ny, us","East Northport, NY, USA","OK",-73.3245613,40.8767647
+"dublin, , ga, us","Dublin, GA 31021, USA","OK",-82.903754,32.5404447
+"pembroke dock , uk, , gb","Pembroke Dock, UK","OK",-4.943763,51.691894
+"methuen, , ma, us","Methuen, MA 01844, USA","OK",-71.1908924,42.7262016
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"gagetown , near, nb, ca","Gagetown, NB, Canada","OK",-66.1528215,45.7810198
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"antelope acres, , ca, us","Antelope Acres, CA 93536, USA","OK",-118.28861,34.75444
+"stevenage , uk, , gb","Stevenage, UK","OK",-0.196612,51.903761
+"west vancouver , canada, bc, ca","West Vancouver, BC, Canada","OK",-123.1601982,49.3286251
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"millbrook, , al, us","Millbrook, AL, USA","OK",-86.3619163,32.4798575
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"gatlinburg, , tn, us","Gatlinburg, TN 37738, USA","OK",-83.5101638,35.714259
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"truckee, , ca, us","Truckee, CA 96161, USA","OK",-120.1832533,39.327962
+"gold beach, , or, us","Gold Beach, OR 97444, USA","OK",-124.4217741,42.4073334
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"rowland, , nc, us","Rowland, NC 28383, USA","OK",-79.2914306,34.5365518
+"latta, , sc, us","Latta, SC 29565, USA","OK",-79.4311616,34.3371047
+"florida , east of; over ocean, fl, ","Clearwater Beach, Clearwater, FL, USA","OK",-82.8285877,27.972065
+"holbrook, , ny, us","Holbrook, NY, USA","OK",-73.0784429,40.8123205
+"demorest, , ga, us","Demorest, GA 30535, USA","OK",-83.5451724,34.565098
+"cedar point, , nc, us","Cedar Point, NC 28584, USA","OK",-77.0724481,34.6876621
+"wellington, , fl, us","Wellington, FL, USA","OK",-80.2683571,26.6617635
+"florence, , ky, us","Florence, KY, USA","OK",-84.6266111,38.9989499
+"ft. lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"kalundborg , denmark, , ","4400 Kalundborg, Denmark","OK",11.089188,55.686429
+"honesdale, , pa, us","Honesdale, PA 18431, USA","OK",-75.2587871,41.5767552
+"leander, , tx, us","Leander, TX 78641, USA","OK",-97.8530686,30.5788055
+"eagle point, , or, us","Eagle Point, OR 97524, USA","OK",-122.8028177,42.4726258
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"brean , sommerset, , gb","Brean, Burnham-on-Sea, UK","OK",-3.0104457,51.2931129
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"lexington, , va, us","Lexington, VA 24450, USA","OK",-79.4428157,37.7840208
+"warrington , uk, , gb","Warrington, UK","OK",-2.5969501,53.3900441
+"fayetteville, , ga, us","Fayetteville, GA, USA","OK",-84.4550871,33.4486443
+"rock port, , mo, us","Rock Port, MO 64482, USA","OK",-95.5169286,40.4111122
+"sterling heights, , mi, us","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"flower mound, , tx, us","Flower Mound, TX, USA","OK",-97.0969552,33.0145673
+"medlam&#44 lincolnshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"forest lake, , mn, us","Forest Lake, MN, USA","OK",-92.9852183,45.2788561
+"shongaloo, , la, us","Shongaloo, LA 71072, USA","OK",-93.2987799,32.9415284
+"springdale, , pa, us","Springdale, PA, USA","OK",-79.7839373,40.5409008
+"old forge, , ny, us","Old Forge, NY, USA","OK",-74.9734809,43.7100885
+"old forge, , ny, us","Old Forge, NY, USA","OK",-74.9734809,43.7100885
+"alton, , il, us","Alton, IL, USA","OK",-90.1842764,38.8906038
+"bonneville salt flats , salt lake city, ut, ","Bonneville Salt Flats, Utah 84083, USA","OK",-113.8352043,40.7787454
+"hunters, , wa, us","Hunters, WA, USA","OK",-118.2022917,48.1171945
+"kensington, , nh, us","Kensington, NH, USA","OK",-70.9439447,42.9270334
+"greeneville, , tn, us","Greeneville, TN, USA","OK",-82.8309861,36.1631574
+"quetico provincial park , canada, on, ","Quetico Provincial Park, ON-11, Atikokan, ON P0T 1C0, Canada","OK",-91.1259929,48.6749651
+"wesley chapel, , fl, us","Wesley Chapel, FL, USA","OK",-82.3641751,28.182893
+"burien, , wa, us","Burien, WA, USA","OK",-122.3405305,47.4668384
+"shelbyville, , in, us","Shelbyville, IN 46176, USA","OK",-85.7769238,39.5214373
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"apache junction, , az, us","Apache Junction, AZ, USA","OK",-111.5495777,33.4150485
+"londonderry, , nh, us","Londonderry, NH, USA","OK",-71.3739272,42.8651298
+"shirley, , ny, us","Shirley, NY, USA","OK",-72.8676033,40.8014876
+"parsippany, , nj, us","Parsippany-Troy Hills, NJ, USA","OK",-74.4173877,40.8652865
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"hickman, , ky, us","Hickman, KY 42050, USA","OK",-89.1861791,36.5711721
+"hometown, , pa, us","Hometown, PA 18252, USA","OK",-75.9802045,40.8236994
+"woodbridge, , va, us","Woodbridge, VA 22191, USA","OK",-77.2497049,38.6581722
+"lindsborg, , ks, us","Lindsborg, KS 67456, USA","OK",-97.6744838,38.5736176
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"mountain village, , ak, us","Mountain Village, AK 99632, USA","OK",-163.7294445,62.0855556
+"prairie du sac, merrimac , wi, ","Prairie Du Sac, WI, USA","OK",-89.7240116,43.2869331
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"miami beach, , fl, us","Miami Beach, FL, USA","OK",-80.1300455,25.790654
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"seffner, , fl, us","Seffner, FL 33584, USA","OK",-82.2756468,27.9836329
+"covina, , ca, us","Covina, CA, USA","OK",-117.8903397,34.0900091
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"maracay city&#44 aragua , venezuela, , ",NA,"REQUEST_DENIED",NA,NA
+"alhambra golf course, , ca, ","630 S Almansor St, Alhambra, CA 91801, USA","OK",-118.1129994,34.0895506
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"paterson, , nj, us","Paterson, NJ, USA","OK",-74.171811,40.9167654
+"pearl river, , ny, us","Pearl River, NY, USA","OK",-74.0218063,41.0589855
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"st. george, , sc, us","St George, SC 29477, USA","OK",-80.5756533,33.1859958
+"fleetwood , uk, , gb","Fleetwood, UK","OK",-3.035673,53.916661
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"hooper , near, ne, us","Hooper, NE 68031, USA","OK",-96.5472484,41.6099978
+"pueblo , 70 miles south of, co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"rotterdam , netherlands, , ","Rotterdam, Netherlands","OK",4.4777326,51.9244201
+"bridgetown , barbados, , ","Bridgetown, Barbados","OK",-59.6131741,13.1059816
+"whitestone, , ny, us","Whitestone, Queens, NY, USA","OK",-73.8095574,40.7920449
+"malta, , mt, us","Malta, MT 59538, USA","OK",-107.8742831,48.3597197
+"redwood valley, , ca, us","Redwood Valley, CA 95470, USA","OK",-123.2041429,39.2652491
+"istanbul , turkey, , ","İstanbul, Turkey","OK",28.9783589,41.0082376
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"blackpool&#44 lancashire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"bristol , uk, , gb","Bristol, UK","OK",-2.58791,51.454513
+"leuven , belgium, , ","Leuven, Belgium","OK",4.7005176,50.8798438
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"merriam, , in, us","Merriam, IN 46701, USA","OK",-85.4344239,41.2872696
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"belmar, , nj, us","Belmar, NJ, USA","OK",-74.0218037,40.1784471
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"amery, , wi, us","Amery, WI 54001, USA","OK",-92.3621369,45.3069062
+"bethpage, , tn, us","Bethpage, TN 37022, USA","OK",-86.3122092,36.4821318
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"la mirada, , ca, us","La Mirada, CA, USA","OK",-118.0120086,33.9172357
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"milton, , ma, us","Milton, MA, USA","OK",-71.0661653,42.2495321
+"oaklawn - hickory hills, , il, ","Hickory Hills, IL 60457, USA","OK",-87.825055,41.7255879
+"preston, , mo, us","Preston, MO 65732, USA","OK",-93.2076953,37.9408663
+"san rafael, , ca, us","San Rafael, CA, USA","OK",-122.5310874,37.9735346
+"atascadero, , ca, us","Atascadero, CA 93422, USA","OK",-120.6707255,35.4894169
+"maumee, , oh, us","Maumee, OH, USA","OK",-83.6538244,41.5628294
+"oak forest, , il, us","Oak Forest, IL, USA","OK",-87.7439384,41.6028116
+"galatia area , harco, il, ","Galatia Township, IL, USA","OK",-88.6434308,37.8328372
+"bethel, , oh, us","Bethel, OH 45106, USA","OK",-84.0807664,38.9636771
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"bethel, , oh, us","Bethel, OH 45106, USA","OK",-84.0807664,38.9636771
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"kingman, , ks, us","Kingman, KS 67068, USA","OK",-98.1136734,37.6458491
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"ronkonkoma, , ny, us","Ronkonkoma, NY, USA","OK",-73.1241488,40.8064187
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"butte, , mt, us","Butte, MT, USA","OK",-112.5347775,46.0038232
+"mountain home, , id, us","Mountain Home, ID 83647, USA","OK",-115.6911975,43.1329504
+"hanau , germany, , de","Hanau, Germany","OK",8.9283105,50.1264123
+"stephenville, , tx, us","Stephenville, TX 76401, USA","OK",-98.2022633,32.2206958
+"littlerock, , ar, ","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"churchton, , md, us","Churchton, Deale, MD 20733, USA","OK",-76.5364848,38.802683
+"marshall, , mo, us","Marshall, MO 65340, USA","OK",-93.1968704,39.1230777
+"rockwall, , tx, us","Rockwall, TX, USA","OK",-96.4597089,32.9312336
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"fleming, , ky, us","Fleming County, KY, USA","OK",-83.6773928,38.3987633
+"willow grove, , pa, us","Willow Grove, PA, USA","OK",-75.1157286,40.1439985
+"poway, , ca, us","Poway, CA, USA","OK",-117.0358646,32.9628232
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"salem, , mo, us","Salem, MO 65560, USA","OK",-91.5359808,37.6455993
+"millbrae, , ca, us","Millbrae, CA, USA","OK",-122.3871942,37.5985468
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"coral gables, , fl, us","Coral Gables, FL, USA","OK",-80.2635411,25.7491968
+"canoga park, , ca, us","Canoga Park, Los Angeles, CA, USA","OK",-118.6058609,34.208254
+"batavia, , oh, us","Batavia, OH 45103, USA","OK",-84.1768795,39.0770072
+"gretna, , la, us","Gretna, LA, USA","OK",-90.0539603,29.9146493
+"crystal lake, , il, us","Crystal Lake, IL, USA","OK",-88.3161965,42.2411344
+"cherry valley, , ca, us","Cherry Valley, CA, USA","OK",-116.9772484,33.9725153
+"edinburg, , tx, us","Edinburg, TX, USA","OK",-98.1633432,26.3017374
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"hinton, , wv, us","Hinton, WV 25951, USA","OK",-80.8892539,37.674008
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"surrey , canada, bc, ca","Surrey, BC, Canada","OK",-122.8490125,49.1913466
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

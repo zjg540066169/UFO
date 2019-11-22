@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"conroe, , tx, us","Conroe, TX, USA","OK",-95.4560512,30.3118769
+"college station, , tx, us","College Station, TX, USA","OK",-96.3344068,30.627977
+"brentwood, , ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"vashon, , wa, us","Vashon, WA 98070, USA","OK",-122.4598502,47.4473204
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"country club hills, , il, us","Country Club Hills, IL 60478, USA","OK",-87.7203257,41.5680898
+"ramona, , ca, us","Ramona, CA 92065, USA","OK",-116.8792553,33.0413604
+"west holloywood, , ca, ","West Hollywood, CA, USA","OK",-118.3617443,34.0900091
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"camp verde, , az, us","Camp Verde, AZ 86322, USA","OK",-111.8543178,34.5636358
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"cornville, , az, us","Cornville, AZ 86325, USA","OK",-111.9215438,34.7177989
+"laguna hills, , ca, us","Laguna Hills, CA, USA","OK",-117.6986604,33.5916433
+"peoria, , az, us","Peoria, AZ, USA","OK",-112.2373779,33.5805955
+"pleasanton, , ca, us","Pleasanton, CA, USA","OK",-121.8757968,37.6604484
+"poway, , ca, us","Poway, CA, USA","OK",-117.0358646,32.9628232
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"sand dune recreational area , west of&#44 on i-8, ca, ",NA,"REQUEST_DENIED",NA,NA
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"baja , mexico, , ","Baja California Peninsula, Mexico","OK",-113.5000018,27.9999938
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"silver city, , nm, us","Silver City, NM 88061, USA","OK",-108.280326,32.770075
+"silver city, , nm, us","Silver City, NM 88061, USA","OK",-108.280326,32.770075
+"lareto , baja mexico, nv, ","Loreto, Baja California Sur, Mexico","OK",-111.3477531,26.0117564
+"rifle, , co, us","Rifle, CO 81650, USA","OK",-107.7831198,39.5347023
+"saltville, , va, us","Saltville, VA, USA","OK",-81.7620635,36.8815031
+"randolph, , nh, us","Randolph, NH, USA","OK",-71.2797985,44.3753393
+"seaside park, , nj, us","Seaside Park, NJ 08752, USA","OK",-74.0770806,39.9267852
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"indonesia, , , ","Indonesia","OK",113.921327,-0.789275
+"madera, , ca, us","Madera, CA, USA","OK",-120.0607176,36.9613356
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"winfield , canada, bc, ca","Winfield, Lake Country, BC V4V, Canada","OK",-119.4052664,50.0220455
+"san pedro sula , honduras, , ","San Pedro Sula, Honduras","OK",-88.0138619,15.5038827
+"new york city , manhattan, ca, ","New York, NY, USA","OK",-74.0059728,40.7127753
+"brick, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"esterk, , fl, ","Estero, FL, USA","OK",-81.8067523,26.438136
+"north attleboro, , ma, us","North Attleborough, MA, USA","OK",-71.3565439,41.9695516
+"quail valley, , ca, us","Quail Valley, Menifee, CA 92587, USA","OK",-117.2450367,33.7069654
+"louisville, , co, us","Louisville, CO, USA","OK",-105.1319296,39.977763
+"peabody, , ma, us","Peabody, MA, USA","OK",-70.9286609,42.5278731
+"bay city, , tx, us","Bay City, TX 77414, USA","OK",-95.969402,28.9827565
+"woodland hills, , ca, us","Woodland Hills, Los Angeles, CA, USA","OK",-118.6089752,34.165357
+"funks grove, , il, us","Funks Grove, IL 61754, USA","OK",-89.114528,40.363649
+"lynden, , wa, us","Lynden, WA 98264, USA","OK",-122.4529469,48.9428018
+"lawton, , mi, us","Lawton, MI 49065, USA","OK",-85.8469539,42.1672629
+"cremona , 15m northwest of, ab, ca","Cremona, AB T0M 0R0, Canada","OK",-114.4922354,51.544677
+"martin, , ga, us","Martin, GA 30557, USA","OK",-83.1848781,34.4870458
+"glen waverley , australia, , au","Glen Waverley VIC 3150, Australia","OK",145.1668205,-37.8743502
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"naco , mexico, az, us","3867 S Towner Ave, Naco, AZ 85620, USA","OK",-109.9482737,31.3346151
+"lithia springs, , ga, us","Lithia Springs, GA, USA","OK",-84.6604899,33.7939953
+"franconia notch, , nh, ","Franconia Notch, Lincoln, NH 03580, USA","OK",-71.6813087,44.1420796
+"franconia notch state park, , nh, ","Franconia Notch State Park, Flume Gorge, Daniel Webster Hwy, Lincoln, NH 03251, USA","OK",-71.686127,44.1482539
+"fort walton bech, , fl, ","Fort Walton Beach, FL, USA","OK",-86.6170308,30.4200708
+"la mesilla, , nm, us","La Mesilla, NM 87532, USA","OK",-106.070579,35.9483575
+"san pablo, , co, us","San Pablo, CO 81152, USA","OK",-105.3969555,37.1491837
+"san acacio, , co, us","San Acacio, CO 81151, USA","OK",-105.5644584,37.2139025
+"keighley , uk, , gb","Keighley, UK","OK",-1.912358,53.867795
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"ambrose, , ga, us","Ambrose, GA 31512, USA","OK",-83.0143147,31.5938031
+"yankeetown, , fl, us","Yankeetown, FL, USA","OK",-82.7159396,29.0299729
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"dewitt, , mi, us","Dewitt, MI 48820, USA","OK",-84.5691487,42.842256
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"lebanon, , or, us","Lebanon, OR 97355, USA","OK",-122.9070339,44.5365119
+"manchester , withington, , gb","Withington, Manchester, UK","OK",-2.2329203,53.4332463
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"wildwood crest, , nj, us","Wildwood Crest, NJ 08260, USA","OK",-74.8335015,38.9748351
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"port ludlow, , wa, us","Port Ludlow, WA, USA","OK",-122.6834914,47.9253693
+"sydney&#44 nsw , australia, , ",NA,"REQUEST_DENIED",NA,NA
+"lebanon, , pa, us","Lebanon, PA, USA","OK",-76.4113497,40.3409251
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"lee center, , ny, us","Lee Center, NY 13363, USA","OK",-75.5179555,43.3034028
+"new bern, , nc, us","New Bern, NC, USA","OK",-77.0441143,35.108493
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"edinburgh , uk, , gb","Edinburgh, UK","OK",-3.188267,55.953252
+"lincoln city, , or, us","Lincoln City, OR, USA","OK",-124.0178914,44.9581644
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"barrie , canada, on, ca","Barrie, ON, Canada","OK",-79.6903316,44.3893556
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"island pond, , vt, us","Island Pond, Brighton, VT 05846, USA","OK",-71.8803728,44.8147712
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"jackson, , tn, us","Jackson, TN, USA","OK",-88.8139469,35.6145169
+"benbrook, , tx, us","Benbrook, TX, USA","OK",-97.4605759,32.673188
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"fairfield, , oh, us","Fairfield, OH, USA","OK",-84.5603187,39.3454673
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"big bear city, , ca, us","Big Bear, CA 92314, USA","OK",-116.84503,34.2611183
+"eddyville, , ky, us","Eddyville, KY, USA","OK",-88.080301,37.0944971
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

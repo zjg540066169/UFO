@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"college station, , tx, us","College Station, TX, USA","OK",-96.3344068,30.627977
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"landisville, , pa, us","Landisville, Salunga-Landisville, PA, USA","OK",-76.410349,40.0952865
+"saint louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"canton, , ga, us","Canton, GA, USA","OK",-84.4907621,34.2367621
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"fayetteville, , ga, us","Fayetteville, GA, USA","OK",-84.4550871,33.4486443
+"ashville, , ny, us","Ashville, NY 14710, USA","OK",-79.3756044,42.096446
+"hamilton, , oh, us","Hamilton, OH, USA","OK",-84.5613355,39.3995008
+"lakehurst, , nj, us","Lakehurst, NJ, USA","OK",-74.3112574,40.014561
+"lock haven, , pa, us","Lock Haven, PA 17745, USA","OK",-77.4469263,41.1370133
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"valley city , 6.5 miles east of, nd, us","Valley City, ND 58072, USA","OK",-98.0031547,46.9233129
+"albany , canada, pe, ca","Albany, PE C0B 1A0, Canada","OK",-63.643834,46.286052
+"post, , tx, us","Post, TX 79356, USA","OK",-101.3781941,33.1909283
+"norridgewock, , me, us","Norridgewock, ME 04957, USA","OK",-69.7905955,44.7130794
+"palmer township, , pa, ","Palmer Township, PA, USA","OK",-75.2654063,40.696722
+"middle river, , md, us","Middle River, MD, USA","OK",-76.4394056,39.3342744
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"lake jackson, , tx, us","Lake Jackson, TX, USA","OK",-95.4343859,29.0338575
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"goldfield, , nv, us","Goldfield, NV 89013, USA","OK",-117.2357131,37.7084481
+"dayton, , oh, us","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"fallon, , nv, us","Fallon, NV 89406, USA","OK",-118.7770407,39.4748693
+"kingsport, , tn, us","Kingsport, TN, USA","OK",-82.5618186,36.548434
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"susanville, , ca, us","Susanville, CA, USA","OK",-120.6530063,40.4162842
+"barrhead , canada, ab, ca","Barrhead, AB, Canada","OK",-114.4019291,54.1231305
+"wahoo, , ne, us","Wahoo, NE 68066, USA","OK",-96.6212604,41.2115023
+"puerto rico, , , ","Puerto Rico","OK",-66.590149,18.220833
+"severn , northhampton, nc, us","Severn, NC, USA","OK",-77.1896894,36.5151521
+"island beach state park, , nj, ","Island Beach State Park, Lanoka Harbor, NJ 08734, USA","OK",-74.0975678,39.7974811
+"crescent junction, , ut, us","Crescent Junction, UT, USA","OK",-109.8173475,38.9430269
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"cowpens, , sc, us","Cowpens, SC 29330, USA","OK",-81.8039916,35.0167918
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"titusville, , pa, us","Titusville, PA 16354, USA","OK",-79.6736631,41.6270036
+"terrebonne, , or, us","Terrebonne, OR, USA","OK",-121.1778129,44.3528981
+"great bend, , ks, us","Great Bend, KS 67530, USA","OK",-98.7648073,38.3644567
+"pacific ocean , western, , ","West Coast, USA","OK",-149.0729714,62.4113634
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"clifton , near, tx, us","Clifton, TX 76634, USA","OK",-97.5766862,31.7823798
+"delta junction, , ak, us","Delta Junction, AK, USA","OK",-145.7322221,64.0377778
+"canoga park, , ca, us","Canoga Park, Los Angeles, CA, USA","OK",-118.6058609,34.208254
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"huntington, , wv, us","Huntington, WV, USA","OK",-82.445154,38.4192496
+"cedar point, , ks, us","Cedar Point, KS 66843, USA","OK",-96.8197407,38.2600168
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"chiloquin, , or, us","Chiloquin, OR 97624, USA","OK",-121.8661258,42.5776364
+"schofield barracks military area, , hi, ","Schofield Barracks, HI 96857, USA","OK",-158.0626555,21.4954957
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"caribou, , me, us","Caribou, ME 04736, USA","OK",-67.9980365,46.8639995
+"oelwein, , ia, us","Oelwein, IA 50662, USA","OK",-91.9119586,42.6784949
+"white owl, , sd, us","White Owl, SD 57792, USA","OK",-102.430721,44.592211
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"deer creek, , ca, us","Deer Creek, California, USA","OK",-122.0656163,39.9386386
+"sturgeon, , mo, us","Sturgeon, MO 65284, USA","OK",-92.2807332,39.2342067
+"mojave desert , remote area of, ca, ","Mojave Desert, California 92332, USA","OK",-115.4733551,35.0109911
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"houston , near, tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"crescent city, , ca, us","Crescent City, CA, USA","OK",-124.2025913,41.7557501
+"blacksburg, , sc, us","Blacksburg, SC 29702, USA","OK",-81.5159246,35.1212408
+"hazlet, , nj, us","Hazlet, NJ, USA","OK",-74.1650991,40.4289526
+"panama city, , fl, us","Panama City, FL, USA","OK",-85.6602058,30.1588129
+"tupelo, , ms, us","Tupelo, MS, USA","OK",-88.7033859,34.2576066
+"montego bay , jamaica, , ","Montego Bay, Jamaica","OK",-77.8938895,18.4762228
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"rensselaer, , in, us","Rensselaer, IN 47978, USA","OK",-87.1508562,40.9367045
+"tenterfield , australia, , au","Tenterfield NSW 2372, Australia","OK",152.0189859,-29.0575678
+"delta , canada, bc, ca","Delta, BC, Canada","OK",-123.0264758,49.0952155
+"laguna beach, , ca, us","Laguna Beach, CA, USA","OK",-117.7853568,33.5427189
+"vancouver island , rural, bc, ","1665 W Broadway, Vancouver, BC V6J 1X1, Canada","OK",-123.142627,49.2639592
+"little meadows, , pa, us","Little Meadows, PA 18830, USA","OK",-76.1307604,41.9906303
+"baldwinsville, , ny, us","Baldwinsville, NY 13027, USA","OK",-76.3327095,43.1586786
+"north royalton, , oh, us","North Royalton, OH 44133, USA","OK",-81.7245739,41.3136644
+"loomis, , ca, us","Loomis, CA, USA","OK",-121.1930041,38.8212889
+"kelso, , wa, us","Kelso, WA, USA","OK",-122.9084445,46.146779
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"heber springs&#44 greers ferry lake, , ar, ",NA,"REQUEST_DENIED",NA,NA
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"hattiesburg, , ms, us","Hattiesburg, MS, USA","OK",-89.2903392,31.3271189
+"westerlo, , ny, us","Westerlo, NY 12193, USA","OK",-74.0454099,42.5150785
+"woodburn, , in, us","Woodburn, IN 46797, USA","OK",-84.8532963,41.1253271
+"tehran , iran, , ","Tehran, Tehran Province, Iran","OK",51.3889736,35.6891975
+"haines city, , fl, us","Haines City, FL, USA","OK",-81.6178536,28.1141841
+"pennsville, , nj, us","Pennsville Township, NJ, USA","OK",-75.4984978,39.6284514
+"laredo, , tx, us","Laredo, TX, USA","OK",-99.5075519,27.5035613
+"lynch station, , va, us","Lynch Station, VA 24571, USA","OK",-79.3008574,37.1462543
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"llanelli&#44 dyfed , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"centralia, walnut hill area, il, ","Walnut Hill, IL 62893, USA","OK",-89.0434001,38.4772714
+"hoodsport, , wa, us","Hoodsport, WA 98548, USA","OK",-123.1405804,47.4063647
+"beatty, , or, us","Beatty, OR 97621, USA","OK",-121.2708314,42.441815
+"alhambra, , ca, us","Alhambra, CA, USA","OK",-118.1270146,34.095287
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"dublin, , nh, us","Dublin, NH, USA","OK",-72.0625817,42.9075823
+"heber, , az, us","Heber-Overgaard, AZ, USA","OK",-110.5632588,34.413874
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

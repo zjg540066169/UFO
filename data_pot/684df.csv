@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"cornu, , ny, ","145 Huguenot St, New Rochelle, NY 10801, USA","OK",-73.7793174,40.9136082
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"mesquite, , tx, us","Mesquite, TX, USA","OK",-96.5991593,32.7667955
+"baildon , uk, , gb","Baildon, UK","OK",-1.768142,53.852716
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"sandusky, , oh, us","Sandusky, OH 44870, USA","OK",-82.7116821,41.4561754
+"freeport, , ny, us","Freeport, NY, USA","OK",-73.5831835,40.6576022
+"greenville, , ky, us","Greenville, KY, USA","OK",-87.1788854,37.2011539
+"brighton, , mi, us","Brighton, MI 48116, USA","OK",-83.7802214,42.5294773
+"macomb twp, , mi, ","Macomb Township, MI, USA","OK",-82.9286428,42.6651965
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"st. marys, , pa, us","St Marys, PA, USA","OK",-78.5609398,41.4273738
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"mahwah, , nj, us","Mahwah, NJ 07430, USA","OK",-74.1435843,41.0886216
+"lubbock, , tx, us","Lubbock, TX, USA","OK",-101.8551665,33.5778631
+"mandan, , nd, us","Mandan, ND 58554, USA","OK",-100.8895761,46.8266603
+"sherwood park , canada, ab, ca","Sherwood Park, AB, Canada","OK",-113.2957355,53.5411916
+"viljandi , estonia, , ","Viljandi, Viljandi County, Estonia","OK",25.5859692,58.363476
+"montrose, , co, us","Montrose, CO, USA","OK",-107.8761738,38.4783198
+"indian rocks beach, , fl, us","Indian Rocks Beach, FL, USA","OK",-82.846561,27.8960019
+"lehi, , ut, us","Lehi, UT, USA","OK",-111.8507662,40.3916172
+"washington , near, pa, us","Washington, PA 15301, USA","OK",-80.2461714,40.17396
+"thousand oaks&#44 ca, , ca, ",NA,"REQUEST_DENIED",NA,NA
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"seffner, , fl, us","Seffner, FL 33584, USA","OK",-82.2756468,27.9836329
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"basel , switzerland, , ","Basel, Switzerland","OK",7.5885761,47.5595986
+"bloomington, , mn, us","Bloomington, MN, USA","OK",-93.2982799,44.840798
+"pretoria , south africa, , ","Pretoria, South Africa","OK",28.2292712,-25.7478676
+"martinsburg, , wv, us","Martinsburg, WV, USA","OK",-77.9638869,39.4562099
+"morris, , il, us","Morris, IL 60450, USA","OK",-88.4211785,41.357254
+"franklin square, , ny, us","Franklin Square, NY, USA","OK",-73.6759635,40.7073244
+"vincennes, , in, us","Vincennes, IN 47591, USA","OK",-87.5286325,38.677269
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"felton, , de, us","Felton, DE 19943, USA","OK",-75.5779807,39.0084463
+"henrietta, , ny, us","Henrietta, NY 14467, USA","OK",-77.6128039,43.0592452
+"waynesboro, , va, us","Waynesboro, VA 22980, USA","OK",-78.8894682,38.0684692
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"brentwood, , ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"natomas, , ca, ","Natomas, Sacramento, CA 95834, USA","OK",-121.5184591,38.6491088
+"mansfield, , tx, us","Mansfield, TX, USA","OK",-97.1416768,32.5631924
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"san clemente, , ca, us","San Clemente, CA, USA","OK",-117.6126004,33.4273521
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"oakley, , ca, us","Oakley, CA 94561, USA","OK",-121.7124536,37.9974219
+"knightsen, , ca, us","Knightsen, CA, USA","OK",-121.6680084,37.9688117
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"discovery bay, , ca, us","Discovery Bay, CA, USA","OK",-121.6002291,37.9085357
+"clover, , sc, us","Clover, SC 29710, USA","OK",-81.2264646,35.1112478
+"moses lake, , wa, us","Moses Lake, WA 98837, USA","OK",-119.2780771,47.1301417
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"cashers, , nc, ","Cashiers, NC, USA","OK",-83.0996354,35.111906
+"tunnel hill, , ga, us","Tunnel Hill, GA 30755, USA","OK",-85.0427257,34.8406339
+"enfield, , ct, us","Enfield, CT 06082, USA","OK",-72.5441445,42.0027181
+"longmeadow, , ma, us","Longmeadow, MA, USA","OK",-72.5828642,42.0501022
+"prince george , caada, bc, ","Prince George, BC, Canada","OK",-122.7496693,53.9170641
+"na, , la, ","7666 E 61st St #315, Tulsa, OK 74133, USA","OK",-95.888663,36.074457
+"north bend, , wa, us","North Bend, WA 98045, USA","OK",-121.7867775,47.4956579
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"ypsilanti, , mi, us","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"rensselaer, , in, us","Rensselaer, IN 47978, USA","OK",-87.1508562,40.9367045
+"orem, , ut, us","Orem, UT, USA","OK",-111.6946475,40.2968979
+"port clinto, , oh, ","Port Clinton, OH 43452, USA","OK",-82.9376919,41.5119954
+"andover, , ks, us","Andover, KS, USA","OK",-97.1364294,37.7139041
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"wagga wagga , australia, , au","Wagga Wagga NSW 2650, Australia","OK",147.3598323,-35.1081689
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"yahk , canada, bc, ca","Yahk, BC V0B 2P0, Canada","OK",-116.0883997,49.0867938
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"springdale, , ar, us","Springdale, AR, USA","OK",-94.1288141,36.1867442
+"charlestown , canada, on, ","Charlottetown, PE, Canada","OK",-63.1310704,46.23824
+"preston, , ct, ","Preston, CT, USA","OK",-72.0112598,41.5224785
+"glen rose, , tx, us","Glen Rose, TX 76043, USA","OK",-97.7553061,32.2345872
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"ciudad de panama , panama, , ","Panama City, Panama","OK",-79.5198696,8.9823792
+"alton, , il, us","Alton, IL, USA","OK",-90.1842764,38.8906038
+"north berwick, , me, us","North Berwick, ME 03906, USA","OK",-70.7333524,43.3037349
+"potosi, , mo, us","Potosi, MO, USA","OK",-90.7879086,37.936438
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"new york, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"rhinebeck, , ny, us","Rhinebeck, NY, USA","OK",-73.9074372,41.9318294
+"holiday, , fl, us","Holiday, FL, USA","OK",-82.7395454,28.18779
+"sebring, , oh, us","Sebring, OH, USA","OK",-81.0189816,40.9228363
+"staunton, , va, us","Staunton, VA 24401, USA","OK",-79.0716958,38.149576
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

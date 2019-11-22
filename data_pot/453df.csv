@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"avon lake, , oh, us","Avon Lake, OH 44012, USA","OK",-82.0282001,41.5053178
+"surprise , witnessed from, az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"greenville, , pa, us","Greenville, PA 16125, USA","OK",-80.3911785,41.404499
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"quebec city , canada, pq, ","Quebec City, QC, Canada","OK",-71.2079809,46.8138783
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"quemado, , nm, us","Quemado, NM 87829, USA","OK",-108.4936332,34.3418337
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"almere , netherlands, , ","Almere, Netherlands","OK",5.2647016,52.3507849
+"st. clair , outside of, pa, us","St Clair, PA, USA","OK",-76.1910536,40.7206451
+"north richland hills , smithfield area, tx, us","Smithfield, North Richland Hills, TX 76182, USA","OK",-97.2152916,32.8709607
+"markham, , il, us","Markham, IL, USA","OK",-87.6947699,41.5936453
+"friday harbor, , wa, us","Friday Harbor, WA 98250, USA","OK",-123.0171242,48.5342662
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"wooster, , oh, us","Wooster, OH 44691, USA","OK",-81.935143,40.8050565
+"madisonville, , ky, us","Madisonville, KY 42431, USA","OK",-87.4988882,37.3281005
+"jim thorpe, , pa, us","Jim Thorpe, PA, USA","OK",-75.7324127,40.8759235
+"marietta, , oh, us","Marietta, OH 45750, USA","OK",-81.4548436,39.415352
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"jackson, , ms, us","Jackson, MS, USA","OK",-90.1848103,32.2987573
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"socorro , approx 30 miles s. of&#44 on i-25, nm, us",NA,"REQUEST_DENIED",NA,NA
+"helena, , al, us","Helena, AL, USA","OK",-86.8436004,33.296224
+"grand haven, , mi, us","Grand Haven, MI, USA","OK",-86.2283864,43.0630734
+"mcallen, , tx, us","McAllen, TX, USA","OK",-98.2300124,26.2034071
+"fort collins , seen from, co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"solon, , oh, us","Solon, OH 44139, USA","OK",-81.4412259,41.3897764
+"norfolk, , va, us","Norfolk, VA, USA","OK",-76.2858726,36.8507689
+"riggins, , id, us","Riggins, ID 83549, USA","OK",-116.3154109,45.4221105
+"japan, , , ","Japan","OK",138.252924,36.204824
+"glenwood springs, , co, us","Glenwood Springs, CO 81601, USA","OK",-107.3247762,39.5505376
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"mcintosh, , nm, us","McIntosh, NM, USA","OK",-106.0516918,34.8644992
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"franklin, , in, us","Franklin, IN 46131, USA","OK",-86.0549863,39.4806055
+"throop, , pa, us","Throop, PA, USA","OK",-75.6118548,41.4514694
+"el puerto de santa maria , spain, , ","Municipality of El Puerto de Santa María, 11500, Cádiz, Spain","OK",-6.2588369,36.6393281
+"saranac inn, , ny, us","Saranac Inn, NY 12983, USA","OK",-74.317145,44.348097
+"biglerville, , pa, us","Biglerville, PA 17307, USA","OK",-77.2480391,39.9303715
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"abingdon, , md, us","Abingdon, MD, USA","OK",-76.2772223,39.4622357
+"abingdon, , md, us","Abingdon, MD, USA","OK",-76.2772223,39.4622357
+"north manchester, , in, us","North Manchester, IN 46962, USA","OK",-85.768597,41.0006005
+"lewiston, , mi, us","Lewiston, MI 49756, USA","OK",-84.3055687,44.8839001
+"silver creek, , ga, us","Silver Creek, GA 30173, USA","OK",-85.1609264,34.1752778
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"los angeles , downtown, ca, us","Downtown Los Angeles, Los Angeles, CA, USA","OK",-118.2467693,34.040713
+"greenwood village, , co, us","Greenwood Village, CO, USA","OK",-104.9508141,39.6172101
+"silver city, , nc, us","Silver City, NC 28376, USA","OK",-79.2261441,34.9959999
+"golden, , co, us","Golden, CO, USA","OK",-105.2210997,39.755543
+"canton, , ny, us","Canton, NY 13617, USA","OK",-75.1690942,44.5956163
+"alpine, , tx, us","Alpine, TX, USA","OK",-103.6610115,30.3584919
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"earp, , ca, us","Earp, CA 92242, USA","OK",-114.213787,34.2128639
+"fort davis, , tx, us","Fort Davis, TX 79734, USA","OK",-103.8946253,30.5882111
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"corona del mar, , ca, us","Corona Del Mar, Newport Beach, CA, USA","OK",-117.8730142,33.5978595
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"rockford, , mi, us","Rockford, MI, USA","OK",-85.5600316,43.1200272
+"madras, , or, us","Madras, OR 97741, USA","OK",-121.1294872,44.6334544
+"grindelwald , switzerland, , ","Grindelwald, Switzerland","OK",8.0413962,46.624164
+"pell city, , al, us","Pell City, AL, USA","OK",-86.2860888,33.5862149
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"plymouth , uk, , gb","Plymouth, UK","OK",-4.1426565,50.3754565
+"marston moretaine , uk, , gb","Marston Moretaine, Bedford MK43, UK","OK",-0.5488515,52.0625663
+"savannah, , tn, us","Savannah, TN 38372, USA","OK",-88.2492037,35.2248034
+"whitman, , ma, us","Whitman, MA 02382, USA","OK",-70.935599,42.0806564
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"caret, , va, us","Caret, VA 22436, USA","OK",-76.961506,37.9824569
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"redwood city, , ca, us","Redwood City, CA, USA","OK",-122.2363548,37.4852152
+"upland, , ca, us","Upland, CA, USA","OK",-117.6483876,34.09751
+"woodland hills, , ca, us","Woodland Hills, Los Angeles, CA, USA","OK",-118.6089752,34.165357
+"venice, , ca, us","Venice, Los Angeles, CA, USA","OK",-118.4694832,33.9850469
+"davenport, , ia, us","Davenport, IA, USA","OK",-90.5776367,41.5236437
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"saint george, , ut, us","St. George, UT, USA","OK",-113.5684164,37.0965278
+"amery, , wi, us","Amery, WI 54001, USA","OK",-92.3621369,45.3069062
+"bristol, , pa, us","Bristol, PA 19007, USA","OK",-74.8518311,40.1006661
+"saint joseph, , mi, us","St Joseph, MI, USA","OK",-86.4895463,42.0938577
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"lakeview , near, or, us","Lakeview, OR 97630, USA","OK",-120.345792,42.1887721
+"brownwood, , tx, us","Brownwood, TX, USA","OK",-98.9911611,31.7093197
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

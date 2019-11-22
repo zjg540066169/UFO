@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"tioga, , nd, us","Tioga, ND 58852, USA","OK",-102.938238,48.3972442
+"silverdale, , wa, us","Silverdale, WA, USA","OK",-122.6948697,47.6445386
+"edinburgh , uk, , gb","Edinburgh, UK","OK",-3.188267,55.953252
+"paradise island , bahamas, , ","Paradise Island, The Bahamas","OK",-77.3134431,25.0821287
+"airdrie , canada, ab, ca","Airdrie, AB, Canada","OK",-114.0134073,51.2926993
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"akeley, , mn, us","Akeley, MN 56433, USA","OK",-94.7269509,47.004125
+"saskatoon , canada, sk, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"truckee, , ca, us","Truckee, CA 96161, USA","OK",-120.1832533,39.327962
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"mississippi gulf outlet, , la, ","Mississippi River-Gulf Outlet Canal, Louisiana, USA","OK",-89.6896627,29.8679637
+"port townsend, , wa, us","Port Townsend, WA 98368, USA","OK",-122.7604471,48.1170387
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"bastrop county , rural area, tx, us","Bastrop, TX 78602, USA","OK",-97.3152701,30.1104947
+"monticello, , mn, us","Monticello, MN, USA","OK",-93.7941378,45.3055201
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"steger, , il, us","Steger, IL, USA","OK",-87.636432,41.4700348
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"highland village, , tx, us","Highland Village, TX, USA","OK",-97.0466759,33.091788
+"dassel, , mn, us","Dassel, MN 55325, USA","OK",-94.3069284,45.0816298
+"bartonville, , il, us","Bartonville, IL, USA","OK",-89.6520455,40.6503158
+"keeseville, , ny, us","Keeseville, NY 12944, USA","OK",-73.4801348,44.5050479
+"springport, , in, us","Springport, IN 47386, USA","OK",-85.3941377,40.0475457
+"innisfail , canada, ab, ca","Innisfail, AB, Canada","OK",-113.9501957,52.0273922
+"sanford, , fl, us","Sanford, FL, USA","OK",-81.269453,28.8028612
+"afton, , ok, ","Afton, OK 74331, USA","OK",-94.9630171,36.693687
+"indialantic, , fl, us","Indialantic, FL 32903, USA","OK",-80.5656079,28.0894599
+"hyannis, , ma, us","Hyannis, Barnstable, MA 02601, USA","OK",-70.2881124,41.6524911
+"marysville, , ca, us","Marysville, CA, USA","OK",-121.5913547,39.1457253
+"midlothian, , tx, us","Midlothian, TX, USA","OK",-96.9944489,32.482361
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"west gardiner, , me, us","West Gardiner, ME 04345, USA","OK",-69.8864259,44.2275119
+"port allen, , la, us","Port Allen, LA 70767, USA","OK",-91.2073261,30.4474878
+"henderson, , ky, us","Henderson, KY 42420, USA","OK",-87.5900134,37.8361538
+"kullu, , , ","Kullu, Himachal Pradesh 175101, India","OK",77.1094597,31.957851
+"folkestone , uk, , gb","Folkestone, UK","OK",1.169456,51.081397
+"ontario , canada, on, ","Ontario, Canada","OK",-85.323214,51.253775
+"killeen, , tx, us","Killeen, TX, USA","OK",-97.7277959,31.1171194
+"cedar springs, , mi, us","Cedar Springs, MI 49319, USA","OK",-85.5514237,43.2233604
+"sunnyisles, , fl, ","Sunny Isles Beach, FL 33160, USA","OK",-80.1233802,25.9428707
+"olso , norway, , ","Oslo, Norway","OK",10.7522454,59.9138688
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"mackinaw city, , mi, us","Mackinaw City, MI 49701, USA","OK",-84.7271465,45.7774987
+"guerneville, , ca, us","Guerneville, CA 95446, USA","OK",-122.9961102,38.5018575
+"post falls, , id, us","Post Falls, ID 83854, USA","OK",-116.9515856,47.7179578
+"wittmann, , az, us","Wittmann, AZ 85361, USA","OK",-112.5282591,33.7763856
+"port coquitlam , canada, bc, ca","Port Coquitlam, BC, Canada","OK",-122.7810708,49.2628382
+"itasca, , il, us","Itasca, IL, USA","OK",-88.0072909,41.9750287
+"rathdrum, , id, us","Rathdrum, ID 83858, USA","OK",-116.8965857,47.8124031
+"ramstein , germany, , de","Ramstein Air Base, 66877 Ramstein-Miesenbach, Germany","OK",7.597129,49.4400412
+"warren, , mi, us","Warren, MI, USA","OK",-83.0146526,42.5144566
+"odd, , wv, us","Odd, WV 25902, USA","OK",-81.1939874,37.5934493
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"cheviot, , oh, us","Cheviot, OH 45211, USA","OK",-84.6132787,39.1570028
+"deptford, , nj, ","Deptford Township, NJ, USA","OK",-75.1195107,39.8227054
+"north london , uk, , ","London, UK","OK",-0.1277583,51.5073509
+"marshfield, , ma, us","Marshfield, MA, USA","OK",-70.7055871,42.0917453
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"northville, , ny, us","Northville, NY 12134, USA","OK",-74.1720768,43.2256274
+"berwick, town, ns, ca","Berwick, NS B0P 1E0, Canada","OK",-64.7346891,45.0452332
+"new london, , mn, us","New London, MN, USA","OK",-94.9441773,45.3010756
+"russellville, , ar, us","Russellville, AR, USA","OK",-93.1337856,35.2784173
+"laurel, , ms, us","Laurel, MS, USA","OK",-89.1306124,31.6940509
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"st  leonard , canada, nb, ca","Saint Leonard, NB, Canada","OK",-67.925605,47.162759
+"frant , uk, , gb","Frant, Tunbridge Wells TN3, UK","OK",0.2705081,51.0961209
+"burkett, , tx, us","Burkett, TX 76828, USA","OK",-99.225618,31.9959759
+"bucks, , pa, ","Bucks County, PA, USA","OK",-75.2479061,40.4107964
+"capitola, , ca, us","Capitola, CA, USA","OK",-121.953293,36.9752283
+"odin, , il, us","Odin, IL 62870, USA","OK",-89.0522867,38.617271
+"pittston, , pa, us","Pittston, PA, USA","OK",-75.7893604,41.3259134
+"butler, , mo, us","Butler, MO 64730, USA","OK",-94.3305059,38.2586347
+"goderich , canada, on, ca","Goderich, ON, Canada","OK",-81.7138942,43.7428345
+"williamslake , canada, bc, ","Williams Lake, BC, Canada","OK",-122.1416885,52.1416736
+"enfield, , ct, us","Enfield, CT 06082, USA","OK",-72.5441445,42.0027181
+"paterson, , nj, us","Paterson, NJ, USA","OK",-74.171811,40.9167654
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"ridgecrest, , ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"uk, scotland, , ","Scotland, UK","OK",-4.2026458,56.4906712
+"cutler, , ca, us","Cutler, CA 93615, USA","OK",-119.2867823,36.5232833
+"lowell, , ma, us","Lowell, MA, USA","OK",-71.3161718,42.6334247
+"eureka, , mi, us","Eureka, MI 48879, USA","OK",-84.5138771,43.1036418
+"sant pere pescador , spain, , ","Sant Pere Pescador, Girona, Spain","OK",3.0926899,42.1897546
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"marietta, , ga, us","Marietta, GA, USA","OK",-84.5499327,33.952602
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"buzzards bay, , ma, us","Buzzards Bay, Bourne, MA 02532, USA","OK",-70.618087,41.7453829
+"johnson, , vt, us","East Johnson, Johnson, VT 05656, USA","OK",-72.6615081,44.6400507
+"bethlehem, , ga, us","Bethlehem, GA, USA","OK",-83.7137827,33.9320556
+"rotherham , uk, , gb","Rotherham, UK","OK",-1.3635009,53.4326035
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

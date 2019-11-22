@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"tawas city, , mi, us","Tawas City, MI 48763, USA","OK",-83.5146973,44.2694612
+"commerce, , tx, us","Commerce, TX 75428, USA","OK",-95.8999656,33.2470567
+"hamden, , ct, us","Hamden, CT, USA","OK",-72.9026064,41.3838782
+"lewisburg, , pa, us","Lewisburg, PA 17837, USA","OK",-76.8844101,40.9645293
+"kapaa, , hi, us","Kapaʻa, HI 96746, USA","OK",-159.3379818,22.0881391
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"columbus, , ms, us","Columbus, MS, USA","OK",-88.4272627,33.4956744
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"podol&#39sk , russia, , ",NA,"REQUEST_DENIED",NA,NA
+"belgrade, , mt, us","Belgrade, MT 59714, USA","OK",-111.1770945,45.7762463
+"waukesha, , wi, us","Waukesha, WI, USA","OK",-88.2314813,43.0116784
+"union, , wv, us","Union, WV 24983, USA","OK",-80.5436807,37.591512
+"keweenaw peninsual, , mi, ","Keweenaw Peninsula, Schoolcraft Township, MI 49913, USA","OK",-88.3334456,47.2502026
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"wolcott, , ct, us","Wolcott, CT 06716, USA","OK",-72.9867718,41.6023196
+"warrenton, , va, us","Warrenton, VA, USA","OK",-77.7952712,38.7134516
+"tillamook, lees camp, or, us","48398 Wilson River Hwy, Tillamook, OR 97141, USA","OK",-123.5338465,45.5899176
+"cyprus , mediterranean sea, , ","Stadiou Rd, Oroklini, Cyprus","OK",33.6554247,34.9873694
+"bloom township, , oh, ","Bloom Township, OH, USA","OK",-82.7562895,39.7758467
+"tekoa, , wa, us","Tekoa, WA 99033, USA","OK",-117.0721213,47.2232314
+"georgetown , canada, on, ca","Georgetown, Halton Hills, ON, Canada","OK",-79.9036236,43.6502046
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"lenzie , uk, , ","Lenzie, Kirkintilloch, Glasgow G66, UK","OK",-4.1556413,55.9235791
+"beloit, , wi, us","Beloit, WI 53511, USA","OK",-89.0317765,42.5083482
+"kawashaway , sp?, wi, ","Wisconsin, USA","OK",-88.7878678,43.7844397
+"stone harbor, , nj, us","Stone Harbor, NJ 08247, USA","OK",-74.7643608,39.0464066
+"london, , oh, us","London, OH 43140, USA","OK",-83.4482529,39.8864493
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"south east merced, , ca, ","Merced, CA, USA","OK",-120.4829677,37.3021632
+"hull , uk, , gb","Hull, UK","OK",-0.3274198,53.7676236
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"pflugerville, , tx, us","Pflugerville, TX, USA","OK",-97.6222665,30.4548451
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"south beach, , fl, us","South Beach, Miami Beach, FL 33139, USA","OK",-80.1340772,25.7826123
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"brampton , canada, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"sandy, , ut, ","Sandy, UT, USA","OK",-111.8389726,40.5649781
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"granite city, , il, us","Granite City, IL, USA","OK",-90.1487199,38.7014389
+"durant, , ok, us","Durant, OK, USA","OK",-96.3971233,33.9924186
+"hastings, , mn, us","Hastings, MN 55033, USA","OK",-92.8513706,44.7443293
+"canandaigua, , ny, us","Canandaigua, NY 14424, USA","OK",-77.2816984,42.887535
+"ellsworth, , me, us","Ellsworth, ME 04605, USA","OK",-68.4194641,44.5434095
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"bishop , ca, ca, us","Bishop, CA 93514, USA","OK",-118.3996636,37.3614238
+"newberg, , or, us","Newberg, OR 97132, USA","OK",-122.9469463,45.3064258
+"okinawa , japan, , ","Okinawa, Japan","OK",127.7025012,26.1201911
+"woodlawn, , md, us","Woodlawn, MD, USA","OK",-76.7280277,39.3228841
+"atwater, , ca, us","Atwater, CA 95301, USA","OK",-120.609084,37.3477174
+"chapeau , canada, pq, ","Chapeau, QC J0X 1M0, Canada","OK",-77.074679,45.911178
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"bradford , uk, , gb","Bradford, UK","OK",-1.759398,53.795984
+"palm harbor, , fl, us","Palm Harbor, FL, USA","OK",-82.7637127,28.0780718
+"hurricane, , ut, us","Hurricane, UT 84737, USA","OK",-113.2899484,37.1752607
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"pittsburgh , on i-79, pa, us","I-79, United States","OK",-80.1031396,40.4192303
+"excelsior springs, kearney , mo, ","Excelsior Springs, MO 64024, USA","OK",-94.2260559,39.3391712
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"howell, , mi, us","Howell, MI, USA","OK",-83.9293952,42.6072552
+"brigantine, , nj, us","Brigantine, NJ 08203, USA","OK",-74.3645906,39.4101171
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"big sur , monterey co., ca, us","Big Sur, CA, USA","OK",-121.8080556,36.2704233
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"minocqua, , wi, us","Minocqua, WI 54548, USA","OK",-89.7092705,45.8710837
+"olean, , ny, us","Olean, NY 14760, USA","OK",-78.429927,42.083639
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"pierre, , sd, us","Pierre, SD 57501, USA","OK",-100.3537522,44.3667876
+"moldova noua , romania, , ","Moldova Nouă 325500, Romania","OK",21.6642348,44.735184
+"provincetown , cape cod, ma, us","Provincetown, MA, USA","OK",-70.1786425,42.0584412
+"pickering , canada, on, ca","Pickering, ON, Canada","OK",-79.0867579,43.8384117
+"rocky mount , 4mi s.e. of, va, us","Virginia, USA","OK",-78.6568942,37.4315734
+"south point, , oh, us","South Point, OH, USA","OK",-82.5862699,38.4178597
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"cleveland, , ny, us","Cleveland, NY 13042, USA","OK",-75.8838027,43.2403467
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"the colony, , tx, us","The Colony, TX, USA","OK",-96.8928309,33.0806083
+"bear valley ski resort, , ca, ","2280 state Rte 207, Bear Valley, CA 95223, USA","OK",-120.04422,38.4925588
+"rialto, , ca, us","Rialto, CA, USA","OK",-117.3703235,34.1064001
+"boalsburg, , pa, us","Boalsburg, PA 16827, USA","OK",-77.7924992,40.7756184
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"west kennebunk, , me, us","West Kennebunk, Kennebunk, ME 04043, USA","OK",-70.5814425,43.4086955
+"ferndale , near&#44 countryside, wa, us",NA,"REQUEST_DENIED",NA,NA
+"shanty creek, , mi, ","Shanty Creek Rd, Michigan 49615, USA","OK",-85.1748144,44.9498675
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"stockholm , sweden, , ","Stockholm, Sweden","OK",18.0685808,59.3293235
+"hingham, , ma, us","Hingham, MA, USA","OK",-70.889759,42.2418172
+"river falls, prescott , wi, ","104 E Locust St, River Falls, WI 54022, USA","OK",-92.62687,44.856063
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"roslindale, , ma, us","Roslindale, Boston, MA, USA","OK",-71.1270268,42.2832142
+"turkey, , tx, us","Turkey, TX 79261, USA","OK",-100.8976408,34.3925639
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"oakdale, , ca, us","Oakdale, CA 95361, USA","OK",-120.8471545,37.7665947
+"dawson creek , canada, bc, ca","Dawson Creek, BC, Canada","OK",-120.2376623,55.7596274
+"glasgow, , ky, us","Glasgow, KY 42141, USA","OK",-85.9119215,36.9958839
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"iowa, , ia, ","Iowa, USA","OK",-93.097702,41.8780025
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"mammoth cave, , ky, us","Mammoth Cave, KY 42259, USA","OK",-86.0999753,37.1861597
+"lincoln , uk, , gb","Lincoln, UK","OK",-0.540579,53.230688
+"concord, , nc, us","Concord, NC, USA","OK",-80.579511,35.4087517
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"edinburgh , uk, , gb","Edinburgh, UK","OK",-3.188267,55.953252
+"kemptville , canada, on, ca","Kemptville, ON K0G 1J0, Canada","OK",-75.645947,45.0163884
+"windsor, , ca, us","Windsor, CA, USA","OK",-122.8163802,38.5471327
+"seremban , malaysia, , ","Seremban, Negeri Sembilan, Malaysia","OK",101.9378239,2.725889
+"port clements , canada, bc, ca","Port Clements, BC, Canada","OK",-132.1847553,53.6887137
+"skopje , macedonia, , ","Skopje, North Macedonia","OK",21.4407659,42.0050274
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"hereford , uk, , gb","Hereford, UK","OK",-2.715974,52.056398
+"karachi ,  , , ","Karachi, Karachi City, Sindh, Pakistan","OK",67.0011364,24.8607343
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"idledale, , co, us","Idledale, CO, USA","OK",-105.243887,39.6659845
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"jackson&#39s point , canada, on, ",NA,"REQUEST_DENIED",NA,NA
+"piscataway, , nj, us","Piscataway, NJ 08854, USA","OK",-74.4642861,40.554887
+"balad , south south west of, , ","Balad, Iraq","OK",44.148291,34.0076216
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"michigan city, , in, us","Michigan City, IN, USA","OK",-86.8950297,41.7075394
+"anza borrego state park, , ca, ","Anza-Borrego Desert State Park, 200 Palm Canyon Dr, Borrego Springs, CA 92004, USA","OK",-116.3013266,33.100492
+"burneyville, , ok, us","Burneyville, OK 73430, USA","OK",-97.2889056,33.907879
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"south dennis, , ma, us","South Dennis, Dennis, MA 02660, USA","OK",-70.1515342,41.7020781
+"grove city, , pa, us","Grove City, PA 16127, USA","OK",-80.0886703,41.1578377
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"south tucson, , az, us","South Tucson, AZ 85713, USA","OK",-110.9684411,32.1954998
+"bridgend , uk, , gb","Bridgend, UK","OK",-3.576945,51.504286
+"sweet springs, , mo, us","Sweet Springs, MO 65351, USA","OK",-93.4149319,38.9636292
+"nova scotia , south shore, ns, ","South Shore, NS B0K 1E0, Canada","OK",-63.316462,45.7693749
+"lighthouse point, , fl, us","Lighthouse Point, FL, USA","OK",-80.0872654,26.275636
+"woodstock, , va, us","Woodstock, VA 22664, USA","OK",-78.5058429,38.8817784
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"blackpool , uk, , gb","Blackpool, UK","OK",-3.0356748,53.8175053
+"statesboro, , ga, us","Statesboro, GA, USA","OK",-81.7831674,32.4487876
+"benton, , ky, us","Benton, KY 42025, USA","OK",-88.350315,36.8572781
+"alfreton , uk, , gb","Alfreton DE55, UK","OK",-1.382256,53.09745
+"cahokia, , il, us","Cahokia, IL 62206, USA","OK",-90.1901113,38.5708849
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"etobicoke , canada, on, ca","Etobicoke, Toronto, ON, Canada","OK",-79.5131983,43.6204946
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"capon bridge, , wv, us","Capon Bridge, WV 26711, USA","OK",-78.4361189,39.2981565
+"black canyon city, , az, us","Black Canyon City, AZ 85324, USA","OK",-112.1295121,34.0774991
+"canton, , ma, us","Canton, MA, USA","OK",-71.1447732,42.1584324
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"nunburnholme , uk, , gb","Nunburnholme, York YO42 1QY, UK","OK",-0.704549,53.922545
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix , north of, az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"lorain, , oh, us","Lorain, OH, USA","OK",-82.1823746,41.452819
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"morrow, , oh, us","Morrow, OH 45152, USA","OK",-84.1271568,39.3545046
+"durham, , nc, us","Durham, NC, USA","OK",-78.898619,35.9940329
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"shawnee, , ok, us","Shawnee, OK, USA","OK",-96.9253004,35.3272928
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"dunedin, , fl, us","Dunedin, FL, USA","OK",-82.7717684,28.0197404
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"wilmington, , ca, us","Wilmington, Los Angeles, CA, USA","OK",-118.2643567,33.7857948
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"embarrass, , mn, us","Embarrass, MN 55732, USA","OK",-92.1979466,47.6590897
+"st. pierre jolys , canada, mb, ","St-Pierre-Jolys, MB R0A 1V0, Canada","OK",-96.9850637,49.44033
+"waldport, , or, us","Waldport, OR 97394, USA","OK",-124.0687302,44.426786
+"yarmouth, , me, us","Yarmouth, ME, USA","OK",-70.1867227,43.8006208
+"sherman oaks, , ca, us","Sherman Oaks, Los Angeles, CA, USA","OK",-118.451357,34.1489719
+"st. helena bay , south africa, , ","St Helena Bay, South Africa","OK",18.0035567,-32.7505446
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"dominican republic , off coast of, , ","Saona Island, 23000, Dominican Republic","OK",-68.6797264,18.1530876
+"morton, , mn, us","Morton, MN 56270, USA","OK",-94.9843725,44.5514993
+"fort bragg, , ca, us","Fort Bragg, CA 95437, USA","OK",-123.8052935,39.445723
+"lenexa, , ks, us","Lenexa, KS, USA","OK",-94.7335709,38.9536174
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

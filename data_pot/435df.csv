@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hoboken, , nj, us","Hoboken, NJ, USA","OK",-74.0323626,40.7439905
+"kennett square, , pa, us","Kennett Square, PA 19348, USA","OK",-75.7116032,39.8467767
+"brady, , tx, us","Brady, TX 76825, USA","OK",-99.3350552,31.1351682
+"longview, , tx, us","Longview, TX, USA","OK",-94.7404891,32.5007037
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"seneca, , sc, us","Seneca, SC, USA","OK",-82.9532036,34.6856555
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"langehorne, , pa, ","Langhorne, PA, USA","OK",-74.9226665,40.1745538
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"fox chapel, , pa, us","Fox Chapel, PA, USA","OK",-79.8797728,40.5134016
+"burgettstown, , pa, us","Burgettstown, PA 15021, USA","OK",-80.3928423,40.3820132
+"charleston, , il, us","Charleston, IL 61920, USA","OK",-88.1761521,39.4961458
+"wolf point, , mt, us","Wolf Point, MT 59201, USA","OK",-105.6405566,48.0905736
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"penticton , canada, bc, ca","Penticton, BC, Canada","OK",-119.5937077,49.4991381
+"ridgway, , pa, us","Ridgway, PA 15853, USA","OK",-78.7286388,41.4203391
+"st. charles, , id, us","St Charles, ID 83272, USA","OK",-111.3888175,42.1138188
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"seattle, renton, wa, ","Renton, WA, USA","OK",-122.2079218,47.4796927
+"marion, , oh, us","Marion, OH 43302, USA","OK",-83.1285242,40.5886699
+"patterson, , ca, us","Patterson, CA 95363, USA","OK",-121.129656,37.4716001
+"nasa-internet tv, , tx, ",NA,"ZERO_RESULTS",NA,NA
+"new smyrna beach, , fl, us","New Smyrna Beach, FL, USA","OK",-80.9269984,29.0258191
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"bauxite, , ar, us","Bauxite, AR, USA","OK",-92.5212702,34.5556489
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"kuala lumpur , malaysia, , ","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","OK",101.686855,3.139003
+"melbourne beach, , fl, us","Melbourne Beach, FL, USA","OK",-80.5603303,28.0683496
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"budapest , hungary, , ","Budapest, Hungary","OK",19.040235,47.497912
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"la mesa, , ca, us","La Mesa, CA, USA","OK",-117.0230839,32.7678287
+"oxnard, , ca, us","Oxnard, CA, USA","OK",-119.1770516,34.1975048
+"camarillo , rural, ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"ely, , mn, us","Ely, MN 55731, USA","OK",-91.8670873,47.9032372
+"euclid, , oh, us","Euclid, OH, USA","OK",-81.5267873,41.5931049
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"muncie, , in, us","Muncie, IN, USA","OK",-85.3863599,40.1933767
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"maxville , canada, on, ca","Maxville, ON K0C 1T0, Canada","OK",-74.8545436,45.2886749
+"stony plain , canada, ab, ca","Stony Plain, AB, Canada","OK",-114.0018793,53.5294288
+"orland, , ca, us","Orland, CA 95963, USA","OK",-122.1963748,39.7473803
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"alburquerque, , nm, ","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"flatrock, taylor border, mi, ","Flat Rock, MI, USA","OK",-83.2918744,42.0964314
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"rifle, , co, us","Rifle, CO 81650, USA","OK",-107.7831198,39.5347023
+"san lorenzo, , ca, us","San Lorenzo, CA, USA","OK",-122.1267054,37.6793968
+"winchester, , wi, us","Winchester, WI 54557, USA","OK",-89.8979385,46.2218933
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"washington&#44 d.c.&#44 suburbs, , va, ",NA,"REQUEST_DENIED",NA,NA
+"greeley, , co, us","Greeley, CO, USA","OK",-104.7091322,40.4233142
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"harrison, , oh, us","Harrison, OH 45030, USA","OK",-84.7915999,39.2536967
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"suches, , ga, us","Suches, GA 30572, USA","OK",-84.0221356,34.6889792
+"holualoa, , hi, us","Holualoa, HI, USA","OK",-155.9677759,19.6148386
+"edgewood, , nm, us","Edgewood, NM 87015, USA","OK",-106.1914141,35.0614358
+"dadeville, , al, us","Dadeville, AL, USA","OK",-85.7635692,32.831238
+"oxnard, , ca, us","Oxnard, CA, USA","OK",-119.1770516,34.1975048
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"son en breugel , netherlands, , ","Son en Breugel, Netherlands","OK",5.4982192,51.511394
+"warm springs, , nv, us","Warm Springs, NV, USA","OK",-116.3700542,38.1904897
+"watauga, , tx, us","Watauga, TX, USA","OK",-97.2547371,32.8579056
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"port hueneme, , ca, us","Port Hueneme, CA, USA","OK",-119.1951074,34.1477829
+"molly stark st. park , marlboro, vt, ","Molly Stark State Park, 705 VT-9, Wilmington, VT 05363, USA","OK",-72.814896,42.852549
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"keene , canada, on, ca","Keene, ON K0L 2G0, Canada","OK",-78.161845,44.240474
+"central coast , australia, , au","Central Coast, NSW, Australia","OK",151.2335592,-33.3208415
+"easter island , chile, , ","Easter Island, Valparaíso, Chile","OK",-109.3496865,-27.112723
+"dover, , de, us","Dover, DE, USA","OK",-75.5243682,39.158168
+"lansdowne house , canada, on, ca","Lansdowne House, ON, Canada","OK",-87.891227,52.219467
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"murrieta, , ca, us","Murrieta, CA, USA","OK",-117.2139232,33.5539143
+"regina , canada, sk, ca","Regina, SK, Canada","OK",-104.6188943,50.4452112
+"grove city, , pa, us","Grove City, PA 16127, USA","OK",-80.0886703,41.1578377
+"port isabel, , tx, us","Port Isabel, TX, USA","OK",-97.2085844,26.0734119
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"oxford , uk, , gb","Oxford, UK","OK",-1.2577263,51.7520209
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"comer, , ga, us","Comer, GA 30629, USA","OK",-83.1254261,34.0637227
+"smyrna, , tn, us","Smyrna, TN, USA","OK",-86.5186045,35.9828412
+"mammoth lakes, , ca, us","Mammoth Lakes, CA 93546, USA","OK",-118.972079,37.648546
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"cuba, , mo, us","Cuba, MO, USA","OK",-91.4034833,38.0628225
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"milliken, , co, us","Milliken, CO, USA","OK",-104.85525,40.3294268
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

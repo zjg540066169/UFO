@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"richmond, , ca, us","Richmond, CA, USA","OK",-122.3477486,37.9357576
+"hartsgrove, , oh, us","Hartsgrove, OH 44085, USA","OK",-80.9534259,41.605055
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"warsaw, , mo, us","Warsaw, MO 65355, USA","OK",-93.3818711,38.2430811
+"arlington, , vt, us","Arlington, VT 05250, USA","OK",-73.1539734,43.0747858
+"halls lake , big hawk lake, on, ","Big Hawk Lake, Algonquin Highlands, ON K0M 1J2, Canada","OK",-78.7382072,45.161522
+"new bedford, , ma, us","New Bedford, MA, USA","OK",-70.934205,41.6362152
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"mexico city&#44 d.f. , mexico, , ",NA,"REQUEST_DENIED",NA,NA
+"wendover , 76 miles north.&amp; 50 miles south s.l.c., ut, us","West Wendover, NV 89883, USA","OK",-114.073345,40.739097
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"fyffe, , al, us","Fyffe, AL 35971, USA","OK",-85.9041395,34.446755
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"stone mountain, , ga, us","Stone Mountain, GA, USA","OK",-84.170196,33.8081608
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"gulf of mexico, , fl, ","Gulf of Mexico, Florida, USA","OK",-80.5592017,25.211967
+"hayden, , id, us","Hayden, ID, USA","OK",-116.7865815,47.7660161
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"tokeland, , wa, us","Tokeland, WA 98590, USA","OK",-123.9818347,46.7064856
+"torrance, , ca, us","Torrance, CA, USA","OK",-118.3406288,33.8358492
+"beatty, , nv, us","Beatty, NV, USA","OK",-116.7592265,36.9085566
+"meraux, , la, us","Meraux, LA, USA","OK",-89.9147161,29.9298171
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"kuala lumpur , malaysia, , ","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","OK",101.686855,3.139003
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"prescott valley, , az, us","Prescott Valley, AZ, USA","OK",-112.315721,34.6100243
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"schaumburg, , il, us","Schaumburg, IL, USA","OK",-88.0834059,42.0333607
+"h&auml;rn&ouml;sand , sweden, , ","2325 Cr 3800, Independence, KS 67301, USA","OK",-95.826318,37.1824553
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"soap lake, , wa, us","Soap Lake, WA 98851, USA","OK",-119.490591,47.389307
+"dalaman , turkey, , ","Dalaman, Muğla, Turkey","OK",28.799991,36.76662
+"lower lake, , ca, us","Lower Lake, CA, USA","OK",-122.6102614,38.9104546
+"eau claire, , wi, us","Eau Claire, WI, USA","OK",-91.4984941,44.811349
+"hanford nuclear reservation, , wa, ","Washington, USA","OK",-119.4889741,46.5506839
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"batavia, , il, us","Batavia, IL, USA","OK",-88.3125738,41.8500284
+"mansfield, , la, us","Mansfield, LA 71052, USA","OK",-93.7001819,32.0376629
+"black forest, , co, us","Black Forest, CO, USA","OK",-104.7008083,39.0130484
+"grand prairie, , tx, us","Grand Prairie, TX, USA","OK",-96.9977846,32.7459645
+"mount juliet, , tn, us","Mt. Juliet, TN, USA","OK",-86.5186054,36.200055
+"raahr , finland, , ","Raahe, Finland","OK",24.4883649,64.6839541
+"lyndhurst, , nj, us","Lyndhurst, NJ, USA","OK",-74.1243063,40.8120171
+"westminster, , co, us","Westminster, CO, USA","OK",-105.0372046,39.8366528
+"clarksburg, , pa, us","Clarksburg, PA 15725, USA","OK",-79.3819842,40.5336773
+"imperial, , ca, us","Imperial, CA, USA","OK",-115.5694391,32.8475528
+"goderich , canada, on, ca","Goderich, ON, Canada","OK",-81.7138942,43.7428345
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"bristol, , nh, us","Bristol, NH 03222, USA","OK",-71.7367162,43.5911499
+"hoensbroek , natherlands, , ","Hoensbroek, Netherlands","OK",5.9244894,50.9201468
+"lake macquarie , nsw&#44 australia, , ",NA,"REQUEST_DENIED",NA,NA
+"hot springs, , ar, us","Hot Springs, AR, USA","OK",-93.0551795,34.5037004
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"hayden, , id, us","Hayden, ID, USA","OK",-116.7865815,47.7660161
+"kabul , afghanistan, , ","Kabul, Afghanistan","OK",69.207486,34.5553494
+"tuscaloosa, , al, us","Tuscaloosa, AL, USA","OK",-87.5691735,33.2098407
+"hayden, , id, us","Hayden, ID, USA","OK",-116.7865815,47.7660161
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"medway, , ma, us","Medway, MA 02053, USA","OK",-71.3967256,42.1417641
+"russellville, , ar, us","Russellville, AR, USA","OK",-93.1337856,35.2784173
+"san angelo, , tx, us","San Angelo, TX, USA","OK",-100.4370375,31.4637723
+"crawfordville, , in, ","Crawfordsville, IN 47933, USA","OK",-86.8744516,40.0411536
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"shanghai , china, , ","Shanghai, China","OK",121.473701,31.230416
+"murrieta, , ca, us","Murrieta, CA, USA","OK",-117.2139232,33.5539143
+"pittsboro, , in, us","Pittsboro, IN 46167, USA","OK",-86.4669429,39.8639329
+"kenner, , la, us","Kenner, LA, USA","OK",-90.2417434,29.9940924
+"morgan city, , la, us","Morgan City, LA 70380, USA","OK",-91.20677,29.6993748
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"princeton, , in, us","Princeton, IN 47670, USA","OK",-87.5675222,38.3553236
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"i-40 west&#44 mm 228, , ar, ",NA,"REQUEST_DENIED",NA,NA
+"deridder, , la, us","DeRidder, LA 70634, USA","OK",-93.2890527,30.8463055
+"plymouth borough, , pa, ","Plymouth, PA, USA","OK",-75.9446428,41.2403596
+"readington, , nj, us","Readington Township, NJ, USA","OK",-74.7376619,40.5687141
+"russelville, , ar, ","Russellville, AR, USA","OK",-93.1337856,35.2784173
+"lacey, , wa, us","Lacey, WA, USA","OK",-122.8232553,47.0358969
+"port orange, , fl, us","Port Orange, FL, USA","OK",-80.9956105,29.1383165
+"george town , grand cayman, , ","George Town, Cayman Islands","OK",-81.3674389,19.2869323
+"san clemente, , ca, us","San Clemente, CA, USA","OK",-117.6126004,33.4273521
+"sylvan lake , canada, ab, ca","Sylvan Lake, AB, Canada","OK",-114.0973312,52.3065443
+"eagan, , mn, us","Eagan, MN, USA","OK",-93.1668858,44.8041322
+"ringe, , nh, ","Rindge, NH 03461, USA","OK",-72.0098021,42.7511964
+"elizabethtown, , ky, us","Elizabethtown, KY, USA","OK",-85.8649408,37.7030646
+"gulfport, , ms, us","Gulfport, MS, USA","OK",-89.0928155,30.3674198
+"south point, , oh, us","South Point, OH, USA","OK",-82.5862699,38.4178597
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"irvine, , pa, us","Irvine, PA, USA","OK",-79.2681029,41.839885
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"st. paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"peterborough lakes , by kawartha; peterborough, on, ","Little Lake, Peterborough, ON, Canada","OK",-78.3094347,44.2977549
+"dull center , near bill, wy, ","Bill, WY 82633, USA","OK",-105.2602574,43.2319119
+"mankato, , mn, us","Mankato, MN, USA","OK",-93.9993996,44.1635775
+"east providence, , ri, us","East Providence, RI, USA","OK",-71.3700545,41.8137116
+"east providence, , ri, us","East Providence, RI, USA","OK",-71.3700545,41.8137116
+"cave creek, , az, us","Cave Creek, AZ 85331, USA","OK",-111.9507042,33.8333716
+"ballymoney&#44 antrim , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"farmington , approx. 3 miles n of, nm, us","Farmington, NM, USA","OK",-108.2186856,36.7280583
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"corbin, , ky, us","Corbin, KY 40701, USA","OK",-84.0968761,36.9486986
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"navajo lake, , nm, ","Navajo Lake, New Mexico 87419, USA","OK",-107.613,36.8
+"pennsauken, , nj, us","Pennsauken Township, NJ, USA","OK",-75.058009,39.9562052
+"new carlisle, , in, us","New Carlisle, IN 46552, USA","OK",-86.509462,41.7003231
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"paso robles , lake nacimiento region, ca, us","Lake Nacimiento, CA 93446, USA","OK",-120.879626,35.7283017
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"jefferson city, , mo, us","Jefferson City, MO, USA","OK",-92.1735164,38.5767017
+"desoto, , il, ","De Soto, IL 62924, USA","OK",-89.2278613,37.8175505
+"penn valley, , ca, us","Penn Valley, CA 95946, USA","OK",-121.1910659,39.196005
+"phillip island , australia, , ","Phillip Island, Victoria, Australia","OK",145.2038278,-38.4898703
+"kenilworth, , nj, us","Kenilworth, NJ, USA","OK",-74.2907032,40.6764911
+"seattle , north, wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"gheen, , mn, us","Gheen, MN 55771, USA","OK",-92.8082268,47.9679724
+"churchable  , australia, , ","Churchable QLD 4311, Australia","OK",152.3682506,-27.4224796
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"martinez, , ca, us","Martinez, CA 94553, USA","OK",-122.1341321,38.0193657
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"west vancouver , canada, bc, ca","West Vancouver, BC, Canada","OK",-123.1601982,49.3286251
+"france, , , ","France","OK",2.213749,46.227638
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"richmond, , ky, us","Richmond, KY, USA","OK",-84.2946539,37.7478572
+"nsw  , australia, , ","New South Wales, Australia","OK",146.921099,-31.2532183
+"shoreham , uk, , gb","Shoreham-by-Sea, UK","OK",-0.2715558,50.8342086
+"kettleman city, , ca, us","Kettleman City, CA 93239, USA","OK",-119.9617998,36.0082864
+"roy, , ut, us","Roy, UT, USA","OK",-112.0263313,41.1616108
+"lake aloha, , ca, ","Lake Aloha, California, USA","OK",-120.1372782,38.8646803
+"isle la motte, , vt, us","Isle La Motte, VT 05463, USA","OK",-73.3387437,44.8769853
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"prophetstown, , il, us","Prophetstown, IL 61277, USA","OK",-89.9362249,41.6714198
+"prince george, , va, us","Prince George, VA, USA","OK",-77.2856305,37.2220383
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"bolivar, , mo, us","Bolivar, MO 65613, USA","OK",-93.4104749,37.6144838
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"ferizaj&#44 babush , kosovo, , ",NA,"REQUEST_DENIED",NA,NA
+"walpole , australia, , au","Walpole WA 6398, Australia","OK",116.7331553,-34.9758607
+"coquitlam , canada, bc, ca","Coquitlam, BC, Canada","OK",-122.7932065,49.2837626
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"hamilton, , oh, us","Hamilton, OH, USA","OK",-84.5613355,39.3995008
+"mt. union, , pa, us","Mt Union, PA 17066, USA","OK",-77.8822199,40.3845217
+"carter, , ok, us","Carter, OK 73627, USA","OK",-99.5056465,35.2189409
+"ibiza , spain, , ","Ibiza, Balearic Islands, Spain","OK",1.4821482,39.0200099
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"jacksonville, , nc, us","Jacksonville, NC, USA","OK",-77.4302414,34.7540524
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"harbor springs, , mi, us","Harbor Springs, MI 49740, USA","OK",-84.9919992,45.4316759
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"zakynthos , greece, , ","Zakynthos, Greece","OK",20.8998759,37.7870331
+"guelph , canada, on, ca","Guelph, ON, Canada","OK",-80.2481666,43.5448048
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"mountlake terrace, , wa, us","Mountlake Terrace, WA, USA","OK",-122.3087405,47.7881528
+"sault ste. marie, , mi, ","Sault Ste. Marie, MI 49783, USA","OK",-84.3475876,46.4977115
+"shoreview, , mn, us","Shoreview, MN 55126, USA","OK",-93.1471667,45.0791325
+"neptune, , oh, us","Neptune, Center Township, OH 45822, USA","OK",-84.4916206,40.603103
+"markham , canada, on, ca","Markham, ON, Canada","OK",-79.3370188,43.8561002
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"north adamas, , ma, ","North Adams, MA 01247, USA","OK",-73.1087148,42.700915
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"north platte, , ne, us","North Platte, NE 69101, USA","OK",-100.7601454,41.1402759
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"thetford , uk, , gb","Thetford, UK","OK",0.751657,52.412856
+"liberty, , ny, us","Liberty, NY, USA","OK",-74.74655,41.8012001
+"cape girardeau, , mo, us","Cape Girardeau, MO, USA","OK",-89.5181476,37.3058839
+"lexington, , tn, us","Lexington, TN 38351, USA","OK",-88.3933796,35.6509029
+"milton, , fl, us","Milton, FL, USA","OK",-87.0396881,30.6324149
+"goodlettsville, , tn, us","Goodlettsville, TN 37072, USA","OK",-86.7133302,36.3231066
+"las cruces, , nm, us","Las Cruces, NM, USA","OK",-106.7636538,32.3199396
+"san ramon, , ca, us","San Ramon, CA, USA","OK",-121.9780153,37.7799273
+"cheltenham , uk, , gb","Cheltenham, UK","OK",-2.0782533,51.8993855
+"auburn hills, , mi, us","Auburn Hills, MI, USA","OK",-83.2341028,42.6875323
+"new york, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"davison, , mi, us","Davison, MI 48423, USA","OK",-83.5180063,43.0347491
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"smyrna, , ga, us","Smyrna, GA, USA","OK",-84.5143761,33.8839926
+"somerville, , nj, us","Somerville, NJ 08876, USA","OK",-74.60988,40.5742696
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"waxhaw, , nc, us","Waxhaw, NC 28173, USA","OK",-80.7434019,34.9245935
+"midvale, , id, us","Midvale, ID 83645, USA","OK",-116.7346066,44.4712737
+"southgate, , mi, us","Southgate, MI, USA","OK",-83.1938147,42.2139284
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

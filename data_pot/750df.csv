@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"chester, , ct, us","Chester, CT, USA","OK",-72.4824991,41.4022081
+"elkhorn, , wi, us","Elkhorn, WI 53121, USA","OK",-88.5445447,42.6727927
+"meridian, , id, us","Meridian, ID, USA","OK",-116.3915131,43.6121087
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"windham, willimantic, ct, ","Windham, CT, USA","OK",-72.1570219,41.6998208
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"kalamazoo, , mi, us","Kalamazoo, MI, USA","OK",-85.5872286,42.2917069
+"jackson, , mt, us","Jackson, MT, USA","OK",-113.4095162,45.3685929
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"venice, , fl, us","Venice, FL, USA","OK",-82.4542632,27.0997775
+"vineyard haven, , ma, us","Vineyard Haven, Tisbury, MA 02568, USA","OK",-70.6036395,41.4542786
+"taylor&#39s, , sc, ",NA,"REQUEST_DENIED",NA,NA
+"darlington, , sc, us","Darlington, SC 29532, USA","OK",-79.8761741,34.2998762
+"seneca, , ks, us","Seneca, KS 66538, USA","OK",-96.0641676,39.834165
+"point pleasant borough, , nj, ","Point Pleasant, NJ 08742, USA","OK",-74.0681931,40.0831714
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"redwood city, , ca, us","Redwood City, CA, USA","OK",-122.2363548,37.4852152
+"cleves, , oh, us","Cleves, OH, USA","OK",-84.749115,39.1617242
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"east los angeles, , ca, us","East Los Angeles, CA, USA","OK",-118.1669736,34.0224417
+"lincolnville, , me, us","Lincolnville, ME 04849, USA","OK",-69.0087018,44.2811973
+"torsnes , norway, , ",NA,"ZERO_RESULTS",NA,NA
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"rockingham , australia, , au","Rockingham WA 6168, Australia","OK",115.7351403,-32.2780954
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"deer park, , ny, us","Deer Park, NY, USA","OK",-73.3292857,40.7617653
+"easton, , pa, us","Easton, PA, USA","OK",-75.2207323,40.688432
+"mt. airy, , nc, us","Mt Airy, NC 27030, USA","OK",-80.6072858,36.4993007
+"oconomowoc, , wi, us","Oconomowoc, WI 53066, USA","OK",-88.4992659,43.1116731
+"wethersfield, , ct, us","Wethersfield, CT, USA","OK",-72.6596244,41.7063537
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"peterborough , canada, on, ca","Peterborough, ON, Canada","OK",-78.319747,44.309058
+"gainesville, , ga, us","Gainesville, GA, USA","OK",-83.8240663,34.2978794
+"goshen, , in, us","Goshen, IN, USA","OK",-85.8344383,41.5822716
+"manchac, , la, us","Akers, LA 70454, USA","OK",-90.4017516,30.2901963
+"charleston , south, sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"jefferson, , ia, us","Jefferson, IA 50129, USA","OK",-94.3774232,42.0172457
+"zuiddorpe , netherlands, , ","4574 Zuiddorpe, Netherlands","OK",3.903091,51.2345512
+"western pacific ocean, , , ","16912 Pacific Coast Hwy, Sunset Beach, CA 90742, USA","OK",-118.068164,33.7164
+"edinburgh , uk, , gb","Edinburgh, UK","OK",-3.188267,55.953252
+"clinton township, , mi, ","Clinton Twp, MI, USA","OK",-82.9195514,42.5868882
+"elwood, , ny, us","Elwood, NY, USA","OK",-73.3351179,40.8453761
+"new ellington, , sc, ","New Ellenton, SC, USA","OK",-81.6856654,33.421531
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"harare , rural area outside of, , ","Harare, Zimbabwe","OK",31.03351,-17.8251657
+"carbonado, , wa, us","Carbonado, WA 98323, USA","OK",-122.0515005,47.0798248
+"carbonado, , wa, us","Carbonado, WA 98323, USA","OK",-122.0515005,47.0798248
+"wilsonville, , or, us","Wilsonville, OR, USA","OK",-122.7726501,45.3029903
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"georgtown, idaho springs , co, ","Georgetown, CO 80444, USA","OK",-105.6975041,39.7060984
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"concord, , ma, us","Concord, MA, USA","OK",-71.3489484,42.4603719
+"woodmont, , ct, us","Woodmont, Milford, CT, USA","OK",-72.9914925,41.228153
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"san diego , point loma, ca, us","Point Loma, San Diego, CA, USA","OK",-117.2466838,32.70003
+"elgin, , tx, us","Elgin, TX 78621, USA","OK",-97.3702735,30.3496528
+"menomonie, , wi, us","Menomonie, WI 54751, USA","OK",-91.9193422,44.8755183
+"sault ste. marie , canada, on, ","Sault Ste. Marie, ON, Canada","OK",-84.3357526,46.5136494
+"menomonie, , wi, us","Menomonie, WI 54751, USA","OK",-91.9193422,44.8755183
+"selden, , ny, us","Selden, NY, USA","OK",-73.0356625,40.8664873
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"martinsburg, , wv, us","Martinsburg, WV, USA","OK",-77.9638869,39.4562099
+"new york city , manahattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"wilmington, , de, us","Wilmington, DE, USA","OK",-75.5483909,39.744655
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"belleville , canada, on, ca","Belleville, ON, Canada","OK",-77.3832315,44.1627589
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"owensboro, , ky, us","Owensboro, KY, USA","OK",-87.1111676,37.7719074
+"haliburton , canada, on, ca","Haliburton County, ON, Canada","OK",-78.5084937,45.0467132
+"hampton, , va, us","Hampton, VA, USA","OK",-76.3452218,37.0298687
+"union, , nj, us","Union, NJ, USA","OK",-74.2631635,40.6975898
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"garden city park, , ny, us","Garden City Park, NY 11040, USA","OK",-73.6630251,40.7410315
+"falkirk , uk, , gb","Falkirk, UK","OK",-3.7839131,56.0018775
+"bloomfield, , nj, us","Bloomfield, NJ, USA","OK",-74.1854209,40.8067546
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"lima, , oh, us","Lima, OH, USA","OK",-84.1052256,40.742551
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"singapore, , , ","Singapore","OK",103.819836,1.352083
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"bar harbor, , me, us","Bar Harbor, ME, USA","OK",-68.2039123,44.3876119
+"college park, , md, us","College Park, MD, USA","OK",-76.93776,38.9896967
+"bonita springs, , fl, us","Bonita Springs, FL, USA","OK",-81.7786972,26.339806
+"ontario, , ca, us","Ontario, CA, USA","OK",-117.6508876,34.0633443
+"san marcos, , ca, us","San Marcos, CA, USA","OK",-117.1661449,33.1433723
+"johnston, , ia, us","Johnston, IA, USA","OK",-93.7130493,41.6709834
+"brea, , ca, us","Brea, CA, USA","OK",-117.9002918,33.916475
+"monongahela, , pa, us","Monongahela, PA 15063, USA","OK",-79.9261603,40.2031265
+"coventry, warwick , , ","Coventry, UK","OK",-1.519693,52.406822
+"kapaa, , hi, us","Kapaʻa, HI 96746, USA","OK",-159.3379818,22.0881391
+"huntsville , outside of, on, ca","Huntsville, ON P0B, Canada","OK",-79.2167539,45.3269323
+"adrian, , mi, us","Adrian, MI 49221, USA","OK",-84.0371659,41.8975471
+"sandy, , ut, ","Sandy, UT, USA","OK",-111.8389726,40.5649781
+"elba, , al, us","Elba, AL 36323, USA","OK",-86.0677243,31.4146108
+"lakeside, , or, us","Lakeside, OR, USA","OK",-124.1751135,43.5756704
+"east falmouth, , ma, us","East Falmouth, Falmouth, MA 02536, USA","OK",-70.5586401,41.5784425
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

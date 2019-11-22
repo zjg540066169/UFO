@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"lake leelanau, , mi, us","Lake Leelanau, MI 49653, USA","OK",-85.7153165,44.9809363
+"la porte, , in, ","La Porte, IN 46350, USA","OK",-86.7227195,41.611143
+"ardmore, , ok, us","Ardmore, OK 73401, USA","OK",-97.1436254,34.1742611
+"shillington, , pa, us","Shillington, PA 19607, USA","OK",-75.9654896,40.3078702
+"belt, , mt, us","Belt, MT 59412, USA","OK",-110.9276606,47.387186
+"carthage, , mo, us","Carthage, MO 64836, USA","OK",-94.3102228,37.176447
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"ft. gibson, , ok, us","Fort Gibson, OK 74434, USA","OK",-95.2505173,35.7975986
+"sterling heights, , mi, us","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"tumwater, , wa, us","Tumwater, WA, USA","OK",-122.9093063,47.0073187
+"tigard, , or, us","Tigard, OR, USA","OK",-122.7872475,45.4186785
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"riverbank, , ca, us","Riverbank, CA, USA","OK",-120.9354895,37.7360396
+"anoka, , mn, us","Anoka, MN, USA","OK",-93.3871758,45.1977428
+"chesepeake bay bridge tunnel, , va, ","Chesapeake Bay Bridge Tunnel, Virginia, USA","OK",-76.0685871,37.0420967
+"pevely, arnold , mo, ","Pevely, MO, USA","OK",-90.4034904,38.2835652
+"shapleigh, , me, us","Shapleigh, ME 04076, USA","OK",-70.8481164,43.5406359
+"black hawk, , sd, ","Black Hawk, SD, USA","OK",-103.3079619,44.1510983
+"culver, , or, us","Culver, OR 97734, USA","OK",-121.2130974,44.5256753
+"kerman, , ca, us","Kerman, CA 93630, USA","OK",-120.059879,36.7235572
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"wentzville, , mo, us","Wentzville, MO, USA","OK",-90.8529107,38.81144
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"paddock lake, , wi, us","Paddock Lake, WI 53168, USA","OK",-88.1050853,42.5775187
+"walla walla, , wa, us","Walla Walla, WA 99362, USA","OK",-118.3430208,46.0645809
+"south gate, , ca, us","South Gate, CA, USA","OK",-118.2120161,33.954737
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"mt. vernon, , oh, us","Mt Vernon, OH 43050, USA","OK",-82.4857181,40.3933956
+"north east, , md, us","North East, MD 21901, USA","OK",-75.9413327,39.6001132
+"princeville, , hi, us","Princeville, HI, USA","OK",-159.4852778,22.2236111
+"crestline, , oh, us","Crestline, OH, USA","OK",-82.7365677,40.7875572
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"saint peters, , mo, us","St Peters, MO, USA","OK",-90.6298922,38.7874699
+"bolingbrook, , il, us","Bolingbrook, IL, USA","OK",-88.0683955,41.6986416
+"round rock, , tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"hixson, , tn, us","Hixson, Chattanooga, TN, USA","OK",-85.2368219,35.137265
+"moundsville, , wv, us","Moundsville, WV 26041, USA","OK",-80.7431407,39.9203526
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"streetsville , mississauga, on, ca","Streetsville, Mississauga, ON, Canada","OK",-79.7203565,43.5876785
+"north platte, , ne, us","North Platte, NE 69101, USA","OK",-100.7601454,41.1402759
+"bowling green, , oh, us","Bowling Green, OH, USA","OK",-83.6513229,41.3747744
+"bendigo , australia, , au","Bendigo VIC 3550, Australia","OK",144.2793906,-36.7570157
+"mundelein, , il, us","Mundelein, IL, USA","OK",-88.0039653,42.263079
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"shoreview, , mn, us","Shoreview, MN 55126, USA","OK",-93.1471667,45.0791325
+"fairfax to woodacre, , ca, ",NA,"ZERO_RESULTS",NA,NA
+"fargo, , nd, us","Fargo, ND, USA","OK",-96.7898034,46.8771863
+"fayettville, , pa, ","Fayetteville, PA, USA","OK",-77.5499888,39.9112028
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"unknown, , mt, ","Mt Olive Rd, Union City, TN 38261, USA","OK",-89.2146437,36.5009059
+"ogallala, , ne, us","Ogallala, NE 69153, USA","OK",-101.7203993,41.1282178
+"gardner lake , extreme northeastern  us, me, ","Gardner Lake, Connecticut, USA","OK",-72.227496,41.5110867
+"new berlin, , wi, us","New Berlin, WI, USA","OK",-88.1084224,42.9764027
+"spearman, , tx, us","Spearman, TX 79081, USA","OK",-101.1923795,36.1983665
+"panama city beach, , fl, us","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"hains falls , catskill mts., ny, ","Catskill Mountains, Shandaken, NY 12464, USA","OK",-74.3821116,42.0092908
+"cape rosier, , me, us","Cape Rosier, Brooksville, ME 04642, USA","OK",-68.7989184,44.3314667
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"otis air force base, , ma, ","158 Reilly St, Buzzards Bay, MA 02542, USA","OK",-70.5201518,41.6506308
+"otis air force base, , ma, ","158 Reilly St, Buzzards Bay, MA 02542, USA","OK",-70.5201518,41.6506308
+"lakewood, , co, us","Lakewood, CO, USA","OK",-105.0813734,39.7047095
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"cachuma lake, , ca, ","Lake Cachuma, California, USA","OK",-119.9480348,34.5789534
+"jacksonville beach, , fl, us","Jacksonville Beach, FL, USA","OK",-81.3961338,30.2841224
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"liberal, , ks, us","Liberal, KS 67901, USA","OK",-100.920999,37.0430812
+"rehobeth beach , near, de, ","Rehoboth Beach, DE, USA","OK",-75.0760137,38.7209454
+"oakcliff , in dallas, tx, ","Oak Cliff, Dallas, TX, USA","OK",-96.8743083,32.7203477
+"north carolina , highway 70, nc, ","70 S North Carolina Hwy 58, Nashville, NC 27856, USA","OK",-77.9466769,35.9176865
+"fair haven, , ny, us","Fair Haven, NY 13156, USA","OK",-76.7021747,43.3164558
+"marley park, , md, ","Marley Park Beach, Glen Burnie, MD 21060, USA","OK",-76.5952431,39.1556643
+"golden, , co, us","Golden, CO, USA","OK",-105.2210997,39.755543
+"ridinger lake, , in, ","Ridinger Lake, Indiana 46562, USA","OK",-85.6678886,41.2610295
+"ausable forks, , ny, ","Au Sable Forks, NY 12912, USA","OK",-73.6745834,44.441714
+"taylorville, , il, us","Taylorville, IL, USA","OK",-89.294533,39.548935
+"marley park, , md, ","Marley Park Beach, Glen Burnie, MD 21060, USA","OK",-76.5952431,39.1556643
+"toppenish, , wa, us","Toppenish, WA 98948, USA","OK",-120.3086667,46.3773509
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"greenriver lake state park, , ky, ","Green River Lake State Park, 179 Park Office Rd, Campbellsville, KY 42718, USA","OK",-85.3387541,37.2774444
+"oak harbor, , wa, us","Oak Harbor, WA 98277, USA","OK",-122.6484205,48.2882947
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"reseda, , ca, us","Reseda, Los Angeles, CA, USA","OK",-118.5360517,34.2011141
+"danville, , il, us","Danville, IL, USA","OK",-87.6300207,40.124481
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"syracuse, , ny, us","Syracuse, NY, USA","OK",-76.1474244,43.0481221
+"rapid city, , mi, us","Rapid City, MI 49676, USA","OK",-85.2827852,44.8343369
+"st. paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"hermosa beach, , ca, us","Hermosa Beach, CA 90254, USA","OK",-118.3995194,33.8622366
+"sharpsville, , pa, us","Sharpsville, PA, USA","OK",-80.4720141,41.2592225
+"golden pond , near, ky, us","Golden Pond, KY 42211, USA","OK",-88.0241924,36.7856079
+"hardy, , ar, us","Hardy, AR 72542, USA","OK",-91.4826388,36.3158994
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"frankford, , mo, us","Frankford, MO 63441, USA","OK",-91.3201473,39.4900448
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"sonoma, , ca, us","Sonoma, CA 95476, USA","OK",-122.4580356,38.291859
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"travelers rest, , sc, us","Travelers Rest, SC, USA","OK",-82.4434548,34.9676167
+"gillam , canada, mb, ca","Gillam, MB, Canada","OK",-94.7091205,56.3480277
+"graham, , nc, us","Graham, NC, USA","OK",-79.4005756,36.0690258
+"florida keys, , , ","Florida Keys, Florida, USA","OK",-81.5357506,25.0273356
+"gonzales, , la, us","Gonzales, LA 70737, USA","OK",-90.9200987,30.2385294
+"doncaster , uk, , gb","Doncaster, UK","OK",-1.128462,53.52282
+"valrico, , fl, us","Valrico, FL, USA","OK",-82.2420317,27.9462615
+"pacific grove, , ca, us","Pacific Grove, CA, USA","OK",-121.9166215,36.6177374
+"youngstown, , ny, us","Youngstown, NY 14174, USA","OK",-79.0500466,43.2472768
+"springdale, , ar, us","Springdale, AR, USA","OK",-94.1288141,36.1867442
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"saint peters, , mo, us","St Peters, MO, USA","OK",-90.6298922,38.7874699
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"fedetal way, , wa, ","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"rio, , wv, us","Rio, WV 26801, USA","OK",-78.6700147,39.1384388
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"lake orion, , mi, us","Lake Orion, Orion Charter Township, MI 48362, USA","OK",-83.2396612,42.7844752
+"sauk city, , wi, us","Sauk City, WI 53583, USA","OK",-89.722067,43.2708225
+"hampton, , va, us","Hampton, VA, USA","OK",-76.3452218,37.0298687
+"lansing, , mi, us","Lansing, MI, USA","OK",-84.5555347,42.732535
+"east stroudsburg, , pa, us","East Stroudsburg, PA 18301, USA","OK",-75.1817547,41.0030522
+"liverpool, , ny, us","Liverpool, NY, USA","OK",-76.2177046,43.106456
+"woodville, , tx, us","Woodville, TX 75979, USA","OK",-94.4154758,30.7752011
+"augusta, , ga, us","Augusta, GA, USA","OK",-82.0105148,33.4734978
+"south lake buena vista, , fl, ","Lake Buena Vista, FL 32830, USA","OK",-81.5261474,28.3695351
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"florence, , sc, us","Florence, SC, USA","OK",-79.7625625,34.1954331
+"kearney, lexington, ne, ","211 E 6th St, Lexington, NE 68850, USA","OK",-99.7390041,40.7788466
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"brawley, , ca, us","Brawley, CA 92227, USA","OK",-115.530267,32.9786566
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"solebury, , pa, us","Solebury, PA 18938, USA","OK",-75.008292,40.3806
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"milpitas, , ca, us","Milpitas, CA 95035, USA","OK",-121.8995741,37.4323341
+"taunton, , ma, us","Taunton, MA, USA","OK",-71.0897674,41.900101
+"liberty county , rural area in, mt, ","Liberty County, MT, USA","OK",-110.9704148,48.4917189
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"cuiaba , brazil, , ","Cuiabá - Coxipó da Ponte, Cuiabá - State of Mato Grosso, Brazil","OK",-56.0968227,-15.60086
+"macclesfield , cheshire, , gb","Macclesfield, UK","OK",-2.119287,53.258663
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"danbury, , ct, us","Danbury, CT, USA","OK",-73.4540111,41.394817
+"grove city, , oh, us","Grove City, OH, USA","OK",-83.0929644,39.8814519
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"hillsboro, , oh, us","Hillsboro, OH 45133, USA","OK",-83.611587,39.2022866
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"washington court house, , oh, us","Washington Court House, OH 43160, USA","OK",-83.437579,39.5373688
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"stout, , oh, us","Rome, OH 45684, USA","OK",-83.3802744,38.6661196
+"new hope, , mn, us","New Hope, MN, USA","OK",-93.3866185,45.0380201
+"zirndorf , west germany, , de","Zirndorf, Germany","OK",10.9550183,49.444555
+"azusa, , ca, us","Azusa, CA, USA","OK",-117.9075627,34.1336186
+"eastern border , west of&#44 on i-70, ut, ",NA,"REQUEST_DENIED",NA,NA
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"canandaigua, , ny, us","Canandaigua, NY 14424, USA","OK",-77.2816984,42.887535
+"mukilteo, , wa, us","Mukilteo, WA, USA","OK",-122.3045815,47.9445396
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"cleveland artcc, , oh, ","326 E Lorain St, Oberlin, OH 44074, USA","OK",-82.2064186,41.2972483
+"saginaw, , mi, us","Saginaw, MI, USA","OK",-83.9508068,43.4194699
+"saginaw, , mi, us","Saginaw, MI, USA","OK",-83.9508068,43.4194699
+"stanmore , canada, ab, ca","Stanmore, AB T0J 3P0, Canada","OK",-111.511937,51.5807659
+"north beach, , md, us","North Beach, MD, USA","OK",-76.5310669,38.7073406
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"hesperia, , ca, us","Hesperia, CA, USA","OK",-117.3008784,34.4263886
+"morganton, , nc, us","Morganton, NC 28655, USA","OK",-81.6848188,35.7454071
+"bellville, , oh, us","Bellville, OH, USA","OK",-82.5107222,40.6200588
+"bangor, , me, us","Bangor, ME 04401, USA","OK",-68.7712257,44.8016128
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"dagsboro, , de, us","Dagsboro, DE 19939, USA","OK",-75.2457443,38.5492801
+"bishop , towards&#44 on route 395 north, ca, us",NA,"REQUEST_DENIED",NA,NA
+"chloride, , az, us","Chloride, AZ 86431, USA","OK",-114.1985922,35.4139585
+"oudenaarde and maarkedal , between, , ","Maarkedal, Belgium","OK",3.61833,50.80794
+"coarsegold, , ca, us","Coarsegold, CA 93614, USA","OK",-119.7009834,37.2621686
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"chino valley, , az, us","Chino Valley, AZ, USA","OK",-112.4537809,34.7575227
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"bloomington, , in, us","Bloomington, IN, USA","OK",-86.5263857,39.165325
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"duvall, , wa, us","Duvall, WA 98019, USA","OK",-121.9856781,47.7423218
+"wilbur, , wa, us","Wilbur, WA 99185, USA","OK",-118.7055589,47.7587628
+"irricanna , canada, ab, ","Irricana, AB T0M 1B0, Canada","OK",-113.6039095,51.3216442
+"becket, , ma, us","Becket, MA, USA","OK",-73.0829366,42.3319904
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"ras al khaimah , uae, , ","Ras al Khaimah - United Arab Emirates","OK",55.9804173,25.6741343
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"antioch, , ca, us","Antioch, CA, USA","OK",-121.805789,38.0049214
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"somerset , uk, , gb","Somerset, UK","OK",-2.9262307,51.105097
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

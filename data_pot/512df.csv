@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"exeter , uk, , gb","Exeter, UK","OK",-3.533899,50.718412
+"morrilton, , ar, us","Morrilton, AR 72110, USA","OK",-92.7440538,35.1509173
+"canyon, , tx, us","Canyon, TX 79015, USA","OK",-101.9188024,34.9803342
+"magna, , ut, us","Magna, UT, USA","OK",-112.1016088,40.7091121
+"greeley, , co, us","Greeley, CO, USA","OK",-104.7091322,40.4233142
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"helena, , al, us","Helena, AL, USA","OK",-86.8436004,33.296224
+"quincy, , ca, us","Quincy, CA 95971, USA","OK",-120.9471764,39.9368363
+"byhalia, , ms, us","Byhalia, MS 38611, USA","OK",-89.6906396,34.8723179
+"fernandina beach, , fl, us","Fernandina Beach, FL 32034, USA","OK",-81.4625919,30.6696818
+"cosby, , tn, us","Cosby, TN 37722, USA","OK",-83.2477597,35.8154772
+"kirkwood, , ca, us","Kirkwood, CA, USA","OK",-120.0722442,38.7023082
+"la junta, , co, us","La Junta, CO 81050, USA","OK",-103.5438321,37.9850091
+"quincy, , ca, us","Quincy, CA 95971, USA","OK",-120.9471764,39.9368363
+"woodridge, , il, us","Woodridge, IL, USA","OK",-88.0503406,41.7469749
+"blairsville, , ga, us","Blairsville, GA 30512, USA","OK",-83.9582412,34.8761989
+"luton , uk, , gb","Luton, UK","OK",-0.4200255,51.8786707
+"northridge, , ca, us","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"claremont, , ca, us","Claremont, CA, USA","OK",-117.7197785,34.0966764
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"port matilda, , pa, us","Port Matilda, PA 16870, USA","OK",-78.0541736,40.799504
+"woodland hills-canoga park, , ca, ","6360 Canoga Ave, Woodland Hills, CA 91367, USA","OK",-118.5969172,34.186197
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"panama city, , fl, us","Panama City, FL, USA","OK",-85.6602058,30.1588129
+"yellowknife , canada, nt, ca","Yellowknife, NT X0E, Canada","OK",-114.3717887,62.4539717
+"prishtina , kosovo, , ","Prishtina","OK",21.1655028,42.6629138
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"kuala lumpur , malaysia, , ","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","OK",101.686855,3.139003
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"prosser, , wa, us","Prosser, WA 99350, USA","OK",-119.7689223,46.2067997
+"fairport, , ny, us","Fairport, NY 14450, USA","OK",-77.4419378,43.0986742
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"lancaster, , oh, us","Lancaster, OH 43130, USA","OK",-82.5993294,39.7136754
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"mclean, , va, us","McLean, VA, USA","OK",-77.1772604,38.9338676
+"newton falls, , oh, us","Newton Falls, OH 44444, USA","OK",-80.9781468,41.18839
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"leicester, , nc, us","Leicester, NC 28748, USA","OK",-82.6962438,35.6551074
+"calhoun, , ga, us","Calhoun, GA, USA","OK",-84.9510542,34.502587
+"hartland, , vt, us","Hartland, VT, USA","OK",-72.3989314,43.540636
+"italy, , tx, us","Italy, TX 76651, USA","OK",-96.8847194,32.1840381
+"edison, , nj, us","Edison, NJ, USA","OK",-74.4120953,40.5187154
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"bathurst , canada, nb, ca","Bathurst, NB, Canada","OK",-65.6513358,47.6183507
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"avinger , lake o&#39 the pines, tx, us",NA,"REQUEST_DENIED",NA,NA
+"lion&#39s head , canada, on, ",NA,"REQUEST_DENIED",NA,NA
+"brownsville, , pa, us","Brownsville, PA, USA","OK",-79.8839357,40.0236854
+"hanmer , canada, on, ca","Hanmer, Greater Sudbury, ON, Canada","OK",-80.9463083,46.652064
+"clarksville, , tn, us","Clarksville, TN, USA","OK",-87.3594528,36.5297706
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"beaver dam, , wi, us","Beaver Dam, WI 53916, USA","OK",-88.837329,43.4577692
+"rex, , ga, us","Rex, GA, USA","OK",-84.2687012,33.5912973
+"stockton, , ks, us","Stockton, KS 67669, USA","OK",-99.2650967,39.4380656
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"martinez, , ga, us","Martinez, GA, USA","OK",-82.0756734,33.5173577
+"salisbury, , nc, us","Salisbury, NC, USA","OK",-80.4742261,35.6709727
+"rutland, , vt, us","Rutland, VT 05701, USA","OK",-72.9726065,43.6106237
+"lakeside, , az, ","Pinetop-Lakeside, AZ, USA","OK",-109.9603843,34.1425438
+"washougal, , wa, us","Washougal, WA, USA","OK",-122.3538327,45.5811463
+"mcveytown, , pa, us","Mcveytown, PA 17051, USA","OK",-77.7413818,40.4992419
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"big bear, , ca, ","Big Bear Lake, CA, USA","OK",-116.9114215,34.2438963
+"louisburg, , ks, us","Louisburg, KS 66053, USA","OK",-94.6807903,38.6194564
+"chino hills, , ca, us","Chino Hills, CA, USA","OK",-117.7325848,33.9898188
+"grand bay, , al, us","Grand Bay, AL 36541, USA","OK",-88.3422303,30.4763084
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"saint cloud, , fl, us","St Cloud, FL, USA","OK",-81.2811801,28.2489016
+"carol stream, , il, us","Carol Stream, IL, USA","OK",-88.1347927,41.9125286
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"north pownal, , vt, us","North Pownal, Pownal, VT, USA","OK",-73.2691646,42.8053482
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"old station, , ca, us","Old Station, CA 96071, USA","OK",-121.4307646,40.6753521
+"heuvelton, , ny, us","Heuvelton, NY 13654, USA","OK",-75.4071638,44.6181174
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"fenton, , mi, us","Fenton, MI, USA","OK",-83.7049498,42.7978061
+"abingdon, , va, us","Abingdon, VA, USA","OK",-81.9773482,36.7098335
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"franklin, , nj, us","Franklin, NJ 07416, USA","OK",-74.5804378,41.1220409
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

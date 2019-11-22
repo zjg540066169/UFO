@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"steelville, , mo, us","Steelville, MO 65565, USA","OK",-91.354868,37.9680999
+"ardsley, , ny, us","Ardsley, NY 10502, USA","OK",-73.8437452,41.0106531
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"charleston, , sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"catawissa, , mo, us","Catawissa, MO 63015, USA","OK",-90.7826323,38.4247751
+"east brunswick, , nj, us","East Brunswick, NJ, USA","OK",-74.4049778,40.4316955
+"nissequogue, , ny, us","Nissequogue, NY 11780, USA","OK",-73.1978899,40.9039869
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"amherst, , va, us","Amherst, VA 24521, USA","OK",-79.0514134,37.5851412
+"waukee, , ia, us","Waukee, IA, USA","OK",-93.8855768,41.6119903
+"shelbyville, , tn, us","Shelbyville, TN, USA","OK",-86.4602717,35.483406
+"oregon city, , or, us","Oregon City, OR 97045, USA","OK",-122.6050422,45.3364465
+"perkasie, , pa, us","Perkasie, PA 18944, USA","OK",-75.292676,40.372048
+"tonawanda, , ny, us","Tonawanda, NY, USA","OK",-78.8722341,42.989131
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"rochester, , mn, us","Rochester, MN, USA","OK",-92.4801989,44.0121221
+"geelong , australia, , au","Geelong VIC 3220, Australia","OK",144.3617186,-38.1499181
+"carbon hill, , il, us","Carbon Hill, IL 60416, USA","OK",-88.3000634,41.2969763
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"prescott valley, , az, us","Prescott Valley, AZ, USA","OK",-112.315721,34.6100243
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"joliet, , il, us","Joliet, IL, USA","OK",-88.0817251,41.525031
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"york , uk, , gb","York, UK","OK",-1.0872979,53.9599651
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"bethel park, , pa, us","Bethel Park, PA, USA","OK",-80.0394977,40.3275697
+"el centro, , ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"ridgefield, , ct, us","Ridgefield, CT 06877, USA","OK",-73.4975412,41.2840635
+"kapoho, , hi, us","Kapoho, HI 96778, USA","OK",-154.8486111,19.506111
+"munising, , mi, us","Munising, MI 49862, USA","OK",-86.6479361,46.4110574
+"marmora, , nj, us","Marmora, NJ 08223, USA","OK",-74.6516997,39.2673954
+"roseville, , mi, us","Roseville, MI 48066, USA","OK",-82.9371409,42.4972583
+"kailua kona, , hi, ","Kailua-Kona, HI, USA","OK",-155.9969261,19.639994
+"ft. branch, , in, us","Fort Branch, IN 47648, USA","OK",-87.5811332,38.2511558
+"seattle , west seattle, wa, us","West Seattle, Seattle, WA, USA","OK",-122.3867537,47.5666668
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"sidney, , oh, us","Sidney, OH 45365, USA","OK",-84.1554987,40.2842164
+"captiva, , fl, us","Captiva, FL 33924, USA","OK",-82.1892614,26.5220227
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"shawnee, , ok, us","Shawnee, OK, USA","OK",-96.9253004,35.3272928
+"auburn, , ny, us","Auburn, NY 13021, USA","OK",-76.5660529,42.9317335
+"vernon , canada, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"rochester hills, , mi, us","Rochester Hills, MI, USA","OK",-83.1499322,42.6583661
+"donnelly, , id, us","Donnelly, ID, USA","OK",-116.0772125,44.7308461
+"new idria, , ca, ","Idria, CA 95043, USA","OK",-120.6743379,36.4169007
+"algonac, , mi, us","Algonac, MI 48001, USA","OK",-82.531018,42.6183675
+"elizabethtown, , ky, us","Elizabethtown, KY, USA","OK",-85.8649408,37.7030646
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"lyons, , co, us","Lyons, CO, USA","OK",-105.271378,40.2247075
+"livermore falls, , me, us","Livermore Falls, ME 04254, USA","OK",-70.1880811,44.4752929
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"west salem, , oh, us","West Salem, OH 44287, USA","OK",-82.1098748,40.9714448
+"oshkosh, , wi, us","Oshkosh, WI, USA","OK",-88.5426136,44.0247062
+"salford , uk, , gb","Salford, UK","OK",-2.2901264,53.4875235
+"temple city, , ca, us","Temple City, CA, USA","OK",-118.0578456,34.1072305
+"temple city, , ca, us","Temple City, CA, USA","OK",-118.0578456,34.1072305
+"bloomington , east bloomington, mn, us","Bloomington, MN, USA","OK",-93.2982799,44.840798
+"manitowoc rapids, , wi, us","Manitowoc Rapids, Manitowoc, WI 54220, USA","OK",-87.7009187,44.0991612
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"shropham norfolk , uk, , ","Shropham, Attleborough NR17 1EJ, UK","OK",0.918423,52.497193
+"hannover , germany, , de","Hanover, Germany","OK",9.7320104,52.3758916
+"claremore, , ok, us","Claremore, OK, USA","OK",-95.61609,36.3125963
+"streetsboro, , oh, us","Streetsboro, OH, USA","OK",-81.3459405,41.2392227
+"newmarket , canada, on, ca","Newmarket, ON, Canada","OK",-79.461256,44.059187
+"cornwall , canada, on, ca","Cornwall, ON, Canada","OK",-74.730345,45.0212762
+"geyserville, , ca, us","Geyserville, CA, USA","OK",-122.9027647,38.7074755
+"grantville, , pa, us","Grantville, PA, USA","OK",-76.64444,40.3771826
+"goodyear, , az, us","Goodyear, AZ, USA","OK",-112.3576567,33.4353394
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"oil city, , pa, us","Oil City, PA 16301, USA","OK",-79.7064413,41.4339484
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"marietta, , oh, us","Marietta, OH 45750, USA","OK",-81.4548436,39.415352
+"pembroke , canada, on, ca","Pembroke, ON, Canada","OK",-77.1108826,45.8266513
+"choctaw, , ok, us","Choctaw, OK 73020, USA","OK",-97.2689212,35.4975625
+"greene, , me, us","Greene, ME, USA","OK",-70.1403313,44.189794
+"east killingly, , ct, us","East Killingly, Killingly, CT, USA","OK",-71.8175281,41.8488904
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"camarillo, , ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"bridgewater&#44 somerset , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"toledo, , or, us","Toledo, OR, USA","OK",-123.9384478,44.621507
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"barstow, , ca, us","Barstow, CA, USA","OK",-117.0172826,34.8957957
+"curacao , dutch antilles, , ","Curaçao","OK",-68.99002,12.16957
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"tel-aviv , israel, , ","Tel Aviv-Yafo, Israel","OK",34.7817676,32.0852999
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"minnetrista, , mn, us","Minnetrista, MN, USA","OK",-93.7177406,44.938296
+"evergreen, , co, us","Evergreen, CO 80439, USA","OK",-105.3172146,39.6333213
+"springdale, , ar, us","Springdale, AR, USA","OK",-94.1288141,36.1867442
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"alpine, , ca, us","Alpine, CA, USA","OK",-116.7664109,32.8350521
+"globe, , az, us","Globe, AZ, USA","OK",-110.7864984,33.3942223
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"vassalboro, , me, us","Vassalboro, ME, USA","OK",-69.6777605,44.4588807
+"cottonwood, , az, us","Cottonwood, AZ, USA","OK",-112.0098791,34.7391876
+"gander area , canada, nf, ","Gander, NL, Canada","OK",-54.6103488,48.954408
+"jackson, , mi, us","Jackson, MI, USA","OK",-84.4013462,42.245869
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"new providence, , nj, us","New Providence, NJ, USA","OK",-74.4015405,40.6984348
+"irving, , tx, us","Irving, TX, USA","OK",-96.9488945,32.8140177
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"walled lake, , mi, us","Walled Lake, MI 48390, USA","OK",-83.4810481,42.537811
+"harvey&#39s lake, , pa, ",NA,"REQUEST_DENIED",NA,NA
+"wilcox, , az, ","Willcox, AZ 85643, USA","OK",-109.8320124,32.2528519
+"springfield, , oh, us","Springfield, OH, USA","OK",-83.8088171,39.9242266
+"blossburg , 5 miles east of, pa, us","Blossburg, PA 16912, USA","OK",-77.0638567,41.6795186
+"ellicott city, , md, us","Ellicott City, MD, USA","OK",-76.7983067,39.2673283
+"craig , 5 miles east of, mt, us","Craig, MT 59648, USA","OK",-111.9633303,47.0743888
+"fitchburg, , ma, us","Fitchburg, MA 01420, USA","OK",-71.8022955,42.5834228
+"central point, , or, us","Central Point, OR, USA","OK",-122.9164307,42.3759586
+"goat island, isle of palm , sc, ","Goat Island, South Carolina 29451, USA","OK",-79.7659144,32.8062867
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"gulf of mexico, , fl, ","Gulf of Mexico, Florida, USA","OK",-80.5592017,25.211967
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"cedar park, , tx, us","Cedar Park, TX, USA","OK",-97.8202888,30.505198
+"jasper  , 5 miles s.e. from springfield&#44 or, or, us",NA,"REQUEST_DENIED",NA,NA
+"newmarket, , nh, us","Newmarket, NH 03857, USA","OK",-70.9350382,43.0828551
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"sherwood park , canada, ab, ca","Sherwood Park, AB, Canada","OK",-113.2957355,53.5411916
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"monticello, , fl, us","Monticello, FL 32344, USA","OK",-83.8701636,30.5452022
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"bryn mawr, , pa, us","Bryn Mawr, PA, USA","OK",-75.3151772,40.0230237
+"mission viejo, , ca, us","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"spearfish, , sd, us","Spearfish, SD, USA","OK",-103.8593697,44.4908172
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"polomolok&#44 south cotabato , philippines, , ",NA,"REQUEST_DENIED",NA,NA
+"winston-salem, , nc, us","Winston-Salem, NC, USA","OK",-80.244216,36.0998596
+"wisconsin dells, , wi, us","Wisconsin Dells, WI, USA","OK",-89.7709579,43.6274794
+"wooster, , oh, us","Wooster, OH 44691, USA","OK",-81.935143,40.8050565
+"berryville, , va, us","Berryville, VA 22611, USA","OK",-77.9822193,39.1517713
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"mountain view, , ca, us","Mountain View, CA, USA","OK",-122.0838511,37.3860517
+"lodi, , ca, us","Lodi, CA, USA","OK",-121.2722194,38.1341477
+"los angeles, angeles natl. forest, ca, ","Angeles National Forest, Palmdale, CA 93550, USA","OK",-118.0057775,34.3166567
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"belton, , sc, us","Belton, SC 29627, USA","OK",-82.4942948,34.5228881
+"milford, , ma, us","Milford, MA, USA","OK",-71.5163049,42.1398577
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"kenly, , nc, us","Kenly, NC 27542, USA","OK",-78.124809,35.5960854
+"layton, , ut, us","Layton, UT, USA","OK",-111.9710529,41.0602216
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"shady point, , ok, us","Shady Point, OK 74956, USA","OK",-94.6585578,35.1300975
+"yuba city, , ca, us","Yuba City, CA, USA","OK",-121.6169108,39.1404477
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"saskatoon , canada, sk, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"wilmington, , ma, us","Wilmington, MA, USA","OK",-71.1724467,42.5481714
+"waterloo, , ia, us","Waterloo, IA, USA","OK",-92.3425775,42.492786
+"nation wide, , fl, ","302 W New York Ave, DeLand, FL 32720, USA","OK",-81.3077952,29.0277789
+"mullan, , id, us","Mullan, ID 83846, USA","OK",-115.8018253,47.4702078
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"hesperia, , ca, us","Hesperia, CA, USA","OK",-117.3008784,34.4263886
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"australia, , , ","Australia","OK",133.775136,-25.274398
+"morden&#44 surrey , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"australia, , , ","Australia","OK",133.775136,-25.274398
+"stockbridge, , ga, us","Stockbridge, GA, USA","OK",-84.2338093,33.5442781
+"angola, , in, us","Angola, IN 46703, USA","OK",-84.9994088,41.6347726
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"brookings, , or, us","Brookings, OR 97415, USA","OK",-124.2839819,42.0526114
+"gila bend, , az, us","Gila Bend, AZ, USA","OK",-112.7168305,32.9478236
+"gila bend, , az, us","Gila Bend, AZ, USA","OK",-112.7168305,32.9478236
+"crescent city, , ca, us","Crescent City, CA, USA","OK",-124.2025913,41.7557501
+"panama city beach, , fl, us","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"unkown, , tn, ","1222 Trotwood Ave, Columbia, TN 38401, USA","OK",-87.0658215,35.6075764
+"sault ste. marie, , mi, ","Sault Ste. Marie, MI 49783, USA","OK",-84.3475876,46.4977115
+"sault ste. marie, , mi, ","Sault Ste. Marie, MI 49783, USA","OK",-84.3475876,46.4977115
+"armadale , western australia, , au","Armadale WA 6112, Australia","OK",116.0128764,-32.1473012
+"china spring, , tx, ","China Spring, TX 76633, USA","OK",-97.3079638,31.6522133
+"casper, , wy, us","Casper, WY, USA","OK",-106.3251749,42.8500769
+"bullhead, , az, ","Bullhead City, AZ, USA","OK",-114.5285981,35.1359386
+"paphos , cyprus, , ","Paphos, Cyprus","OK",32.4297369,34.7720133
+"forest lake, , mn, us","Forest Lake, MN, USA","OK",-92.9852183,45.2788561
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"lake isabella, , ca, us","Lake Isabella, CA, USA","OK",-118.473141,35.6180087
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"hammond, , la, us","Hammond, LA, USA","OK",-90.4611995,30.5043583
+"robbinsville , near, nc, us","Robbinsville, NC 28771, USA","OK",-83.807399,35.322866
+"garden city beach, , sc, us","Garden City, SC, USA","OK",-79.0086464,33.5929472
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

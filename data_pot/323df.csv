@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"spring hill, , tn, us","Spring Hill, TN, USA","OK",-86.9300023,35.751179
+"grosse ile, , mi, us","Grosse Ile Township, MI, USA","OK",-83.1445904,42.1290753
+"chicago , hwy. 531, il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"weaverville, , nc, us","Weaverville, NC 28787, USA","OK",-82.5606851,35.6970547
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"augusta, , ga, us","Augusta, GA, USA","OK",-82.0105148,33.4734978
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"reisterstown, , md, us","Reisterstown, MD, USA","OK",-76.8294213,39.4695489
+"pasadena , i-5&#44 desert&#44 north of; south of gorman, ca, us",NA,"REQUEST_DENIED",NA,NA
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"cambridge , canada, on, ca","Cambridge, ON, Canada","OK",-80.3144276,43.3616211
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"east dover, , vt, us","East Dover, Dover, VT 05341, USA","OK",-72.7776873,42.947254
+"canterbury, , nh, us","Canterbury, NH, USA","OK",-71.5652802,43.3372738
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"tolleson, avondale area, az, ","101 N 91st Ave, Tolleson, AZ 85353, USA","OK",-112.2546082,33.4482997
+"saukville, , wi, us","Saukville, WI, USA","OK",-87.9406453,43.3816691
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"wisconsin dells, , wi, us","Wisconsin Dells, WI, USA","OK",-89.7709579,43.6274794
+"roger&#39s mesa , northwest of hotchkiss, co, ",NA,"REQUEST_DENIED",NA,NA
+"wilkes-barre, , pa, us","Wilkes-Barre, PA, USA","OK",-75.8813075,41.2459149
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"wisbech , uk, , gb","Wisbech, UK","OK",0.158797,52.666317
+"dallas, grand prairie, tx, ","Grand Prairie, TX, USA","OK",-96.9977846,32.7459645
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"pacifica, , ca, us","Pacifica, CA, USA","OK",-122.4869194,37.6138253
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"mckenzie , canada, bc, ","Mackenzie, BC, Canada","OK",-123.0948068,55.338446
+"canberra , australia, , au","Canberra ACT 2601, Australia","OK",149.1300092,-35.2809368
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"parma, , oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"walkerton, , va, us","Walkerton, VA 23177, USA","OK",-77.023091,37.7261053
+"laona, , wi, us","Laona, WI, USA","OK",-88.7245886,45.5558425
+"brampton , canada, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"great smokies national park, , nc, ","Great Smoky Mountains National Park, United States","OK",-83.4895449,35.6117644
+"san jos&eacute; , costa rica, , ","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"shepherdsville, , ky, us","Shepherdsville, KY 40165, USA","OK",-85.7157924,37.9883991
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"st-r&eacute;mi , canada, qc, ","735 E Main St, Hendersonville, TN 37075, USA","OK",-86.5591469,36.3268836
+"anglemont , canada, bc, ","Anglemont, BC V0E 1M8, Canada","OK",-119.163761,50.964704
+"methuen, , ma, us","Methuen, MA 01844, USA","OK",-71.1908924,42.7262016
+"coquitlam , canada, bc, ca","Coquitlam, BC, Canada","OK",-122.7932065,49.2837626
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"cheyenne, , wy, us","Cheyenne, WY, USA","OK",-104.8202462,41.1399814
+"sheffield lake, , oh, us","Sheffield Lake, OH 44054, USA","OK",-82.1015369,41.48754
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"gardner, , ma, us","Gardner, MA, USA","OK",-71.998133,42.5750883
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"waregem , belgium, , ","Waregem, Belgium","OK",3.4231675,50.8868949
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"columbia, , ct, us","Columbia, CT 06237, USA","OK",-72.3011917,41.7020432
+"burna, , ky, us","Burna, KY 42028, USA","OK",-88.360591,37.2456099
+"waterford, , mi, us","Waterford Twp, MI, USA","OK",-83.4066132,42.6907443
+"east yorkshire , uk, , ","East Riding of Yorkshire, UK","OK",-0.4344106,53.8416168
+"annandale, , mn, us","Annandale, MN 55302, USA","OK",-94.1241667,45.2611111
+"longwood, , fl, us","Longwood, FL 32750, USA","OK",-81.3384011,28.7030519
+"ontario , canada, ca, us","490 Sussex Dr, Ottawa, ON K1N 1G8, Canada","OK",-75.6958018,45.4278551
+"tamarac, , fl, us","Tamarac, FL, USA","OK",-80.2497707,26.2128609
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"kelso, , wa, us","Kelso, WA, USA","OK",-122.9084445,46.146779
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"matteson, , il, us","Matteson, IL, USA","OK",-87.7131018,41.5039235
+"dublin, , ca, us","Dublin, CA 94568, USA","OK",-121.9101221,37.7159396
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"prineville, , or, us","Prineville, OR 97754, USA","OK",-120.8344664,44.2998485
+"berlin, , wi, us","Berlin, WI 54923, USA","OK",-88.9434476,43.9680364
+"tofte, , mn, ","Tofte, MN 55615, USA","OK",-90.8362589,47.57379
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"palominas, , az, us","Palominas, AZ 85615, USA","OK",-110.1184106,31.3798232
+"south wales , uk, , ","South Wales, Mountain Ash CF45 4DA, UK","OK",-3.3821421,51.6858341
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"burlington, , ct, us","Burlington, CT, USA","OK",-72.9648388,41.7691235
+"waukee, , ia, us","Waukee, IA, USA","OK",-93.8855768,41.6119903
+"rapid city, , sd, us","Rapid City, SD, USA","OK",-103.2310149,44.0805434
+"loogootee, , in, us","Loogootee, IN 47553, USA","OK",-86.9141695,38.6769945
+"valrico, , fl, us","Valrico, FL, USA","OK",-82.2420317,27.9462615
+"mishawaka, , in, us","Mishawaka, IN, USA","OK",-86.1586156,41.6619927
+"grand blanc, , mi, us","Grand Blanc, MI 48439, USA","OK",-83.6299518,42.9275277
+"mason, , wv, us","Mason, WV, USA","OK",-82.0290296,39.021745
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"west linn, , or, ","West Linn, OR, USA","OK",-122.6400839,45.3859859
+"statham, , ga, us","Statham, GA, USA","OK",-83.596555,33.9651127
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"annapolis, , md, us","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"rockmart, , ga, us","Rockmart, GA 30153, USA","OK",-85.0416133,34.0026005
+"smackover, , ar, us","Smackover, AR 71762, USA","OK",-92.7248822,33.3648455
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

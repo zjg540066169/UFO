@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"indio and san diego, , ca, ","3695 India St, San Diego, CA 92103, USA","OK",-117.180144,32.742348
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"york, , me, ","York, ME, USA","OK",-70.6482581,43.1617483
+"york, , me, ","York, ME, USA","OK",-70.6482581,43.1617483
+"topsfield, , ma, us","Topsfield, MA, USA","OK",-70.9495053,42.6375941
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"saskatoon , canada, sk, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"westminster, , co, us","Westminster, CO, USA","OK",-105.0372046,39.8366528
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"wheatly , canada, on, ","Wheatley, Chatham-Kent, ON N0P, Canada","OK",-82.4629497,42.095061
+"pahrump, , nv, us","Pahrump, NV, USA","OK",-115.9839147,36.2082943
+"ashgrove, , mo, ","Ash Grove, MO 65604, USA","OK",-93.5852004,37.3153257
+"columbia, , me, us","Columbia, ME, USA","OK",-67.8039998,44.669418
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"campbell, , oh, us","Campbell, OH, USA","OK",-80.5992396,41.0783918
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"bluebell, , pa, ","Blue Bell, PA, USA","OK",-75.266289,40.1523309
+"new york city , queens; fresh meadows, ny, us","Fresh Meadows, Queens, NY, USA","OK",-73.7801447,40.7335179
+"garfield, , wa, us","Garfield, WA 99130, USA","OK",-117.1410073,47.0079487
+"marshall, , wi, us","Marshall, WI 53559, USA","OK",-89.0667775,43.1683286
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"winsted, , ct, us","Winsted, CT 06098, USA","OK",-73.0601078,41.9212066
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"garland, , tx, us","Garland, TX, USA","OK",-96.6388833,32.912624
+"somerset, , nj, us","Somerset County, NJ, USA","OK",-74.6400432,40.5292099
+"dickinson, , nd, us","Dickinson, ND 58601, USA","OK",-102.7896242,46.8791756
+"grovertown, , in, us","Grovertown, IN 46531, USA","OK",-86.5047339,41.3750434
+"waukesha, , wi, us","Waukesha, WI, USA","OK",-88.2314813,43.0116784
+"bixby south, , ok, ","14621 S Memorial Dr, Bixby, OK 74008, USA","OK",-95.8856461,35.9512489
+"south lancaster , canada, on, ca","South Lancaster, ON, Canada","OK",-74.4908227,45.1291875
+"ukiah, , ca, us","Ukiah, CA 95482, USA","OK",-123.2077831,39.1501709
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"canandaigua, , ny, us","Canandaigua, NY 14424, USA","OK",-77.2816984,42.887535
+"yorkshire , south, , gb","South Yorkshire, UK","OK",-1.3259683,53.4696968
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"helsinki , finland, , ","Helsinki, Finland","OK",24.9383791,60.1698557
+"mass city, , mi, us","Mass City, MI 49948, USA","OK",-89.0862501,46.7638275
+"castle rock, , co, us","Castle Rock, CO, USA","OK",-104.8560902,39.3722121
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"hot springs, , ar, us","Hot Springs, AR, USA","OK",-93.0551795,34.5037004
+"page , lake powell, az, us","Page, AZ 86040, USA","OK",-111.4558333,36.9147222
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"grande prairie , canada, ab, ca","Grande Prairie, AB, Canada","OK",-118.7884464,55.1707126
+"west islip, , ny, us","West Islip, NY, USA","OK",-73.3062302,40.7062104
+"mt. vernon, , or, ","Mt Vernon, OR 97865, USA","OK",-119.1135709,44.4176525
+"frances, , wa, us","Frances, WA 98577, USA","OK",-123.5036111,46.5424999
+"gulf islands , canada, bc, ","Gulf Islands, British Columbia, Canada","OK",-123.4704321,48.8892879
+"alberta , canada, ab, ","Alberta, Canada","OK",-116.5765035,53.9332706
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"burbank , east of, ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"richmond , near ottawa, on, ca","Richmond, Ottawa, ON, Canada","OK",-75.8388276,45.1943631
+"granada hills, , ca, us","Granada Hills, Los Angeles, CA, USA","OK",-118.5021527,34.2793576
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"chicago , xxxx w 55 st.&#44 by midway airport, il, us",NA,"REQUEST_DENIED",NA,NA
+"north tyneside , uk, , ","North Tyneside District, UK","OK",-1.4858436,55.0182399
+"lenexa, , ks, us","Lenexa, KS, USA","OK",-94.7335709,38.9536174
+"tolbert , netherlands, , ","9356 Tolbert, Netherlands","OK",6.3590951,53.1714774
+"bracknell , uk, , gb","Bracknell, UK","OK",-0.75398,51.41604
+"sunbury, , oh, us","Sunbury, OH 43074, USA","OK",-82.8590673,40.2425623
+"nashville, , il, us","Nashville, IL 62263, USA","OK",-89.3806398,38.3436612
+"chester, , va, us","Chester, VA, USA","OK",-77.4416505,37.3568157
+"vassalboro, , me, us","Vassalboro, ME, USA","OK",-69.6777605,44.4588807
+"burlington, , nj, us","Burlington, NJ 08016, USA","OK",-74.8648873,40.071222
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"greendale, , wi, us","Greendale, WI, USA","OK",-87.9959191,42.9405711
+"burlington, , nj, us","Burlington, NJ 08016, USA","OK",-74.8648873,40.071222
+"knife river, , mn, us","Knife River, MN, USA","OK",-91.7854524,46.949357
+"kelso, , wa, us","Kelso, WA, USA","OK",-122.9084445,46.146779
+"mattawa, , wa, us","Mattawa, WA 99349, USA","OK",-119.9028234,46.73791
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"suwanee , just n of atlanta, ga, us","371 Boulevard SE, Atlanta, GA 30312, USA","OK",-84.368572,33.744525
+"ashland, , or, us","Ashland, OR 97520, USA","OK",-122.7094767,42.1945758
+"colville, , wa, us","Colville, WA 99114, USA","OK",-117.9009545,48.5449971
+"gold beach, , or, us","Gold Beach, OR 97444, USA","OK",-124.4217741,42.4073334
+"abbotsford , canada, bc, ca","Abbotsford, BC, Canada","OK",-122.3044697,49.0504377
+"colonia st. jordi , spain, , ","Colònia de Sant Jordi, Illes Balears, Spain","OK",2.993808,39.3172741
+"plymouth , near, , gb","Plymouth, UK","OK",-4.1426565,50.3754565
+"upland, , ca, us","Upland, CA, USA","OK",-117.6483876,34.09751
+"elma, , wa, us","Elma, WA 98541, USA","OK",-123.4087692,47.0034291
+"stephens, , ar, us","Stephens, AR 71764, USA","OK",-93.0696101,33.4112328
+"peach orchard, , ar, us","Peach Orchard, AR, USA","OK",-90.6628896,36.2786754
+"ferrisburg, , vt, ","Ferrisburgh, VT, USA","OK",-73.2462341,44.2056098
+"delaware, , oh, us","Delaware, OH 43015, USA","OK",-83.067965,40.2986724
+"honenfels , germany, , ","92366 Hohenfels, Germany","OK",11.8490217,49.2032777
+"sanders, , az, us","Sanders, AZ 86512, USA","OK",-109.328794,35.2091429
+"apache junction, , az, us","Apache Junction, AZ, USA","OK",-111.5495777,33.4150485
+"mcclellanville, , sc, us","McClellanville, SC 29458, USA","OK",-79.467312,33.087972
+"springfield , camp creek road, or, us","Camp Creek Rd, Oregon 97478, USA","OK",-122.8861394,44.0705177
+"glenburn, , me, ","Glenburn, ME, USA","OK",-68.8457461,44.9168621
+"enderby , canada, bc, ca","Enderby, BC, Canada","OK",-119.1396705,50.5508499
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

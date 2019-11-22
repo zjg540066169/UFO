@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"everton, , mo, us","Everton, MO 65646, USA","OK",-93.702428,37.3425477
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"sparwood , outskirts, bc, ","Sparwood, BC, Canada","OK",-114.8796552,49.7344685
+"lamoille , above, nv, us","Lamoille, NV 89828, USA","OK",-115.4784204,40.7279868
+"goldsmith, , tx, us","Goldsmith, TX 79741, USA","OK",-102.6151505,31.9806732
+"fredonia, , al, us","Fredonia, AL 36855, USA","OK",-85.288094,32.989574
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"morrow, , ga, us","Morrow, GA 30260, USA","OK",-84.3393683,33.5831662
+"kittery, , me, us","Kittery, ME, USA","OK",-70.736137,43.0881256
+"steubenville, , oh, us","Steubenville, OH, USA","OK",-80.6339638,40.3697905
+"appleton, , wi, us","Appleton, WI, USA","OK",-88.4153847,44.2619309
+"piedmont , 3 miles east of, mo, us","Piedmont, MO 63957, USA","OK",-90.6956749,37.1544946
+"scituate, , ma, us","Scituate, MA, USA","OK",-70.7258633,42.195929
+"wilton, , ct, us","Wilton, CT 06897, USA","OK",-73.4378988,41.1953739
+"uk, scotland, , ","Scotland, UK","OK",-4.2026458,56.4906712
+"kent , uk, , gb","Kent, UK","OK",0.5217254,51.2787075
+"grafton, , ma, us","Grafton, MA, USA","OK",-71.6856236,42.2070391
+"chester, , ca, us","Chester, CA 96020, USA","OK",-121.2319098,40.3062736
+"clarkston, , ga, us","Clarkston, GA 30021, USA","OK",-84.2396434,33.8095487
+"pemberton, , nj, us","Pemberton, NJ 08068, USA","OK",-74.6829363,39.9720578
+"springfield, , oh, us","Springfield, OH, USA","OK",-83.8088171,39.9242266
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"cornwall , canada, on, ca","Cornwall, ON, Canada","OK",-74.730345,45.0212762
+"sunland, , ca, us","Sunland-Tujunga, Los Angeles, CA 91040, USA","OK",-118.3082747,34.2596475
+"lopez island, , wa, ","Lopez Island, Washington 98261, USA","OK",-122.8955118,48.4869178
+"savannah`, , ga, ","Savannah, GA, USA","OK",-81.091203,32.0808989
+"ravenna , near  west branch state park, oh, us","West Branch State Park, 5570 Esworthy Rd, Ravenna, OH 44266, USA","OK",-81.132421,41.1377398
+"pittsburgh , mckees rocks&#44 southwest of, pa, us",NA,"REQUEST_DENIED",NA,NA
+"georgetown, , tx, us","Georgetown, TX, USA","OK",-97.6779842,30.6332618
+"arlington, , vt, us","Arlington, VT 05250, USA","OK",-73.1539734,43.0747858
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"valleraugues , france, , ","30570 Valleraugue, France","OK",3.64152,44.081018
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"pleasenton, , ca, ","Pleasanton, CA, USA","OK",-121.8757968,37.6604484
+"tinsley, , ms, us","Tinsley, MS 39173, USA","OK",-90.4603712,32.7320802
+"fairfield, , ct, us","Fairfield, CT, USA","OK",-73.2612615,41.1408363
+"marthasville, , mo, us","Marthasville, MO 63357, USA","OK",-91.0576449,38.6283838
+"mechanicsburg, , pa, us","Mechanicsburg, PA, USA","OK",-77.0080309,40.2132692
+"washburn, , tn, us","Washburn, TN 37888, USA","OK",-83.5955574,36.2894746
+"phelan, , ca, us","Phelan, CA 92371, USA","OK",-117.5725628,34.426288
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"clifton park, , ny, us","Clifton Park, NY, USA","OK",-73.8183804,42.844668
+"garland, , tx, us","Garland, TX, USA","OK",-96.6388833,32.912624
+"dundee , 5 miles east of, fl, us","Dundee, FL, USA","OK",-81.6192432,28.0225206
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"clarksville , rural area, tn, us","1141 Fort Campbell Blvd, Clarksville, TN 37042, USA","OK",-87.3933127,36.5528836
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"fort frances , canada, on, ","Fort Frances, ON, Canada","OK",-93.3955282,48.6099494
+"north miami beach, , fl, us","North Miami Beach, FL, USA","OK",-80.1625463,25.9331488
+"little falls, , ny, us","Little Falls, NY 13365, USA","OK",-74.8595957,43.0434039
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"springfield, longmeadow, ma, ","Longmeadow, MA, USA","OK",-72.5828642,42.0501022
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"ormstown , canada, qc, ca","Ormstown, QC J0S, Canada","OK",-73.9764283,45.0934491
+"kendall , s. miami, fl, us","Kendall, FL, USA","OK",-80.357827,25.6660336
+"barrington, , il, us","Barrington, IL 60010, USA","OK",-88.1361888,42.1539141
+"bremham, , tx, ","Brenham, TX 77833, USA","OK",-96.3977442,30.1668828
+"coloma, , ca, us","Coloma, CA, USA","OK",-120.8902916,38.7999214
+"austin , lake travis, tx, us","Lake Austin, Texas, USA","OK",-97.8062055,30.3516197
+"carnes, , ms, us","Carnes, MS 39455, USA","OK",-89.2597811,30.9935178
+"stockton, , ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"estes park , near, co, us","Estes Park, CO 80517, USA","OK",-105.5216651,40.3772059
+"murphysboro, , il, us","Murphysboro, IL 62966, USA","OK",-89.3350888,37.7644952
+"burnsville, , mn, us","Burnsville, MN, USA","OK",-93.2777226,44.7677424
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"reedsville, , wv, us","Reedsville, WV, USA","OK",-79.7985086,39.5106032
+"bahamas, , , ","The Bahamas","OK",-77.39628,25.03428
+"sandpoint, , id, us","Sandpoint, ID 83864, USA","OK",-116.553465,48.276577
+"manotowish waters, , wi, ","Manitowish Waters, WI 54545, USA","OK",-89.8854042,46.1375457
+"cimarron, , nm, us","Cimarron, NM 87714, USA","OK",-104.9158341,36.5108691
+"black diamond, , wa, us","Black Diamond, WA 98010, USA","OK",-122.0031692,47.3087121
+"wilburton, , ok, us","Wilburton, OK 74578, USA","OK",-95.3091383,34.91871
+"page, , az, us","Page, AZ 86040, USA","OK",-111.4558333,36.9147222
+"lubbock , outside city limits, tx, us","Lubbock, TX, USA","OK",-101.8551665,33.5778631
+"marcellus, , mi, us","Marcellus, MI 49067, USA","OK",-85.8155576,42.0258779
+"jamestown, , oh, us","Jamestown, OH 45335, USA","OK",-83.7349236,39.6581163
+"bankson lake, lawton, mi, ","Bankson Lake, Porter Township, MI 49065, USA","OK",-85.798695,42.1188309
+"lawton , bankson lake, mi, us","Bankson Lake, Porter Township, MI 49065, USA","OK",-85.798695,42.1188309
+"indianapolis , 150 miles sw of, in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"live oak, , fl, us","Live Oak, FL, USA","OK",-82.98402,30.2949457
+"ft. stewart, , ga, ","Fort Stewart, GA, USA","OK",-81.6089873,31.8690667
+"rachel , highway 318, nv, us","Rachel, NV 89001, USA","OK",-115.74278,37.64472
+"north hampton, , nh, us","North Hampton, NH, USA","OK",-70.8351792,42.9737623
+"tecate, , ca, us","Tecate, CA 91980, USA","OK",-116.6209871,32.5811734
+"bastrop, , tx, us","Bastrop, TX 78602, USA","OK",-97.3152701,30.1104947
+"west new york, , nj, ","West New York, NJ 07093, USA","OK",-74.0143064,40.7878788
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"danbury, , ct, us","Danbury, CT, USA","OK",-73.4540111,41.394817
+"holbrook, , ny, us","Holbrook, NY, USA","OK",-73.0784429,40.8123205
+"clarksville, , in, us","Clarksville, IN, USA","OK",-85.759963,38.2967362
+"yountville, , ca, us","Yountville, CA 94599, USA","OK",-122.3608105,38.4015781
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"elk park, , nc, us","Elk Park, NC 28622, USA","OK",-81.9781722,36.1573464
+"neenah, , wi, us","Neenah, WI 54956, USA","OK",-88.462609,44.1858193
+"clearfield, , ut, us","Clearfield, UT, USA","OK",-112.0260538,41.1107771
+"wright patterson afb, , oh, ","Wright-Patterson AFB, OH, USA","OK",-84.0537448,39.8137298
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

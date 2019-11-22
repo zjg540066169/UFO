@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"lasalle, , mi, ","La Salle, MI 48145, USA","OK",-83.4521555,41.8678237
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"lake charles, , la, us","Lake Charles, LA, USA","OK",-93.2173758,30.2265949
+"kill devil hills, , nc, us","Kill Devil Hills, NC 27948, USA","OK",-75.6760101,36.0307226
+"leavenworth, , wa, us","Leavenworth, WA 98826, USA","OK",-120.6614765,47.5962326
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"vista, , ca, us","Vista, CA, USA","OK",-117.2425355,33.2000368
+"baja , mexico, , ","Baja California Peninsula, Mexico","OK",-113.5000018,27.9999938
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"little torch key, , fl, ","Little Torch Key, Florida 33042, USA","OK",-81.3908039,24.667457
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"jersey city, , nj, us","Jersey City, NJ, USA","OK",-74.0431435,40.7177545
+"hoboken, , nj, us","Hoboken, NJ, USA","OK",-74.0323626,40.7439905
+"gilroy, , ca, us","Gilroy, CA 95020, USA","OK",-121.5566373,37.0029828
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"hooks, , tx, us","Hooks, TX 75561, USA","OK",-94.2885306,33.4662328
+"waukesha, , wi, us","Waukesha, WI, USA","OK",-88.2314813,43.0116784
+"elko, , nv, us","Elko, NV 89801, USA","OK",-115.7631232,40.8324211
+"gardendale, , al, us","Gardendale, AL, USA","OK",-86.8127702,33.6601033
+"new brunswick, , nj, us","New Brunswick, NJ, USA","OK",-74.4518188,40.4862157
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"lake orion, , mi, us","Lake Orion, Orion Charter Township, MI 48362, USA","OK",-83.2396612,42.7844752
+"camanche, , tx, ","Comanche, TX 76442, USA","OK",-98.6036581,31.8973693
+"cadott, , wi, us","Cadott, WI 54727, USA","OK",-91.1507031,44.9480187
+"juneau, , ak, us","Juneau, AK, USA","OK",-134.4197221,58.3019444
+"mcconnells, , sc, us","McConnells, SC 29726, USA","OK",-81.2275817,34.8687483
+"willamsburg, ottawa , ks, ","Ottawa, KS 66067, USA","OK",-95.2686366,38.615768
+"fairborn, , oh, us","Fairborn, OH 45324, USA","OK",-84.0193789,39.8208925
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"beaufort, , sc, us","Beaufort, SC, USA","OK",-80.6698286,32.4315813
+"interstate 5 , fresno, ca, ","I-5, California, USA","OK",-120.4079655,36.4513753
+"mountain center, , ca, us","Mountain Center, CA 92561, USA","OK",-116.7254459,33.704948
+"lexington, , in, us","Lexington, IN 47138, USA","OK",-85.6252409,38.6522821
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"monterey park ,  los angeles, ca, ","Monterey Park, CA, USA","OK",-118.1228476,34.0625106
+"philadelphia , penn&#39s landing, pa, us",NA,"REQUEST_DENIED",NA,NA
+"walton-on-thames&#44 surrey , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"stoke-on-trent , uk, , gb","Stoke-on-Trent, UK","OK",-2.179404,53.002668
+"basingstoke , uk, , gb","Basingstoke, UK","OK",-1.0923964,51.26654
+"hat creek, , ca, us","Hat Creek, CA 96040, USA","OK",-121.513592,40.8304382
+"summerville, , sc, us","Summerville, SC, USA","OK",-80.1756481,33.0185039
+"zionsville, , in, us","Zionsville, IN 46077, USA","OK",-86.261937,39.9508733
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"east norriton, , pa, us","East Norriton, PA, USA","OK",-75.3365695,40.1517741
+"hertfordshire , uk, , gb","Hertfordshire, UK","OK",-0.2376744,51.8097823
+"western springs, , il, us","Western Springs, IL, USA","OK",-87.9006155,41.8097532
+"hiller&oslash;d , denmark, , ","630 N Washington St, Wichita, KS 67214, USA","OK",-97.3261349,37.695744
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"hampton, , va, us","Hampton, VA, USA","OK",-76.3452218,37.0298687
+"hampton, , va, us","Hampton, VA, USA","OK",-76.3452218,37.0298687
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"antioch, , il, us","Antioch, IL 60002, USA","OK",-88.0956396,42.4772418
+"stamford, , ct, us","Stamford, CT, USA","OK",-73.5387341,41.0534302
+"pfafftown, , nc, ","Pfafftown, NC, USA","OK",-80.3622436,36.1527249
+"heby , sweden, , ","Heby, Sweden","OK",16.8587589,59.9396372
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"prescott national forest, , az, ","Prescott National Forest, Prescott, AZ 86301, USA","OK",-112.5960268,34.6350556
+"los banos, , ca, us","Los Banos, CA, USA","OK",-120.8499151,37.0582786
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"bethany beach, , de, us","Bethany Beach, DE, USA","OK",-75.0551806,38.5395564
+"dixon, , il, us","Dixon, IL 61021, USA","OK",-89.4795478,41.8389213
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"san leandro, , ca, us","San Leandro, CA, USA","OK",-122.1568554,37.7257663
+"federalsburg, , md, us","Federalsburg, MD 21632, USA","OK",-75.7721551,38.6942809
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"parkton, , nc, us","Parkton, NC 28371, USA","OK",-79.0116971,34.9026635
+"sault ste marie , canada, on, ","Sault Ste. Marie, ON, Canada","OK",-84.3357526,46.5136494
+"mays landing, , nj, us","Mays Landing, Hamilton Township, NJ 08330, USA","OK",-74.7276626,39.4523385
+"parkville, , md, us","Parkville, MD, USA","OK",-76.5396875,39.3773292
+"brunswick, , oh, us","Brunswick, OH 44212, USA","OK",-81.8418006,41.2381096
+"shelby twp, , mi, ","Shelby Charter Twp, MI, USA","OK",-83.0329934,42.670782
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"gila bend, , az, us","Gila Bend, AZ, USA","OK",-112.7168305,32.9478236
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"hamburg, , pa, us","Hamburg, PA 19526, USA","OK",-75.9818772,40.5556484
+"parma, , oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"rocklin, , ca, us","Rocklin, CA, USA","OK",-121.2357828,38.7907339
+"show low, , az, us","Show Low, AZ 85901, USA","OK",-110.0298327,34.2542084
+"walton, , wv, us","Walton, WV 25286, USA","OK",-81.4020653,38.6389816
+"iowa city, , ia, us","Iowa City, IA, USA","OK",-91.5301683,41.6611277
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"stephens city, , va, us","Stephens City, VA, USA","OK",-78.2180567,39.0834398
+"independence, , ky, us","Independence, KY, USA","OK",-84.544109,38.9431183
+"sulphur springs, , tx, us","Sulphur Springs, TX 75482, USA","OK",-95.6010668,33.1384479
+"gretna, , ne, us","Gretna, NE 68028, USA","OK",-96.2436842,41.1404549
+"independence, , ky, us","Independence, KY, USA","OK",-84.544109,38.9431183
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

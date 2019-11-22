@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"gilmour , canada, on, ca","Gilmour, ON K0L 1W0, Canada","OK",-77.616667,44.816667
+"lehigh acres, , fl, us","Lehigh Acres, FL, USA","OK",-81.6248026,26.6253497
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"central florida , melbourn to west palm to orlando, fl, ","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"port charlotte, , fl, us","Port Charlotte, FL, USA","OK",-82.0906448,26.9761707
+"bonita springs , in the east as seen from, fl, us","11400 Longfellow Ln, Bonita Springs, FL 34135, USA","OK",-81.765445,26.3416
+"kennedy space center, , fl, ","Florida 32899, USA","OK",-80.6489808,28.5728722
+"west palm beach , road house grill, fl, us","8865 Southern Blvd Building E, West Palm Beach, FL 33411, USA","OK",-80.1835628,26.6805094
+"punta gorda, , fl, us","Punta Gorda, FL, USA","OK",-82.0453664,26.9297836
+"west palm beach , vero, fl, us","Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA","OK",-80.0928165,26.6857475
+"chinook, , mt, us","Chinook, MT 59523, USA","OK",-109.2312312,48.5899222
+"port salerno, , fl, us","Port Salerno, FL 34997, USA","OK",-80.2006014,27.1442168
+"christchurch&#44 dorset , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"kiev, , , ","Kyiv, Ukraine, 02000","OK",30.5234,50.4501
+"tarzana , west san fernando valley, ca, us","18312 W Oxnard St, Tarzana, CA 91356, USA","OK",-118.5315828,34.1800632
+"arab, , al, us","Arab, AL 35016, USA","OK",-86.4958219,34.3181497
+"champaign, , il, us","Champaign, IL, USA","OK",-88.2433829,40.1164204
+"venice, north port, fl, ","Venice, FL, USA","OK",-82.4542632,27.0997775
+"harrisonville, , mo, us","Harrisonville, MO 64701, USA","OK",-94.3488372,38.6533445
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"severna park, , md, us","Severna Park, MD, USA","OK",-76.5452409,39.070388
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"gulf breeze, , fl, us","Gulf Breeze, FL, USA","OK",-87.1638574,30.3571438
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"mnichovo hradiste , czech republic, , ","Mnichovo Hradiště, Czechia","OK",14.9720041,50.5269291
+"duvall, , wa, us","Duvall, WA 98019, USA","OK",-121.9856781,47.7423218
+"perry, , fl, us","Perry, FL, USA","OK",-83.5821063,30.1115662
+"hamburg, , ny, us","Hamburg, NY 14075, USA","OK",-78.8294768,42.7158927
+"almeria , spain, , ","Almería, Spain","OK",-2.4637136,36.834047
+"tempe, phoenix , az, ","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"vanceburg, , ky, us","Vanceburg, KY 41179, USA","OK",-83.3187952,38.599243
+"roellen-dyersburg area, , tn, ","Roellen Newbern Rd, Tennessee, USA","OK",-89.2777012,36.0670899
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"dublin, , nc, us","Dublin, NC, USA","OK",-78.726407,34.6568361
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"west hartford, , ct, us","West Hartford, CT, USA","OK",-72.7420151,41.7620842
+"kandy , sri lanka, , ","Kandy, Sri Lanka","OK",80.6337262,7.2905715
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"columbus , 140 mi ese of, oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"duquesne, , pa, us","Duquesne, PA, USA","OK",-79.8597708,40.3814581
+"warrensville, , pa, us","Warrensville, PA 17754, USA","OK",-76.9455207,41.326467
+"bristol , uk, , gb","Bristol, UK","OK",-2.58791,51.454513
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"superior, , wi, us","Superior, WI, USA","OK",-92.1040796,46.7207737
+"prince rupert , canada, bc, ca","Prince Rupert, BC, Canada","OK",-130.3208187,54.3150367
+"colchester , uk, , gb","Colchester, UK","OK",0.891874,51.895927
+"morristown, , tn, us","Morristown, TN, USA","OK",-83.2948922,36.2139814
+"ashland, , mo, us","Ashland, MO, USA","OK",-92.2571304,38.7744802
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"los angeles , san fernando valley, ca, us","San Fernando Valley, CA, USA","OK",-118.4396756,34.1825782
+"west hartford, , ct, us","West Hartford, CT, USA","OK",-72.7420151,41.7620842
+"franklin, nashville, tn, ","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"la mesa, , ca, us","La Mesa, CA, USA","OK",-117.0230839,32.7678287
+"palmyra, , mo, us","Palmyra, MO 63461, USA","OK",-91.5232106,39.7942118
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"pacoima, , ca, us","Pacoima, Los Angeles, CA, USA","OK",-118.4104684,34.2767691
+"luton , uk, , gb","Luton, UK","OK",-0.4200255,51.8786707
+"decker lake , canada, bc, ca","Decker Lake, BC V0J, Canada","OK",-125.833358,54.293395
+"lake wales, , fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"fountain lake, , ar, us","Fountain Lake, AR, USA","OK",-92.9204565,34.6161855
+"stony plain &amp; spruce grove , canada, ab, ","Stony Plain, AB, Canada","OK",-114.0018793,53.5294288
+"lawrence, , ma, us","Lawrence, MA, USA","OK",-71.1631137,42.7070354
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"mason city, , ia, us","Mason City, IA 50401, USA","OK",-93.2010367,43.1535728
+"galesburg, , il, us","Galesburg, IL 61401, USA","OK",-90.3712395,40.9478158
+"goulburn , australia, , au","Goulburn NSW 2580, Australia","OK",149.7277447,-34.7479181
+"seatac, , wa, us","SeaTac, WA, USA","OK",-122.2960726,47.4435903
+"alturas, , ca, us","Alturas, CA 96101, USA","OK",-120.5424555,41.4871146
+"alturas, , ca, us","Alturas, CA 96101, USA","OK",-120.5424555,41.4871146
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"ontario, , or, us","Ontario, OR 97914, USA","OK",-116.9629378,44.0265525
+"hernando , the outskirts, ms, us","Hernando, MS, USA","OK",-89.9937018,34.823987
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"desert hot springs, , ca, us","Desert Hot Springs, CA, USA","OK",-116.5016784,33.961124
+"lisbon, , ny, us","Lisbon, NY 13658, USA","OK",-75.3210467,44.727284
+"wilmer, , tx, us","Wilmer, TX, USA","OK",-96.6872571,32.5971558
+"clinton , outside of, mo, us","201 MO-7, Clinton, MO 64735, USA","OK",-93.7929026,38.3895848
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"trinidad, , co, us","Trinidad, CO 81082, USA","OK",-104.5005407,37.1694632
+"atascadero, , ca, us","Atascadero, CA 93422, USA","OK",-120.6707255,35.4894169
+"ewing, , ky, us","Ewing, KY 41039, USA","OK",-83.8632557,38.4272984
+"salem, , mo, us","Salem, MO 65560, USA","OK",-91.5359808,37.6455993
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"ellensburg, , wa, us","Ellensburg, WA, USA","OK",-120.5478474,46.9965144
+"glenden , australia, , au","Glenden QLD 4743, Australia","OK",148.114444,-21.353889
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"middlesbrough , uk, , gb","Middlesbrough, UK","OK",-1.234956,54.574227
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

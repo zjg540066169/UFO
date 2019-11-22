@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"marion, , ny, us","Marion, NY 14505, USA","OK",-77.1891456,43.1431778
+"mcdonough, , ny, us","McDonough, NY 13801, USA","OK",-75.7679711,42.498403
+"millersvill, , pa, ","Millersville, PA, USA","OK",-76.3541274,39.9978764
+"neptune city, , nj, us","Neptune City, NJ, USA","OK",-74.0314165,40.2005472
+"orangebury, , ny, ","Orangeburg, NY, USA","OK",-73.9495818,41.0464858
+"orwell, , vt, us","Orwell, VT, USA","OK",-73.2978936,43.8039502
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"plumsteadville, , pa, us","Plumsteadville, PA, USA","OK",-75.1464827,40.3864942
+"plymouth meeting, , pa, us","Plymouth Meeting, PA, USA","OK",-75.2743467,40.1023319
+"wallingford, , ct, us","Wallingford, CT 06492, USA","OK",-72.8230736,41.4570108
+"bernville, , pa, us","Bernville, PA 19506, USA","OK",-76.1121648,40.433426
+"norwalk, , ct, us","Norwalk, CT, USA","OK",-73.4081575,41.117744
+"fishers island, , ny, us","Fishers Island, NY 06390, USA","OK",-72.033534,41.2554038
+"hilltown, , pa, us","Hilltown Township, PA, USA","OK",-75.2362381,40.3394024
+"independent hill, , va, us","Independent Hill, Coles, VA 20112, USA","OK",-77.4377636,38.6359523
+"wakefield, , ri, us","Wakefield, South Kingstown, RI 02879, USA","OK",-71.5015546,41.4381721
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"luray, , va, us","Luray, VA 22835, USA","OK",-78.4594522,38.665397
+"sea girt, , nj, us","Sea Girt, NJ 08750, USA","OK",-74.0345813,40.1320592
+"north kingstown, , ri, us","North Kingstown, RI, USA","OK",-71.4536835,41.5568315
+"cape elizabeth, , me, us","Cape Elizabeth, ME, USA","OK",-70.2000467,43.563696
+"easton, , md, us","Easton, MD 21601, USA","OK",-76.0763305,38.7742826
+"lamar, , pa, us","Lamar, PA, USA","OK",-77.5314744,41.0151926
+"pennsburg, , pa, us","Pennsburg, PA 18073, USA","OK",-75.4921248,40.3909328
+"scotch plains, , nj, us","Scotch Plains, NJ 07076, USA","OK",-74.369018,40.6400404
+"washington twp , gloucester county, nj, ","Washington Township, NJ, USA","OK",-75.0727956,39.7561387
+"beachwood, , nj, us","Beachwood, NJ, USA","OK",-74.1929188,39.9390069
+"brogue, , pa, us","Brogue, PA 17309, USA","OK",-76.484452,39.8721853
+"kresgeville, , pa, us","Kresgeville, Polk Township, PA, USA","OK",-75.4995233,40.8996191
+"hyndman, , pa, us","Hyndman, PA, USA","OK",-78.720695,39.8208055
+"lusby, , md, us","Lusby, MD 20657, USA","OK",-76.4389549,38.3583413
+"austintown, , oh, us","Austintown, OH, USA","OK",-80.7645239,41.1017247
+"parkland, , wa, us","Parkland, WA, USA","OK",-122.4340114,47.1553769
+"east hampton, , ny, us","East Hampton, NY 11937, USA","OK",-72.1848009,40.9634335
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"barrys bay , canada, on, ca","Barry's Bay, ON, Canada","OK",-77.6788051,45.4882068
+"dartmouth, , ma, ","Dartmouth, MA, USA","OK",-70.9704787,41.6130323
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"shawville, , pa, us","Shawville, PA 16830, USA","OK",-78.3580728,41.0692245
+"walled lake, , mi, us","Walled Lake, MI 48390, USA","OK",-83.4810481,42.537811
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"zumbrota, , mn, us","Zumbrota, MN 55992, USA","OK",-92.6690806,44.294132
+"romney, , wv, us","Romney, WV 26757, USA","OK",-78.7566839,39.3420431
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"red pheasant first nation , canada, sk, ","Red Pheasant 108, Cando, SK S0K 0V0, Canada","OK",-108.1794494,52.4578561
+"fort mohave, , az, ","Fort Mohave, AZ, USA","OK",-114.5892703,35.0224848
+"albuquereque, , nm, ","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"crete, , il, us","Crete, IL 60417, USA","OK",-87.6314312,41.4444791
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"round lake beach, , il, us","Round Lake Beach, IL, USA","OK",-88.0900815,42.3716881
+"greeley, , co, us","Greeley, CO, USA","OK",-104.7091322,40.4233142
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"presque isle, , me, us","Presque Isle, ME, USA","OK",-68.0158614,46.681153
+"yerington, , nv, us","Yerington, NV 89447, USA","OK",-119.1629309,38.9857508
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"orland, , ca, us","Orland, CA 95963, USA","OK",-122.1963748,39.7473803
+"williamstown, , nj, us","Williamstown, Monroe Township, NJ 08094, USA","OK",-74.995168,39.6862263
+"bloomington, , il, us","Bloomington, IL, USA","OK",-88.9936873,40.4842027
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"cedaredge, , co, us","Cedaredge, CO 81413, USA","OK",-107.926454,38.9016487
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"lisbon, , ny, us","Lisbon, NY 13658, USA","OK",-75.3210467,44.727284
+"sierra vista, , az, us","Sierra Vista, AZ, USA","OK",-110.2772856,31.5455001
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"pueblo west, , co, us","Pueblo West, CO, USA","OK",-104.7227546,38.3500016
+"whitehall, , ny, us","Whitehall, NY 12887, USA","OK",-73.4037234,43.5556231
+"new mexico , abov; in-flight, nm, ","New Mexico, USA","OK",-105.8700901,34.5199402
+"berlin, , md, us","Berlin, MD 21811, USA","OK",-75.2176892,38.3226153
+"klamath falls, , or, us","Klamath Falls, OR, USA","OK",-121.7816704,42.224867
+"sharpsburg, , ky, us","Sharpsburg, KY 40374, USA","OK",-83.9293681,38.2020214
+"lokeren , belgium, , ","9160 Lokeren, Belgium","OK",3.9940663,51.1023413
+"pictou , canada, ns, ca","Pictou, NS, Canada","OK",-62.720603,45.679332
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"west warwick, , ri, us","West Warwick, RI 02893, USA","OK",-71.5215024,41.7036711
+"northville, , ny, us","Northville, NY 12134, USA","OK",-74.1720768,43.2256274
+"sequim, , wa, us","Sequim, WA 98382, USA","OK",-123.1018438,48.0795365
+"stowe, , vt, us","Stowe, VT 05672, USA","OK",-72.6874023,44.4654332
+"asbury park, , nj, us","Asbury Park, NJ 07712, USA","OK",-74.0120817,40.2203907
+"somerville, , ma, us","Somerville, MA, USA","OK",-71.0994968,42.3875968
+"horseheads, elmira, ny, ","Horseheads, NY 14845, USA","OK",-76.8205119,42.167019
+"downingtown, , pa, us","Downingtown, PA 19335, USA","OK",-75.7032742,40.0064958
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"deming , near, nm, us","Deming, NM 88030, USA","OK",-107.7586404,32.2686981
+"round hill, , va, us","Round Hill, VA 20141, USA","OK",-77.7686051,39.1326051
+"wyoming, , mi, us","Wyoming, MI, USA","OK",-85.7053085,42.9133602
+"hope, , ar, us","Hope, AR 71801, USA","OK",-93.5915665,33.6670615
+"hopkinsville, , ky, us","Hopkinsville, KY, USA","OK",-87.4886186,36.8656008
+"davis jct. , on highway72 east to highway 51 north, il, ","US-51, Illinois, USA","OK",-89.0230626,42.1021032
+"cowichan station , canada, bc, ","Cowichan Station, BC V9L 6M6, Canada","OK",-123.66644,48.729915
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"woodland hills, , ca, us","Woodland Hills, Los Angeles, CA, USA","OK",-118.6089752,34.165357
+"viet nam , central, , ","Central Vietnam, Vietnam","OK",108.4276047,14.6516511
+"tipp city, , oh, us","Tipp City, OH, USA","OK",-84.1721638,39.9583892
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

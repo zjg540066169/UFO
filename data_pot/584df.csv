@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"fremont, , ca, us","Fremont, CA, USA","OK",-121.988583,37.5485396
+"vilnius , lithuania, , ","Vilnius, Lithuania","OK",25.2796514,54.6871555
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"brooklyn park, , mn, us","Brooklyn Park, MN, USA","OK",-93.3563405,45.0941315
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"midland, , mi, us","Midland, MI, USA","OK",-84.2472116,43.6155825
+"west bloomfield, , mi, us","West Bloomfield Township, MI, USA","OK",-83.373339,42.5678534
+"fremont, , mi, us","Fremont, MI, USA","OK",-85.9420013,43.4675173
+"bellaire, , mi, us","Bellaire, MI 49615, USA","OK",-85.2111728,44.9802822
+"streamwood, , il, us","Streamwood, IL, USA","OK",-88.1784085,42.0255827
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"auburn, , al, us","Auburn, AL, USA","OK",-85.4807825,32.6098566
+"hialeah gardens, , fl, us","Hialeah Gardens, FL, USA","OK",-80.3244957,25.8650961
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"levittown, , ny, us","Levittown, NY, USA","OK",-73.5142921,40.7259336
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"ocean city, , nj, us","Ocean City, NJ, USA","OK",-74.5746001,39.2776156
+"yamhill, cove orchard, or, ","Cove Orchard, OR 97148, USA","OK",-123.1548288,45.3751149
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"buffalo grove, , il, us","Buffalo Grove, IL, USA","OK",-87.9631308,42.1662831
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"brookston, , in, us","Brookston, IN 47923, USA","OK",-86.8672339,40.6028144
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"selkirk, , ny, us","Selkirk, NY 12158, USA","OK",-73.7985008,42.5319998
+"national forest, , ca, ","San Bernardino National Forest, California 92314, USA","OK",-116.6409593,33.6631654
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"friendship, , tn, us","Friendship, TN 38034, USA","OK",-89.2453474,35.9089616
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"rocklin, , ca, us","Rocklin, CA, USA","OK",-121.2357828,38.7907339
+"appleton, , ny, us","Appleton, NY 14008, USA","OK",-78.6480878,43.3275563
+"mexico df , mexico, , ","Mexico City, CDMX, Mexico","OK",-99.133208,19.4326077
+"maynard, , ma, us","Maynard, MA, USA","OK",-71.4495058,42.4334903
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"burley, , id, us","Burley, ID, USA","OK",-113.7927948,42.5357428
+"portal, , ga, us","27245 US-80, Portal, GA 30450, USA","OK",-81.9357468,32.5384907
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"hyderabad , india, , ","Hyderabad, Telangana, India","OK",78.486671,17.385044
+"ida, , mi, us","Ida Township, MI, USA","OK",-83.570964,41.8786731
+"orrville, , oh, us","Orrville, OH 44667, USA","OK",-81.7640212,40.8436663
+"oakwood, , ga, us","Oakwood, GA, USA","OK",-83.8843455,34.227602
+"churubusco, , in, us","Churubusco, IN 46723, USA","OK",-85.3194208,41.2306034
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"talihina, , ok, us","Talihina, OK 74571, USA","OK",-95.0480162,34.7514893
+"paradise, , ca, us","Paradise, CA 95969, USA","OK",-121.6219177,39.7596061
+"casper, , wy, us","Casper, WY, USA","OK",-106.3251749,42.8500769
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"wilbraham, , ma, us","Wilbraham, MA 01095, USA","OK",-72.431586,42.1237206
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"brownsville, , ky, us","Brownsville, KY 42210, USA","OK",-86.2677545,37.1925472
+"farmington, , mn, us","Farmington, MN, USA","OK",-93.1435497,44.6402434
+"greene, , me, us","Greene, ME, USA","OK",-70.1403313,44.189794
+"hampstead, , nh, us","Hampstead, NH, USA","OK",-71.1809803,42.8744882
+"diamond bar, , ca, us","Diamond Bar, CA, USA","OK",-117.8103367,34.0286226
+"orleans, , ca, us","Orleans, CA, USA","OK",-123.5417933,41.3009016
+"poplar grove, , il, us","Poplar Grove, IL, USA","OK",-88.822047,42.3683521
+"hopkington, , ma, ","Hopkinton, MA, USA","OK",-71.5225646,42.2286954
+"manitou beach, , mi, us","Manitou Beach-Devils Lake, MI, USA","OK",-84.2834696,41.973936
+"plumas national forest, , ca, ","Plumas National Forest, 159 Lawrence St, Quincy, CA 95971, USA","OK",-120.8192299,39.9278816
+"south nags head, , nc, ","Nags Head, NC 27959, USA","OK",-75.6240619,35.9573922
+"glendale, , ca, us","Glendale, CA, USA","OK",-118.255075,34.1425078
+"robertsdale, , al, us","Robertsdale, AL, USA","OK",-87.7119324,30.5538048
+"toledo , southeast, oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"wyandotte, , mi, us","Wyandotte, MI, USA","OK",-83.1499239,42.2142064
+"westfield, , ny, us","Westfield, NY 14787, USA","OK",-79.5781027,42.32228
+"mossel bay , south africa, , ","Mossel Bay, South Africa","OK",22.0834066,-34.1747356
+"st. charles, , il, us","St. Charles, IL, USA","OK",-88.3086867,41.9141945
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"durango, , co, us","Durango, CO, USA","OK",-107.8800667,37.27528
+"monroe, , wa, us","Monroe, WA, USA","OK",-121.970958,47.8553772
+"princeton, , in, us","Princeton, IN 47670, USA","OK",-87.5675222,38.3553236
+"herndon, , va, us","Herndon, VA 20170, USA","OK",-77.3860976,38.9695545
+"pasco, , wa, us","Pasco, WA 99301, USA","OK",-119.0922316,46.2305049
+"stringsville, , oh, ","Strongsville, OH, USA","OK",-81.83569,41.3144966
+"livingston, , va, ","Lovingston, VA 22949, USA","OK",-78.8707458,37.7598066
+"susanville, , ca, us","Susanville, CA, USA","OK",-120.6530063,40.4162842
+"sunset point, , az, ","Sunset Point, Black Canyon City, AZ 85324, USA","OK",-112.1345168,34.1862813
+"dunkirk, , ny, us","Dunkirk, NY 14048, USA","OK",-79.3339324,42.4795019
+"lockport, , ny, us","Lockport, NY 14094, USA","OK",-78.6903098,43.1706128
+"el monte, , ca, us","El Monte, CA, USA","OK",-118.0275667,34.0686206
+"west point, , ca, ","West Point, CA 95255, USA","OK",-120.527426,38.3990786
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"west bend, , wi, ","West Bend, WI, USA","OK",-88.1834277,43.4252776
+"terryville, , ct, us","Terryville, Plymouth, CT, USA","OK",-73.0109393,41.6781533
+"pico rivera, , ca, us","Pico Rivera, CA, USA","OK",-118.096735,33.9830688
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"stoke-on-trent , uk, , gb","Stoke-on-Trent, UK","OK",-2.179404,53.002668
+"wayland, , ma, us","Wayland, MA, USA","OK",-71.3614484,42.3625953
+"newark, , de, us","Newark, DE, USA","OK",-75.7496572,39.6837226
+"murphysboro, , il, us","Murphysboro, IL 62966, USA","OK",-89.3350888,37.7644952
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

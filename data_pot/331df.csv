@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"winchester, , ky, us","Winchester, KY 40391, USA","OK",-84.1796503,37.990079
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"macdill air force base tampa, , fl, ","MacDill Air Force Base, Tampa, FL 33621, USA","OK",-82.487858,27.8569134
+"mount vernon, , wa, us","Mt Vernon, WA, USA","OK",-122.3374543,48.4201105
+"severna park, , md, us","Severna Park, MD, USA","OK",-76.5452409,39.070388
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"flat rock, , nc, us","Flat Rock, NC, USA","OK",-82.441508,35.271228
+"reseda, , ca, us","Reseda, Los Angeles, CA, USA","OK",-118.5360517,34.2011141
+"lexington, , sc, us","Lexington, SC, USA","OK",-81.2362107,33.9815369
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"meridian, , id, us","Meridian, ID, USA","OK",-116.3915131,43.6121087
+"nairobi , kenya, , ","Nairobi, Kenya","OK",36.8219462,-1.2920659
+"antelope, , ca, us","Antelope, CA, USA","OK",-121.3644216,38.7166871
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"apache junction, , az, us","Apache Junction, AZ, USA","OK",-111.5495777,33.4150485
+"hwy. 18, , wa, ","WA-18, Washington, USA","OK",-121.8836734,47.5087434
+"snoqualmie, , wa, us","Snoqualmie, WA, USA","OK",-121.8253906,47.5287132
+"lake havasu, , az, ","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"guemes island, , wa, ","Guemes Island, Washington, USA","OK",-122.6258429,48.5506545
+"ocalla, , fl, ","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"salinas, , ca, us","Salinas, CA, USA","OK",-121.6555013,36.6777372
+"albuquerque , over&#44 from tent rocks, nm, us",NA,"REQUEST_DENIED",NA,NA
+"tigard, , or, us","Tigard, OR, USA","OK",-122.7872475,45.4186785
+"nederland, , co, us","Nederland, CO 80466, USA","OK",-105.5108312,39.9613759
+"nanoose bay , canada, bc, ca","Nanoose Bay, BC, Canada","OK",-124.1930531,49.2723165
+"nederland, , co, us","Nederland, CO 80466, USA","OK",-105.5108312,39.9613759
+"lichfield , near, , gb","Lichfield, UK","OK",-1.831672,52.681602
+"plymouth, , mn, us","Plymouth, MN, USA","OK",-93.4555093,45.0105194
+"vantage , eof&#44 across columbia river, wa, us",NA,"REQUEST_DENIED",NA,NA
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"cross lanes, , wv, us","Cross Lanes, WV, USA","OK",-81.7906847,38.4203709
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"st. petersburg , south, fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"newport, , ky, us","Newport, KY 41071, USA","OK",-84.4957757,39.091449
+"norridgewock , winding hill rd, me, us","Winding Hill Rd, Norridgewock, ME 04957, USA","OK",-69.8526571,44.7447012
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"providence, , ri, us","Providence, RI, USA","OK",-71.4128343,41.8239891
+"somerset, , oh, us","Somerset, OH 43783, USA","OK",-82.2970941,39.8070121
+"mumbai , india, , ","Mumbai, Maharashtra, India","OK",72.8776559,19.0759837
+"dublin, pleasanton, ca, ","Dublin / Pleasanton, 5801 Owens Dr, Pleasanton, CA 94588, USA","OK",-121.8992171,37.7016477
+"hot springs, , ar, us","Hot Springs, AR, USA","OK",-93.0551795,34.5037004
+"blythe, , ca, us","Blythe, CA, USA","OK",-114.5882607,33.6177725
+"springfield, , va, us","Springfield, VA, USA","OK",-77.1872036,38.7892801
+"centralia, , wa, us","Centralia, WA, USA","OK",-122.9542972,46.7162136
+"nashville , near, tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"allegany, , ny, us","Allegany, NY 14706, USA","OK",-78.4941887,42.0900647
+"thomasville, , ga, us","Thomasville, GA, USA","OK",-83.9787808,30.8365815
+"gilbert , ene of, az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"harmony, , mn, us","Harmony, MN 55939, USA","OK",-92.0052837,43.5551811
+"morton, , wa, us","Morton, WA 98356, USA","OK",-122.2751046,46.5584421
+"morton, , wa, us","Morton, WA 98356, USA","OK",-122.2751046,46.5584421
+"windsor, , ny, us","Windsor, NY 13865, USA","OK",-75.640462,42.0759128
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"fiat, , in, us","1765 S, US-231, Crawfordsville, IN 47933, United States","OK",-86.9049591,40.0144116
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"russia, , oh, us","Russia, OH 45363, USA","OK",-84.409394,40.2344926
+"vanceboro, , nc, us","Vanceboro, NC 28586, USA","OK",-77.1541194,35.3084953
+"avondale, , az, us","Avondale, AZ, USA","OK",-112.3496021,33.4355977
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"lynchburg, , va, us","Lynchburg, VA, USA","OK",-79.1422464,37.4137536
+"lynchburg, , va, us","Lynchburg, VA, USA","OK",-79.1422464,37.4137536
+"oakdale, , mn, us","Oakdale, MN 55128, USA","OK",-92.9649361,44.9630216
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"tehachapi, , ca, us","Tehachapi, CA 93561, USA","OK",-118.4489739,35.1321877
+"murrieta, , ca, us","Murrieta, CA, USA","OK",-117.2139232,33.5539143
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"allison, , tx, us","Allison, TX 79003, USA","OK",-100.1006735,35.6058803
+"york, , pa, us","York, PA, USA","OK",-76.727745,39.9625984
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"rancho mirage, , ca, us","Rancho Mirage, CA 92270, USA","OK",-116.41279,33.739744
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"ben lomond, , ca, us","Ben Lomond, CA, USA","OK",-122.0863528,37.0891143
+"powhatan, , va, us","Powhatan, VA 23139, USA","OK",-77.9188239,37.5415273
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"goodyear, , az, us","Goodyear, AZ, USA","OK",-112.3576567,33.4353394
+"peoria, , az, us","Peoria, AZ, USA","OK",-112.2373779,33.5805955
+"hanson, , ky, us","Hanson, KY, USA","OK",-87.4808336,37.417267
+"north highlands, , ca, us","North Highlands, CA, USA","OK",-121.3721745,38.6857362
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"amelia, , oh, us","Amelia, OH 45102, USA","OK",-84.2177136,39.0283966
+"liberty twp, , oh, ","Liberty Township, OH, USA","OK",-84.4094359,39.401514
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"liverpool, , ny, us","Liverpool, NY, USA","OK",-76.2177046,43.106456
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"gallup, , nm, us","Gallup, NM, USA","OK",-108.7425843,35.5280783
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"hazard, , ky, us","Hazard, KY, USA","OK",-83.1932284,37.24954
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"south zanesville, , oh, us","South Zanesville, OH 43701, USA","OK",-82.0202781,39.9052405
+"interstate 8, gila bend range , az, ","Wellton, AZ, USA","OK",-113.4776098,32.6625147
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"fairfield, , ct, us","Fairfield, CT, USA","OK",-73.2612615,41.1408363
+"southhampton , uk, , ","Southampton, UK","OK",-1.4043509,50.9097004
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

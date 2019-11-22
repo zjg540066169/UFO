@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"redcliffe , australia, , au","Redcliffe QLD 4020, Australia","OK",153.1063,-27.2258
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"greenbelt, , md, us","Greenbelt, MD, USA","OK",-76.8755282,39.0045544
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"port isable, , tx, ","Port Isabel, TX, USA","OK",-97.2085844,26.0734119
+"milpitas, , ca, us","Milpitas, CA 95035, USA","OK",-121.8995741,37.4323341
+"tawas city, , mi, us","Tawas City, MI 48763, USA","OK",-83.5146973,44.2694612
+"jay, , fl, us","Jay, FL 32565, USA","OK",-87.151359,30.9529611
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"adak, , ak, us","Adak, AK, USA","OK",-176.6580556,51.88
+"south windsor, , ct, us","South Windsor, CT, USA","OK",-72.5717551,41.8489872
+"iowa, , la, us","Iowa, LA 70647, USA","OK",-93.0136399,30.2368292
+"coos bay, , or, us","Coos Bay, OR, USA","OK",-124.2178903,43.3665007
+"llandovery , uk, , gb","Llandovery SA20, UK","OK",-3.797508,51.997395
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"ithaca, , mi, us","Ithaca, MI 48847, USA","OK",-84.6075004,43.2916975
+"syracuse, , ny, us","Syracuse, NY, USA","OK",-76.1474244,43.0481221
+"gladstone, , mo, us","Gladstone, MO, USA","OK",-94.554677,39.2038918
+"minford, , oh, us","Minford, OH 45653, USA","OK",-82.8619549,38.8590595
+"putnam valley, , ny, us","Putnam Valley, NY, USA","OK",-73.8491353,41.3423559
+"kansas, , ks, ","Kansas, USA","OK",-98.4842465,39.011902
+"little rock , outside of, ar, us","9300 N Rodney Parham Rd, Little Rock, AR 72227, USA","OK",-92.378699,34.75959
+"corbin, , ky, us","Corbin, KY 40701, USA","OK",-84.0968761,36.9486986
+"davis, , ok, us","Davis, OK 73030, USA","OK",-97.1194637,34.5045317
+"live oak, pensacola , fl, ","7874 Beulah Rd, Pensacola, FL 32526, USA","OK",-87.3795105,30.5116028
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"tamarac, , fl, us","Tamarac, FL, USA","OK",-80.2497707,26.2128609
+"ironton, , oh, us","Ironton, OH, USA","OK",-82.6829406,38.5367471
+"trinity village, , ca, us","Trinity Village, CA 95527, USA","OK",-123.5283794,40.8754135
+"uk, england , , ","England, UK","OK",-1.1743197,52.3555177
+"boca de uchire , venezuela, , ","Boca de Uchire, Anzoátegui, Venezuela","OK",-65.4193115,10.1334914
+"sebastopol, , ca, us","Sebastopol, CA 95472, USA","OK",-122.8238806,38.4021359
+"venice beach, , fl, us","Venice Beach, Venice, FL 34285, USA","OK",-82.4575967,27.1000553
+"mankato, , mn, us","Mankato, MN, USA","OK",-93.9993996,44.1635775
+"north east orlando , near altamonte springs, fl, ","225 Shorecrest Dr, Altamonte Springs, FL 32701, USA","OK",-81.3858041,28.6643872
+"buras, , la, us","Buras, LA 70041, USA","OK",-89.5246636,29.3518223
+"carrollton, , ms, us","Carrollton, MS 38917, USA","OK",-89.9203608,33.5081773
+"blythe, , ca, us","Blythe, CA, USA","OK",-114.5882607,33.6177725
+"potomac, , md, us","Potomac, MD, USA","OK",-77.2085914,39.0181651
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"walnut creek, , ca, us","Walnut Creek, CA, USA","OK",-122.0651819,37.9100783
+"lackawanna, , ny, us","Lackawanna, NY, USA","OK",-78.8233664,42.8256141
+"lakeline, , oh, us","Lakeline, OH 44095, USA","OK",-81.4542814,41.6594912
+"new mexico, , nm, ","New Mexico, USA","OK",-105.8700901,34.5199402
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"mansfield, , oh, us","Mansfield, OH, USA","OK",-82.5154471,40.75839
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"rhinebeck, , ny, us","Rhinebeck, NY, USA","OK",-73.9074372,41.9318294
+"groveland, , ny, us","Groveland, NY 14462, USA","OK",-77.7697212,42.6647868
+"dallas , dfw airport, tx, us","DFW International Airport (DFW), 2400 Aviation Dr, DFW Airport, TX 75261, USA","OK",-97.0403352,32.8998091
+"hilo, , hi, us","Hilo, HI 96720, USA","OK",-155.0868193,19.7241106
+"new cumberland, , pa, us","New Cumberland, PA 17070, USA","OK",-76.8846956,40.2323122
+"pittsfield, , ma, us","Pittsfield, MA 01201, USA","OK",-73.2453824,42.4500845
+"wheelock, , vt, us","Wheelock, VT, USA","OK",-72.088507,44.5882056
+"south elgin, , il, us","South Elgin, IL, USA","OK",-88.2922996,41.9941938
+"vandalia, , mo, us","Vandalia, MO 63382, USA","OK",-91.4884887,39.3108745
+"enloe, , tx, us","Enloe, TX, USA","OK",-95.6571725,33.4331029
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"roswell, , nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"upper marlboro, , md, us","Upper Marlboro, MD 20772, USA","OK",-76.7496909,38.8159473
+"zagreb , croatia, , ","Zagreb, Croatia","OK",15.9819189,45.8150108
+"chicago , near, il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"whitehouse station, , nj, us","Whitehouse Station, Readington Township, NJ, USA","OK",-74.7702576,40.6155663
+"florissant, , mo, us","Florissant, MO, USA","OK",-90.322614,38.789217
+"townsville , australia, , au","Townsville QLD 4810, Australia","OK",146.8169483,-19.2589635
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"levitown, , ny, ","Levittown, NY, USA","OK",-73.5142921,40.7259336
+"lewisburg, , pa, us","Lewisburg, PA 17837, USA","OK",-76.8844101,40.9645293
+"bridgeton, , nj, us","Bridgeton, NJ 08302, USA","OK",-75.2340768,39.427337
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"greenville, , de, us","Greenville, DE 19807, USA","OK",-75.5982599,39.7790012
+"orting, , wa, us","Orting, WA 98360, USA","OK",-122.2042824,47.0978795
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"delta, , la, us","Delta, LA, USA","OK",-90.9270496,32.3257022
+"elfin forest, , ca, us","Elfin Forest, CA 92029, USA","OK",-117.1642007,33.0736526
+"henryetta , turky pin hollow, ok, us","Turkey Pen Hollow Rd, Henryetta, OK 74437, USA","OK",-96.0345381,35.4689217
+"maryland, , md, ","Maryland, USA","OK",-76.6412712,39.0457549
+"the dalles, , or, us","The Dalles, OR 97058, USA","OK",-121.1786823,45.5945645
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"three rivers , canada, , ","Trois-Rivières, QC, Canada","OK",-72.5420716,46.342982
+"colorado springs , south of&#44 on hwy 115 near the co. line, co, us",NA,"REQUEST_DENIED",NA,NA
+"durham , uk, , gb","Durham, UK","OK",-1.584852,54.77525
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"port vue, , pa, us","Port Vue, PA, USA","OK",-79.8697707,40.3359028
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"iraq, , , ","Iraq","OK",43.679291,33.223191
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"whitestone , queens&#44 over, ny, us",NA,"REQUEST_DENIED",NA,NA
+"central islip, , ny, us","Central Islip, NY, USA","OK",-73.2017811,40.7906538
+"monument valley, , az, ","Oljato-Monument Valley, AZ 84536, USA","OK",-110.1938672,36.9913715
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

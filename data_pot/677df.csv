@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"gary, hammond, in, ","Hammond, IN, USA","OK",-87.5000412,41.5833688
+"river falls, , wi, us","River Falls, WI 54022, USA","OK",-92.6238082,44.8613563
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"coolidge, , az, us","Coolidge, AZ, USA","OK",-111.517624,32.977839
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"stafford , uk, , gb","Stafford, UK","OK",-2.12066,52.806693
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"longueuil , canada, qc, ca","Longueuil, QC, Canada","OK",-73.5107131,45.5369442
+"mule creek canyon , on the  rogue river, or, ","Mule Creek Canyon, Oregon 97406, USA","OK",-123.8845292,42.7165004
+"york, , pa, us","York, PA, USA","OK",-76.727745,39.9625984
+"orange beach, , al, us","Orange Beach, AL, USA","OK",-87.5867598,30.2697033
+"east amherst, , ny, us","East Amherst, NY, USA","OK",-78.6969831,43.0183126
+"greenwater , near&#44 by mt. rainier, wa, us",NA,"REQUEST_DENIED",NA,NA
+"paskenta, , ca, us","Paskenta, CA 96074, USA","OK",-122.5464131,39.8845702
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"los angeles , 250 mi north of&#44 on hwy 5, ca, us",NA,"REQUEST_DENIED",NA,NA
+"fukuoka , japan, , ","Fukuoka, Japan","OK",130.4016888,33.5901838
+"smyrna, , ga, us","Smyrna, GA, USA","OK",-84.5143761,33.8839926
+"centennial, , co, us","Centennial, CO, USA","OK",-104.8771726,39.5807452
+"litchfield park, , az, us","Litchfield Park, AZ 85340, USA","OK",-112.3579364,33.4933743
+"hueytown, , al, us","Hueytown, AL, USA","OK",-86.9966606,33.4512197
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"evanston, , il, us","Evanston, IL, USA","OK",-87.6876969,42.0450722
+"cheltenham , uk, , gb","Cheltenham, UK","OK",-2.0782533,51.8993855
+"hubbardsville, , ny, us","Hubbardsville, NY 13355, USA","OK",-75.4632312,42.8178478
+"seaton , devon&#44 uk, , ",NA,"REQUEST_DENIED",NA,NA
+"woburn, , ma, us","Woburn, MA, USA","OK",-71.1522765,42.4792618
+"fargo, , nd, us","Fargo, ND, USA","OK",-96.7898034,46.8771863
+"fargo, , nd, us","Fargo, ND, USA","OK",-96.7898034,46.8771863
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"trout lake, , wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"point roberts, , wa, us","Point Roberts, WA 98281, USA","OK",-123.0568693,48.9883827
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"halidiki , mount holomontas, , ","Mount Cholomon, Zervochoria 631 00, Greece","OK",23.520278,40.459444
+"kibler, , ar, us","Kibler, AR, USA","OK",-94.231598,35.4303663
+"baker city, , or, us","Baker City, OR 97814, USA","OK",-117.8343848,44.7748748
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"desolation wilderness, , ca, ","Desolation Wilderness, 138 Emerald Bay Rd, South Lake Tahoe, CA 96150, USA","OK",-120.1843551,38.9499076
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"greenville , canada, bc, ","Greenville, BC V0J 1X0, Canada","OK",-129.58121,55.032217
+"shelby, , mi, us","Shelby, MI 49455, USA","OK",-86.3639633,43.6086194
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"redlands, , ca, us","Redlands, CA, USA","OK",-117.1825381,34.0555693
+"eldon, , mo, us","Eldon, MO 65026, USA","OK",-92.5815759,38.3483636
+"bishop , closest town, ca, us","Bishop, CA 93514, USA","OK",-118.3996636,37.3614238
+"buckhannon, , wv, us","Buckhannon, WV 26201, USA","OK",-80.2320276,38.9939872
+"great scott, , mn, ","Great Scott Township, MN, USA","OK",-92.7578676,47.5534303
+"ft. lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"big pine key, , fl, us","Big Pine Key, FL 33043, USA","OK",-81.353969,24.6698652
+"foster city, , ca, us","Foster City, CA, USA","OK",-122.2710788,37.5585465
+"beaconsfield , canada, qc, ca","Beaconsfield, QC, Canada","OK",-73.8682835,45.4309308
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"gansevoort, , ny, us","Gansevoort, NY 12831, USA","OK",-73.651784,43.1961848
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"spanish springs, , nv, us","Spanish Springs, NV, USA","OK",-119.7074096,39.649077
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"dexter , in southern sky, me, us","Maine, USA","OK",-69.4454689,45.253783
+"williamstown, , ma, us","Williamstown, MA 01267, USA","OK",-73.2036898,42.7120196
+"hays, , ks, us","Hays, KS 67601, USA","OK",-99.3267702,38.8791783
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"gibraltar, , , ","Gibraltar","OK",-5.353585,36.140751
+"little compton, , ri, us","Little Compton, RI, USA","OK",-71.1711563,41.5101032
+"kewaskum, , wi, us","Kewaskum, WI 53040, USA","OK",-88.2289851,43.5208302
+"sylacauga, , al, us","Sylacauga, AL, USA","OK",-86.2516406,33.1731716
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"s. dartmouth, , ma, ","Dartmouth, MA, USA","OK",-70.9704787,41.6130323
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"mundelein, , il, us","Mundelein, IL, USA","OK",-88.0039653,42.263079
+"ringwood, , nj, us","Ringwood, NJ, USA","OK",-74.2454254,41.1134289
+"phillipsburg, , nj, us","Phillipsburg, NJ 08865, USA","OK",-75.1901761,40.6937099
+"colwynbay , uk, , ","Colwyn Bay, UK","OK",-3.72764,53.293182
+"buchanan, , mi, us","Buchanan, MI 49107, USA","OK",-86.3611248,41.8272684
+"oak island, , nc, us","Oak Island, NC, USA","OK",-78.161106,33.9165623
+"trabuco canyon, , ca, us","Trabuco Canyon, CA, USA","OK",-117.5869862,33.6655081
+"globe, , az, us","Globe, AZ, USA","OK",-110.7864984,33.3942223
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"wheeling, , il, us","Wheeling, IL, USA","OK",-87.9289591,42.1391927
+"gentry, , ar, us","Gentry, AR 72734, USA","OK",-94.4846601,36.2675793
+"tallahassee area, , fl, ","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"perryville, , ny, us","Perryville, NY 13032, USA","OK",-75.7993547,43.0070113
+"westminster, , md, us","Westminster, MD, USA","OK",-76.9958149,39.5753791
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"california , central part, ca, ","Central California, CA, USA","OK",-119.7889248,36.9915398
+"mt. pleasant, , sc, us","Mt Pleasant, SC, USA","OK",-79.8284258,32.8323225
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"leeds , uk, ri, gb","1 City Square, Leeds LS1 2ES, UK","OK",-1.547415,53.7970916
+"vale, , or, us","Vale, OR 97918, USA","OK",-117.2382311,43.9821055
+"vale, , or, us","Vale, OR 97918, USA","OK",-117.2382311,43.9821055
+"weeki wachee, , fl, us","Weeki Wachee, FL, USA","OK",-82.5728769,28.5155513
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"escondido, , ca, us","Escondido, CA, USA","OK",-117.086421,33.1192068
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"panoche, , ca, us","Panoche, CA 95043, USA","OK",-120.8337116,36.5969274
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

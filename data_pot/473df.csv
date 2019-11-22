@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"gray, , ga, us","Gray, GA 31032, USA","OK",-83.5337816,33.0095802
+"newport, , ar, us","Newport, AR 72112, USA","OK",-91.2817951,35.6048018
+"houston, san antonia , tx, ","Houston Dr, San Antonio, TX 78148, USA","OK",-98.290543,29.545731
+"marlow heights, , md, us","Marlow Heights, MD, USA","OK",-76.9439221,38.827668
+"morganton, , nc, us","Morganton, NC 28655, USA","OK",-81.6848188,35.7454071
+"willard, , oh, us","Willard, OH 44890, USA","OK",-82.7262906,41.0531109
+"algonquin, , il, us","Algonquin, IL, USA","OK",-88.2942493,42.1655801
+"southmountain , canada, on, ","South Mountain, ON K0E 1W0, Canada","OK",-75.448092,44.986308
+"warminster, , pa, us","Warminster, PA 18974, USA","OK",-75.099807,40.2067884
+"france , massif maures southern, , ","Massif des Maures, 83610 Collobrières, France","OK",6.384664,43.280031
+"lake morena, , ca, ","Lake Morena County Park, 2550 Lake Morena Dr, Campo, CA 91906, USA","OK",-116.5214263,32.6852445
+"south saint paul, , mn, us","South St Paul, MN, USA","OK",-93.0275802,44.8759802
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"kittanning, , pa, us","Kittanning, PA 16201, USA","OK",-79.5219893,40.816453
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"new bedford, , ma, us","New Bedford, MA, USA","OK",-70.934205,41.6362152
+"samora correia , portugal, , ","Samora Correia, 2135 Samora Correia, Portugal","OK",-8.8816818,38.921602
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"south st. paul, , mn, ","South St Paul, MN, USA","OK",-93.0275802,44.8759802
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"moki dugway, , ut, ","UT-261, Utah, USA","OK",-109.9245214,37.369509
+"oakland, , md, us","Oakland, MD 21550, USA","OK",-79.4067116,39.4078747
+"atlantic ocean, , , ","Atlantic Ocean","OK",-28.6731465,-14.5994134
+"hershey, , pa, us","Hershey, PA, USA","OK",-76.6502468,40.2859239
+"sequim, , wa, us","Sequim, WA 98382, USA","OK",-123.1018438,48.0795365
+"excelsior springs, , mo, us","Excelsior Springs, MO 64024, USA","OK",-94.2260559,39.3391712
+"tully, , ny, us","Tully, NY 13159, USA","OK",-76.1093695,42.7981229
+"les avenieres&#44 buvin , france, , ",NA,"REQUEST_DENIED",NA,NA
+"quepos , costa rica, , ","Puntarenas Province, Quepos, Costa Rica","OK",-84.1619076,9.4318681
+"pineville, , la, us","Pineville, LA, USA","OK",-92.4343035,31.3224044
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"agawam, , ma, us","Agawam, MA, USA","OK",-72.6148117,42.0695391
+"tullahoma county, , tn, us","Tullahoma, TN, USA","OK",-86.2094342,35.3620235
+"great falls, , mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"malmstrom afb , golf 01 lcc 12sms, mt, ","Malmstrom AFB, MT, USA","OK",-111.1790622,47.5042584
+"titusville, , fl, us","Titusville, FL, USA","OK",-80.8075537,28.6122187
+"gainesville, , tx, us","Gainesville, TX 76240, USA","OK",-97.1333453,33.6259414
+"peekskill, , ny, us","Peekskill, NY, USA","OK",-73.9204158,41.2900939
+"arcola, , il, us","Arcola, IL 61910, USA","OK",-88.3064367,39.684755
+"rouyn noranda , canada, qc, ","Rouyn-Noranda, QC, Canada","OK",-79.0187836,48.2342362
+"broadgate , jamaica, , ","Broadgate, Jamaica","OK",-76.8158718,18.2277413
+"nevada , over, nv, ","Nevada, USA","OK",-116.419389,38.8026097
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"dearborn, , mi, us","Dearborn, MI, USA","OK",-83.1763145,42.3222599
+"st. louis , outside, mo, us","St. Louis, MO 63102, USA","OK",-90.1847763,38.624691
+"crosby, , tx, us","Crosby, TX 77532, USA","OK",-95.0621512,29.9118885
+"ciudad lazaro cardenas , mexico, , ","Lázaro Cárdenas, Michoacán, Mexico","OK",-102.1943485,17.9567646
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"sincelejo , colombia, , ","Sincelejo, Sucre, Colombia","OK",-75.3905567,9.3045773
+"alpena , near, ar, us","Alpena, AR 72611, USA","OK",-93.2921262,36.2947919
+"phoenix , bartlette lake, az, us","Bartlett Lake, Arizona, USA","OK",-111.6273187,33.8272547
+"westwood, , ca, us","Westwood, CA 96137, USA","OK",-121.0057931,40.3059999
+"mayfield, , ky, us","Mayfield, KY 42066, USA","OK",-88.6367154,36.7417235
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"sweetwater, , tn, us","Sweetwater, TN 37874, USA","OK",-84.4610394,35.6014636
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"colfax, , wa, us","Colfax, WA, USA","OK",-117.3643495,46.8801654
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"elmendorf afb, , ak, ","Elmendorf AFB, Anchorage, AK 99506, USA","OK",-149.8112528,61.2536352
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"rouyn noranda , canada, qc, ","Rouyn-Noranda, QC, Canada","OK",-79.0187836,48.2342362
+"wakefield, , ma, us","Wakefield, MA 01880, USA","OK",-71.0723391,42.5039395
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"sierra vista, , az, us","Sierra Vista, AZ, USA","OK",-110.2772856,31.5455001
+"parker city, , in, us","Parker City, IN 47368, USA","OK",-85.2041349,40.1889327
+"paramus, , nj, us","Paramus, NJ 07652, USA","OK",-74.0754189,40.9445428
+"ka&#39anapali , maui, hi, ",NA,"REQUEST_DENIED",NA,NA
+"perry , rural highway&#44 s.r.22, oh, us",NA,"REQUEST_DENIED",NA,NA
+"ferriday, , la, us","Ferriday, LA 71334, USA","OK",-91.5545649,31.6301664
+"tolland, , ct, us","Tolland, CT 06084, USA","OK",-72.3686931,41.8714865
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"ravenna, , mi, us","Ravenna, MI 49451, USA","OK",-85.9369929,43.1894651
+"california , rural, ca, ","1234 N Market Blvd, Sacramento, CA 95834, USA","OK",-121.4900387,38.6462229
+"krivaj , a village near kutina, , ","Krivaj, Lipovljani, Croatia","OK",16.9042086,45.4236725
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"seoul , south korea, , ","Seoul, South Korea","OK",126.9779692,37.566535
+"winslow, , ar, us","Winslow, AR 72959, USA","OK",-94.1349259,35.8009145
+"prineville, , or, us","Prineville, OR 97754, USA","OK",-120.8344664,44.2998485
+"thailand, , , ","Thailand","OK",100.992541,15.870032
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"forestville, , ca, us","Forestville, CA 95436, USA","OK",-122.8902721,38.4735237
+"trenton, , tx, us","Trenton, TX, USA","OK",-96.3385926,33.4306652
+"bemidji, , mn, us","Bemidji, MN 56601, USA","OK",-94.8826861,47.471573
+"michoacan , mexico, , ","Michoacán, Mexico","OK",-101.7068294,19.5665192
+"east london , south africa, , ","East London, South Africa","OK",27.8545867,-33.0291582
+"arnprior , canada, on, ca","Arnprior, ON, Canada","OK",-76.3518469,45.4347445
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"north tonawanda, , ny, us","North Tonawanda, NY 14120, USA","OK",-78.8642033,43.038668
+"snohomish, , wa, us","Snohomish, WA, USA","OK",-122.0981847,47.9128756
+"wilkesboro, , nc, us","Wilkesboro, NC, USA","OK",-81.1606401,36.1459649
+"stratford, , nj, us","Stratford, NJ 08084, USA","OK",-75.0154461,39.8267807
+"casselberry, , fl, us","Casselberry, FL, USA","OK",-81.3278455,28.677775
+"republic of ireland, , , ","Ireland","OK",-8.24389,53.41291
+"sebastopol, , ca, us","Sebastopol, CA 95472, USA","OK",-122.8238806,38.4021359
+"euclid, , oh, us","Euclid, OH, USA","OK",-81.5267873,41.5931049
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"schertz, , tx, us","Schertz, TX, USA","OK",-98.269734,29.5521737
+"plainview, , tx, us","Plainview, TX 79072, USA","OK",-101.7068417,34.1847936
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

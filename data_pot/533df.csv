@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"kaneohe, , hi, us","Kaneohe, HI 96744, USA","OK",-157.7973653,21.3996475
+"manzanita, , or, us","Manzanita, OR, USA","OK",-123.9351354,45.7184398
+"manzanita, , or, us","Manzanita, OR, USA","OK",-123.9351354,45.7184398
+"cranberry township, , pa, ","Cranberry Twp, PA, USA","OK",-80.1071379,40.6849626
+"ithaca, , mi, us","Ithaca, MI 48847, USA","OK",-84.6075004,43.2916975
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"jamaica, , ny, us","Jamaica, Queens, NY, USA","OK",-73.7889689,40.702677
+"snoqualmie, , wa, us","Snoqualmie, WA, USA","OK",-121.8253906,47.5287132
+"rochester, , wa, us","Rochester, WA 98579, USA","OK",-123.0755296,46.8280636
+"brantford , canada, on, ca","Brantford, ON, Canada","OK",-80.2644254,43.1393867
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"russellville, dover, az, ","Dover Township, AR, USA","OK",-93.1177555,35.416188
+"longeuil , st-hubert, pq, ","Saint-Hubert, Longueuil, QC, Canada","OK",-73.4065074,45.4983322
+"old hickory, , tn, us","Old Hickory, Nashville, TN 37138, USA","OK",-86.6477748,36.2574941
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"morganton, , nc, us","Morganton, NC 28655, USA","OK",-81.6848188,35.7454071
+"cambridge , canada, on, ca","Cambridge, ON, Canada","OK",-80.3144276,43.3616211
+"charlston, , nc, ","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"retrop, , ok, us","Retrop, OK 73627, USA","OK",-99.3598073,35.1597754
+"okanogan, , wa, us","Okanogan, WA 98840, USA","OK",-119.5833869,48.361262
+"grand junction, , co, us","Grand Junction, CO, USA","OK",-108.5506486,39.0638705
+"snohomish, , wa, us","Snohomish, WA, USA","OK",-122.0981847,47.9128756
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"centralia, , wa, us","Centralia, WA, USA","OK",-122.9542972,46.7162136
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"surrey , canada, bc, ca","Surrey, BC, Canada","OK",-122.8490125,49.1913466
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"bainbridge island, , wa, ","Bainbridge Island, WA, USA","OK",-122.5210007,47.6248791
+"whitby , canada, on, ca","Whitby, ON, Canada","OK",-78.9429329,43.8975446
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"beckley, , wv, us","Beckley, WV 25801, USA","OK",-81.1881557,37.7781702
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"lake country, vernon , bc, ","Lake Country, BC, Canada","OK",-119.4147883,50.0548556
+"douglasville, , ga, us","Douglasville, GA, USA","OK",-84.7477136,33.7514966
+"doylestown, , pa, us","Doylestown, PA 18901, USA","OK",-75.1298939,40.3101063
+"milford, , ma, us","Milford, MA, USA","OK",-71.5163049,42.1398577
+"manville, , nj, us","Manville, NJ 08835, USA","OK",-74.5876569,40.5409367
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"tuscola, , tx, us","Tuscola, TX 79562, USA","OK",-99.7967542,32.2095776
+"braintree , uk, , gb","Braintree, UK","OK",0.5509269,51.880087
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"shanghai , china, , ","Shanghai, China","OK",121.473701,31.230416
+"caribbean sea , between mexico and cuba, , ","Caribbean Sea","OK",-74.9676365,14.5401107
+"st. peters, , mo, us","St Peters, MO, USA","OK",-90.6298922,38.7874699
+"canyon country, , ca, us","Canyon Country, Santa Clarita, CA 91351, USA","OK",-118.4720633,34.4235425
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"maidstone&#44 kent , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"cairns , australia, , au","Cairns QLD, Australia","OK",145.7780548,-16.9185514
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"st. cloud, , fl, us","St Cloud, FL, USA","OK",-81.2811801,28.2489016
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"hempstead, , ny, us","Hempstead, NY 11550, USA","OK",-73.6187397,40.7062128
+"huntington, , in, us","Huntington, IN 46750, USA","OK",-85.497476,40.8831011
+"raymore, , mo, us","Raymore, MO 64083, USA","OK",-94.4527294,38.801953
+"orange beach, , al, us","Orange Beach, AL, USA","OK",-87.5867598,30.2697033
+"karachi , pakistan, , ","Karachi, Karachi City, Sindh, Pakistan","OK",67.0011364,24.8607343
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"moore, , ok, us","Moore, OK, USA","OK",-97.4867028,35.3395079
+"brookfield, , ct, us","Brookfield, CT 06804, USA","OK",-73.4095652,41.4825947
+"morristown, , tn, us","Morristown, TN, USA","OK",-83.2948922,36.2139814
+"alta loma, , ca, us","Alta Loma, Rancho Cucamonga, CA 91701, USA","OK",-117.5981086,34.1222317
+"la verne, , ca, us","La Verne, CA 91750, USA","OK",-117.7678355,34.1008426
+"bagdad, , az, us","Bagdad, AZ 86321, USA","OK",-113.1764033,34.5768849
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"bowie, , md, us","Bowie, MD, USA","OK",-76.7791365,39.0067768
+"lacassine, , la, us","Lacassine, LA, USA","OK",-92.9213014,30.2350923
+"hayden, , id, us","Hayden, ID, USA","OK",-116.7865815,47.7660161
+"hayden, , id, us","Hayden, ID, USA","OK",-116.7865815,47.7660161
+"jacksonville, , nc, us","Jacksonville, NC, USA","OK",-77.4302414,34.7540524
+"anehiem, , ca, ","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"bluffton, , in, ","Bluffton, IN 46714, USA","OK",-85.1716368,40.7386579
+"south shore, , ky, us","South Shore, KY 41175, USA","OK",-82.9582284,38.72091
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"sun valley, , ca, us","Sun Valley, Los Angeles, CA, USA","OK",-118.3812562,34.2279298
+"kenefic, , ok, us","Kenefic, OK 74748, USA","OK",-96.3622146,34.1481489
+"mills, , wy, us","Mills, WY, USA","OK",-106.3658613,42.8405206
+"harrow , canada, on, ca","Harrow, Essex, ON N0R, Canada","OK",-82.918148,42.0355591
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"burlington, , nc, us","Burlington, NC, USA","OK",-79.4377991,36.0956918
+"high rock lake, , nc, ","High Rock Lake, North Carolina, USA","OK",-80.3018107,35.6516286
+"cuba, , ny, us","Cuba, NY 14727, USA","OK",-78.2752927,42.2175668
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"st. charles, , il, us","St. Charles, IL, USA","OK",-88.3086867,41.9141945
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"swartz creek, , mi, us","Swartz Creek, MI, USA","OK",-83.8305144,42.9572508
+"belton, , tx, us","Belton, TX, USA","OK",-97.464453,31.0560132
+"west chester, , oh, us","West Chester Township, OH, USA","OK",-84.4172666,39.3321262
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

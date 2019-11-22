@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"belmont, , ms, us","Belmont, MS, USA","OK",-88.20921,34.5098192
+"mclean, , il, us","McLean, IL 61754, USA","OK",-89.169809,40.3144833
+"ringgold, , ga, us","Ringgold, GA 30736, USA","OK",-85.1091173,34.9159099
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"eaton, , co, us","Eaton, CO 80615, USA","OK",-104.702515,40.5194046
+"north haven, , ct, us","North Haven, CT 06473, USA","OK",-72.8595447,41.3909139
+"rosedale, , ms, us","Rosedale, MS 38769, USA","OK",-91.0278863,33.8534421
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"kingston, , pa, us","Kingston, PA 18704, USA","OK",-75.8968635,41.2617481
+"chula vista, , ca, us","Chula Vista, CA, USA","OK",-117.0841955,32.6400541
+"ellijay, , ga, us","Ellijay, GA 30540, USA","OK",-84.4821498,34.6948076
+"frisco, , tx, us","Frisco, TX, USA","OK",-96.8236116,33.1506744
+"flower mound, , tx, us","Flower Mound, TX, USA","OK",-97.0969552,33.0145673
+"denton, , tx, us","Denton, TX, USA","OK",-97.1330683,33.2148412
+"duluth, , ga, us","Duluth, GA, USA","OK",-84.1446376,34.0028786
+"massapequa park, , ny, us","Massapequa Park, NY 11762, USA","OK",-73.4553119,40.6804893
+"valparaiso, , in, us","Valparaiso, IN, USA","OK",-87.0611412,41.4730948
+"valparaiso, , in, us","Valparaiso, IN, USA","OK",-87.0611412,41.4730948
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"grapevine, , ca, us","Grapevine, CA 93243, USA","OK",-118.9301004,34.9416383
+"raytown, , mo, us","Raytown, MO, USA","OK",-94.4635638,39.0086171
+"greenfield, , in, us","Greenfield, IN 46140, USA","OK",-85.7694226,39.785043
+"edinboro, , pa, us","Edinboro, PA 16412, USA","OK",-80.1317236,41.8742225
+"altoona, , pa, us","Altoona, PA, USA","OK",-78.3947359,40.5186809
+"dade city , near, fl, us","Dade City, FL, USA","OK",-82.1959178,28.3647248
+"wichita falls, , tx, us","Wichita Falls, TX, USA","OK",-98.4933873,33.9137085
+"tazewell, , va, us","Tazewell, VA, USA","OK",-81.5195548,37.1148374
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"loughborough&#44 leic , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"mitchell, , or, us","Mitchell, OR 97750, USA","OK",-120.153341,44.566525
+"winslow, , me, us","Winslow, ME 04901, USA","OK",-69.6203137,44.5459679
+"starkey, , or, us","Starkey, OR 97850, USA","OK",-118.4257875,45.2215179
+"lackland air force base tx, , tx, ","Lackland AFB, San Antonio, TX, USA","OK",-98.6205193,29.3877765
+"ozark, , mo, us","Ozark, MO, USA","OK",-93.2060163,37.0208865
+"santa fe, , tx, us","Santa Fe, TX, USA","OK",-95.1057625,29.3780129
+"duarte, , ca, us","Duarte, CA, USA","OK",-117.9772873,34.1394513
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"sewanee, , tn, us","Sewanee, TN, USA","OK",-85.9210899,35.2031373
+"van alstyne, , tx, us","Van Alstyne, TX, USA","OK",-96.5772109,33.4214995
+"kelseyville, , ca, us","Kelseyville, CA 95451, USA","OK",-122.8394375,38.9779531
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"superior, , wi, us","Superior, WI, USA","OK",-92.1040796,46.7207737
+"pampa, , tx, us","Pampa, TX 79065, USA","OK",-100.9598709,35.5361559
+"kinston, richlands , nc, ","Kinston Hwy, Richlands, NC 28574, USA","OK",-77.6058338,34.9397789
+"chebanse, , il, us","Chebanse, IL 60922, USA","OK",-87.9080965,41.003088
+"bloomington, , in, us","Bloomington, IN, USA","OK",-86.5263857,39.165325
+"potsdam, , ny, us","Potsdam, NY 13676, USA","OK",-74.9813084,44.6697805
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"molalla, , or, us","Molalla, OR 97038, USA","OK",-122.5770888,45.1475308
+"palakkad&#44kerala , india, , ",NA,"REQUEST_DENIED",NA,NA
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"covina, , ca, us","Covina, CA, USA","OK",-117.8903397,34.0900091
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"candor, , ny, us","Candor, NY 13743, USA","OK",-76.3424357,42.2328518
+"defiance, , oh, us","Defiance, OH 43512, USA","OK",-84.3557802,41.2844933
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"mount gambier  , australia, , au","Mount Gambier SA 5290, Australia","OK",140.7803529,-37.8284212
+"susanville, , ca, us","Susanville, CA, USA","OK",-120.6530063,40.4162842
+"scappoose, , or, us","Scappoose, OR 97056, USA","OK",-122.878086,45.757732
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"los angeles , 50 ne of, ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"sunriver, , or, us","Sunriver, OR 97707, USA","OK",-121.4333539,43.8693935
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"red deer , canada, ab, ca","Red Deer, AB, Canada","OK",-113.8115599,52.268975
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"lake mary, , fl, us","Lake Mary, FL 32746, USA","OK",-81.3178446,28.7588833
+"newark, , nj, us","Newark, NJ, USA","OK",-74.1723667,40.735657
+"newport, , nc, us","Newport, NC 28570, USA","OK",-76.8591057,34.7865497
+"clarkston, , wa, us","Clarkston, WA 99403, USA","OK",-117.0451581,46.4162723
+"clarkston, , wa, us","Clarkston, WA 99403, USA","OK",-117.0451581,46.4162723
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"huntington station, , ny, us","Huntington Station, NY, USA","OK",-73.4115091,40.8534318
+"stevens pass, , wa, ","Stevens Pass, Washington 98826, USA","OK",-121.0859328,47.7462223
+"yazd , iran, , ","Yazd, Yazd Province, Iran","OK",54.3568562,31.8974232
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"daytona , south daytona beach, fl, ","South Daytona, FL, USA","OK",-81.0044995,29.1658158
+"panorama city, , ca, us","Panorama City, Los Angeles, CA, USA","OK",-118.442425,34.227617
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"sun prairie, , wi, us","Sun Prairie, WI 53590, USA","OK",-89.2137254,43.1836046
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"seguin, , tx, us","Seguin, TX 78155, USA","OK",-97.9647269,29.5688411
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"calgary , 55km outside, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"san diego, national city, ca, ","National City, CA, USA","OK",-117.0991967,32.6781085
+"honeoye falls, , ny, us","Honeoye Falls, NY 14472, USA","OK",-77.5902759,42.9522855
+"parker, , co, us","Parker, CO, USA","OK",-104.7613633,39.5186002
+"lake wales, , fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"ball ground, , ga, us","Ball Ground, GA 30107, USA","OK",-84.3779515,34.3372664
+"truckee, , ca, us","Truckee, CA 96161, USA","OK",-120.1832533,39.327962
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"bryan, , tx, us","Bryan, TX, USA","OK",-96.3699632,30.6743643
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"mukilteo, , wa, us","Mukilteo, WA, USA","OK",-122.3045815,47.9445396
+"goshen, , vt, us","Goshen, VT, USA","OK",-72.9977534,43.8601051
+"augusta, , ga, us","Augusta, GA, USA","OK",-82.0105148,33.4734978
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"bribie island  , australia, , ","Bribie Island, Queensland 4507, Australia","OK",153.1325243,-26.9861003
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"homewood, , al, us","Homewood, AL, USA","OK",-86.8008228,33.4717732
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"kingston, , wa, us","Kingston, WA, USA","OK",-122.4981921,47.7987072
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"saugus, , ca, us","Saugus, Santa Clarita, CA, USA","OK",-118.5404007,34.4135244
+"cadiz, , oh, us","Cadiz, OH 43907, USA","OK",-80.9967628,40.2728452
+"traverse city, , mi, us","Traverse City, MI, USA","OK",-85.6206317,44.7630567
+"baie-comeau , 85 km n of, pq, ca","Baie-Comeau, QC, Canada","OK",-68.1503944,49.2212971
+"yerington, , nv, us","Yerington, NV 89447, USA","OK",-119.1629309,38.9857508
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"jacksonville beach, , fl, us","Jacksonville Beach, FL, USA","OK",-81.3961338,30.2841224
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"leduc , canada, ab, ca","Leduc, AB, Canada","OK",-113.5527442,53.2646889
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"brigantine, , nj, us","Brigantine, NJ 08203, USA","OK",-74.3645906,39.4101171
+"sparta, , wi, us","Sparta, WI 54656, USA","OK",-90.8129118,43.9441328
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"montgomery , near, tx, us","Montgomery, TX, USA","OK",-95.6963355,30.3882613
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"coffeyville, , ks, us","Coffeyville, KS 67337, USA","OK",-95.6163665,37.0373005
+"east falmouth, , ma, us","East Falmouth, Falmouth, MA 02536, USA","OK",-70.5586401,41.5784425
+"arlington, , wa, us","Arlington, WA, USA","OK",-122.1251418,48.1987118
+"vernal, , ut, us","Vernal, UT 84078, USA","OK",-109.5287479,40.4555157
+"zarzis ,  turkey, , ","Zarzis, Tunisia","OK",11.0881494,33.5041035
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"richmond hill , canada, on, ca","Richmond Hill, ON, Canada","OK",-79.4402808,43.8828401
+"new zealand, , , ","New Zealand","OK",174.885971,-40.900557
+"launceston , tas&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"irving, , tx, us","Irving, TX, USA","OK",-96.9488945,32.8140177
+"rockland, , me, us","Rockland, ME, USA","OK",-69.1089293,44.1036914
+"humboldt , canada, sk, ca","Humboldt, SK S0K 2A1, Canada","OK",-105.1228655,52.2019792
+"carroll, , ia, us","Carroll, IA 51401, USA","OK",-94.8672793,42.0655986
+"various counties, , ia, ","Iowa County, IA, USA","OK",-92.0665197,41.6624604
+"muscatine, , ia, us","Muscatine, IA 52761, USA","OK",-91.0432051,41.424473
+"havre, , mt, us","Havre, MT 59501, USA","OK",-109.6840887,48.549999
+"havre, , mt, us","Havre, MT 59501, USA","OK",-109.6840887,48.549999
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"carthage, , il, us","Carthage, IL 62321, USA","OK",-91.1362537,40.416433
+"shoreview, , mn, us","Shoreview, MN 55126, USA","OK",-93.1471667,45.0791325
+"estero, , fl, us","Estero, FL, USA","OK",-81.8067523,26.438136
+"vincennes, , in, us","Vincennes, IN 47591, USA","OK",-87.5286325,38.677269
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"south hill, , va, us","South Hill, VA, USA","OK",-78.1288857,36.726532
+"sanford, , fl, us","Sanford, FL, USA","OK",-81.269453,28.8028612
+"north bristol , uk, , ","Bristol, UK","OK",-2.58791,51.454513
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"tiverton, , ri, us","Tiverton, RI, USA","OK",-71.2134231,41.6259211
+"bettendorf, , ia, us","Bettendorf, IA, USA","OK",-90.5072573,41.5262641
+"bedford park, , il, us","Bedford Park, IL, USA","OK",-87.7812524,41.7641723
+"hyannisport, , ma, ","Hyannis Port, Barnstable, MA, USA","OK",-70.302933,41.6321044
+"milon keynes , uk, , ","Milton Keynes, UK","OK",-0.7594171,52.0406224
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"decatur, , ga, us","Decatur, GA 30030, USA","OK",-84.2963123,33.7748275
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"allenhurst, , ga, us","Allenhurst, GA, USA","OK",-81.6087575,31.7849323
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"melfort , canada, sk, ca","Melfort, SK S0E 1A0, Canada","OK",-104.6142973,52.8608387
+"jackson, , al, us","Jackson, AL 36545, USA","OK",-87.8944435,31.5090521
+"buchs , switzerland, , ","Buchs, Switzerland","OK",9.4708594,47.1655403
+"purcellville, , va, us","Purcellville, VA, USA","OK",-77.7147153,39.1367717
+"benson, , nc, us","Benson, NC 27504, USA","OK",-78.548621,35.3821067
+"walters, , ok, us","Walters, OK 73572, USA","OK",-98.3078258,34.3598075
+"interstate 5 , 10 miles south of rte. 165, ca, ","I-5, United States","OK",-122.3083332,40.7849921
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"pleasant hill, , ca, us","Pleasant Hill, CA, USA","OK",-122.0607963,37.9479786
+"tumwater, , wa, us","Tumwater, WA, USA","OK",-122.9093063,47.0073187
+"brownsville, , tx, us","Brownsville, TX, USA","OK",-97.4974838,25.9017472
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"syosset, , ny, us","Syosset, NY, USA","OK",-73.502068,40.8262101
+"canajoharie, , ny, us","Canajoharie, NY, USA","OK",-74.5718073,42.9056288
+"stroudsburg, , pa, us","Stroudsburg, PA 18360, USA","OK",-75.1946248,40.9867609
+"bedford, , nh, us","Bedford, NH 03110, USA","OK",-71.5132008,42.9463291
+"san juan capistrano, , ca, us","San Juan Capistrano, CA, USA","OK",-117.6627655,33.5019027
+"russell, , ny, us","Russell, NY 13684, USA","OK",-75.1499264,44.4295059
+"not in one, , il, ","Illinois, USA","OK",-89.3985283,40.6331249
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"somersworth, , nh, us","Somersworth, NH, USA","OK",-70.8653372,43.2617503
+"meadville, , pa, us","Meadville, PA 16335, USA","OK",-80.1514484,41.6414438
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

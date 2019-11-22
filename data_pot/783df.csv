@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"oswego, , il, us","Oswego, IL, USA","OK",-88.3514596,41.6828074
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"brampton , canada, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"wauwatosa, , wi, us","Wauwatosa, WI, USA","OK",-88.0075875,43.0494572
+"newark, , oh, us","Newark, OH, USA","OK",-82.4012642,40.0581205
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"northridge, , ca, us","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"chelsea, , al, us","Chelsea, AL, USA","OK",-86.6302625,33.3401108
+"wyong , australia, , au","Wyong NSW 2259, Australia","OK",151.418,-33.282
+"coon rapids, , mn, us","Coon Rapids, MN, USA","OK",-93.3030063,45.1732394
+"eddyville, , ky, us","Eddyville, KY, USA","OK",-88.080301,37.0944971
+"oxford, , pa, us","Oxford, PA 19363, USA","OK",-75.9788349,39.785386
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"clarksville, , tn, us","Clarksville, TN, USA","OK",-87.3594528,36.5297706
+"taylors, , sc, us","Taylors, SC, USA","OK",-82.2962268,34.9203946
+"milton, , ga, ","Milton, GA, USA","OK",-84.300666,34.1321631
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"loganville, , ga, us","Loganville, GA 30052, USA","OK",-83.9007382,33.8389977
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"athens, , ga, us","Athens, GA, USA","OK",-83.357567,33.9519347
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"mattapoisett, , ma, us","Mattapoisett, MA, USA","OK",-70.8150742,41.6616323
+"owls head, , ny, us","Owls Head, NY 12969, USA","OK",-74.1687669,44.7344929
+"tolland, , ct, us","Tolland, CT 06084, USA","OK",-72.3686931,41.8714865
+"canal winchester, , oh, us","Canal Winchester, OH, USA","OK",-82.8123646,39.8466556
+"new palestine, , in, us","New Palestine, IN 46163, USA","OK",-85.8891471,39.7219882
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"oxford, , pa, us","Oxford, PA 19363, USA","OK",-75.9788349,39.785386
+"sale creek, , tn, us","Sale Creek, TN, USA","OK",-85.1089368,35.382329
+"coldwater, , ms, us","Coldwater, MS 38618, USA","OK",-89.9773124,34.6917684
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"niagara falls, , ny, us","Niagara Falls, NY, USA","OK",-79.0377388,43.0962143
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"sant monica, , ca, ","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"west carrollton, , oh, us","West Carrollton, OH, USA","OK",-84.2521632,39.6722812
+"chesterfield, , va, us","Chesterfield, VA 23832, USA","OK",-77.5049863,37.3770935
+"oxford, , pa, us","Oxford, PA 19363, USA","OK",-75.9788349,39.785386
+"lafayette, , la, us","Lafayette, LA, USA","OK",-92.0198427,30.2240897
+"florence, , al, us","Florence, AL, USA","OK",-87.677251,34.79981
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"albion, , me, us","Albion, ME 04910, USA","OK",-69.4425423,44.5322902
+"florence, , ky, us","Florence, KY, USA","OK",-84.6266111,38.9989499
+"plantation, , fl, us","Plantation, FL, USA","OK",-80.2331036,26.1275862
+"miramichi , canada, nb, ca","Miramichi, NB, Canada","OK",-65.5059061,47.0295709
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"colts neck, , nj, us","Colts Neck, NJ, USA","OK",-74.1723652,40.2876108
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"osprey, , fl, us","Osprey, FL, USA","OK",-82.4903748,27.1961627
+"keansburg, , nj, us","Keansburg, NJ, USA","OK",-74.1298643,40.4417743
+"langdon, , nd, us","Langdon, ND 58249, USA","OK",-98.3681728,48.7600007
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"manchester, , ct, us","Manchester, CT, USA","OK",-72.5215009,41.7759301
+"sewanee, , tn, us","Sewanee, TN, USA","OK",-85.9210899,35.2031373
+"erlanger, , ky, us","Erlanger, KY, USA","OK",-84.6007773,39.0167275
+"savannah , hunter afb, ga, us","Hunter Army Airfield, 525 Leonard Neal Street #6010, Savannah, GA 31409, USA","OK",-81.1470286,32.0110535
+"st. agatha, , me, us","St Agatha, ME, USA","OK",-68.3136517,47.2430959
+"new brighton, , mn, us","New Brighton, MN 55112, USA","OK",-93.2018908,45.0655212
+"haltom ciy, , tx, ","Haltom City, TX, USA","OK",-97.2691817,32.7995738
+"edina, , mn, us","Edina, MN, USA","OK",-93.3499489,44.8896866
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"manchester, , me, us","Manchester, ME, USA","OK",-69.8603256,44.324513
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"wauconda, , wa, us","Wauconda, WA 98859, USA","OK",-119.0136515,48.7257163
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"lubbock, , tx, us","Lubbock, TX, USA","OK",-101.8551665,33.5778631
+"warnambool&#44 vic , australia, , ",NA,"REQUEST_DENIED",NA,NA
+"olathe, , ks, us","Olathe, KS, USA","OK",-94.8191285,38.8813958
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"midwest city, , ok, us","Midwest City, OK, USA","OK",-97.3967019,35.4495065
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"overland park, , ks, us","Overland Park, KS, USA","OK",-94.6707917,38.9822282
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"bethlehem, , pa, us","Bethlehem, PA, USA","OK",-75.3704579,40.6259316
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"quesnel , canada, bc, ca","Quesnel, BC, Canada","OK",-122.4949058,52.9817372
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"houston , spring, tx, us","Spring, TX 77373, USA","OK",-95.4171601,30.0799405
+"ipoh , malaysia, , ","Ipoh, Perak, Malaysia","OK",101.090106,4.597479
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"craigavon , uk, , gb","Craigavon, UK","OK",-6.4175653,54.4429264
+"poughquag, , ny, us","Poughquag, NY 12570, USA","OK",-73.6817957,41.6089826
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"sherwood, , or, us","Sherwood, OR 97140, USA","OK",-122.8402749,45.3563261
+"tracy, , ca, us","Tracy, CA, USA","OK",-121.4252227,37.7396513
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"minford, , oh, us","Minford, OH 45653, USA","OK",-82.8619549,38.8590595
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"vernal, , ut, us","Vernal, UT 84078, USA","OK",-109.5287479,40.4555157
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"westcliffe, , co, us","Westcliffe, CO 81252, USA","OK",-105.4658353,38.1347219
+"gibsonia, , pa, us","Gibsonia, PA 15044, USA","OK",-79.9703318,40.6300567
+"knoxville, , md, us","Knoxville, MD 21758, USA","OK",-77.6645614,39.3278289
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"vermillion parish, , la, ","Vermilion Parish, LA, USA","OK",-92.3813621,29.8601413
+"culver city, , ca, us","Culver City, CA, USA","OK",-118.3964665,34.0211224
+"black canyon city, , az, us","Black Canyon City, AZ 85324, USA","OK",-112.1295121,34.0774991
+"wilmington, , de, us","Wilmington, DE, USA","OK",-75.5483909,39.744655
+"bloomington, , il, us","Bloomington, IL, USA","OK",-88.9936873,40.4842027
+"bloomington, , il, us","Bloomington, IL, USA","OK",-88.9936873,40.4842027
+"middletown, , nj, us","Middletown, NJ, USA","OK",-74.0915982,40.3968012
+"lakeview, , oh, us","Lakeview, OH 43331, USA","OK",-83.9229952,40.4847717
+"romney, , wv, us","Romney, WV 26757, USA","OK",-78.7566839,39.3420431
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"westchester , northern, ny, us","Westchester County, NY, USA","OK",-73.7948516,41.1220194
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"north lima, , oh, us","North Lima, OH 44452, USA","OK",-80.6584754,40.9483249
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"clark, , nj, us","Clark, NJ, USA","OK",-74.3127631,40.6278031
+"larchmont, , ny, us","Larchmont, NY, USA","OK",-73.7517983,40.9278769
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"north huntingdon, , pa, ","North Huntingdon, PA 15642, USA","OK",-79.7307014,40.3301883
+"new waterford , canada, ns, ca","New Waterford, NS B1H, Canada","OK",-60.0918022,46.2530549
+"cudahy, , wi, us","Cudahy, WI 53110, USA","OK",-87.861471,42.959738
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"ashford, , wa, us","Ashford, WA 98304, USA","OK",-122.0309408,46.7584413
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"ashland city, , tn, us","Ashland City, TN 37015, USA","OK",-87.0641699,36.2742207
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"brookings, , sd, us","Brookings, SD 57006, USA","OK",-96.7983877,44.3113573
+"las vegas&#44 nevada&#44 airspace, , nv, ",NA,"REQUEST_DENIED",NA,NA
+"hartsel, , co, us","Hartsel, CO 80449, USA","OK",-105.7958419,39.0216594
+"reedville, , va, us","Reedville, VA 22539, USA","OK",-76.2757771,37.8420743
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"gardner, , ma, us","Gardner, MA, USA","OK",-71.998133,42.5750883
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"fort hall, , id, us","Fort Hall, ID, USA","OK",-112.4383131,43.0332482
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"mill valley, , ca, us","Mill Valley, CA 94941, USA","OK",-122.5449763,37.9060368
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"isanti, , mn, us","Isanti, MN 55040, USA","OK",-93.2476091,45.4894008
+"gunnison, , co, us","Gunnison, CO 81230, USA","OK",-106.9253207,38.5458246
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"bolingbrook, , il, us","Bolingbrook, IL, USA","OK",-88.0683955,41.6986416
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"starkville, , ms, us","Starkville, MS 39759, USA","OK",-88.8183872,33.4503998
+"ivans, , ut, ","Ivins, UT, USA","OK",-113.6794057,37.1685907
+"barnesville, , oh, us","Barnesville, OH 43713, USA","OK",-81.1764961,39.9881261
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"new bedford, , ma, us","New Bedford, MA, USA","OK",-70.934205,41.6362152
+"bayfield, , co, us","Bayfield, CO 81122, USA","OK",-107.5981123,37.2255593
+"comptche, , ca, us","Comptche, CA 95427, USA","OK",-123.5913484,39.2646413
+"walnut creek, , ca, us","Walnut Creek, CA, USA","OK",-122.0651819,37.9100783
+"exeter, , ri, us","Exeter, RI, USA","OK",-71.5351476,41.5750676
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"hanover, , pa, us","Hanover, PA 17331, USA","OK",-76.9830358,39.8006553
+"st. cloud, , mn, us","St Cloud, MN, USA","OK",-94.1632404,45.5579451
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"clovis, , ca, us","Clovis, CA, USA","OK",-119.7029194,36.8252277
+"west point, , ut, ","West Point, UT, USA","OK",-112.08411,41.1182767
+"carolina beach, , nc, us","Carolina Beach, NC 28428, USA","OK",-77.8935966,34.0351726
+"steinbach , canada, mb, ca","Steinbach, MB, Canada","OK",-96.691092,49.5285279
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"clear lake, , ia, us","Clear Lake, IA 50428, USA","OK",-93.3788108,43.1435564
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"lake placid, , fl, us","Lake Placid, FL 33852, USA","OK",-81.3628502,27.2930999
+"onaway, , mi, us","Onaway, MI 49765, USA","OK",-84.223903,45.3575121
+"leister , uk, , ","Leister Park, Ballyclare BT39 9XS, UK","OK",-6.001044,54.713642
+"lubbock, , tx, us","Lubbock, TX, USA","OK",-101.8551665,33.5778631
+"egg harbor township, , nj, ","Egg Harbor Township, NJ, USA","OK",-74.6166192,39.3822537
+"nassau county, , ny, us","Nassau County, NY, USA","OK",-73.5594128,40.6546145
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"upper lake, , ca, us","Upper Lake, CA, USA","OK",-122.9105515,39.1646129
+"meadowview, , va, us","Meadowview, VA 24361, USA","OK",-81.8628484,36.7603486
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

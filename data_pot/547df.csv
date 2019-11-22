@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"bedford , uk, , gb","Bedford, UK","OK",-0.4667782,52.1386394
+"wellington, , tx, us","Wellington, TX 79095, USA","OK",-100.2137263,34.856166
+"waikiki, , hi, us","Waikiki, HI 96815, USA","OK",-157.8310083,21.2822932
+"airway heights, , wa, us","Airway Heights, WA, USA","OK",-117.5932727,47.644611
+"biddeford, , me, us","Biddeford, ME 04005, USA","OK",-70.4533844,43.4925843
+"willmar, , mn, us","Willmar, MN, USA","OK",-95.048659,45.1223711
+"san bernadino, , ca, ","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"morris, , il, us","Morris, IL 60450, USA","OK",-88.4211785,41.357254
+"castlegar , canada, bc, ca","Castlegar, BC, Canada","OK",-117.6593341,49.3237408
+"winfield , canada, bc, ca","Winfield, Lake Country, BC V4V, Canada","OK",-119.4052664,50.0220455
+"farquay varina, , nc, ","Fuquay-Varina, NC, USA","OK",-78.8000128,35.5843235
+"blackfoot, , id, us","Blackfoot, ID 83221, USA","OK",-112.3449773,43.1904709
+"utah , southern, ut, ","351 W University Blvd, Cedar City, UT 84720, USA","OK",-113.071332,37.676444
+"elcho, , wi, us","Elcho, WI, USA","OK",-89.1773611,45.4280249
+"canoga park, , ca, us","Canoga Park, Los Angeles, CA, USA","OK",-118.6058609,34.208254
+"aventura, , fl, us","Aventura, FL, USA","OK",-80.1392121,25.9564812
+"gurnee , near&#44 on i-55 north, il, us",NA,"REQUEST_DENIED",NA,NA
+"hilton, , ny, us","Hilton, NY 14468, USA","OK",-77.7933423,43.2881161
+"levering, , mi, us","Levering, MI 49755, USA","OK",-84.786994,45.6358445
+"silverado, , ca, us","Silverado, CA 92676, USA","OK",-117.6406523,33.7481369
+"piedmont, , al, us","Piedmont, AL 36272, USA","OK",-85.6113501,33.9245454
+"abita springs, , la, us","Abita Springs, LA 70420, USA","OK",-90.0375755,30.4785257
+"camp verde, , az, us","Camp Verde, AZ 86322, USA","OK",-111.8543178,34.5636358
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"mt. lassen, , ca, ","Lassen Peak, California, USA","OK",-121.50493,40.4880757
+"pompano beach, , fl, us","Pompano Beach, FL, USA","OK",-80.1247667,26.2378597
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"oak forest, , il, us","Oak Forest, IL, USA","OK",-87.7439384,41.6028116
+"martins ferry, , oh, us","Martins Ferry, OH 43935, USA","OK",-80.724526,40.0959055
+"amery, , wi, us","Amery, WI 54001, USA","OK",-92.3621369,45.3069062
+"covington, , ky, us","Covington, KY, USA","OK",-84.5085536,39.0836712
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"brook park, , oh, us","Brook Park, OH, USA","OK",-81.8045788,41.3983838
+"brook park, , oh, us","Brook Park, OH, USA","OK",-81.8045788,41.3983838
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"danville, , ca, us","Danville, CA, USA","OK",-121.9999606,37.8215929
+"brick, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"grand rapids , near, mn, us","Grand Rapids, MN 55744, USA","OK",-93.5302142,47.2371658
+"leroy township, , oh, ","Leroy Township, OH, USA","OK",-81.1416691,41.6771027
+"tinton falls, , nj, us","Tinton Falls, NJ, USA","OK",-74.1004185,40.3042773
+"brook park, , oh, us","Brook Park, OH, USA","OK",-81.8045788,41.3983838
+"brookpark, , oh, ","Brook Park, OH, USA","OK",-81.8045788,41.3983838
+"brook park, , oh, us","Brook Park, OH, USA","OK",-81.8045788,41.3983838
+"dateland, , az, us","Dateland, AZ 85333, USA","OK",-113.5410267,32.7972176
+"oshawa , canada, on, ca","Oshawa, ON, Canada","OK",-78.8657912,43.8970929
+"bognor regis , uk, , gb","Bognor Regis, UK","OK",-0.673061,50.782998
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"los angels, , ca, ","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"vierfontein , south africa, al, ","Vierfontein, 2615, South Africa","OK",26.7820548,-27.0987918
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"thonotosassa, , fl, us","Thonotosassa, FL, USA","OK",-82.3023128,28.0614065
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"gourock , uk, , gb","Gourock, UK","OK",-4.8168799,55.9591984
+"sand point, , id, ","Sandpoint, ID 83864, USA","OK",-116.553465,48.276577
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"powderhorn, , co, us","Powderhorn, CO 81243, USA","OK",-107.0958841,38.2769386
+"redington beach, , fl, us","Redington Beach, FL, USA","OK",-82.811214,27.8086364
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"cambria, san luis obispo county, ca, ","Cambria, CA, USA","OK",-121.0807468,35.5641381
+"jasper, , in, us","Jasper, IN, USA","OK",-86.9311094,38.3914418
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"green island, , ny, us","Green Island, NY, USA","OK",-73.6915073,42.7442449
+"chambersburg, , pa, us","Chambersburg, PA, USA","OK",-77.6611022,39.9375911
+"glenmont, , ny, us","Glenmont, NY, USA","OK",-73.7698945,42.6052
+"lanzarote , canary islands, , ","Lanzarote, Las Palmas, Spain","OK",-13.5899733,29.0468535
+"hyattsville, , md, us","Hyattsville, MD, USA","OK",-76.9455301,38.9559442
+"kill devil hills, , nc, us","Kill Devil Hills, NC 27948, USA","OK",-75.6760101,36.0307226
+"southlake, , tx, us","Southlake, TX 76092, USA","OK",-97.1341783,32.9412363
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"highland, , ca, us","Highland, CA, USA","OK",-117.2086513,34.1283442
+"addingham , uk, , gb","Addingham, UK","OK",-1.879299,53.944549
+"masontown, , wv, us","Masontown, WV 26542, USA","OK",-79.7977316,39.552305
+"charleston , west of i-77, wv, us","I-77, Charleston, WV, USA","OK",-81.630238,38.3537222
+"frankfort, , ny, us","Frankfort, NY 13340, USA","OK",-75.070436,43.038959
+"tonopah, , az, us","Tonopah, AZ 85354, USA","OK",-112.9370802,33.4934778
+"humble, , tx, us","Humble, TX, USA","OK",-95.2621553,29.9988312
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"greenwich, , ny, us","Greenwich, NY, USA","OK",-73.4887288,43.1374547
+"barnwell, , sc, us","Barnwell, SC 29812, USA","OK",-81.3587177,33.2448733
+"henrico, , va, us","Henrico County, VA, USA","OK",-77.3324425,37.5059332
+"eau claire, , wi, us","Eau Claire, WI, USA","OK",-91.4984941,44.811349
+"bear creek, , al, us","Bear Creek, AL, USA","OK",-87.7005833,34.2748197
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"holly hill, , fl, us","Holly Hill, FL, USA","OK",-81.0375555,29.2435916
+"millville, , pa, us","Millville, PA 17846, USA","OK",-76.5299495,41.120363
+"millville, , pa, us","Millville, PA 17846, USA","OK",-76.5299495,41.120363
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"west milford, , nj, us","West Milford, NJ, USA","OK",-74.3673254,41.1311292
+"ellicott city, , md, us","Ellicott City, MD, USA","OK",-76.7983067,39.2673283
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"cougar, , wa, us","Cougar, WA 98603, USA","OK",-122.2995413,46.0514993
+"jamestown, , oh, us","Jamestown, OH 45335, USA","OK",-83.7349236,39.6581163
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

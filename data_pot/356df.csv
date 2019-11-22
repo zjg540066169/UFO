@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"toluca lake, , ca, ","Toluca Lake, Los Angeles, CA, USA","OK",-118.3549609,34.1501794
+"coto de caza, , ca, us","Coto De Caza, CA 92679, USA","OK",-117.5906715,33.5951048
+"rochester, , mn, us","Rochester, MN, USA","OK",-92.4801989,44.0121221
+"inver grove heights, , mn, us","Inver Grove Heights, MN, USA","OK",-93.0427153,44.8480218
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"commack, , ny, us","Commack, NY, USA","OK",-73.2928943,40.8428759
+"allahabad , india, , ","Prayagraj, Uttar Pradesh, India","OK",81.846311,25.4358011
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"kemah, , tx, us","Kemah, TX, USA","OK",-95.0204837,29.5427297
+"canton, , mi, us","Canton, MI, USA","OK",-83.482116,42.3086444
+"centennial, , co, us","Centennial, CO, USA","OK",-104.8771726,39.5807452
+"jupiter, , fl, us","Jupiter, FL, USA","OK",-80.0942087,26.9342246
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"st. cloud, , fl, us","St Cloud, FL, USA","OK",-81.2811801,28.2489016
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"chariton, , ia, us","Chariton, IA 50049, USA","OK",-93.3140985,41.0199996
+"russellton, , pa, us","Russellton, PA, USA","OK",-79.8369958,40.6114557
+"munich , oberschliessheim army airfield, , de","Schleißheim Airport, Jägerstraße 1, 85764 Oberschleißheim, Germany","OK",11.5614,48.2394
+"hallsville, , oh, us","Hallsville, OH 45644, USA","OK",-82.8271182,39.4439524
+"gilkey, , nc, us","Gilkey, NC 28139, USA","OK",-81.9778819,35.4426228
+"caribbean sea, , , ","Caribbean Sea","OK",-74.9676365,14.5401107
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"palm springs , outside of, ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"yosemite national park, , ca, ","Yosemite National Park, California, USA","OK",-119.5383294,37.8651011
+"three rivers, , tx, us","Three Rivers, TX 78071, USA","OK",-98.1825071,28.4602717
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"nr. resende,  rio de janeiro state , , ","Resende, State of Rio de Janeiro, Brazil","OK",-44.4534431,-22.471376
+"willow springs, , mo, us","Willow Springs, MO 65793, USA","OK",-91.9698742,36.9922768
+"alvin, , tx, us","Alvin, TX, USA","OK",-95.2441009,29.4238472
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"goleta, , ca, us","Goleta, CA, USA","OK",-119.8276389,34.4358294
+"tajunga, , ca, ","Sunland-Tujunga, Los Angeles, CA 91040, USA","OK",-118.3082747,34.2596475
+"yarldey, , pa, ","Yardley, PA 19067, USA","OK",-74.8459972,40.245664
+"newport, , mi, us","Newport, Charter Twp of Berlin, MI 48166, USA","OK",-83.3088167,42.0023594
+"little rock , east of, ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"tompson, , ga, ","Thomson, GA 30824, USA","OK",-82.5045733,33.4706927
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"shenzhen , china, , ","Shenzhen, Guangdong, China","OK",114.057865,22.543096
+"charleston, , sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"pembroke pines, , fl, us","Pembroke Pines, FL, USA","OK",-80.2962555,26.007765
+"northern ireland, , , ","Northern Ireland, UK","OK",-6.4923145,54.7877149
+"vla radio telescope , near&#44 hwy. 60, nm, ",NA,"REQUEST_DENIED",NA,NA
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"pleasantville , outskirts of, ia, us","Pleasantville, IA 50225, USA","OK",-93.2682683,41.3869578
+"saratoga lake, , ny, us","Saratoga Lake, New York, USA","OK",-73.7419017,43.0185777
+"burke, , va, us","Burke, VA, USA","OK",-77.2716505,38.7934466
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"south whitley, , in, us","South Whitley, IN 46787, USA","OK",-85.6280381,41.0847677
+"greers ferry, , ga, ",NA,"ZERO_RESULTS",NA,NA
+"brentwood&#44 essex , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"owls head, , me, us","Owls Head, ME, USA","OK",-69.0572612,44.082303
+"sunflower, , az, us","Sunflower, AZ 85263, USA","OK",-111.4676349,33.8642086
+"welland , canada, on, ca","Welland, ON, Canada","OK",-79.2482555,42.9921579
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"bristol, , ct, us","Bristol, CT 06010, USA","OK",-72.9492703,41.6717648
+"coventry, , ri, us","Coventry, RI, USA","OK",-71.5642076,41.6885978
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"saratoga springs, , ny, us","Saratoga Springs, NY, USA","OK",-73.7845651,43.0831301
+"ragley, , la, us","Ragley, LA 70657, USA","OK",-93.2323813,30.512699
+"newcastle , uk, , gb","Newcastle upon Tyne, UK","OK",-1.61778,54.978252
+"middletown, , nj, us","Middletown, NJ, USA","OK",-74.0915982,40.3968012
+"azle, , tx, us","Azle, TX 76020, USA","OK",-97.5458565,32.8951262
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"barrie , canada, on, ca","Barrie, ON, Canada","OK",-79.6903316,44.3893556
+"phoenixville, , pa, us","Phoenixville, PA 19460, USA","OK",-75.5149128,40.1303822
+"baytown, , tx, us","Baytown, TX, USA","OK",-94.9774274,29.7355047
+"yaphank, , ny, us","Yaphank, NY, USA","OK",-72.9170487,40.8367653
+"st. albans , uk, , gb","St Albans, UK","OK",-0.339436,51.752725
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"peru, , in, us","Peru, IN 46970, USA","OK",-86.0688811,40.7536528
+"milford, , mi, us","Milford, Milford Charter Twp, MI 48381, USA","OK",-83.6003703,42.5916684
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"battleground, , wa, ","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"aberdeen , uk, , gb","Aberdeen, UK","OK",-2.094278,57.149717
+"kansas, , ok, us","Kansas, OK 74347, USA","OK",-94.7977277,36.2050851
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"langley , canada, bc, ca","Langley City, BC, Canada","OK",-122.6603519,49.1041779
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"saint-laurent , canada, qc, ca","Saint-Laurent, Montreal, QC, Canada","OK",-73.7497567,45.4985638
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"williams lake , canada, bc, ca","Williams Lake, BC, Canada","OK",-122.1416885,52.1416736
+"baker city, , or, us","Baker City, OR 97814, USA","OK",-117.8343848,44.7748748
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"south beach, , fl, us","South Beach, FL, USA","OK",-80.3331127,27.5897323
+"la quinta, , ca, us","La Quinta, CA, USA","OK",-116.3100095,33.6633573
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"greenwood, , in, us","Greenwood, IN, USA","OK",-86.1066526,39.6136578
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"el  zumbador , el cobre, , ","Paramo El Zumbador 5021, Táchira, Venezuela","OK",-72.0866274,7.974763
+"wauseon, , oh, us","Wauseon, OH 43567, USA","OK",-84.1416147,41.5492182
+"fleetwood , uk, , gb","Fleetwood, UK","OK",-3.035673,53.916661
+"burnsville, , mn, us","Burnsville, MN, USA","OK",-93.2777226,44.7677424
+"sunrise, , fl, us","Sunrise, FL, USA","OK",-80.256595,26.1669711
+"porsgrun , close to, , ","Porsgrunn, Norway","OK",9.6555147,59.1385567
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hanover, , pa, us","Hanover, PA 17331, USA","OK",-76.9830358,39.8006553
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"osage beach, , mo, us","Osage Beach, MO, USA","OK",-92.6179621,38.1503113
+"erin, , tn, us","Erin, TN 37061, USA","OK",-87.6947414,36.3183879
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"silver city, , nm, us","Silver City, NM 88061, USA","OK",-108.280326,32.770075
+"naval weapons base fallbrook, , ca, ","800 Seal Beach Blvd, Seal Beach, CA 90740, USA","OK",-118.0884234,33.7497605
+"royal palm beach, , fl, us","Royal Palm Beach, FL, USA","OK",-80.2306019,26.7083984
+"terre haute outskirts, , in, ","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"grand haven, , mi, us","Grand Haven, MI, USA","OK",-86.2283864,43.0630734
+"ankeny, , ia, us","Ankeny, IA, USA","OK",-93.6001278,41.7317884
+"south point, , oh, us","South Point, OH, USA","OK",-82.5862699,38.4178597
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"teterboro, , nj, us","Teterboro, NJ, USA","OK",-74.0593075,40.8598219
+"fredericksburg, , va, us","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"ocean isle beach, , nc, us","Ocean Isle Beach, NC, USA","OK",-78.426672,33.8943393
+"arcata, , ca, us","Arcata, CA, USA","OK",-124.0828396,40.8665166
+"eagle pass, , tx, us","Eagle Pass, TX 78852, USA","OK",-100.4995214,28.7091433
+"hatteras, , nc, us","Hatteras, NC 27943, USA","OK",-75.6903492,35.2194549
+"wheeling, , il, us","Wheeling, IL, USA","OK",-87.9289591,42.1391927
+"albert lake, , or, ","Lake Abert, Oregon 97630, USA","OK",-120.229743,42.6611688
+"nampa, , id, us","Nampa, ID, USA","OK",-116.55978,43.5788175
+"key largo, , fl, us","Key Largo, FL 33037, USA","OK",-80.4472802,25.0865151
+"lakeview, , or, us","Lakeview, OR 97630, USA","OK",-120.345792,42.1887721
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"farmington, , ny, us","Farmington, NY, USA","OK",-77.3094674,42.9877521
+"murray, , ut, us","Murray, UT, USA","OK",-111.8879909,40.6668916
+"west wyalong , australia, , au","West Wyalong NSW 2671, Australia","OK",147.2043777,-33.9167698
+"eaton rapids, , mi, us","Eaton Rapids, MI 48827, USA","OK",-84.655814,42.5092039
+"lundbreck , canada, ab, ","Lundbreck, AB T0K 1H0, Canada","OK",-114.164098,49.583426
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"bayonne, , nj, us","Bayonne, NJ, USA","OK",-74.1143091,40.6687141
+"kihei, , hi, us","Kihei, HI 96753, USA","OK",-156.4450063,20.7644275
+"barrie , canada, on, ca","Barrie, ON, Canada","OK",-79.6903316,44.3893556
+"simpsonville, , sc, us","Simpsonville, SC, USA","OK",-82.2542834,34.7370639
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"roswell, , ga, us","Roswell, GA, USA","OK",-84.3615555,34.0232431
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"goshen, , in, us","Goshen, IN, USA","OK",-85.8344383,41.5822716
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"new bern, , nc, us","New Bern, NC, USA","OK",-77.0441143,35.108493
+"bowling green, , oh, us","Bowling Green, OH, USA","OK",-83.6513229,41.3747744
+"lyndhurst, , nj, us","Lyndhurst, NJ, USA","OK",-74.1243063,40.8120171
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"hackettstown, , nj, us","Hackettstown, NJ 07840, USA","OK",-74.8290555,40.8539879
+"loxahatchee, , fl, us","Loxahatchee, FL 33412, USA","OK",-80.238888,26.771624
+"the pas , canada, mb, ca","The Pas, MB, Canada","OK",-101.2476129,53.8255265
+"madison, , ct, us","Madison, CT 06443, USA","OK",-72.5754149,41.2959908
+"maple ridge , canada, bc, ca","Maple Ridge, BC, Canada","OK",-122.5983981,49.2193226
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"suffolk, , ny, ","Suffolk County, NY, USA","OK",-72.6151169,40.9848784
+"deer park, , ny, us","Deer Park, NY, USA","OK",-73.3292857,40.7617653
+"panoche , near; on i-5, ca, us","I-5, California, USA","OK",-120.6572756,36.6841709
+"shelby, , mi, us","Shelby, MI 49455, USA","OK",-86.3639633,43.6086194
+"forward township, , pa, ","Forward Township, PA, USA","OK",-79.9080757,40.2240701
+"hastings, , mn, us","Hastings, MN 55033, USA","OK",-92.8513706,44.7443293
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"yangon , myanmar, , ","Yangon, Myanmar (Burma)","OK",96.173526,16.840939
+"voorheesville, , ny, us","Voorheesville, NY 12186, USA","OK",-73.9287365,42.653967
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"dyersville, , ia, us","Dyersville, IA, USA","OK",-91.1140899,42.4836415
+"grapeview, , wa, us","Allyn-Grapeview, WA, USA","OK",-122.8293192,47.3352273
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"medina, , oh, us","Medina, OH 44256, USA","OK",-81.8552196,41.143245
+"indian trail, , nc, us","Indian Trail, NC, USA","OK",-80.6692352,35.0768141
+"cheadle , canada, ab, ca","Cheadle, AB T0J, Canada","OK",-113.5417542,51.014622
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"cayucos, , ca, us","Cayucos, CA 93430, USA","OK",-120.8921254,35.4427511
+"grenada, , ms, us","Grenada, MS 38901, USA","OK",-89.8084192,33.7690049
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"oak harbor, , oh, us","Oak Harbor, OH 43449, USA","OK",-83.1465875,41.5067173
+"hoffman estates, , il, us","Hoffman Estates, IL, USA","OK",-88.1227199,42.0629915
+"woonsocket, , ri, us","Woonsocket, RI 02895, USA","OK",-71.5147839,42.0028761
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"monrovia, , ca, us","Monrovia, CA, USA","OK",-118.0019482,34.1442616
+"bangor, , me, us","Bangor, ME 04401, USA","OK",-68.7712257,44.8016128
+"new richmond, , wi, us","New Richmond, WI 54017, USA","OK",-92.5365865,45.1230213
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"port clinton, , oh, us","Port Clinton, OH 43452, USA","OK",-82.9376919,41.5119954
+"bainbridge,  port deposit, md, ","Bainbridge Rd, Port Deposit, MD 21904, USA","OK",-76.0990322,39.6103444
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"high island, , tx, us","High Island, Bolivar Peninsula, TX 77623, USA","OK",-94.3899227,29.5631308
+"bristolville, , oh, us","Bristolville, OH 44402, USA","OK",-80.8691273,41.3873741
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"harrisonburg, , la, us","Harrisonburg, LA, USA","OK",-91.8215177,31.7721106
+"newell, , ar, us","Newell, AR 71730, USA","OK",-92.7446041,33.165966
+"lahaina, , hi, us","Lahaina, HI, USA","OK",-156.6825,20.8783333
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"opp, , al, us","Opp, AL 36467, USA","OK",-86.2555067,31.2826685
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"hazel dell, , wa, us","Hazel Dell, WA 98665, USA","OK",-122.6628756,45.6715055
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

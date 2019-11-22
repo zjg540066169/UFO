@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"south dennis, , ma, us","South Dennis, Dennis, MA 02660, USA","OK",-70.1515342,41.7020781
+"titusville, , fl, us","Titusville, FL, USA","OK",-80.8075537,28.6122187
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"kingston, , ma, us","Kingston, MA, USA","OK",-70.7284785,41.9932752
+"citronelle, , al, us","Citronelle, AL 36522, USA","OK",-88.2280622,31.0907338
+"raytown, , mo, us","Raytown, MO, USA","OK",-94.4635638,39.0086171
+"dundee, , or, us","704 W Main St, West Dundee, IL 60118, USA","OK",-88.2856325,42.0984033
+"berry creek, , ca, us","Berry Creek, CA 95916, USA","OK",-121.4032995,39.6451637
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"ocoee, , tn, us","Ocoee, TN 37361, USA","OK",-84.7188272,35.1222972
+"easton, , pa, us","Easton, PA, USA","OK",-75.2207323,40.688432
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"san fernando valley, , ca, ","San Fernando Valley, CA, USA","OK",-118.4396756,34.1825782
+"larose, , la, us","Larose, LA, USA","OK",-90.3817483,29.572438
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"louisa, , ky, us","Louisa, KY 41230, USA","OK",-82.6032119,38.1142544
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"newport, , nc, us","Newport, NC 28570, USA","OK",-76.8591057,34.7865497
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"watertown, , ct, us","Watertown, CT, USA","OK",-73.1183397,41.6062042
+"lake worth, , fl, us","Lake Worth, FL, USA","OK",-80.0684479,26.6167555
+"stevens point, , wi, us","Stevens Point, WI, USA","OK",-89.574563,44.5235792
+"stevens point, , wi, us","Stevens Point, WI, USA","OK",-89.574563,44.5235792
+"lafayette, , la, us","Lafayette, LA, USA","OK",-92.0198427,30.2240897
+"stevens point, , wi, us","Stevens Point, WI, USA","OK",-89.574563,44.5235792
+"lebanon, , or, us","Lebanon, OR 97355, USA","OK",-122.9070339,44.5365119
+"luenburg, , ma, ","Lunenburg, MA 01462, USA","OK",-71.7245035,42.5945273
+"mt. vernon, , il, us","Mt Vernon, IL 62864, USA","OK",-88.9031201,38.3172714
+"west kelowna , canada, bc, ca","West Kelowna, BC, Canada","OK",-119.5644584,49.863612
+"wayland, , mi, us","Wayland, MI 49348, USA","OK",-85.6447438,42.6739208
+"seatac, , wa, us","SeaTac, WA, USA","OK",-122.2960726,47.4435903
+"poughquag, , ny, us","Poughquag, NY 12570, USA","OK",-73.6817957,41.6089826
+"corby , uk, , gb","Corby, UK","OK",-0.6842333,52.4922983
+"marksville, , la, us","Marksville, LA, USA","OK",-92.0662356,31.1279652
+"oakville , canada, on, ca","Oakville, ON, Canada","OK",-79.6876659,43.467517
+"west los angeles, , ca, us","West Los Angeles, Los Angeles, CA, USA","OK",-118.442596,34.0412085
+"dover , west of, de, us","Dover, DE, USA","OK",-75.5243682,39.158168
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"sandy springs, , ga, us","Sandy Springs, GA, USA","OK",-84.3733147,33.9304352
+"las vegas , south of, nv, us","Las Vegas Blvd S, Nevada, USA","OK",-115.2024104,35.9162249
+"florence, , mt, us","Florence, MT 59833, USA","OK",-114.0788985,46.6316893
+"gettysburg, , pa, us","Gettysburg, PA 17325, USA","OK",-77.2310955,39.8309293
+"ibiza , spain, , ","Ibiza, Balearic Islands, Spain","OK",1.4821482,39.0200099
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"gallipolis, , oh, us","Gallipolis, OH 45631, USA","OK",-82.2023691,38.809803
+"seaside, , or, us","Seaside, OR 97138, USA","OK",-123.9226385,45.9931636
+"dexter, , mi, us","Dexter, MI 48130, USA","OK",-83.8885552,42.3383697
+"richfield, , mn, us","Richfield, MN, USA","OK",-93.2830021,44.8832982
+"terrell, , tx, us","Terrell, TX, USA","OK",-96.2752569,32.7359626
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"daly city, pacifica, ca, ","Daly City, CA, USA","OK",-122.4702079,37.6879241
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"taft, , ca, ","Taft, CA, USA","OK",-119.4565078,35.1424671
+"lake tahoe area, , nv, ","Lake Tahoe, United States","OK",-120.0323507,39.0968493
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"bryant, , ar, us","Bryant, AR, USA","OK",-92.4890469,34.5959265
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"loganville, , ga, us","Loganville, GA 30052, USA","OK",-83.9007382,33.8389977
+"custer, , wi, us","Custer, WI 54423, USA","OK",-89.4262266,44.5105265
+"towaco, kinnelon border, nj, ","Towaco, Montville, NJ 07082, USA","OK",-74.3439578,40.9232019
+"deal island, , md, us","Deal Island Historic District, MD 21821, USA","OK",-75.9479891,38.159012
+"marlton, , nj, us","Marlton, Evesham Township, NJ, USA","OK",-74.9218324,39.8912248
+"nevada, , mo, us","Nevada, MO 64772, USA","OK",-94.3546719,37.8392052
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"rosebush, , mi, us","Rosebush, MI 48878, USA","OK",-84.7677927,43.6991954
+"barboursville, , wv, us","Barboursville, WV, USA","OK",-82.2945923,38.4095298
+"crystal beach, , tx, us","Crystal Beach, Bolivar Peninsula, TX 77550, USA","OK",-94.6396378,29.457177
+"scottsville, , ky, us","Scottsville, KY 42164, USA","OK",-86.1905424,36.7533781
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"centereach, , ny, us","Centereach, NY, USA","OK",-73.0995539,40.8584316
+"arnheim, , mi, us","Arnheim, MI 49908, USA","OK",-88.4826267,46.9168742
+"fleetville, , pa, us","Fleetville, PA 18414, USA","OK",-75.7146348,41.5981336
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"mont-tremblant , canada, pq, ca","Mont-Tremblant, QC, Canada","OK",-74.5961852,46.1184616
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"portage dunning rs. , about 15-20 miles outside of, wi, ","Wisconsin, USA","OK",-88.7878678,43.7844397
+"griffith, , in, us","Griffith, IN, USA","OK",-87.4236497,41.5283693
+"malibu, , ca, us","Malibu, CA, USA","OK",-118.7797571,34.0259216
+"san jacinto mountain, , ca, ","San Jacinto Mountains, California, USA","OK",-116.6791834,33.814463
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"macon, , ga, us","Macon, GA, USA","OK",-83.6324022,32.8406946
+"boone, , nc, us","Boone, NC, USA","OK",-81.6745517,36.216795
+"alberta , rural, ab, ","836 Main St NW, Milk River, AB T0K 1M0, Canada","OK",-112.0866117,49.1561695
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"mojave, , ca, us","Mojave, CA 93501, USA","OK",-118.1739645,35.0524699
+"parkland, , fl, us","Parkland, FL, USA","OK",-80.2532249,26.3107774
+"muscatine, , ia, us","Muscatine, IA 52761, USA","OK",-91.0432051,41.424473
+"pine bush, , ny, us","Pine Bush, NY 12566, USA","OK",-74.2990401,41.6081492
+"carson city, , nv, us","Carson City, NV, USA","OK",-119.7674034,39.1637984
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"highland, , ca, us","Highland, CA, USA","OK",-117.2086513,34.1283442
+"acworth, , ga, us","Acworth, GA, USA","OK",-84.6768796,34.0659329
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

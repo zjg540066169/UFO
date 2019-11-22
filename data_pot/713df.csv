@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"shelton, , wa, us","Shelton, WA 98584, USA","OK",-123.1007066,47.2150945
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"knoxville, , il, us","Knoxville, IL, USA","OK",-90.2848476,40.9083715
+"pottstown, , pa, us","Pottstown, PA 19464, USA","OK",-75.6496302,40.2453741
+"camp ripley , rural&#44 just west of, mn, ",NA,"REQUEST_DENIED",NA,NA
+"rochdale, , ma, us","Rochdale, Leicester, MA, USA","OK",-71.8985779,42.1997083
+"grants pass , murphy area, or, us","Murphy, OR 97527, USA","OK",-123.332335,42.3475232
+"rogue river, , or, us","Rogue River, OR, USA","OK",-123.1719976,42.435954
+"arcade, , ga, us","Arcade, GA, USA","OK",-83.5615536,34.0778881
+"springbrook, , wi, us","Springbrook, WI 54875, USA","OK",-91.6882312,45.9485594
+"diamond bar, , ca, us","Diamond Bar, CA, USA","OK",-117.8103367,34.0286226
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"tupper lake, , ny, us","Tupper Lake, NY 12986, USA","OK",-74.4640575,44.2239488
+"shoreline, , wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"trout lake, , wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"worthing , uk, , gb","Worthing, UK","OK",-0.372882,50.81787
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"wheaton, , il, us","Wheaton, IL, USA","OK",-88.1070127,41.8661403
+"ashtabula, , oh, us","Ashtabula, OH 44004, USA","OK",-80.7898089,41.8650534
+"greenup, , il, us","Greenup, IL 62428, USA","OK",-88.1633719,39.2478159
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"derry, , nh, us","Derry, NH 03038, USA","OK",-71.3273346,42.8806437
+"keystone, , co, us","Keystone, CO 80435, USA","OK",-105.9347384,39.5791675
+"northumberland, , pa, us","Northumberland, PA 17857, USA","OK",-76.7974653,40.8917519
+"keaau, , hi, us","Keaau, HI 96749, USA","OK",-155.0394139,19.6213287
+"hollywood, , ca, us","Hollywood, Los Angeles, CA, USA","OK",-118.3286614,34.0928092
+"eindhoven , netherlands, , ","Eindhoven, Netherlands","OK",5.4697225,51.441642
+"sault ste. marie , canada, on, ","Sault Ste. Marie, ON, Canada","OK",-84.3357526,46.5136494
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"shelton, , wa, us","Shelton, WA 98584, USA","OK",-123.1007066,47.2150945
+"apeldoorn , netherlands, , ","Apeldoorn, Netherlands","OK",5.9699231,52.211157
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"banbury , near, , gb","Banbury, UK","OK",-1.339775,52.0629009
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"hereford, , az, us","Hereford, AZ 85615, USA","OK",-110.0978554,31.4384325
+"seattle , south of&#44 in normandy park, wa, us",NA,"REQUEST_DENIED",NA,NA
+"bloomfield, , ny, us","Bloomfield, NY 14469, USA","OK",-77.4214278,42.8972624
+"washington state coastline, , wa, ","Washington Parks: Ocean City Beach Access Area, 37 2nd Ave, Ocean City, WA 98569, USA","OK",-124.1721521,47.0704629
+"ouray, , co, us","Ouray, CO, USA","OK",-107.6714487,38.0227716
+"east pennant , canada, ns, ","East Pennant, NS, Canada","OK",-63.6304611,44.466471
+"bloomfield hills, , mi, us","Bloomfield Hills, MI 48304, USA","OK",-83.2454883,42.583645
+"whitby , canada, on, ca","Whitby, ON, Canada","OK",-78.9429329,43.8975446
+"apple valley, , mn, us","Apple Valley, MN 55124, USA","OK",-93.21772,44.7319094
+"shade gap, , pa, us","Shade Gap, PA, USA","OK",-77.865913,40.1808219
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"roseville, , mi, us","Roseville, MI 48066, USA","OK",-82.9371409,42.4972583
+"flushing, , ny, us","Flushing, Queens, NY, USA","OK",-73.833079,40.7674987
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"vienna, , mo, us","Vienna, MO 65582, USA","OK",-91.947112,38.1867085
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"houston , metro&#44 southwest, tx, us",NA,"REQUEST_DENIED",NA,NA
+"grovetown, , ga, us","Grovetown, GA 30813, USA","OK",-82.1981764,33.4504157
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"fernandina beach, , fl, us","Fernandina Beach, FL 32034, USA","OK",-81.4625919,30.6696818
+"emo , canada, on, ca","Emo, ON, Canada","OK",-93.8350254,48.6322193
+"oakdale, , mn, us","Oakdale, MN 55128, USA","OK",-92.9649361,44.9630216
+"brooklyn center, , mn, us","Brooklyn Center, MN, USA","OK",-93.3327283,45.076076
+"burkes garden, , va, us","Burkes Garden, VA 24651, USA","OK",-81.3409367,37.0981724
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"nelson , uk, , gb","Nelson BB9, UK","OK",-2.219377,53.835187
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"sissonville, , wv, us","Sissonville, WV, USA","OK",-81.6309601,38.5281485
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"westfield, , in, us","Westfield, IN, USA","OK",-86.1274888,40.0428151
+"grand bend , north of forest and sarnia, on, ca","Green Haven Trailer Sales & Park, 52 Ontario St N, Grand Bend, ON N0M 1T0, Canada","OK",-81.7539156,43.314931
+"ferris, , tx, us","Ferris, TX 75125, USA","OK",-96.6655488,32.5340262
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"hazard, , ky, us","Hazard, KY, USA","OK",-83.1932284,37.24954
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"brooklyn center, , mn, us","Brooklyn Center, MN, USA","OK",-93.3327283,45.076076
+"new douglas, , il, us","New Douglas, IL 62074, USA","OK",-89.6664793,38.9700463
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"warren, , oh, us","Warren, OH, USA","OK",-80.8184166,41.2375569
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"dorking&#44 surrey , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"baton rouge, , la, us","Baton Rouge, LA, USA","OK",-91.1871466,30.4514677
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"canaan, , me, us","Canaan, ME, USA","OK",-69.5614376,44.7617295
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

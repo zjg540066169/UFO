@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"westlake, , la, us","Westlake, LA 70669, USA","OK",-93.2507099,30.2421496
+"advance, , nc, us","Advance, NC 27006, USA","OK",-80.4096909,35.9412419
+"elk grove, , ca, us","Elk Grove, CA, USA","OK",-121.3716178,38.4087993
+"st. george, , wv, us","St George, WV 26287, USA","OK",-79.7022868,39.1667717
+"winlock, , wa, us","Winlock, WA 98596, USA","OK",-122.9378983,46.4912176
+"hull , uk, , gb","Hull, UK","OK",-0.3274198,53.7676236
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"wilmore, , ky, us","Wilmore, KY 40390, USA","OK",-84.6616105,37.8620226
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"lowell, , ar, us","Lowell, AR, USA","OK",-94.1307587,36.2553543
+"australia, , , ","Australia","OK",133.775136,-25.274398
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"york , uk, , gb","York, UK","OK",-1.0872979,53.9599651
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"lawton, , ok, us","Lawton, OK, USA","OK",-98.3959291,34.6035669
+"sherman oaks, , ca, us","Sherman Oaks, Los Angeles, CA, USA","OK",-118.451357,34.1489719
+"ashland, , va, us","Ashland, VA 23005, USA","OK",-77.4799837,37.7590318
+"murrieta, , ca, us","Murrieta, CA, USA","OK",-117.2139232,33.5539143
+"blairs, , va, us","Blairs, VA 24527, USA","OK",-79.3730788,36.6798596
+"bowie, , tx, us","Bowie, TX 76230, USA","OK",-97.8486457,33.5589953
+"janesville, , ca, us","Janesville, CA 96114, USA","OK",-120.5394232,40.2840423
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"friday harbor, , wa, us","Friday Harbor, WA 98250, USA","OK",-123.0171242,48.5342662
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"lake worth, , tx, us","Lake Worth, TX, USA","OK",-97.4427659,32.8097891
+"mckees rocks, , pa, us","McKees Rocks, PA 15136, USA","OK",-80.0656106,40.4656244
+"mckees rocks , kennedy twp., pa, us","McKees Rocks, PA 15136, USA","OK",-80.0656106,40.4656244
+"alva, , ok, us","Alva, OK 73717, USA","OK",-98.6664737,36.8050308
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"chocowinity, , nc, us","Chocowinity, NC 27817, USA","OK",-77.1005091,35.5126631
+"muscatine, , ia, us","Muscatine, IA 52761, USA","OK",-91.0432051,41.424473
+"cleveland, , tn, us","Cleveland, TN, USA","OK",-84.8766115,35.1595182
+"mentor, , oh, us","Mentor, OH 44060, USA","OK",-81.339552,41.6661573
+"canmore , canada, ab, ca","Canmore, AB, Canada","OK",-115.3441856,51.0899934
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"newington, , ct, us","Newington, CT, USA","OK",-72.7228293,41.6972996
+"angoon, , ak, us","Angoon, AK, USA","OK",-134.5838889,57.5033333
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"kingston, , ga, us","Kingston, GA, USA","OK",-84.9441098,34.237039
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"wendover, , ut, us","Wendover, UT 84083, USA","OK",-114.0375102,40.7371524
+"deale, , md, us","Deale, MD, USA","OK",-76.5552359,38.7765055
+"plummer, , id, us","Plummer, ID 83851, USA","OK",-116.8885094,47.3351803
+"bryant, benton, ar, ","Bryant, AR, USA","OK",-92.4890469,34.5959265
+"burlington, , nc, us","Burlington, NC, USA","OK",-79.4377991,36.0956918
+"cypress, , tx, us","Cypress, TX, USA","OK",-95.6937856,29.9716905
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"salina, , ks, us","Salina, KS, USA","OK",-97.6114237,38.8402805
+"bryant, , ar, us","Bryant, AR, USA","OK",-92.4890469,34.5959265
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"wardsboro, , vt, us","Wardsboro, VT, USA","OK",-72.7897975,43.0409512
+"jersey&#44 channel islands , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"france, , , ","France","OK",2.213749,46.227638
+"mount pinos , beyond ski area parking, ca, ","Mt Pinos, California 93225, USA","OK",-119.1454286,34.8128386
+"evergreen, , co, us","Evergreen, CO 80439, USA","OK",-105.3172146,39.6333213
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"upper glade, , wv, ","Upperglade, WV 26206, USA","OK",-80.5067528,38.4092756
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"hicksville , long island, ny, us","Hicksville, NY, USA","OK",-73.5240738,40.7580684
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"cape canaveral, , fl, us","Cape Canaveral, FL 32920, USA","OK",-80.6077132,28.3922182
+"calgary , east of, ab, ca","East Village, Calgary, AB, Canada","OK",-114.0505705,51.0463759
+"caliham, , tx, ","Calliham, TX 78007, USA","OK",-98.3502895,28.4805479
+"college park, , ga, us","College Park, GA, USA","OK",-84.4493725,33.6534427
+"qui-nhon , viet nam, , ","Qui Nhơn, Binh Dinh Province, Vietnam","OK",109.2196634,13.7829673
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"nas fallon, , nv, ","4755 Pasture Rd, Fallon, NV 89406, USA","OK",-118.7251208,39.4202278
+"minot, , nd, us","Minot, ND, USA","OK",-101.2922906,48.2329668
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"maui, , hi, ","Maui, Hawaii, USA","OK",-156.3319253,20.7983626
+"mannheim , west germany, , de","Neckarstadt-West, Mannheim, Germany","OK",8.4651956,49.5022134
+"downers grove, , il, us","Downers Grove, IL, USA","OK",-88.0111746,41.8089191
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"larchwood, , ia, us","Larchwood, IA 51241, USA","OK",-96.434205,43.4535861
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"derbyshire , uk, , gb","Derbyshire, UK","OK",-1.5623885,53.1046782
+"green cove springs, , fl, us","Green Cove Springs, FL 32043, USA","OK",-81.6781467,29.9919085
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"bells, , tx, us","Bells, TX 75414, USA","OK",-96.4108188,33.6103837
+"shacktinsk , khazakhstan, , ","Shakhtinsk 100000, Kazakhstan","OK",72.58432,49.7178388
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"la paz , bolivia, , ","La Paz, Bolivia","OK",-68.1192936,-16.489689
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

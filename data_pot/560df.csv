@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"seattle , downtown; shoreline, wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"seattle , downtown; shoreline, wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"de soto, , mo, us","De Soto, MO 63020, USA","OK",-90.5551258,38.1394978
+"andrews, , tx, us","Andrews, TX 79714, USA","OK",-102.5457155,32.3187158
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"imperial beach, , ca, us","Imperial Beach, CA, USA","OK",-117.1130849,32.5839444
+"hancock, , wi, us","Hancock, WI 54943, USA","OK",-89.523177,44.133584
+"redwood city, , ca, us","Redwood City, CA, USA","OK",-122.2363548,37.4852152
+"manchester, , mi, us","Manchester, MI 48158, USA","OK",-84.037723,42.1503177
+"christchurch , new zealand, , ","Christchurch, New Zealand","OK",172.6362254,-43.5320544
+"avon, , co, us","Avon, CO, USA","OK",-106.5222196,39.6330673
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"litchfield, , sc, ","Litchfield Beach, SC 29585, USA","OK",-79.0997632,33.4668348
+"pawleys island , near litchfield, sc, us","Pawleys Island, SC, USA","OK",-79.1214313,33.4332236
+"maywood, , ca, us","Maywood, CA 90270, USA","OK",-118.185349,33.9866807
+"leesburg, , ga, us","Leesburg, GA 31763, USA","OK",-84.1707423,31.7321156
+"ankara , turkey, , ","Ankara, Turkey","OK",32.8597419,39.9333635
+"beaufort, , sc, us","Beaufort, SC, USA","OK",-80.6698286,32.4315813
+"camborne , uk, , gb","Camborne, UK","OK",-5.2947749,50.21277
+"clarklake, , mi, us","Clarklake, MI 49234, USA","OK",-84.344951,42.1214293
+"maple ridge , canada, bc, ca","Maple Ridge, BC, Canada","OK",-122.5983981,49.2193226
+"lincoln city, , or, us","Lincoln City, OR, USA","OK",-124.0178914,44.9581644
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"east northport, , ny, us","East Northport, NY, USA","OK",-73.3245613,40.8767647
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"west milwaukee, , wi, us","West Milwaukee, WI, USA","OK",-87.9725861,43.0125142
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"durham , uk, , gb","Durham, UK","OK",-1.584852,54.77525
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"wilkes-barre, , pa, us","Wilkes-Barre, PA, USA","OK",-75.8813075,41.2459149
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"chesterfield, , mi, us","Chesterfield Township, MI, USA","OK",-82.7994194,42.6960659
+"kingman , south of, az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"warr acres, , ok, us","Warr Acres, OK, USA","OK",-97.6189809,35.5223057
+"new palestine, , in, us","New Palestine, IN 46163, USA","OK",-85.8891471,39.7219882
+"florence, , az, us","Florence, AZ, USA","OK",-111.3873431,33.0314508
+"prescott, , wa, us","Prescott, WA 99348, USA","OK",-118.3149677,46.2995837
+"hinsdale, , nh, us","Hinsdale, NH, USA","OK",-72.4865089,42.7862065
+"fenton, , mi, us","Fenton, MI, USA","OK",-83.7049498,42.7978061
+"apopka, , fl, us","Apopka, FL, USA","OK",-81.5322149,28.6934076
+"lenox, , ma, us","Lenox, MA, USA","OK",-73.2848762,42.3564609
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"stedman, , nc, us","Stedman, NC 28391, USA","OK",-78.6939063,35.0134999
+"hobe sound, , fl, us","Hobe Sound, FL 33455, USA","OK",-80.1364323,27.059498
+"cambridge, , ma, us","Cambridge, MA, USA","OK",-71.1097335,42.3736158
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"frederick, , md, us","Frederick, MD, USA","OK",-77.4105409,39.4142688
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"glenview, , il, us","Glenview, IL, USA","OK",-87.8223368,42.0778065
+"port allegany, , pa, us","Port Allegany, PA 16743, USA","OK",-78.2797352,41.810898
+"hamer, , id, us","Hamer, ID 83425, USA","OK",-112.2060903,43.9271309
+"ashland city, , tn, us","Ashland City, TN 37015, USA","OK",-87.0641699,36.2742207
+"eden, , ga, us","Eden, GA 31312, USA","OK",-81.3906678,32.173813
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"commerce township, , mi, ","Commerce Charter Twp, MI, USA","OK",-83.4882347,42.5750853
+"cathedral city, , ca, us","Cathedral City, CA, USA","OK",-116.4668036,33.7805388
+"kettering, , oh, us","Kettering, OH, USA","OK",-84.1688274,39.6895036
+"derbyshire , uk, , gb","Derbyshire, UK","OK",-1.5623885,53.1046782
+"barrington hills, , il, us","Barrington Hills, IL, USA","OK",-88.1957427,42.1391457
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"milford, , pa, us","Milford, PA 18337, USA","OK",-74.8023882,41.322316
+"french lick, , in, us","French Lick, IN, USA","OK",-86.6199914,38.5489431
+"iuka, , il, us","Iuka, IL 62849, USA","OK",-88.790334,38.6161588
+"waunakee, , wi, us","Waunakee, WI 53597, USA","OK",-89.4556749,43.1919373
+"mackinaw city, , mi, us","Mackinaw City, MI 49701, USA","OK",-84.7271465,45.7774987
+"winter park, , co, us","Winter Park, CO 80482, USA","OK",-105.7630624,39.8916537
+"victor, , id, us","Victor, ID 83455, USA","OK",-111.1113318,43.6026976
+"devils lake, , nd, us","Devils Lake, ND 58301, USA","OK",-98.8651202,48.112779
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"crivitz, , wi, us","Crivitz, WI 54114, USA","OK",-88.0076062,45.2324755
+"prosser, , wa, us","Prosser, WA 99350, USA","OK",-119.7689223,46.2067997
+"paducah, , ky, us","Paducah, KY, USA","OK",-88.6000478,37.0833893
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"laguna niguel, , ca, us","Laguna Niguel, CA, USA","OK",-117.7149438,33.5236744
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"olney, , md, us","Olney, MD, USA","OK",-77.066923,39.1531627
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"aloha, , or, us","Aloha, OR, USA","OK",-122.8670454,45.4942838
+"coarsegold, , ca, us","Coarsegold, CA 93614, USA","OK",-119.7009834,37.2621686
+"wilkes-barre, , pa, us","Wilkes-Barre, PA, USA","OK",-75.8813075,41.2459149
+"gulf of mexico, , la, ","237 Sports Marina Rd, Venice, LA 70091, USA","OK",-89.3644074,29.2384132
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"newtown, , ct, us","Newtown, CT, USA","OK",-73.3035656,41.4141116
+"goshen, , oh, us","Goshen, OH 45122, USA","OK",-84.1613239,39.2333935
+"jersey city, , nj, us","Jersey City, NJ, USA","OK",-74.0431435,40.7177545
+"watkins glen, , ny, us","Watkins Glen, NY, USA","OK",-76.8732921,42.3806287
+"dunbar, , wv, us","Dunbar, WV 25064, USA","OK",-81.7373485,38.3606509
+"lithonia, , ga, us","Lithonia, GA 30058, USA","OK",-84.1051939,33.7123305
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"watkins glen, , ny, us","Watkins Glen, NY, USA","OK",-76.8732921,42.3806287
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

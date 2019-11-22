@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"providence, , ri, us","Providence, RI, USA","OK",-71.4128343,41.8239891
+"kennedy, , ny, us","Kennedy, NY 14747, USA","OK",-79.1019877,42.1572816
+"nevada desert, , nv, ","Black Rock Desert, Nevada, USA","OK",-119.0560102,40.910733
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"piper city, , il, us","Piper City, IL 60959, USA","OK",-88.191158,40.756702
+"northfield, , mn, us","Northfield, MN 55057, USA","OK",-93.161604,44.4582983
+"los banos, , ca, us","Los Banos, CA, USA","OK",-120.8499151,37.0582786
+"gurnee, , il, us","Gurnee, IL, USA","OK",-87.9020186,42.3702996
+"aptos, , ca, us","Aptos, CA 95003, USA","OK",-121.8994016,36.9771729
+"st. louis park, , mn, us","St Louis Park, MN, USA","OK",-93.3702186,44.9597376
+"yazoo city, , ms, us","Yazoo City, MS 39194, USA","OK",-90.4056468,32.8551326
+"loris, , sc, us","Loris, SC 29569, USA","OK",-78.8903044,34.0562812
+"mcnary, , or, us","McNary, Umatilla, OR 97882, USA","OK",-119.2891829,45.9192991
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"ocean isle beach, , nc, us","Ocean Isle Beach, NC, USA","OK",-78.426672,33.8943393
+"ft. worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"schenectady, , ny, us","Schenectady, NY, USA","OK",-73.9395687,42.8142432
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"oak island, , nc, us","Oak Island, NC, USA","OK",-78.161106,33.9165623
+"garrison, , mn, us","Garrison, MN 56450, USA","OK",-93.8269216,46.2944038
+"monrovia, , ca, us","Monrovia, CA, USA","OK",-118.0019482,34.1442616
+"taylors, , sc, us","Taylors, SC, USA","OK",-82.2962268,34.9203946
+"rochester hills, , mi, us","Rochester Hills, MI, USA","OK",-83.1499322,42.6583661
+"murrells inlet, , sc, us","Murrells Inlet, SC 29576, USA","OK",-79.0414261,33.5510021
+"riggs, , mo, us","Riggs, MO 65256, USA","OK",-92.3454572,39.1711504
+"alliston , canada, on, ca","Alliston, New Tecumseth, ON, Canada","OK",-79.8691544,44.1539514
+"somerset, , nj, us","Somerset County, NJ, USA","OK",-74.6400432,40.5292099
+"cutyhunk island, , ma, ","Cuttyhunk Island, Gosnold, MA 02713, USA","OK",-70.9338747,41.4182719
+"compton, , ca, us","Compton, CA, USA","OK",-118.2200712,33.8958492
+"milford, , ct, us","Milford, CT, USA","OK",-73.064036,41.2306979
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"capitola, , ca, us","Capitola, CA, USA","OK",-121.953293,36.9752283
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"unknown, , oh, ",NA,"ZERO_RESULTS",NA,NA
+"unknown, , oh, ",NA,"ZERO_RESULTS",NA,NA
+"hasbrouck heights, , nj, us","Hasbrouck Heights, NJ 07604, USA","OK",-74.0806971,40.8581553
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"holden beach, , nc, us","Holden Beach, NC 28462, USA","OK",-78.3038892,33.9135061
+"ocean springs, , ms, us","Ocean Springs, MS 39564, USA","OK",-88.8278057,30.4113097
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"new delhi , india, , ","New Delhi, Delhi, India","OK",77.2090212,28.6139391
+"ashley, , il, us","Ashley, IL 62808, USA","OK",-89.1909097,38.3294942
+"sebastopol, , ca, us","Sebastopol, CA 95472, USA","OK",-122.8238806,38.4021359
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"mcminnville, , or, us","McMinnville, OR 97128, USA","OK",-123.1987163,45.2101162
+"columbia, , sc, us","Columbia, SC, USA","OK",-81.0348144,34.0007104
+"murphysboro, , il, us","Murphysboro, IL 62966, USA","OK",-89.3350888,37.7644952
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"superior, , az, us","Superior, AZ 85173, USA","OK",-111.0962305,33.293945
+"potter valley, , ca, us","Potter Valley, CA 95469, USA","OK",-123.113059,39.3221089
+"silverdale, , wa, us","Silverdale, WA, USA","OK",-122.6948697,47.6445386
+"york, , pa, us","York, PA, USA","OK",-76.727745,39.9625984
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"wolfville , canada, ns, ca","Wolfville, NS B0P, Canada","OK",-64.3598354,45.0917598
+"gainesville, , ga, us","Gainesville, GA, USA","OK",-83.8240663,34.2978794
+"grants pass , murphy area, or, us","Murphy, OR 97527, USA","OK",-123.332335,42.3475232
+"weed, , ca, us","Weed, CA, USA","OK",-122.3861269,41.4226498
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"woodinville , hyw 9 &amp; 522 jxn., wa, us","WA-9, Washington, USA","OK",-122.1456696,47.7809641
+"ashland, , oh, us","Ashland, OH 44805, USA","OK",-82.3182178,40.8686675
+"blanchardville, , wi, us","Blanchardville, WI 53516, USA","OK",-89.8620682,42.8102794
+"claremont, , ca, us","Claremont, CA, USA","OK",-117.7197785,34.0966764
+"selinsgrove, , pa, us","Selinsgrove, PA 17870, USA","OK",-76.8621935,40.7989735
+"newburyport, , ma, us","Newburyport, MA, USA","OK",-70.8772751,42.8125913
+"mt rainier, , wa, ","Mount Rainier, Washington 98304, USA","OK",-121.7603229,46.8523075
+"wilmington, , ma, us","Wilmington, MA, USA","OK",-71.1724467,42.5481714
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"st. joseph, , mi, us","St Joseph, MI, USA","OK",-86.4895463,42.0938577
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"leesburg, , va, us","Leesburg, VA, USA","OK",-77.5636015,39.1156615
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"hagerstown to sidling hill cut, , md, ","Sideling Hill, 5, Hancock, MD 21750, USA","OK",-78.2883333,39.7102777
+"florissant, , co, us","Florissant, CO 80816, USA","OK",-105.2893555,38.946154
+"sikeston, , mo, us","Sikeston, MO 63801, USA","OK",-89.5878579,36.876719
+"dayton, , oh, us","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"williamsville, , ny, us","Williamsville, NY 14221, USA","OK",-78.7378091,42.963947
+"minden, , ne, us","Minden, NE, USA","OK",-98.9478594,40.4986252
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"fontana, , ks, us","Fontana, KS 66026, USA","OK",-94.8382948,38.4258511
+"kearney, , mo, us","Kearney, MO, USA","OK",-94.3621703,39.3677802
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"north lima, , oh, us","North Lima, OH 44452, USA","OK",-80.6584754,40.9483249
+"kings park, , ny, us","Kings Park, NY 11754, USA","OK",-73.2573369,40.886209
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

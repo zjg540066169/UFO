@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"newport news, , va, us","Newport News, VA, USA","OK",-76.4730122,37.0870821
+"mantua, , nj, us","Mantua Township, NJ, USA","OK",-75.1821597,39.7818322
+"whitwell, worksop , , ","Whitwell, Worksop S80, UK","OK",-1.209239,53.285594
+"abbotsford , canada, bc, ca","Abbotsford, BC, Canada","OK",-122.3044697,49.0504377
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"casper, , wy, us","Casper, WY, USA","OK",-106.3251749,42.8500769
+"maryville, , tn, us","Maryville, TN, USA","OK",-83.9704593,35.7564719
+"ottumwa, , ia, us","Ottumwa, IA 52501, USA","OK",-92.4083022,41.0160293
+"hawthorne, , ca, us","Hawthorne, CA, USA","OK",-118.3525748,33.9164032
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"evesham, , nj, ","Evesham Township, NJ 08053, USA","OK",-74.8857989,39.8522951
+"paducah, , ky, us","Paducah, KY, USA","OK",-88.6000478,37.0833893
+"duarte, , ca, us","Duarte, CA, USA","OK",-117.9772873,34.1394513
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"pleasanton, , ca, us","Pleasanton, CA, USA","OK",-121.8757968,37.6604484
+"brownwood, , tx, us","Brownwood, TX, USA","OK",-98.9911611,31.7093197
+"hoquiam, , wa, us","Hoquiam, WA, USA","OK",-123.8839028,46.977043
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"celina, , tx, us","Celina, TX, USA","OK",-96.7868794,33.2812885
+"dinuba, , ca, us","Dinuba, CA, USA","OK",-119.3870656,36.5432837
+"schaumburg, , il, us","Schaumburg, IL, USA","OK",-88.0834059,42.0333607
+"lafayette, , co, us","Lafayette, CO, USA","OK",-105.0897058,39.9935959
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"shelter cove, , ca, us","Shelter Cove, CA 95589, USA","OK",-124.0730866,40.0304212
+"oakland park, , fl, us","Oakland Park, FL, USA","OK",-80.1319893,26.1723065
+"pounchatola, , la, ","Ponchatoula, LA, USA","OK",-90.4414762,30.4388041
+"beckwourth, , ca, us","Beckwourth, CA, USA","OK",-120.3788225,39.8201799
+"wendell, , id, us","Wendell, ID 83355, USA","OK",-114.7042168,42.7757368
+"youngsville, , la, us","Youngsville, LA, USA","OK",-91.9901206,30.0996471
+"leawood, , ks, us","Leawood, KS, USA","OK",-94.6169012,38.966673
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"new mexico, , nm, ","New Mexico, USA","OK",-105.8700901,34.5199402
+"janesville, , wi, us","Janesville, WI, USA","OK",-89.0187222,42.6827885
+"charlotte hall, , md, us","Charlotte Hall, MD, USA","OK",-76.778022,38.4809565
+"medina, , wa, us","Medina, WA 98039, USA","OK",-122.2360597,47.6248333
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"st. catharines , canada, on, ca","St. Catharines, ON, Canada","OK",-79.2468626,43.1593745
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"orem, , ut, us","Orem, UT, USA","OK",-111.6946475,40.2968979
+"rotterdam, , ny, us","Rotterdam, NY, USA","OK",-73.9709583,42.7870209
+"dodge city, , ks, us",NA,"ZERO_RESULTS",NA,NA
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"ft. worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"spanaway, , wa, us","Spanaway, WA, USA","OK",-122.4345661,47.103988
+"henderson, , ny, us","Henderson, NY 13650, USA","OK",-76.1816012,43.846825
+"prospect, , or, us",NA,"ZERO_RESULTS",NA,NA
+"ourinhos , brazil, , ","Ourinhos - State of São Paulo, Brazil","OK",-49.8698965,-22.9799015
+"chattaroy, , wa, us",NA,"ZERO_RESULTS",NA,NA
+"sicklerville, , nj, us","Sicklerville, NJ 08081, USA","OK",-74.9697707,39.7172152
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"dallas-fort worth, , tx, ","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"citrus heights, , ca, us","Citrus Heights, CA, USA","OK",-121.2810611,38.7071247
+"lake zurich, , il, us","Lake Zurich, IL, USA","OK",-88.0934108,42.1969689
+"clarksburg, , wv, us","Clarksburg, WV, USA","OK",-80.3445341,39.2806451
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9356776,45.526088
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"hood river, , or, us",NA,"ZERO_RESULTS",NA,NA
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"oviedo, winter springs, fl, ","Oviedo, FL, USA","OK",-81.2081203,28.669997
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"wellington, , fl, us","Wellington, FL, USA","OK",-80.2683571,26.6617635
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"mount airy, , nc, us","Mt Airy, NC 27030, USA","OK",-80.6072858,36.4993007
+"rothwell , uk, , gb","Rothwell, UK","OK",-0.803219,52.422681
+"clinton, , tn, us","Clinton, TN 37716, USA","OK",-84.1318632,36.1034126
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"highland, , ca, us","Highland, CA, USA","OK",-117.2086513,34.1283442
+"aberdeen, , wa, us","Aberdeen, WA, USA","OK",-123.8157218,46.9753708
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"lake country , canada, bc, ",NA,"ZERO_RESULTS",NA,NA
+"thatcher, , az, us","Thatcher, AZ, USA","OK",-109.7592479,32.8492323
+"bluefield, bland virginia, wv, ","Bluefield, WV 24701, USA","OK",-81.2223195,37.2698395
+"nanaimo , canada, bc, ca","Nanaimo, BC, Canada","OK",-123.9400648,49.1658836
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"fairfield, , ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"north augusta, , sc, us","North Augusta, SC, USA","OK",-81.9651152,33.5018026
+"princeton, , wv, us","Princeton, WV 24740, USA","OK",-81.1025918,37.3662293
+"panhandle, , tx, us",NA,"ZERO_RESULTS",NA,NA
+"cutler ridge, , fl, us",NA,"ZERO_RESULTS",NA,NA
+"ein geidi beach , israel, , ","Ein Gedi Beach","OK",35.3983867,31.4584427
+"portsmouth, , va, us","Portsmouth, VA, USA","OK",-76.2982742,36.8354258
+"shackle island community of hendersonville, , tn, ","Shackle Island, TN 37075, USA","OK",-86.6166621,36.3706045
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"mill creek, , wa, us","Mill Creek, WA, USA","OK",-122.2042966,47.8600971
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"weston, , mo, us","Weston, MO 64098, USA","OK",-94.9016298,39.4111092
+"iba&#44 zambales , philippines, , ",NA,"REQUEST_DENIED",NA,NA
+"jayuya , puerto rico, pr, ","Jayuya, 00664, Puerto Rico","OK",-66.5915617,18.2185674
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"otway, , oh, us","Otway, OH 45657, USA","OK",-83.1874041,38.866462
+"point marion , near&#44 60 miles south of pittsburgh, pa, us",NA,"REQUEST_DENIED",NA,NA
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

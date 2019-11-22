@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"nanaimo , canada, bc, ca","Nanaimo, BC, Canada","OK",-123.9400648,49.1658836
+"port sydney , canada, on, ","Port Sydney, Huntsville, ON P0B, Canada","OK",-79.2858135,45.2175539
+"west plains, , mo, ","West Plains, MO 65775, USA","OK",-91.8523711,36.7281154
+"west richland, , wa, us","West Richland, WA, USA","OK",-119.3614091,46.3043015
+"colville, , wa, us","Colville, WA 99114, USA","OK",-117.9009545,48.5449971
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"denmark, , sc, us","Denmark, SC 29042, USA","OK",-81.1423236,33.3226546
+"hunstville, , al, ","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"bundaverg , australia, , ","Bundaberg Central QLD 4670, Australia","OK",152.3509714,-24.8669736
+"trowbridge , uk, , gb","Trowbridge BA14, UK","OK",-2.208853,51.319664
+"new rochelle, , ny, us","New Rochelle, NY, USA","OK",-73.7823549,40.9114882
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"sulphur, , la, us","Sulphur, LA, USA","OK",-93.3773783,30.2365943
+"wendover, , ut, us","Wendover, UT 84083, USA","OK",-114.0375102,40.7371524
+"persian gulf, , , ","Persian Gulf (also known as the Arabian Gulf)","OK",51.6834275,26.7505337
+"bayfield , near&#44 lake superior&#44 south shore, wi, us",NA,"REQUEST_DENIED",NA,NA
+"cockeysville, , md, us","Cockeysville, MD, USA","OK",-76.6438598,39.4812172
+"destrehan, , la, us","Destrehan, LA, USA","OK",-90.3517469,29.9429828
+"liberty county , on highway, mt, ","Chester, MT 59522, USA","OK",-110.9674714,48.5105441
+"rishon lezion , israel, , ","Rishon LeTsiyon, Israel","OK",34.7925013,31.9730015
+"valencia, , ca, us","Valencia, Santa Clarita, CA 91354, USA","OK",-118.5713823,34.456151
+"rancho tehama, , ca, ","Rancho Tehama Reserve, CA, USA","OK",-122.4580469,40.0006884
+"the hague , netherlands, , ","The Hague, Netherlands","OK",4.3006999,52.0704978
+"fremont, , mi, us","Fremont, MI, USA","OK",-85.9420013,43.4675173
+"queenbeyan , austria, , ","Queanbeyan NSW 2620, Australia","OK",149.230896,-35.3530392
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"washington, , ca, us","Washington, CA 95986, USA","OK",-120.7999351,39.3590873
+"breckenridge, , mn, us","Breckenridge, MN 56520, USA","OK",-96.5869443,46.2627778
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"guilford, , ct, us","Guilford, CT, USA","OK",-72.674364,41.288906
+"south jordan, , ut, us","South Jordan, UT, USA","OK",-111.929658,40.5621704
+"lorain, , oh, us","Lorain, OH, USA","OK",-82.1823746,41.452819
+"rocky hill, , ct, us","Rocky Hill, CT, USA","OK",-72.6655757,41.6572525
+"rowland heights, , ca, us","Rowland Heights, CA, USA","OK",-117.9053395,33.9761238
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"venice, , fl, us","Venice, FL, USA","OK",-82.4542632,27.0997775
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"ramskate , uk, , ","Ramsgate, UK","OK",1.419895,51.335545
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"bahamas, , , ","The Bahamas","OK",-77.39628,25.03428
+"georgetown, , il, us","Georgetown, IL 61846, USA","OK",-87.6358546,39.9753144
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"los osos, , ca, us","Baywood-Los Osos, CA 93402, USA","OK",-120.8384093,35.3072291
+"east stroudsburg, , pa, us","East Stroudsburg, PA 18301, USA","OK",-75.1817547,41.0030522
+"woodstock, , ga, us","Woodstock, GA, USA","OK",-84.5193754,34.1014873
+"marlborough, , ma, us","Marlborough, MA, USA","OK",-71.5522874,42.3459271
+"canada, , nt, ","Northwest Territories, Canada","OK",-124.8457334,64.8255441
+"maldon , uk, , gb","Maldon CM9, UK","OK",0.671448,51.731805
+"batavia, , oh, us","Batavia, OH 45103, USA","OK",-84.1768795,39.0770072
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"sylmar, , ca, us","Sylmar, Los Angeles, CA, USA","OK",-118.4571974,34.3058279
+"roslindale, , ma, us","Roslindale, Boston, MA, USA","OK",-71.1270268,42.2832142
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"reston, , va, us","Reston, VA, USA","OK",-77.3570028,38.9586307
+"sandusky, , oh, us","Sandusky, OH 44870, USA","OK",-82.7116821,41.4561754
+"portsmouth, , nh, us","Portsmouth, NH 03801, USA","OK",-70.7625532,43.0717552
+"dayton, , oh, us","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"lost park area, , co, ","Lost Creek Campground, Co Rd 56, Jefferson, CO 80456, USA","OK",-105.5059038,39.2844693
+"merrill, , wi, us","Merrill, WI 54452, USA","OK",-89.683459,45.1805223
+"middletown, , de, us","Middletown, DE, USA","OK",-75.7163207,39.449556
+"townsend, , de, us","Townsend, DE 19734, USA","OK",-75.6915973,39.3951115
+"greenville, , il, us","Greenville, IL 62246, USA","OK",-89.4131356,38.8922687
+"river ridge, , la, us","River Ridge, LA, USA","OK",-90.2156316,29.9602043
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"bristol, , tn, us","Bristol, TN, USA","OK",-82.1887444,36.5951059
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"andover, , ma, us","Andover, MA, USA","OK",-71.1367953,42.6583356
+"joshua tree national park, , ca, ","Joshua Tree National Park, California, USA","OK",-115.9009923,33.873415
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"saxton , a small village in yorkshire, , gb","Saxton, Tadcaster LS24 9PX, UK","OK",-1.274873,53.822409
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"macon, , ga, us","Macon, GA, USA","OK",-83.6324022,32.8406946
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"key west, , fl, us","Key West, FL 33040, USA","OK",-81.7799871,24.5550593
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"mineola, , ny, us","Mineola, NY, USA","OK",-73.6406845,40.7492678
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"buckley, , wa, us","Buckley, WA, USA","OK",-122.0267787,47.1631573
+"usak , turkey, , ","Uşak, Uşak Merkez/Uşak, Turkey","OK",29.4058825,38.6742286
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"jackson, , ga, us","Jackson, GA 30233, USA","OK",-83.9660209,33.2945651
+"old orchard beach, , me, us","Old Orchard Beach, ME, USA","OK",-70.3772911,43.5177659
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"kingston, , wa, us","Kingston, WA, USA","OK",-122.4981921,47.7987072
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"coulterville, , ca, us","Coulterville, CA 95311, USA","OK",-120.1972129,37.7107484
+"hilton head, , nc, ","Hilton Head Terrace, Hilton Head Island, SC 29926, USA","OK",-80.7037375,32.2095562
+"bridgman, , mi, us","Bridgman, MI 49106, USA","OK",-86.5569659,41.9430986
+"cherokee village, , ar, us","Cherokee Village, AR, USA","OK",-91.515973,36.2978443
+"athens, , tx, us","Athens, TX, USA","OK",-95.8555207,32.2048735
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"newport , uk, , gb","Newport, UK","OK",-2.997664,51.584151
+"slaughter beach, , de, us","Slaughter Beach, DE 19963, USA","OK",-75.30408,38.9128903
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"brighton township, , mi, ","Brighton Township, MI, USA","OK",-83.7411631,42.5564732
+"oldbridge, , nj, ","Old Bridge Township, NJ, USA","OK",-74.307282,40.4128551
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

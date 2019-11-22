@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"blackstone, , va, us","Blackstone, VA 23824, USA","OK",-77.9972259,37.080428
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"coleman, , wi, us","Coleman, WI, USA","OK",-88.0342701,45.0649843
+"tony, , wi, us","Tony, WI, USA","OK",-90.9926422,45.4830248
+"wausau, , wi, us","Wausau, WI, USA","OK",-89.6301221,44.9591352
+"traverse city, , mi, us","Traverse City, MI, USA","OK",-85.6206317,44.7630567
+"blanchester, , oh, us","Blanchester, OH 45107, USA","OK",-83.9888205,39.2931174
+"blanchester, , oh, us","Blanchester, OH 45107, USA","OK",-83.9888205,39.2931174
+"hungry horse, , mt, us","Hungry Horse, MT, USA","OK",-114.060953,48.3857979
+"orland park, , il, us","Orland Park, IL, USA","OK",-87.8539425,41.6303103
+"liberty, , oh, us","Liberty Township, OH, USA","OK",-84.4094359,39.401514
+"washington, , ct, us","Washington, CT, USA","OK",-73.3107223,41.630267
+"roswell, , nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"cove palisades, , or, ","The Cove Palisades State Park, 7300 SW Jordan Rd, Culver, OR 97734, USA","OK",-121.2762673,44.5673242
+"washington&#44 d.c. , roosevelt island area, dc, ",NA,"REQUEST_DENIED",NA,NA
+"aztec, farmington, nm, ","Aztec, NM, USA","OK",-107.9928455,36.8222261
+"charleston, , wv, us","Charleston, WV, USA","OK",-81.6326234,38.3498195
+"cleveland, , ga, us","Cleveland, GA 30528, USA","OK",-83.7632366,34.5970402
+"fairlawn, , oh, us","Fairlawn, OH, USA","OK",-81.609844,41.127833
+"troy, , il, us","Troy, IL, USA","OK",-89.8831541,38.7292147
+"manhattan , near, ks, us","Manhattan, KS, USA","OK",-96.5716694,39.1836082
+"cazenovia, , ny, us","Cazenovia, NY 13035, USA","OK",-75.8526915,42.9300668
+"hampton, , va, us","Hampton, VA, USA","OK",-76.3452218,37.0298687
+"severn, , md, us","Severn, MD, USA","OK",-76.6983022,39.1370528
+"shropham norfolk , uk, , ","Shropham, Attleborough NR17 1EJ, UK","OK",0.918423,52.497193
+"westbank , canada, bc, ca","Westbank, West Kelowna, BC V4T 1P7, Canada","OK",-119.6281931,49.8313652
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"wilmington, , ca, us","Wilmington, Los Angeles, CA, USA","OK",-118.2643567,33.7857948
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"lansing, , mi, us","Lansing, MI, USA","OK",-84.5555347,42.732535
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"coalinga, , ca, us","Coalinga, CA 93210, USA","OK",-120.3601496,36.139678
+"galveston, , tx, us","Galveston, TX, USA","OK",-94.7976958,29.3013479
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"cheney, , wa, us","Cheney, WA 99004, USA","OK",-117.5757622,47.4873895
+"bristol , uk, , gb","Bristol, UK","OK",-2.58791,51.454513
+"joplin, , mo, us","Joplin, MO, USA","OK",-94.513281,37.0842271
+"cardiff , jamaica, , ","Cardiff Hall,, Rickets Dr, Runaway Bay, Jamaica","OK",-77.3205415,18.4579622
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"e. falmouth, , ma, ","East Falmouth, Falmouth, MA 02536, USA","OK",-70.5586401,41.5784425
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"clark, , wy, us","Clark, WY 82435, USA","OK",-109.1509804,44.8993923
+"ashland city, , tn, us","Ashland City, TN 37015, USA","OK",-87.0641699,36.2742207
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"brunswick, , nc, us","Brunswick County, NC, USA","OK",-78.2020387,34.0275398
+"carver, , ma, us","Carver, MA, USA","OK",-70.7625376,41.8834363
+"snohomish, , wa, us","Snohomish, WA, USA","OK",-122.0981847,47.9128756
+"dhaka , bangladesh, , ","Dhaka, Bangladesh","OK",90.4125181,23.810332
+"norwalk, , ca, us","Norwalk, CA, USA","OK",-118.081733,33.9022367
+"willcox, , az, us","Willcox, AZ 85643, USA","OK",-109.8320124,32.2528519
+"ellensburg, , wa, us","Ellensburg, WA, USA","OK",-120.5478474,46.9965144
+"sophia, , wv, us","Sophia, WV, USA","OK",-81.250657,37.7076145
+"lee, , nh, us","Lee, NH, USA","OK",-71.0120127,43.122244
+"groten, , ma, ","Groton, MA, USA","OK",-71.5745152,42.6112018
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"leicester , uk, , gb","Leicester, UK","OK",-1.1397592,52.6368778
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"valley city, , oh, us","Valley City, OH 44280, USA","OK",-81.9312715,41.2376644
+"soho satellite photo, , in, ",NA,"ZERO_RESULTS",NA,NA
+"cave creek, , az, us","Cave Creek, AZ 85331, USA","OK",-111.9507042,33.8333716
+"carmel, , in, us","Carmel, IN, USA","OK",-86.1180435,39.978371
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"sliema , malta, , ","Sliema, Malta","OK",14.502904,35.9110081
+"douglas , isle of man, , gb","Douglas, Isle of Man","OK",-4.4861228,54.1523372
+"ottawa , kars, on, ca","Kars - Osgoode, Ottawa, ON, Canada","OK",-75.5990289,45.1610588
+"lake oswego, , or, us","Lake Oswego, OR, USA","OK",-122.7163273,45.415734
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"fostoria, , mi, us","Fostoria, MI 48435, USA","OK",-83.3718948,43.2533586
+"romulus, new boston, mi, ","New Boston, Huron Charter Twp, MI 48164, USA","OK",-83.4027844,42.1626843
+"jensen beach, , fl, us","Jensen Beach, FL 34957, USA","OK",-80.2297697,27.2544906
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"marquette, , mi, us","Marquette, MI, USA","OK",-87.3953713,46.5436199
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"almond, , wi, us","Almond, WI 54909, USA","OK",-89.4070628,44.2588628
+"la farge, , wi, us","La Farge, WI 54639, USA","OK",-90.6404083,43.5746959
+"salisbury, , nc, us","Salisbury, NC, USA","OK",-80.4742261,35.6709727
+"portage, , wi, us","Portage, WI 53901, USA","OK",-89.4626202,43.5391486
+"mosinee, , wi, us","Mosinee, WI 54455, USA","OK",-89.7031784,44.7930232
+"omro , northwest of, wi, us","Omro, WI 54963, USA","OK",-88.7442772,44.0394263
+"new kensignton, , pa, ","New Kensington, PA 15068, USA","OK",-79.7647705,40.5697892
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

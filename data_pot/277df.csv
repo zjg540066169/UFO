@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"gridley, , il, us","Gridley, IL 61744, USA","OK",-88.8814578,40.7433682
+"rome, , ga, us","Rome, GA, USA","OK",-85.1646726,34.257038
+"spruce pine, , nc, us","Spruce Pine, NC 28777, USA","OK",-82.0645611,35.9154007
+"somerset, , pa, us","Somerset, PA 15501, USA","OK",-79.0780831,40.008411
+"butte, , mt, us","Butte, MT, USA","OK",-112.5347775,46.0038232
+"manheim, , pa, us","Manheim, PA 17545, USA","OK",-76.3949614,40.1634279
+"galena, , ks, us","Galena, KS 66739, USA","OK",-94.6396714,37.0758952
+"fredericksburg, , va, us","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"armada, , mi, us","Armada, MI 48005, USA","OK",-82.8843722,42.8441964
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"providence, , ri, us",NA,"ZERO_RESULTS",NA,NA
+"oscoda, , mi, us","Oscoda, MI, USA","OK",-83.3307974,44.4202888
+"purdy, , ny, ","Purdys, NY, USA","OK",-73.6546854,41.3258417
+"converse, , in, us","Converse, IN 46919, USA","OK",-85.8733179,40.5775397
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"hoyt lakes, , mn, us","Hoyt Lakes, MN, USA","OK",-92.1385071,47.5196465
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9356776,45.526088
+"canandaigua, , ny, us","Canandaigua, NY 14424, USA","OK",-77.2816984,42.887535
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"weiser, , id, us","Weiser, ID 83672, USA","OK",-116.9693327,44.2509976
+"marana, , az, us","Marana, AZ, USA","OK",-111.2224422,32.436381
+"astoria, , ny, us","Astoria, Queens, NY, USA","OK",-73.9234619,40.7643574
+"cushing, , ok, us","Cushing, OK 74023, USA","OK",-96.76697,35.9850639
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"kountze, , tx, us","Kountze, TX 77625, USA","OK",-94.3124116,30.3715975
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"knoxville, , md, us","Knoxville, MD 21758, USA","OK",-77.6645614,39.3278289
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"severn, , md, us","Severn, MD, USA","OK",-76.6983022,39.1370528
+"plum, , pa, us","Plum, PA, USA","OK",-79.7494911,40.5003456
+"ayrshire , uk, , gb","Ayrshire, UK","OK",-4.6679959,55.3649698
+"stanardsville, , va, us","Stanardsville, VA 22973, USA","OK",-78.4400099,38.2973519
+"belton, , tx, us","Belton, TX, USA","OK",-97.464453,31.0560132
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"bloomington, , mn, us","Bloomington, MN, USA","OK",-93.2982799,44.840798
+"avon lake, , oh, us","Avon Lake, OH 44012, USA","OK",-82.0282001,41.5053178
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"palm spring, indio, ca, ","48630 Monroe St, Indio, CA 92201, USA","OK",-116.2305539,33.6954955
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"raytown, , mo, us","Raytown, MO, USA","OK",-94.4635638,39.0086171
+"glenrock, , wy, us","Glenrock, WY 82637, USA","OK",-105.8722264,42.8613552
+"pipersville, , pa, us","Pipersville, Bedminster Township, PA 18947, USA","OK",-75.1393428,40.4259686
+"marysville, , ca, us","Marysville, CA, USA","OK",-121.5913547,39.1457253
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9356776,45.526088
+"benton, , tn, us","Benton, TN 37307, USA","OK",-84.6535468,35.1742411
+"ashaway, , ri, us","Ashaway, Hopkinton, RI 02804, USA","OK",-71.7856238,41.4234329
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"stephens city, , va, us","Stephens City, VA, USA","OK",-78.2180567,39.0834398
+"highwood, , il, us","Highwood, IL 60040, USA","OK",-87.8092335,42.1997468
+"charleston, , me, us","Charleston, ME 04422, USA","OK",-69.0405949,45.0850615
+"jackson, , ms, us","Jackson, MS, USA","OK",-90.1848103,32.2987573
+"long lake, , mn, us",NA,"ZERO_RESULTS",NA,NA
+"pittsfield, , ma, us","Pittsfield, MA 01201, USA","OK",-73.2453824,42.4500845
+"crabwood creek , guyana, , ","Crabwood Creek, Guyana","OK",-57.1746259,5.8105508
+"germantown, , oh, us",NA,"ZERO_RESULTS",NA,NA
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"scottsville, , va, us","Scottsville, VA 24590, USA","OK",-78.4955648,37.798754
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"stockbridge, , ga, us","Stockbridge, GA, USA","OK",-84.2338093,33.5442781
+"grand rivers, , , ","1020 Dover Rd, Grand Rivers, KY 42045, USA","OK",-88.2854522,37.0622852
+"arlington, , va, us","Arlington, VA, USA","OK",-77.1067698,38.8799697
+"shelby, , nc, us","Shelby, NC, USA","OK",-81.5356463,35.2923513
+"lansdale, , pa, us","Lansdale, PA, USA","OK",-75.2837862,40.2414952
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"la porte, , in, ","La Porte, IN 46350, USA","OK",-86.7227195,41.611143
+"bend, , or, us","520 NW Wall St, Bend, OR 97701, USA","OK",-121.316262,44.056222
+"sun city west, , az, us","Sun City West, AZ, USA","OK",-112.3412726,33.6619819
+"monrovia, , ca, us","Monrovia, CA, USA","OK",-118.0019482,34.1442616
+"winter park , orlando, fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"newark , i-95; near pa border, de, us","I-95, Newark, DE, USA","OK",-75.7497166,39.6467758
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"monroe, , oh, us","Monroe, OH, USA","OK",-84.3621634,39.440336
+"eastvale, , ca, ","Eastvale, CA, USA","OK",-117.5848025,33.952463
+"kennett square, , pa, us","Kennett Square, PA 19348, USA","OK",-75.7116032,39.8467767
+"castle rock, , co, us",NA,"ZERO_RESULTS",NA,NA
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"piqua, , oh, us","Piqua, OH 45356, USA","OK",-84.2424449,40.1447732
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"avon, , ct, us","500 Old Farms Rd, Avon, CT 06001, USA","OK",-72.8380126,41.7764358
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"glenwood, , ny, us","Glenwood, NY 14069, USA","OK",-78.6578041,42.6192276
+"palmer, , ak, us","Palmer, AK 99645, USA","OK",-149.1146334,61.599415
+"stoney beach, , md, ","Stoney Beach, Baltimore, MD 21226, USA","OK",-76.5191968,39.1727741
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"seattle, belfair, wa, ","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"lakeview, , or, us","21 N F St, Lakeview, OR 97630, USA","OK",-120.3462237,42.1899323
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"pasco, , wa, us","Pasco, WA 99301, USA","OK",-119.0922316,46.2305049
+"georgetown, , de, us",NA,"ZERO_RESULTS",NA,NA
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"makawao, , hi, us","Makawao, HI, USA","OK",-156.3130556,20.8569444
+"denmark, , wi, us","Denmark, WI 54208, USA","OK",-87.8273152,44.3477717
+"traverse city, , mi, us","Traverse City, MI, USA","OK",-85.6206317,44.7630567
+"inverkeithing , uk, , gb","Inverkeithing, UK","OK",-3.398795,56.030043
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

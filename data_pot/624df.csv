@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"verona, , ny, us","Verona, NY 13478, USA","OK",-75.5706945,43.1381455
+"van wert, , oh, us","Van Wert, OH 45891, USA","OK",-84.5841223,40.8694927
+"bear, , de, us","Bear, DE, USA","OK",-75.6582628,39.6292788
+"hanover park, , il, us","Hanover Park, IL, USA","OK",-88.1450735,41.9994722
+"lacey, , wa, us","Lacey, WA, USA","OK",-122.8232553,47.0358969
+"derby, , ct, us","Derby, CT, USA","OK",-73.0889973,41.3206523
+"gainsville, , fl, ","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"springfield, , oh, us","Springfield, OH, USA","OK",-83.8088171,39.9242266
+"winnemucca, , nv, us","Winnemucca, NV 89445, USA","OK",-117.7356849,40.9729584
+"spanaway, , wa, us","Spanaway, WA, USA","OK",-122.4345661,47.103988
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"goochland county, , va, us","Goochland County, VA, USA","OK",-77.973865,37.7415997
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"roswell, , ga, us","Roswell, GA, USA","OK",-84.3615555,34.0232431
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"lahaina, , hi, us","Lahaina, HI, USA","OK",-156.6825,20.8783333
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"new rochelle, , ny, us","New Rochelle, NY, USA","OK",-73.7823549,40.9114882
+"portage, , me, us","Portage, Portage Lake, ME 04768, USA","OK",-68.4757798,46.7596063
+"durant, , ok, us","Durant, OK, USA","OK",-96.3971233,33.9924186
+"indian harbour beach, , fl, us","Indian Harbour Beach, FL 32937, USA","OK",-80.5883855,28.1489021
+"west covina, , ca, us","West Covina, CA, USA","OK",-117.9389526,34.0686208
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"beaumont, , ca, us","Beaumont, CA, USA","OK",-116.977248,33.9294606
+"brick, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"checotah, , ok, us","Checotah, OK 74426, USA","OK",-95.5230356,35.4700993
+"fort leonard wood, , mo, ","Fort Leonard Wood, MO, USA","OK",-92.1646722,37.7252315
+"galveston, , tx, us","Galveston, TX, USA","OK",-94.7976958,29.3013479
+"hoffman estates, , il, us","Hoffman Estates, IL, USA","OK",-88.1227199,42.0629915
+"north haven, , ct, us","North Haven, CT 06473, USA","OK",-72.8595447,41.3909139
+"orchard park, , ny, us","Orchard Park, NY, USA","OK",-78.7440921,42.7675323
+"port elgin , canada, on, ca","Port Elgin, Saugeen Shores, ON, Canada","OK",-81.3929413,44.4340516
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"union beach, , nj, us","Union Beach, NJ 07735, USA","OK",-74.1781988,40.4464962
+"westminster, , ca, us","Westminster, CA, USA","OK",-117.9897058,33.7591757
+"washington, , dc, us","Washington, DC, USA","OK",-77.0368707,38.9071923
+"bristol, , pa, us","Bristol, PA 19007, USA","OK",-74.8518311,40.1006661
+"cedar park, , tx, us","Cedar Park, TX, USA","OK",-97.8202888,30.505198
+"edwardsville, , il, us","Edwardsville, IL, USA","OK",-89.953157,38.8114364
+"lantana, lake worth, fl, ","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"chicago heights, , il, us","Chicago Heights, IL, USA","OK",-87.6355995,41.506146
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"auburn, , pa, us","Auburn, PA 17922, USA","OK",-76.093272,40.5984249
+"barberton, , oh, us","Barberton, OH 44203, USA","OK",-81.6051221,41.012833
+"broomfield, , co, us","Broomfield, CO, USA","OK",-105.0866504,39.9205411
+"chino hills, , ca, us","Chino Hills, CA, USA","OK",-117.7325848,33.9898188
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"deltona, , fl, us","Deltona, FL, USA","OK",-81.2636738,28.9005446
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"hubert, , nc, us","Hubert, NC 28539, USA","OK",-77.2452328,34.7137729
+"mashpee, , ma, us","Mashpee, MA, USA","OK",-70.4819674,41.647872
+"meridian, , id, us","Meridian, ID, USA","OK",-116.3915131,43.6121087
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"muskogee, , ok, us","Muskogee, OK, USA","OK",-95.3696909,35.7478769
+"newark, , de, us","Newark, DE, USA","OK",-75.7496572,39.6837226
+"new castle, , pa, us","New Castle, PA, USA","OK",-80.347009,41.0036719
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"west haven, , ct, ","West Haven, CT 06516, USA","OK",-72.9469711,41.2705484
+"west mifflin, pittsburgh, pa, ","West Mifflin, PA, USA","OK",-79.8664375,40.3634026
+"lenexa, , ks, us","Lenexa, KS, USA","OK",-94.7335709,38.9536174
+"sunrise, , fl, us","Sunrise, FL, USA","OK",-80.256595,26.1669711
+"winter haven, , fl, us","Winter Haven, FL, USA","OK",-81.7328567,28.0222435
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"choctaw, , ok, us","Choctaw, OK 73020, USA","OK",-97.2689212,35.4975625
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"portland, , tx, us","Portland, TX, USA","OK",-97.3238805,27.8772463
+"pottstown, , pa, us","Pottstown, PA 19464, USA","OK",-75.6496302,40.2453741
+"spanaway, , wa, us","Spanaway, WA, USA","OK",-122.4345661,47.103988
+"toppenish, , wa, us","Toppenish, WA 98948, USA","OK",-120.3086667,46.3773509
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"pottstown, , pa, us","Pottstown, PA 19464, USA","OK",-75.6496302,40.2453741
+"steinhatchee, , fl, us","Steinhatchee, FL 32359, USA","OK",-83.387638,29.6710597
+"steinhatchee, , fl, us","Steinhatchee, FL 32359, USA","OK",-83.387638,29.6710597
+"arlington, , wa, us","Arlington, WA, USA","OK",-122.1251418,48.1987118
+"austintown, , oh, us","Austintown, OH, USA","OK",-80.7645239,41.1017247
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"elizabeth city, , nc, us","Elizabeth City, NC 27909, USA","OK",-76.2510461,36.2946008
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"hyde, , pa, us","Hyde, PA, USA","OK",-78.4625222,41.0025571
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

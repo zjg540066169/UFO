@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"coalinga , just outside of, ca, us","Coalinga, CA 93210, USA","OK",-120.3601496,36.139678
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"piner, , ky, us","Piner, KY 41063, USA","OK",-84.5357743,38.8314544
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"centreville, , va, us","Centreville, VA, USA","OK",-77.4288769,38.8403909
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"lake macquarie , nsw&#44 australia, , ",NA,"REQUEST_DENIED",NA,NA
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"ashford, , wa, us","Ashford, WA 98304, USA","OK",-122.0309408,46.7584413
+"loma linda, , ca, us","Loma Linda, CA, USA","OK",-117.2611527,34.0483474
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"haarlem-leiden , netherlands, , ","Leidsevaart, Netherlands","OK",4.5553439,52.2991887
+"conchas dam, , nm, ","Conchas, NM 88416, USA","OK",-104.1899762,35.4028261
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"kalamazoo, , mi, us","Kalamazoo, MI, USA","OK",-85.5872286,42.2917069
+"ogdensburg, , nj, us","Ogdensburg, NJ, USA","OK",-74.5923824,41.0817636
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"wheeling, , wv, us","Wheeling, WV 26003, USA","OK",-80.7209149,40.0639616
+"millinocket, , me, us","Millinocket, ME, USA","OK",-68.7098119,45.6572639
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"kerman, , ca, us","Kerman, CA 93630, USA","OK",-120.059879,36.7235572
+"sydney , canada, ns, ca","Sydney, NS, Canada","OK",-60.194224,46.1367899
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"richfield, , ut, us","Richfield, UT 84701, USA","OK",-112.0840943,38.7724673
+"cashion, , az, us","Cashion, Avondale, AZ, USA","OK",-112.2979381,33.431814
+"roswell, , nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"la mesa, , ca, us","La Mesa, CA, USA","OK",-117.0230839,32.7678287
+"firebaugh exit, , ca, ","Firebaugh, CA 93622, USA","OK",-120.4560072,36.8588376
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"abbotsford , canada, bc, ca","Abbotsford, BC, Canada","OK",-122.3044697,49.0504377
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"bear valley, , ca, us","Bear Valley, CA 95223, USA","OK",-120.0399088,38.4646337
+"burbank , 10-20 mins flight to, ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"west lebanon, , nh, us","West Lebanon, Lebanon, NH 03784, USA","OK",-72.3106065,43.6446508
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"spring valley, , ca, us","Spring Valley, CA, USA","OK",-116.998916,32.744774
+"north vancouver , canada, bc, ca","North Vancouver, BC, Canada","OK",-123.0724139,49.3199816
+"al asad , near hit, , ","Ain Assad Air Base, Iraq","OK",42.442989,33.793896
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"lebanon, , nh, us","Lebanon, NH, USA","OK",-72.2517569,43.6422934
+"pelzer, , sc, us","Pelzer, SC 29669, USA","OK",-82.4559598,34.6423372
+"round rock, , tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"ahwatukee-foothills , phoenix, az, ","Ahwatukee Foothills Village, Phoenix, AZ, USA","OK",-112.0357137,33.3122624
+"junction, , tx, us","Junction, TX 76849, USA","OK",-99.7720109,30.4893555
+"penticton , canada, bc, ca","Penticton, BC, Canada","OK",-119.5937077,49.4991381
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"st. paul , southern part, mn, us","South St Paul, MN, USA","OK",-93.0275802,44.8759802
+"eldon, , mo, us","Eldon, MO 65026, USA","OK",-92.5815759,38.3483636
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"lamy, , nm, us","Lamy, NM 87540, USA","OK",-105.8797413,35.4814259
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"plainfield, , in, us","Plainfield, IN, USA","OK",-86.3994387,39.7042123
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"covington, , va, us","Covington, VA 24426, USA","OK",-79.9939463,37.7934585
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"lompoc, , ca, us","Lompoc, CA, USA","OK",-120.4579409,34.6391501
+"port alberni , kennedy lake, bc, ca","Kennedy Lake Provincial Park, Alberni-Clayoquot C, BC V0R, Canada","OK",-125.5816924,49.0397177
+"taunton, , ma, us","Taunton, MA, USA","OK",-71.0897674,41.900101
+"ste-marguerite lac masson , canada, qc, ","Sainte-Marguerite-du-Lac-Masson, QC, Canada","OK",-74.0636967,46.0279404
+"uss enterprise , at sea, , ",NA,"ZERO_RESULTS",NA,NA
+"aurora , canada, on, ca","Aurora, ON, Canada","OK",-79.450396,44.00648
+"murmet springs, , il, ","Mermet Springs, 6724 N, US-45, Belknap, IL 62908, United States","OK",-88.858022,37.284501
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"mount olive, , al, us","Mt Olive, AL, USA","OK",-86.8561047,33.6709369
+"elko, , nv, us","Elko, NV 89801, USA","OK",-115.7631232,40.8324211
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"wolf point, , mt, us","Wolf Point, MT 59201, USA","OK",-105.6405566,48.0905736
+"groningen , the netherlands, , ","Groningen, Netherlands","OK",6.5665017,53.2193835
+"borden, carlton , pe, ","Borden-Carleton, PE, Canada","OK",-63.6921622,46.2537626
+"constableville, , ny, us","Constableville, NY 13325, USA","OK",-75.4285106,43.566736
+"hamburg, , ny, us","Hamburg, NY 14075, USA","OK",-78.8294768,42.7158927
+"waterford, , mi, us","Waterford Twp, MI, USA","OK",-83.4066132,42.6907443
+"shoreview, , mn, us","Shoreview, MN 55126, USA","OK",-93.1471667,45.0791325
+"granada hills, mission hills, ca, ","10515 Balboa Blvd Suite #250, Granada Hills, CA 91344, USA","OK",-118.5027182,34.2613724
+"russellville, , ar, us","Russellville, AR, USA","OK",-93.1337856,35.2784173
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"honesdale, , pa, us","Honesdale, PA 18431, USA","OK",-75.2587871,41.5767552
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"trout lake, , wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"chicago, ohare, il, ","O'Hare, Chicago, IL, USA","OK",-87.8368909,41.9772983
+"malcolm, , ne, us","Malcolm, NE 68402, USA","OK",-96.8627994,40.9066713
+"tensed , near, id, us","Tensed, ID 83870, USA","OK",-116.9218365,47.1598989
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"escondido, , ca, us","Escondido, CA, USA","OK",-117.086421,33.1192068
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"fredericton , canada, nb, ca","Fredericton, NB, Canada","OK",-66.6431151,45.9635895
+"red bank, , nj, us","Red Bank, NJ, USA","OK",-74.0643065,40.3470543
+"gladeville, , tn, us","Gladeville, TN 37122, USA","OK",-86.4163815,36.1125583
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

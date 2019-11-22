@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"brady, , wa, us","Brady, WA, USA","OK",-123.5118286,46.9959289
+"brady, , wa, us","Brady, WA, USA","OK",-123.5118286,46.9959289
+"west monroe, , la, us","West Monroe, LA, USA","OK",-92.1476353,32.5184775
+"auburn, , ny, us","Auburn, NY 13021, USA","OK",-76.5660529,42.9317335
+"corning, , ca, us","Corning, CA 96021, USA","OK",-122.1791556,39.9276572
+"easton, , ma, us","Easton, MA, USA","OK",-71.1286594,42.0245442
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"d&uuml;sseldorf , germany, , ","United States","OK",-95.712891,37.09024
+"unionville, , tn, us","Unionville, TN 37180, USA","OK",-86.592495,35.6217359
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"woodland, , wa, us","Woodland, WA 98674, USA","OK",-122.7439912,45.9045591
+"garden grove, , ca, us","Garden Grove, CA, USA","OK",-117.9379952,33.7742692
+"st. anthony, , id, us","St Anthony, ID 83445, USA","OK",-111.6821847,43.9663008
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"griswold, , ct, ","Griswold, CT, USA","OK",-71.9282781,41.5961439
+"norco, , ca, us","Norco, CA, USA","OK",-117.548661,33.9311257
+"la mirada, , ca, us","La Mirada, CA, USA","OK",-118.0120086,33.9172357
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"marysville, , ca, us","Marysville, CA, USA","OK",-121.5913547,39.1457253
+"rosemount, , mn, us","Rosemount, MN 55068, USA","OK",-93.1257723,44.7394103
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"noida , india, , ","Noida, Uttar Pradesh, India","OK",77.3910265,28.5355161
+"indiana, , in, ","Indiana, USA","OK",-86.1349019,40.2671941
+"port clinton, , oh, us","Port Clinton, OH 43452, USA","OK",-82.9376919,41.5119954
+"pullman, , wa, us","Pullman, WA 99163, USA","OK",-117.1817377,46.7297771
+"columbia, , tn, us","Columbia, TN 38401, USA","OK",-87.0352831,35.6150716
+"croydon , uk, , gb","Croydon, UK","OK",-0.098234,51.376165
+"hendersville, , tn, ","Hendersonville, TN, USA","OK",-86.6199957,36.3047735
+"clarkston, , wa, us","Clarkston, WA 99403, USA","OK",-117.0451581,46.4162723
+"fairfield, , ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"dubai , uar, , ","Dubai - United Arab Emirates","OK",55.2707828,25.2048493
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"gun barrel city, , tx, us","Gun Barrel City, TX, USA","OK",-96.1515623,32.3309699
+"el reno, , ok, us","El Reno, OK, USA","OK",-97.9550493,35.5322741
+"quincy, , ma, us","Quincy, MA, USA","OK",-71.0022705,42.2528772
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"fillmore, , ca, us","Fillmore, CA 93015, USA","OK",-118.918154,34.3991639
+"rodeo, , nm, us","Rodeo, NM 88056, USA","OK",-109.0311699,31.8353718
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"blaine, , wa, us","Blaine, WA, USA","OK",-122.7471191,48.993723
+"greencastle, , pa, us","Greencastle, PA 17225, USA","OK",-77.7277714,39.790371
+"garner, , nc, us","Garner, NC, USA","OK",-78.6141709,35.7112642
+"romeoville, , il, us","Romeoville, IL, USA","OK",-88.0895061,41.6475306
+"lakewood ranch, , fl, ","Lakewood Ranch, FL 34202, USA","OK",-82.4285151,27.4117037
+"duluth, , ga, us","Duluth, GA, USA","OK",-84.1446376,34.0028786
+"kingman , ~30 miles n on 93, az, us","US-93, Kingman, AZ, USA","OK",-114.066414,35.1907532
+"montello, , wi, us","Montello, WI 53949, USA","OK",-89.3198414,43.7913679
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"centerline, , mi, ","Center Line, MI, USA","OK",-83.0277002,42.4850362
+"lawrenceville, , nj, us","Lawrenceville, Lawrence Township, NJ 08648, USA","OK",-74.7361013,40.3016375
+"ponce , puerto rico, pr, ","Ponce, Puerto Rico","OK",-66.6140616,18.0110768
+"pridice valley, , az, ","Paradise Valley, AZ, USA","OK",-111.9426452,33.5311541
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"sarnia , canada, on, ca","Sarnia, ON, Canada","OK",-82.4065901,42.974536
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"murfeesboro, , tn, ","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"marmora, , nj, us","Marmora, NJ 08223, USA","OK",-74.6516997,39.2673954
+"menifee, , ca, us","Menifee, CA, USA","OK",-117.185294,33.6971468
+"oceanside , 5-10 minutes drive , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"newport coast, , ca, ","Newport Coast, Newport Beach, CA, USA","OK",-117.8369007,33.5973864
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"hot springs, , ar, us","Hot Springs, AR, USA","OK",-93.0551795,34.5037004
+"temple city, , ca, us","Temple City, CA, USA","OK",-118.0578456,34.1072305
+"schuyler county area, , il, ","Schuyler County, IL, USA","OK",-90.6393702,40.1844543
+"springfield , ??, il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"battle ground, , wa, us","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"marina di avola , italy, , ","96012 Marina di Avola SR, Italy","OK",15.1433967,36.9002323
+"talkeetna , matsue area, ak, us","Matanuska-Susitna Borough School District, AK, USA","OK",-150.1729153,62.2599347
+"las pinas , philippines, , ","Las Pinas, Metro Manila, Philippines","OK",120.9938736,14.444546
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"ontario , canada, on, ","Ontario, Canada","OK",-85.323214,51.253775
+"green valley, , az, us","Green Valley, AZ, USA","OK",-110.9937019,31.8542511
+"felton, , pa, us","Felton, PA 17322, USA","OK",-76.5644109,39.8548235
+"millville, , mn, us","Millville, MN 55957, USA","OK",-92.295731,44.244689
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"union , hood canal, wa, us","Union, WA 98592, USA","OK",-123.1016462,47.3546894
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"smyrna, , ga, us","Smyrna, GA, USA","OK",-84.5143761,33.8839926
+"ellicott city, , md, us","Ellicott City, MD, USA","OK",-76.7983067,39.2673283
+"riding mountain park , manitoba, mb, ","Riding Mountain National Park, 135 Wasagaming Dr, Onanole, MB R0J 1N0, Canada","OK",-99.9712948,50.6583616
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"joseph city-winslow, , az, ","Joseph City, AZ 86032, USA","OK",-110.3313027,34.955996
+"lemoore, , ca, us","Lemoore, CA 93245, USA","OK",-119.7829107,36.3007835
+"monticello, , in, us","Monticello, IN 47960, USA","OK",-86.7647343,40.7453169
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"wabash, , in, us","Wabash, IN 46992, USA","OK",-85.8205411,40.797821
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

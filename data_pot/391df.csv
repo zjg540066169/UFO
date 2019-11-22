@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"cherry grove, , sc, ","Cherry Grove Beach, North Myrtle Beach, SC 29582, USA","OK",-78.6430119,33.8278989
+"conway, , ar, us","Conway, AR, USA","OK",-92.4421011,35.0886963
+"acton, , me, us","Acton, ME, USA","OK",-70.9277544,43.5233821
+"chattanooga, , tn, us","Chattanooga, TN, USA","OK",-85.3096801,35.0456297
+"hayden, , id, us","Hayden, ID, USA","OK",-116.7865815,47.7660161
+"leonardo, , nj, us","Leonardo, Atlantic Highlands, NJ 07737, USA","OK",-74.0608558,40.4205193
+"prescott valley, , az, us","Prescott Valley, AZ, USA","OK",-112.315721,34.6100243
+"weston, , fl, us","Weston, FL, USA","OK",-80.3997748,26.1003654
+"escondido, , ca, us","Escondido, CA, USA","OK",-117.086421,33.1192068
+"olalla, , wa, us","Olalla, WA 98359, USA","OK",-122.5462666,47.4291201
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"newark, , nj, us","Newark, NJ, USA","OK",-74.1723667,40.735657
+"zillah, , wa, us","Zillah, WA 98953, USA","OK",-120.2619988,46.4020734
+"grandbay, , al, ","Grand Bay, AL 36541, USA","OK",-88.3422303,30.4763084
+"rifle, , co, us","Rifle, CO 81650, USA","OK",-107.7831198,39.5347023
+"canyon country, , ca, us","Canyon Country, Santa Clarita, CA 91351, USA","OK",-118.4720633,34.4235425
+"oxnard, , ca, us","Oxnard, CA, USA","OK",-119.1770516,34.1975048
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"cannon beach, , or, us","Cannon Beach, OR, USA","OK",-123.9615274,45.8917738
+"quitman, , ga, us","Quitman, GA 31643, USA","OK",-83.5598811,30.7849191
+"hoover, , al, us","Hoover, AL, USA","OK",-86.8113781,33.4053867
+"columbus, , ga, us","Columbus, GA, USA","OK",-84.9877094,32.4609764
+"cedar falls, , ia, us","Cedar Falls, IA, USA","OK",-92.4453161,42.5348993
+"theodore, , al, us","Theodore, AL 36582, USA","OK",-88.1752796,30.5476941
+"warren, , mi, us","Warren, MI, USA","OK",-83.0146526,42.5144566
+"baden, , pa, us","Baden, PA, USA","OK",-80.2281159,40.6350668
+"delta , canada, bc, ca","Delta, BC, Canada","OK",-123.0264758,49.0952155
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"langley, , wa, us","Langley, WA 98260, USA","OK",-122.406257,48.0400945
+"mcallen, , tx, us","McAllen, TX, USA","OK",-98.2300124,26.2034071
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"lake nacemiento, , ca, ","Lake Nacimiento, CA 93446, USA","OK",-120.879626,35.7283017
+"eagan, , mn, us","Eagan, MN, USA","OK",-93.1668858,44.8041322
+"comer, , ga, us","Comer, GA 30629, USA","OK",-83.1254261,34.0637227
+"oshawa , canada, on, ca","Oshawa, ON, Canada","OK",-78.8657912,43.8970929
+"model, , co, us","Model, CO 81059, USA","OK",-104.2449743,37.3722372
+"bolingbrook, , il, us","Bolingbrook, IL, USA","OK",-88.0683955,41.6986416
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"norwich , there was officer&#39s on the port side, , gb",NA,"REQUEST_DENIED",NA,NA
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"jackson, , mi, us","Jackson, MI, USA","OK",-84.4013462,42.245869
+"madison, , al, us","Madison, AL, USA","OK",-86.7483318,34.6992579
+"brendon , uk, , ","Brendon EX35, UK","OK",-3.7707142,51.1920845
+"wildwood, , il, us","Wildwood, IL 60030, USA","OK",-87.998056,42.342778
+"brighton , uk, , gb","Brighton, UK","OK",-0.137163,50.82253
+"westmont, , nj, us","Haddon Township, NJ, USA","OK",-75.0497448,39.9105176
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"toma to madison , interstate 90-94, wi, ","I-94, Madison, WI, USA","OK",-89.2851601,43.1113477
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"el dorado, , ar, us","El Dorado, AR 71730, USA","OK",-92.6662674,33.20763
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"fallbrook, , ca, us","Fallbrook, CA 92028, USA","OK",-117.2511466,33.3764196
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"banos , ecuador, , ","Banos, Ecuador","OK",-78.4268758,-1.3928344
+"miramar beach, , fl, us","Miramar Beach, FL, USA","OK",-86.3585578,30.374367
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"adelaide , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"costa mesa, , ca, us","Costa Mesa, CA, USA","OK",-117.9047429,33.6638439
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"harmony, , pa, us","Harmony, PA, USA","OK",-80.1272826,40.801454
+"tijuana , mexico, mb, ","Fray Servando Teresa de Mier 1450, Defensores de Baja California, 22320 Tijuana, B.C., Mexico","OK",-117.0150428,32.5324044
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"niles, , mi, us","Niles, MI 49120, USA","OK",-86.2541768,41.8297694
+"woodland hills, , ca, us","Woodland Hills, Los Angeles, CA, USA","OK",-118.6089752,34.165357
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"ramadi , iraq, , ","Ramadi, Iraq","OK",43.2682801,33.4366231
+"atherstone , uk, , gb","Atherstone CV9, UK","OK",-1.543763,52.576614
+"st. petersburg beach, , fl, ","St Pete Beach, FL, USA","OK",-82.7504542,27.7428134
+"st. petersburg beach, , fl, ","St Pete Beach, FL, USA","OK",-82.7504542,27.7428134
+"esfehan, ghazvin , , ","Isfahan, Isfahan Province, Iran","OK",51.6659656,32.6538966
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"laconia, , nh, us","Laconia, NH, USA","OK",-71.4703509,43.5278546
+"lewiston, , me, us","Lewiston, ME, USA","OK",-70.2147764,44.100351
+"deer isle, , me, us","Deer Isle, ME, USA","OK",-68.6777805,44.2245068
+"deer isle, , me, us","Deer Isle, ME, USA","OK",-68.6777805,44.2245068
+"troutdale, , or, us","Troutdale, OR 97060, USA","OK",-122.3906213,45.5407696
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"logan, , ut, us","Logan, UT, USA","OK",-111.8338359,41.7369803
+"ottumwa, , ia, us","Ottumwa, IA 52501, USA","OK",-92.4083022,41.0160293
+"mineola, , tx, us","Mineola, TX 75773, USA","OK",-95.4882896,32.6631884
+"ishpeming, , mi, us","Ishpeming, MI 49849, USA","OK",-87.6676358,46.4885469
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"fremont, , ca, us","Fremont, CA, USA","OK",-121.988583,37.5485396
+"hiko, , nv, us","Hiko, NV 89017, USA","OK",-115.2155933,37.6282856
+"fort davis, , tx, us","Fort Davis, TX 79734, USA","OK",-103.8946253,30.5882111
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"orland, , ca, us","Orland, CA 95963, USA","OK",-122.1963748,39.7473803
+"seattle, , wv, ","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"windham, , nh, us","Windham, NH 03087, USA","OK",-71.304229,42.8006441
+"caddo mills, , tx, us","Caddo Mills, TX 75135, USA","OK",-96.2277554,33.0656732
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
