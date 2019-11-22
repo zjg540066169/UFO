@@ -79,7 +79,11 @@ ufo_original_data %>%
   filter(str_detect(pull(., city_area), "\\("))
 ```
 
-Since there are a lot of massive data in "city_area", "state" and "country", we write a function to use Google Map`s api, to clean the data.
+Since there are a lot of massive data in "city_area", "state" and "country",  we need to tidy the data.
+
+First, to clearly describle the place of insterests, we seperate the variable "city_area" into 2 variable "city_area" and "city_description".
+
+To further explore in place of interests, we write a function to use Google Map`s api, to clean the data.
 
 ```{r clean_place, echo = FALSE}
 
@@ -108,18 +112,17 @@ api_key = "AIzaSyC2BBNoODEb5Pg7wbY-Pqvl9VdYRkJ9sHM"
 
 
 time_step = 100
-for (i in 30:32) {#(nrow(ufo_original_data) %/% time_step)) {
-  
-  ufo_tidy_data = 
+
+ufo_tidy_data = 
   ufo_original_data %>% 
   separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]") %>% 
-  slice((i * time_step + 1):min((i + 1) * time_step), nrow(ufo_original_data)) %>% 
+  #slice((i * time_step + 1):min((i + 1) * time_step), nrow(ufo_original_data)) %>% 
   mutate(state = replace(state, is.na(state), ""), country = replace(country, is.na(country), ""), city_description = replace(city_description, is.na(city_description), "")) %>% 
   mutate(place_string = paste(city_area, city_description, state, country, sep = ", "))
   
   
   
-  df_pnt = 
+df_pnt = 
   mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
   mp_get_points() %>% 
   tibble(
@@ -133,8 +136,7 @@ for (i in 30:32) {#(nrow(ufo_original_data) %/% time_step)) {
   mutate(lat = unlist(map(pull(., pnt), 1)),
            long = unlist(map(pull(., pnt), 2))) %>% 
   select(-pnt) %>% 
-  write.table(file = paste("./data_pot/", as.character(i), "df.csv", sep = ""), sep = ",", row.names = FALSE)
-}
+  write.table(file = paste("./data_pot/", "df.csv", sep = ""), sep = ",", row.names = FALSE)
 
   #map_df(.x = pull(., pnt), ~unclass(.x))
 #mutate(df_pnt, unnest(pnt))
@@ -145,10 +147,42 @@ for (i in 30:32) {#(nrow(ufo_original_data) %/% time_step)) {
 
 ```
 
+After download all data of the place of interests, we combine all the data in totally more than 800 files.
 
-We seperate the variable "city_area" into 2 variable "city_area" and "city_description"
 
-```{r clean_city, echo = FALSE}
-ufo_tidy_data = 
-  read_csv("df.csv")
+```{r clean_city, message = FALSE}
+ufo_poi = 
+  list.files("./data_pot", pattern = "^.+df.csv$") %>%
+  map_chr(.x = ., ~paste("./data_pot", ., sep = "/")) %>% 
+  map_df(.x = ., read_csv)
+```
+
+```{r merge_poi_data, warning = FALSE}
+ufo_tidy =
+  ufo_tidy_data %>% 
+  full_join(ufo_poi, ., by = c("place_string")) %>% 
+  filter(status == "OK") %>% 
+  select(-city_area, -state, -country, -latitude, -longitude, -place_string, -status) %>% 
+  separate(address_google, sep = ",", into = c("city", "state", "country")) %>% 
+  separate(state, sep = ". ", into = c("state", "zip_code")) %>% 
+  select(-zip_code) %>% 
+  distinct() %>% 
+  rename("latitude" = "lat", latitude = "long")
+```
+
+We assign "unknown" to NA in ufo_shape, 
+
+```{r shape_unknown, warning = FALSE}
+ufo_tidy = 
+  ufo_tidy %>% 
+  mutate(ufo_shape = replace(ufo_shape, is.na(ufo_shape), "unknown")) 
+```
+
+delete all the rows with NA
+
+```{r NA, warning = FALSE}
+ufo_tidy = 
+  ufo_tidy %>% 
+  drop_na() %>% 
+  write.table(file = paste("./", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
 ```

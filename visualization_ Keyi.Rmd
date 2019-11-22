@@ -6,6 +6,9 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
+
+try(source("./dependencies.R"), silent = TRUE)
+
 library(tidyverse)
 library(leaflet)
 library(dplyr)
@@ -39,7 +42,7 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ## reading data
 ```{r}
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+ufo_data = read_csv("tidied_data_final.csv")
 
 ufo =
 ufo_data %>%  
