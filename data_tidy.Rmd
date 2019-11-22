@@ -154,7 +154,8 @@ After download all data of the place of interests, we combine all the data in to
 ufo_poi = 
   list.files("./data_pot", pattern = "^.+df.csv$") %>%
   map_chr(.x = ., ~paste("./data_pot", ., sep = "/")) %>% 
-  map_df(.x = ., read_csv)
+  map_df(.x = ., read_csv) %>% 
+  distinct()
 ```
 
 ```{r merge_poi_data, warning = FALSE}
@@ -162,11 +163,40 @@ ufo_tidy =
   ufo_tidy_data %>% 
   full_join(ufo_poi, ., by = c("place_string")) %>% 
   filter(status == "OK") %>% 
-  select(-city_area, -state, -country, -latitude, -longitude, -place_string, -status) %>% 
-  separate(address_google, sep = ",", into = c("city", "state", "country")) %>% 
-  separate(state, sep = ". ", into = c("state", "zip_code")) %>% 
-  select(-zip_code) %>% 
   distinct() %>% 
+  select(-city_area, -state, -country, -latitude, -longitude,  -status, -place_string) %>% 
+  mutate(
+    country = str_extract(address_google, "[^,]*$"),
+    state = str_remove(address_google, "[^,]*$"),
+    country = str_remove(country, "^[\\s0-9]*"),
+    country = str_remove(country, "[\\s0-9]*$"),
+    city = str_remove(state, "[^,]*,$"),
+    city = str_remove(city, "[\\s]*,$"),
+    state = str_extract(state, "[^,]*,$"),
+    state = str_remove(state, "^[\\s0-9]*"),
+    state = str_remove(state, "[\\s0-9]*,$")
+    ) #%>%
+
+australia = 
+  ufo_tidy %>% 
+  filter(country == "Australia") %>% 
+  separate(state, sep = "\\s", into = c("city", "state"))
+
+ufo_tidy =
+  ufo_tidy %>% 
+  left_join(australia, by = colnames(australia)[1:11]) %>%
+  mutate(
+    state = if_else(country == "Australia", state.y, state.x),
+    city =  if_else(country == "Australia", city.y, city.x),
+         ) %>% 
+  select(-state.y, -city.y, -state.x, -city.x) %>% 
+  mutate(
+    city = replace(city, city == "" || is.na(city), "unknown"),
+    state = replace(state, state == "" || is.na(state), "unknown"),
+    country = replace(country, country == "" || is.na(country), "unknown"),
+    country = replace(country, country == "United States", "USA")
+  ) %>% 
+  select(-address_google) %>% 
   rename("latitude" = "lat", "longitude" = "long")
 ```
 
@@ -181,8 +211,8 @@ ufo_tidy =
 delete all the rows with NA
 
 ```{r NA, warning = FALSE}
-ufo_tidy = 
-  ufo_tidy %>% 
+
+ufo_tidy %>% 
   drop_na() %>% 
   write.table(file = paste("./", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
 ```
