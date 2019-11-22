@@ -106,30 +106,36 @@ place_tidy = function(city_area, state, country) {
 
 api_key = "AIzaSyC2BBNoODEb5Pg7wbY-Pqvl9VdYRkJ9sHM"
 
-ufo_tidy_data = 
+
+time_step = 100
+for (i in 30:32) {#(nrow(ufo_original_data) %/% time_step)) {
+  
+  ufo_tidy_data = 
   ufo_original_data %>% 
   separate(city_area, into = c("city_area", "city_description"), sep = "[\\(\\)/]") %>% 
-  #slice(1:2) %>% 
+  slice((i * time_step + 1):min((i + 1) * time_step), nrow(ufo_original_data)) %>% 
   mutate(state = replace(state, is.na(state), ""), country = replace(country, is.na(country), ""), city_description = replace(city_description, is.na(city_description), "")) %>% 
-  mutate(place_string = paste(city_area, city_description, state, country, sep = ", ")) %>%
+  mutate(place_string = paste(city_area, city_description, state, country, sep = ", "))
   
-  filter(place_string == "spokane , about 30 miles sw of&#44i-90&#44 maybe mm 254, wa, us")
-
-df_pnt = 
+  
+  
+  df_pnt = 
   mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
   mp_get_points() %>% 
   tibble(
     .$address,
     .$address_google,
-    .$pnt
+    .$pnt,
+    .$status
   ) %>% 
-  #filter()
-  rename("place_string" = ".$address", "address_google" = ".$address_google", "pnt" = ".$pnt") %>% 
-  select(place_string, address_google, pnt) %>%
+  rename("place_string" = ".$address", "address_google" = ".$address_google", "pnt" = ".$pnt", "status" = ".$status") %>% 
+  select(place_string, address_google, pnt, status) %>%
   mutate(lat = unlist(map(pull(., pnt), 1)),
            long = unlist(map(pull(., pnt), 2))) %>% 
   select(-pnt) %>% 
-  write.table(file = "df.csv", sep = ",", row.names = FALSE)
+  write.table(file = paste("./data_pot/", as.character(i), "df.csv", sep = ""), sep = ",", row.names = FALSE)
+}
+
   #map_df(.x = pull(., pnt), ~unclass(.x))
 #mutate(df_pnt, unnest(pnt))
   #
