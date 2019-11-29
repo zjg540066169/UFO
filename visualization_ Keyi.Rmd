@@ -189,7 +189,7 @@ According to this plot, we can see that the light UFO shape was sighted most oft
   mutate(month = month.name[as.numeric(month)]) %>%
   ggplot(aes(x = year, y = month)) +
   geom_tile(aes(fill = ave_encountered_length), colour = "white") +
-  scale_fill_gradient(low = "lightyellow", high = "darkblue") +
+  scale_fill_gradient(low = "lightyellow", high = "darkgreen") +
   scale_x_continuous(name="Years", 
                      breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
                                 ), limits= c (1950,2015)) +
