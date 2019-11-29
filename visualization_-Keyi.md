@@ -6,22 +6,23 @@ Keyi Wang
 ## reading data
 
 ``` r
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+ufo_data = read_csv("tidied_data_final.csv")
 ```
 
     ## Parsed with column specification:
     ## cols(
+    ##   latitude = col_double(),
+    ##   longitude = col_double(),
     ##   date_time = col_character(),
-    ##   city_area = col_character(),
-    ##   state = col_character(),
-    ##   country = col_character(),
+    ##   city_description = col_character(),
     ##   ufo_shape = col_character(),
     ##   encounter_length = col_double(),
     ##   described_encounter_length = col_character(),
     ##   description = col_character(),
     ##   date_documented = col_character(),
-    ##   latitude = col_double(),
-    ##   longitude = col_double()
+    ##   country = col_character(),
+    ##   state = col_character(),
+    ##   city = col_character()
     ## )
 
 ``` r
@@ -38,12 +39,15 @@ mutate(country = recode(country ,
 ```
 
 ``` r
-## A bargraph showing the total number of UFO observed among 4 countries. As the number of UFO  observed in Australia and Britain is really low, for later graphs, we decided to omit data in these two countries.
+## A bargraph showing the total number of UFO observed among 7 countries.
 
 ufo %>%
   group_by(country) %>%
   count() %>%
- mutate(precentage = n/66516) %>%
+  ungroup()%>%
+ mutate(precentage = n/66516,
+      country = factor(country),
+      country = forcats::fct_reorder(country, n))%>%
 ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percent(precentage))) + 
     geom_col(position = 'dodge') + 
     geom_text(position = position_dodge(width = .9),  
@@ -87,7 +91,7 @@ Canada, but the amount of them is not as much as the United States.
 ### Boxplot showing the distribution of the UFO Shape Observed in US
   
 ufo %>%
-  filter(country == "the United State")%>%
+  filter(country == "USA",year >= 1950) %>%
   group_by(state) %>%
   count(ufo_shape) %>%
   arrange(desc(n)) %>% 
@@ -116,23 +120,25 @@ flare, hezagon, pyramid and round.
 ``` r
 ## heatmap showing 
   ufo %>%
-  filter(year >= 1950, encounter_length < 10000) %>%
+  filter(country == "USA", year >= 1950, encounter_length <6000) %>%
   select(year, month, encounter_length) %>%
-  mutate(year = as.numeric(year))%>%
-  arrange(desc(month)) %>%
-  mutate(month = month.name[as.numeric(month)]) %>%
+  mutate(year = as.numeric(year),
+         month = as.numeric(month)) %>%
   group_by(year,month) %>%
+  arrange(desc(month)) %>%
   mutate(
   ave_encountered_length = mean(encounter_length/60)) %>%
   select(-encounter_length) %>%
+  ungroup() %>%
+  mutate(month = month.name[as.numeric(month)]) %>%
   ggplot(aes(x = year, y = month)) +
   geom_tile(aes(fill = ave_encountered_length), colour = "white") +
   scale_fill_gradient(low = "lightyellow", high = "darkblue") +
   scale_x_continuous(name="Years", 
                      breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
-                                ), limits=c (1950,2015))+
+                                ), limits= c (1950,2015))+
   labs(
-    title = "Average UFO Encounter Length Compared among Months Across Time ",
+    title = "Average UFO Encounter Length Compared among Months Across Time in USA ",
     x = "Years",
     y = "Month"
   ) + 
@@ -141,3 +147,21 @@ flare, hezagon, pyramid and round.
 ```
 
 <img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-5-1.png" width="90%" />
+
+``` r
+ ufo %>%
+  filter(country == "Canada", year >= 1950, encounter_length < 6000) %>%
+  select(year, month, encounter_length) %>%
+  arrange(year) %>%
+  group_by(year, month)%>%
+  mutate(
+    encounter_length = encounter_length/60,
+  ave_encountered_length = mean(encounter_length))%>%
+  select(-encounter_length) %>%
+  arrange(desc(month)) %>%
+  ggplot(aes(x = year, y = month)) +
+  geom_tile(aes(fill = ave_encountered_length), colour = "white") +
+  scale_fill_gradient(low = "lightyellow", high = "darkgreen") 
+```
+
+<img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-5-2.png" width="90%" />
