@@ -149,6 +149,7 @@ flare, hezagon, pyramid and round.
 <img src="visualization_-Keyi_files/figure-gfm/unnamed-chunk-5-1.png" width="90%" />
 
 ``` r
+### Canada heatmap
  ufo %>%
   filter(country == "Canada", year >= 1950, encounter_length < 6000) %>%
   select(year, month, encounter_length) %>%

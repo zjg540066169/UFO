@@ -151,6 +151,7 @@ According to this plot, we can see that the light UFO shape was sighted most oft
   theme(axis.text.x = element_text(angle = 90)) +
   theme(plot.subtitle = element_text(hjust = 0.5))
 
+### Canada heatmap
  ufo %>%
   filter(country == "Canada", year >= 1950, encounter_length < 6000) %>%
   select(year, month, encounter_length) %>%
@@ -170,37 +171,4 @@ According to this plot, we can see that the light UFO shape was sighted most oft
 
 
 
-
-```{r include=FALSE}
- ufo %>%
-  filter(country == "Canada", year >= 1950, encounter_length < 6000) %>%
-  select(year, month, encounter_length) %>%
-  arrange(year) %>%
-  group_by(year, month)%>%
-  mutate(
-    encounter_length = encounter_length/60,
-  ave_encountered_length = mean(encounter_length))%>%
-  select(-encounter_length) %>%
-  arrange(desc(month)) %>%
-  ggplot(aes(x = year, y = month)) +
-  geom_tile(aes(fill = ave_encountered_length), colour = "white") +
-  scale_fill_gradient(low = "lightyellow", high = "darkgreen") 
-```
-
-
-```{r}
-
-  
-
-
-```
-
-
-
-
-
-
-```{r}
-
-```
 
