@@ -1,0 +1,244 @@
+---
+title: "Chi-square"
+author: "Ran Wang"
+date: "11/8/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+try(source("./dependencies.R"), silent = TRUE)
+library(tidyverse)
+library(rvest)
+library(plotly)
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  fig.width = 8,
+  fig.height = 6, 
+  out.width = "90%"
+)
+
+
+options(
+  ggplot2.countinuous.colour = "viridis",
+  ggplot2.countinuous.fill = "viridis"
+)
+ 
+scale_colour_discrete = scale_colour_viridis_d
+scale_fill_discrete = scale_fill_viridis_d
+
+theme_set(theme_minimal() + theme(legend.position = "bottom"))
+
+```
+
+## reading data
+```{r day_night_shape}
+
+ufo_data = readr::read_csv("./data/tidied_data_final.csv")
+
+
+ufo_day_night_shape =
+ufo_data %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+separate(time, into = c("hour","minute"), sep = ":") %>% 
+mutate(hour=recode(hour, "00"="24")) %>% 
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+mutate(hour = as.numeric(hour)) %>% 
+mutate(night_day = case_when(18 <= hour & hour <= 24~ "night",
+                             1 <= hour & hour <= 6 ~ "night",
+                             TRUE ~ "day")) %>% 
+group_by(ufo_shape, night_day) %>% 
+summarize(count_shape = n()) %>% 
+  ggplot(aes(x = ufo_shape, y = count_shape, group = night_day)) +
+  geom_col(aes(fill = night_day), alpha = .75, position = position_dodge(1)) +
+  scale_fill_manual(
+    values = c("lightblue","lightpink"), 
+    labels = c("day","night")
+    ) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(title = "The Plot of the Appearance Time for Each Shape of UFO", 
+       y = "counts",
+       x = "UFO Shape")
+  
+  ufo_day_night_shape
+```
+
+
+```{r length_day_night}
+ufo_day_night_length =
+ufo_data %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+separate(time, into = c("hour","minute"), sep = ":") %>% 
+mutate(hour=recode(hour, "00"="24")) %>% 
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+mutate(hour = as.numeric(hour)) %>% 
+mutate(night_day = case_when(18 <= hour & hour <= 24~ "night",
+                             1 <= hour & hour <= 6 ~ "night",
+                             TRUE ~ "day")) %>% 
+  group_by(ufo_shape, night_day) %>% 
+           summarize(median_length = median(encounter_length),
+count = n()) %>% 
+  filter(count > 100) %>% 
+  ggplot(aes(x = ufo_shape, y = median_length, group = night_day)) +
+  geom_col(aes(fill = night_day), alpha = .75, position = position_dodge(1)) +
+  scale_fill_manual(
+    values = c("lightblue","lightpink"), 
+    labels = c("day","night")
+    ) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(title = "The Plot of the Appearance Time for Each Shape of UFO", 
+       y = "counts",
+       x = "UFO Shape")
+  
+  ufo_day_night_length
+```
+
+
+```{r day_night_length}
+#data_summary <- function(x) {
+   #m <- mean(x)
+  # ymin <- m-sd(x)
+   #ymax <- m+sd(x)
+   #return(c(y=m,ymin=ymin,ymax=ymax))
+#}
+
+ufo_day_night_length =
+ufo_data %>%  
+na.omit(ufo_data) %>% 
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+separate(time, into = c("hour","minute"), sep = ":") %>% 
+mutate(hour=recode(hour, "00"="24")) %>% 
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+mutate(hour = as.numeric(hour)) %>% 
+mutate(night_day = case_when(19 <= hour & hour <= 24~ "night",
+                             1 <= hour & hour <= 6 ~ "night",
+                             TRUE ~ "day")) %>%
+group_by(night_day) %>% 
+summarize(mean_length_time = mean(encounter_length)) %>% 
+knitr::kable(digits = 1)
+
+
+#ggplot(aes(x = night_day, y = encounter_length)) + 
+#geom_violin(aes(fill = night_day, color = night_day),trim = TRUE, color = "lightblue", alpha = .5, position = position_dodge(1))  + 
+  #show the mean and sd
+  #stat_summary(mapping = aes(group = night_day),fun.y = mean, position = position_dodge(1), geom = "point", color = "black", size = 4) +
+  #stat_summary (mapping = aes(group = night_day),fun.data=data_summary,position = position_dodge(1),geom="crossbar", width=0.2,color = "black") +
+   #scale_y_continuous(breaks = c(0, 1, 2, 3, 4, 5, 25, 55, 85, 5000000)
+  #) 
+
+ufo_day_night_length
+
+```
+
+
+
+```{r month_shape}
+ufo_month_shape =
+ufo_data %>%  
+na.omit(ufo_data) %>% 
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+separate(time, into = c("hour","minute"), sep = ":") %>% 
+mutate(hour=recode(hour, "00"="24")) %>% 
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+mutate(month = forcats::fct_relevel(month, c("0","1","2","3","4","5","6","7","8","9","10","11","12"))) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>%
+filter(ufo_shape == "light" |ufo_shape == "triangle"|ufo_shape == "fireball") %>% 
+group_by(ufo_shape, month) %>% 
+summarize(count_shape = n()) %>% 
+  ggplot(aes(x = month, y = count_shape, fill = ufo_shape)) +
+  geom_col() +
+  facet_grid(ufo_shape~.) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(
+    title = "Number of UFO in Each Month by shape in US",
+    x = "Month",
+    y = "counts of UFO"
+  ) +
+  scale_fill_manual(values = c("lightblue","lightgreen","lightpink"), labels = c("fireball","light","triangle")
+    ) 
+  
+  
+ ufo_month_shape
+```  
+
+
+```{r counts_month} 
+ufo_month_counts_plot =
+ufo_data %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+mutate(month = forcats::fct_relevel(month, c("0","1","2","3","4","5","6","7","8","9","10","11","12"))) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+group_by(month) %>% 
+summarize(count_month = n()) %>% 
+  ggplot(aes(x = month, y = count_month)) +
+  geom_col(aes(fill = month), alpha = .75, position = position_dodge(1)) +
+  #scale_fill_manual(
+    #values = c("lightblue","lightpink"), 
+    #labels = c("day","night")
+    #) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(title = "The Plot of the Appearance UFO for Each Month", 
+       y = "counts",
+       x = "Month")
+  
+ufo_month_counts_plot
+
+
+ufo_month_counts_table = 
+ufo_data %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+mutate(month = forcats::fct_relevel(month, c("0","1","2","3","4","5","6","7","8","9","10","11","12"))) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+group_by(month) %>% 
+summarize(count_month = n()) %>% 
+  pivot_wider(id_cols = month,
+            names_from = month, 
+            values_from = count_month)
+
+ufo_month_counts_table
+
+
+ufo_month_counts_table %>% 
+chisq.test( correct = TRUE)
+
+
+
+
+
+```
+
+  
+
+
+
+
