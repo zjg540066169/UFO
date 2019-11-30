@@ -8,9 +8,11 @@ devtools::install_github("michaeldorman/mapsapi", quiet = TRUE)
 devtools::install_github("dkahle/ggmap", quiet = TRUE)
 devtools::install_github("mapview", quiet = TRUE)
 devtools::install_cran("mapview", quiet = TRUE)
-devtools::install_github("lchiffon/wordcloud2")
-
-
+devtools::install_github("lchiffon/wordcloud2", quiet = TRUE)
+devtools::install_cran("e1071", quiet = TRUE)
+devtools::install_cran("rgl", quiet = TRUE)
+devtools::install_cran("FactoMineR", quiet = TRUE)
+devtools::install_github("vqv/ggbiplot", quiet = TRUE)
 
 # load library
 library(tidyverse)
@@ -29,4 +31,6 @@ library(sf)
 library(mapview)
 library(rgdal)
 library(htmltools)
-
+library(e1071)
+library(ggbiplot)
+library(FactoMineR)
