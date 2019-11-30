@@ -40,37 +40,39 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 ## 
 
 ```{r}
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+ufo_data = read_csv("./data/tidied_data_final.csv", na = "")
+
 ufo =
 ufo_data %>%  
-na.omit(ufo_data) %>% 
+#na.omit(ufo_data) %>% 
 separate(date_time, into = c( "date","time"), sep = " " ) %>%
-separate( date, into = c("month","day","year"), sep = "/")
+separate( date, into = c("month","day","year"), sep = "/") %>% 
+mutate(a = longitude, longitude = latitude, latitude = a)
 
 plot_map_below100 = ufo %>% 
-  filter(country == "us") %>% 
-  select(state, city_area, longitude, latitude) %>% 
-  group_by(state, city_area, longitude, latitude) %>% 
+  filter(country == "USA") %>% 
+  select(state, city, longitude, latitude) %>% 
+  group_by(state, city, longitude, latitude) %>% 
   summarize(n = n()) %>% 
   filter(n <= 100) %>% 
   plot_geo(locationmode = "USA-states", sizes = c(1, 250)) %>% 
   add_markers(
-    x = ~longitude, y = ~latitude, group = ~city_area, color = ~n, hoverinfo = "text",
-    text = ~ paste0(city_area, "<br />", state, ", <br />", n, " times seen UFO")
+    x = ~latitude, y = ~longitude, group = ~city, color = ~n, hoverinfo = "text",
+    text = ~ paste0(city, "<br />", state, ", <br />", n, " times seen UFO")
   ) %>% 
   colorbar(limits = c(0, 100))
 
 plot_map_above100 = ufo %>% 
-  filter(country == "us") %>% 
-  select(state, city_area, longitude, latitude) %>% 
-  group_by(state, city_area, longitude, latitude) %>% 
+  filter(country == "USA") %>% 
+  select(state, city, longitude, latitude) %>% 
+  group_by(state, city, longitude, latitude) %>% 
   summarize(n = n()) %>% 
-  filter(n > 100) %>% 
+  filter(n > 50) %>% 
   plot_geo(locationmode = "USA-states", sizes = c(1, 250)) %>% 
   add_markers(
-    x = ~longitude, y = ~latitude, group = ~city_area, color = ~n, hoverinfo = "text",
-    text = ~ paste0(city_area, "<br />", state, ", <br />", n, " times seen UFO")
+    x = ~latitude, y = ~longitude, group = ~city, color = ~n, hoverinfo = "text",
+    text = ~ paste0(city, "<br />", state, ", <br />", n, " times seen UFO")
   ) %>% 
-  colorbar(limits = c(100, 550))
+  colorbar(limits = c(50, 550))
 ```
 

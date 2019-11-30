@@ -44,18 +44,12 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ```{r read data}
 
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+ufo_data = read_csv("./data/tidied_data_final.csv")
 
 ufo = ufo_data %>%  
-  na.omit(ufo_data) %>% 
   separate(date_time, into = c("date","time"), sep = " " ) %>%
   separate(date, into = c("month","day","year"), sep = "/") %>% 
-  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
-         country = recode(country, "us" = "the United States", 
-                          "au" = "Australia",
-                          "gb" = "the United Kingdom",
-                          "ca" = "Canada")) 
-
+  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
 ```
 
 # Length Time Descriptive Statistics Table and Plot

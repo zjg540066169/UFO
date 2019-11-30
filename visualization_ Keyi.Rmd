@@ -44,18 +44,9 @@ ufo_data = read_csv(file = "./data/tidied_data_final.csv")
 
 ufo =
 ufo_data %>%  
-na.omit(ufo_data) %>% 
+#na.omit(ufo_data) %>% 
 separate(date_time, into = c( "date","time"), sep = " " ) %>%
-separate( date, into = c("month","day","year"), sep = "/") %>%
-  mutate(state = recode(state , 
-                "Alabama"="AL", "Oregon" = "OR","Ohio" = "OH","New York" = "NY","New Mexico" = "NM", 
-                "Alaska"="AK", "Nevada" = "NV","Nebraska" = "NE", "Florida" ="FL","Georgia"="GA",
-                "Arizona" = "AZ","Idaho"="ID","Illinois" ="IL","Indiana"="IN","Iowa" ="IA",
-                "Kansas"="KS","Missouri" ="MO","Kentucky" = "KY","Louisiana"="LA","Maine"="ME",
-                "Maryland"="MD","Massachusetts" = "MA","Michigan"="MI","Minnesota"="MN",
-                 "California" = "CA","Texas" = "TX","Tennessee" = "TN","Pennsylvania" = "PA",
-                "Colorado" = "CO","Washington" = "WA","Vermont" = "VT","Utah" = "UT"
-                         ))
+separate( date, into = c("month","day","year"), sep = "/")
 
 
 
@@ -69,7 +60,7 @@ ufo %>%
   group_by(country) %>%
   count() %>%
   ungroup()%>%
- mutate(precentage = n/5832,
+ mutate(precentage = n/sum(pull(., n)),
       country = factor(country),
       country = forcats::fct_reorder(country, n)) %>%
 ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percent(precentage))) + 
@@ -83,7 +74,7 @@ ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percen
 
 ```
 Comment: 
-According to the graph above, we can see that most of the data come from the United Statesa and some of them come from Canada. Australia and the United Kingdom contributed very litter amount of data. 
+According to the graph above, we can see that most of the data come from the United Statesa and some of them come from Canada. Australia and the United Kingdom contributed very little amount of data. 
 
 ```{r}
 ## line plot showing the number of UFO observed across time among countries

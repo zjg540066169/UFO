@@ -195,10 +195,21 @@ ufo_tidy =
     state = replace(state, state == "" || is.na(state), "unknown"),
     country = replace(country, country == "" || is.na(country), "unknown"),
     country = replace(country, country == "United States", "USA"),
+    country = replace(country, country == "United Kingdom", "UK"),
     temp = lat,
     lat = long,
     long = temp
   ) %>% 
+  mutate(state = recode(state , 
+                "Alabama"="AL", "Oregon" = "OR","Ohio" = "OH","New York" = "NY","New Mexico" = "NM", 
+                "Alaska"="AK", "Nevada" = "NV","Nebraska" = "NE", "Florida" ="FL","Georgia"="GA",
+                "Arizona" = "AZ","Idaho"="ID","Illinois" ="IL","Indiana"="IN","Iowa" ="IA",
+                "Kansas"="KS","Missouri" ="MO","Kentucky" = "KY","Louisiana"="LA","Maine"="ME",
+                "Maryland"="MD","Massachusetts" = "MA","Michigan"="MI","Minnesota"="MN",
+                 "California" = "CA","Texas" = "TX","Tennessee" = "TN","Pennsylvania" = "PA",
+                "Colorado" = "CO","Washington" = "WA","Vermont" = "VT","Utah" = "UT"),
+         ufo_shape = recode(ufo_shape, "changed" = "changing")
+         ) %>% 
   select(-address_google, -temp) %>% 
   rename("latitude" = "lat", "longitude" = "long")
 ```
@@ -217,5 +228,5 @@ delete all the rows with NA
 
 ufo_tidy %>% 
   drop_na() %>% 
-  write.table(file = paste("./", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
+  write.table(file = paste("./data/", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
 ```
