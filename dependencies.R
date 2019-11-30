@@ -8,7 +8,7 @@ devtools::install_github("michaeldorman/mapsapi", quiet = TRUE)
 devtools::install_github("dkahle/ggmap", quiet = TRUE)
 devtools::install_github("mapview", quiet = TRUE)
 devtools::install_cran("mapview", quiet = TRUE)
-#devtools::install_github("r-spatial/sf")
+devtools::install_github("lchiffon/wordcloud2")
 
 
 
