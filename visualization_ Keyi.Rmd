@@ -132,7 +132,7 @@ Comment:
 According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round. 
 
 ```{r}
-## heatmap showing 
+## USA
   ufo %>%
   filter(country == "USA", year >= 1950, encounter_length <6000) %>%
   select(year, month, encounter_length) %>%
@@ -156,25 +156,11 @@ According to this plot, we can see that the light UFO shape was sighted most oft
     x = "Years",
     y = "Month"
   ) + 
-  theme(axis.text.x = element_text(angle = 90)) +
+  theme(axis.text.x = element_text(angle = 300)) +
   theme(plot.subtitle = element_text(hjust = 0.5))
 
-### Canada heatmap
- #ufo %>%
-  #filter(country == "Canada", year >= 1950, encounter_length < 6000) %>%
-  #select(year, month, encounter_length) %>%
-  #arrange(year) %>%
-  #group_by(year, month) %>%
-  #mutate(
-    #encounter_length = encounter_length/60,
- # ave_encountered_length = mean(encounter_length))%>%
-  #select(-encounter_length) %>%
-  #arrange(desc(month)) %>%
-  #ggplot(aes(x = year, y = month)) +
-  #geom_tile(aes(fill = ave_encountered_length), colour = "white") +
- # scale_fill_gradient(low = "lightyellow", high = "darkgreen") 
- 
- 
+
+## Canada 
  ufo %>%
   filter(country == "Canada", year >= 1950, encounter_length <6000) %>%
   select(year, month, encounter_length) %>%
@@ -198,7 +184,7 @@ According to this plot, we can see that the light UFO shape was sighted most oft
     x = "Years",
     y = "Month"
   ) + 
-  theme(axis.text.x = element_text(angle = 90)) +
+  theme(axis.text.x = element_text(angle = 300)) +
   theme(plot.subtitle = element_text(hjust = 0.5))
 ``` 
  
@@ -251,8 +237,15 @@ labels = paste( "<p>","Number of UFO Observed Across Time ：", US$Num.UFO,"</p>
               opacity = 0.7,
               position = "topright")
 
-  
 ``` 
 
+
+
+```{r}
+
+
+```{r}
+
+```
 
 
