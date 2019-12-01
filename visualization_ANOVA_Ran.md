@@ -239,3 +239,67 @@ chisq.test( correct = TRUE)
     ## 
     ## data:  .
     ## X-squared = 2980.3, df = 11, p-value < 2.2e-16
+
+\#ANOVA
+
+``` r
+median_length_shape_day_night = ufo_data  %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+separate(time, into = c("hour","minute"), sep = ":") %>% 
+mutate(hour=recode(hour, "00"="24")) %>% 
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+mutate(night_day = case_when(18 <= hour & hour <= 24~ "night",
+                             1 <= hour & hour <= 6 ~ "night",
+                             TRUE ~ "day")) %>% 
+group_by(ufo_shape, night_day) %>% 
+           mutate(median_length = median(encounter_length),
+           count = n()) %>% 
+  filter(count > 100) %>%  
+  select(encounter_length, ufo_shape) %>% 
+  kruskal.test( encounter_length~ ufo_shape, data = .)
+```
+
+    ## Adding missing grouping variables: `night_day`
+
+``` r
+  median_length_shape_day_night
+```
+
+    ## 
+    ##  Kruskal-Wallis rank sum test
+    ## 
+    ## data:  encounter_length by ufo_shape
+    ## Kruskal-Wallis chi-squared = 1436.6, df = 20, p-value < 2.2e-16
+
+``` r
+median_length_shape = ufo_data  %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+separate(time, into = c("hour","minute"), sep = ":") %>% 
+mutate(hour=recode(hour, "00"="24")) %>% 
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+group_by(ufo_shape) %>% 
+           mutate(median_length = median(encounter_length),
+count = n()) %>% 
+  filter(count > 100) %>%  
+select(encounter_length, ufo_shape) %>% 
+filter(ufo_shape == "formation"|ufo_shape == "light"|ufo_shape == "other"|ufo_shape == "oval") %>% 
+  kruskal.test(encounter_length ~ ufo_shape, data = .)
+
+median_length_shape
+```
+
+    ## 
+    ##  Kruskal-Wallis rank sum test
+    ## 
+    ## data:  encounter_length by ufo_shape
+    ## Kruskal-Wallis chi-squared = 15.539, df = 3, p-value = 0.001409
