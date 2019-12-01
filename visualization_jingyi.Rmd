@@ -2,12 +2,14 @@
 title: "Visualization Jingyi"
 author: "Jingyi"
 date: "11/9/2019"
-output: github_document
+output:
+  html_document
 ---
 
 ```{r}
 
 # knitr will run the chunk but not include the chunk in the final document
+try(source("./dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
 set.seed(1)
@@ -16,7 +18,9 @@ set.seed(1)
 library(tidyverse)
 library(viridis)
 library(ggridges)
-
+library(tidytext)
+library(wordcloud2)
+data("stop_words")
 knitr::opts_chunk$set(
   # display the code in the code truck above its results in the final document
   echo = TRUE,
@@ -44,18 +48,12 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ```{r read data}
 
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+ufo_data = read_csv("./data/tidied_data_final.csv")
 
 ufo = ufo_data %>%  
-  na.omit(ufo_data) %>% 
   separate(date_time, into = c("date","time"), sep = " " ) %>%
   separate(date, into = c("month","day","year"), sep = "/") %>% 
-  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length),
-         country = recode(country, "us" = "the United States", 
-                          "au" = "Australia",
-                          "gb" = "the United Kingdom",
-                          "ca" = "Canada")) 
-
+  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
 ```
 
 # Length Time Descriptive Statistics Table and Plot
@@ -123,7 +121,8 @@ The variables in the dataset are:
 * `month`: the month of UFO sighting
 * `day`: the day of UFO sighting
 * `time`: the extra time of UFO sighting
-* `city_area`: the city of UFO sighting
+* `city_description`: the extra description that came along with the city of UFO sighting
+* `city`: the city if UFO sighting
 * `state`: the state of UFO sighting
 * `ufo_shape`: the shape of the sighted UFO
 * `encounter_length`: the encounter time length of sighting UFO
@@ -164,10 +163,10 @@ This plot indicates that most of the data are documented relatively recent to th
 
 # tidy data
 length_shape_data = ufo_data %>% 
-  drop_na() %>% 
   mutate(ufo_shape = factor(ufo_shape),
-  ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
+         ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
 
+# violin plot 
 length_shape_data %>% 
   ggplot(aes(x = ufo_shape, y = encounter_length, group = ufo_shape)) +
   geom_violin(aes(fill = ufo_shape), color = "cornsilk4", alpha = 0.4) +
@@ -177,9 +176,41 @@ length_shape_data %>%
        y = "Encounter Length of Time",
        x = "UFO Shape")
 
+# function for removing outliers
+#remove_outliers <- function(x, shape, na.rm = TRUE, ...) {
+#  x = filter(x, ufo_shape == shape) %>% pull(encounter_length)
+#  print(x)
+#  qnt <- quantile(x, probs=c(.25, .75), na.rm = na.rm, ...)
+#  H <- 1.5 * IQR(x, na.rm = na.rm)
+#  y <- x
+#  print(y)
+#  y[x < (qnt[1] - H)] <- NA
+#  y[x > (qnt[2] + H)] <- NA
+#  y
+#  }
+
+#length_shape_data_no_outliers = length_shape_data %>% 
+#  select(encounter_length, ufo_shape) %>% 
+#  map_df(.x = unique(pull(ufo_shape)), ~remove_outliers(., .x, na.rm = FALSE))
+  #remove_outliers(.,  unique(), na.rm = FALSE)
+
+#length_shape_data_no_outliers
+
+
+
+# violin plot without data for shape with outlier values
+#length_shape_data %>% 
+#  filter(encounter_length) %>% 
+#  ggplot(aes(x = ufo_shape, y = encounter_length, group = ufo_shape)) +
+#  geom_violin(aes(fill = ufo_shape), color = "cornsilk4", alpha = 0.4) +
+#  theme(axis.text.x = element_text(angle = 300)) +
+#  stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
+#  labs(title = "The Violin Plot of Encounter Length Time for Each Shape of UFO (without outlier)", 
+#       y = "Encounter Length of Time",
+#       x = "UFO Shape")
+
 # tidy data
 median_length_shape_data = ufo_data %>% 
-  drop_na() %>% 
   group_by(ufo_shape) %>% 
   summarize(median_length = median(encounter_length), 
             count = n()) %>% 
@@ -197,4 +228,33 @@ median_length_shape_data %>%
 
 ```
 
+
+Word Cloud
+
+```{r}
+shape_words = ufo %>% 
+  unnest_tokens(word, description) %>% 
+  anti_join(stop_words) %>% 
+  mutate(word = recode(word, "44" = "ufo")) %>% 
+  select(ufo_shape, word) %>% 
+  count(ufo_shape, word, sort = TRUE)
+  
+  
+total_word = shape_words %>% 
+  group_by(ufo_shape) %>% 
+  summarise(total = sum(n))
+  
+shape_words = shape_words %>% 
+  #left_join(.，total_word, by = "ufo_shape") %>% 
+  #mutate(tfidf = n) %>% 
+  #group_by(word) %>% 
+  #mutate(tfidf = sum(tfidf)) %>% 
+  #arrange(desc(tfidf)) %>% 
+  select(word, n) %>% 
+
+  distinct() %>%
+  wordcloud2(shape_words, size = 1,shape = 'star')
+
+shape_words
+```
 

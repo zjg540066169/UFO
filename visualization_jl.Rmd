@@ -34,11 +34,10 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ## reading data
 ```{r}
-ufo_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
+ufo_data = read_csv("./data/tidied_data_final.csv")
 
 ufo =
 ufo_data %>%  
-na.omit(ufo_data) %>% 
 separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate( date, into = c("month","day","year"), sep = "/") 
 ```
@@ -68,15 +67,15 @@ plot_time
 ## spaghetti plot: UFO in US by year (x=hour, y=year/month, group = us)
 ```{r}
 plot_us_month = ufo %>% 
-  filter(country == "us") %>% 
+  filter(country == "USA", year >= 1950) %>% 
   separate(time, into = c("hour", "minute"), sep = ":") %>% 
   mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
   select(-minute) %>% 
   mutate(month = month.name[as.numeric(month)]) %>% 
-  group_by(hour, month) %>% 
+  group_by(hour, ufo_shape) %>% 
   summarize(n = n()) %>% 
-  ggplot(aes(x = hour, y = n, color = month)) +
-  geom_line(aes(group = month)) +
+  ggplot(aes(x = hour, y = n, color = ufo_shape)) +
+  geom_line(aes(group = ufo_shape)) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(
     title = "Number of UFO in Each Hour by Month in US",
