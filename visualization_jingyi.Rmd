@@ -236,8 +236,6 @@ shape_words = ufo %>%
   unnest_tokens(word, description) %>% 
   anti_join(stop_words) %>% 
   mutate(word = recode(word, "44" = "ufo")) %>% 
-  
-  #filter(word != "44") %>% 
   select(ufo_shape, word) %>% 
   count(ufo_shape, word, sort = TRUE)
   
@@ -247,12 +245,13 @@ total_word = shape_words %>%
   summarise(total = sum(n))
   
 shape_words = shape_words %>% 
-#left_join(shape_words, total_word) %>% 
+  #left_join(.，total_word, by = "ufo_shape") %>% 
   #mutate(tfidf = n) %>% 
   #group_by(word) %>% 
   #mutate(tfidf = sum(tfidf)) %>% 
   #arrange(desc(tfidf)) %>% 
   select(word, n) %>% 
+
   distinct() %>%
   wordcloud2(shape_words, size = 1,shape = 'star')
 
