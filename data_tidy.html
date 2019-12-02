@@ -12,7 +12,7 @@
 
 
 
-<title>My awesome website</title>
+<title>data_tidy.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,14 +20,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -253,63 +248,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -317,16 +255,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -376,20 +304,123 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">My awesome website</h1>
 
 </div>
 
 
-<div id="this-is-jeffs-awesome-website" class="section level1">
-<h1>This is Jeff’s awesome website</h1>
-<p><img src="https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif" /></p>
+<div id="data_tidy" class="section level1">
+<h1>data_tidy</h1>
+<p>Jungang Zou 11/9/2019</p>
+<div id="reading-data" class="section level2">
+<h2>reading data</h2>
+<pre class="r"><code>ufo_original_data = readr::read_csv(&quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv&quot;)</code></pre>
+<pre><code>## Parsed with column specification:
+## cols(
+##   date_time = col_character(),
+##   city_area = col_character(),
+##   state = col_character(),
+##   country = col_character(),
+##   ufo_shape = col_character(),
+##   encounter_length = col_double(),
+##   described_encounter_length = col_character(),
+##   description = col_character(),
+##   date_documented = col_character(),
+##   latitude = col_double(),
+##   longitude = col_double()
+## )</code></pre>
+<pre class="r"><code>ufo_original_data</code></pre>
+<pre><code>## # A tibble: 80,332 x 11
+##    date_time city_area state country ufo_shape encounter_length
+##    &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;                &lt;dbl&gt;
+##  1 10/10/19… san marc… tx    us      cylinder              2700
+##  2 10/10/19… lackland… tx    &lt;NA&gt;    light                 7200
+##  3 10/10/19… chester … &lt;NA&gt;  gb      circle                  20
+##  4 10/10/19… edna      tx    us      circle                  20
+##  5 10/10/19… kaneohe   hi    us      light                  900
+##  6 10/10/19… bristol   tn    us      sphere                 300
+##  7 10/10/19… penarth … &lt;NA&gt;  gb      circle                 180
+##  8 10/10/19… norwalk   ct    us      disk                  1200
+##  9 10/10/19… pell city al    us      disk                   180
+## 10 10/10/19… live oak  fl    us      disk                   120
+## # … with 80,322 more rows, and 5 more variables:
+## #   described_encounter_length &lt;chr&gt;, description &lt;chr&gt;,
+## #   date_documented &lt;chr&gt;, latitude &lt;dbl&gt;, longitude &lt;dbl&gt;</code></pre>
+</div>
+<div id="missing-value-detect" class="section level2">
+<h2>Missing Value Detect</h2>
+<pre class="r"><code>ufo_original_data %&gt;% 
+  map_df(.x = ., ~sum(is.na(.x))) %&gt;% 
+  knitr::kable()</code></pre>
+<table>
+<colgroup>
+<col width="7%" />
+<col width="7%" />
+<col width="3%" />
+<col width="5%" />
+<col width="7%" />
+<col width="12%" />
+<col width="21%" />
+<col width="8%" />
+<col width="12%" />
+<col width="6%" />
+<col width="6%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="right">date_time</th>
+<th align="right">city_area</th>
+<th align="right">state</th>
+<th align="right">country</th>
+<th align="right">ufo_shape</th>
+<th align="right">encounter_length</th>
+<th align="right">described_encounter_length</th>
+<th align="right">description</th>
+<th align="right">date_documented</th>
+<th align="right">latitude</th>
+<th align="right">longitude</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">5797</td>
+<td align="right">9670</td>
+<td align="right">1932</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
+<p>We find the variable “state”, “country”, “ufo_shape” has largest number of missing values.</p>
+</div>
+<div id="fill-the-missing-value" class="section level2">
+<h2>Fill the missing value</h2>
+<p>According to the relationships of “city_area”, “state” and “country”, we can fill the missing value.</p>
+<p>Since there are some abnormal data in “city_area” like these, we first clean the missing value:</p>
+<pre><code>## # A tibble: 12,464 x 2
+##    city_area                               state
+##    &lt;chr&gt;                                   &lt;chr&gt;
+##  1 chester (uk/england)                    &lt;NA&gt; 
+##  2 penarth (uk/wales)                      &lt;NA&gt; 
+##  3 cardiff (uk/wales)                      &lt;NA&gt; 
+##  4 stoke mandeville (uk/england)           &lt;NA&gt; 
+##  5 saddle lake (canada)                    ab   
+##  6 gisborne (new zealand)                  &lt;NA&gt; 
+##  7 leeds (uk/england)                      &lt;NA&gt; 
+##  8 seattle (ballard area)                  wa   
+##  9 zlatoust (russia)                       &lt;NA&gt; 
+## 10 toronto (greater toronto area) (canada) on   
+## # … with 12,454 more rows</code></pre>
+</div>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -422,32 +453,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -24,6 +24,7 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
@@ -250,6 +251,9 @@ $(document).ready(function () {
 </style>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
 
 
 
@@ -347,7 +351,7 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="about.html">EDA</a>
+  <a href="eda.html">EDA</a>
 </li>
 <li>
   <a href="index.html">UFO in USA</a>
@@ -374,6 +378,14 @@ div.tocify {
 
 <div class="fluid-row" id="header">
 
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
 
 
 <h1 class="title toc-ignore">EDA</h1>
@@ -381,7 +393,203 @@ div.tocify {
 </div>
 
 
+<div id="overview-of-the-ufo-data." class="section level1">
+<h1>Overview of the UFO data.</h1>
+<pre class="r"><code>## A bargraph showing the total number of UFO observed among 7 countries.
 
+ufo %&gt;%
+  group_by(country) %&gt;%
+  count() %&gt;%
+  ungroup()%&gt;%
+ mutate(precentage = n/sum(pull(., n)),
+      country = factor(country),
+      country = forcats::fct_reorder(country, n)) %&gt;%
+ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percent(precentage))) + 
+    geom_col(position = &#39;dodge&#39;) + 
+    geom_text(position = position_dodge(width = .9),  
+              vjust = -0.5,   size = 3) + 
+    labs(title = &quot;Bargraph of the precentage of UFO Observed by Country&quot;,
+         x = &quot;Country&quot;,y = &quot;Precentage&quot;) </code></pre>
+<p><img src="EDA_files/figure-html/unnamed-chunk-1-1.png" width="90%" /></p>
+<p>According to the graph above, the majority of the UFO were observed in the USA with very small number of data came from Canada and UK. We can almost ignore data from Ireland, Germany, Isle of Man and Puerto Rico.</p>
+<pre class="r"><code>## line plot showing the number of UFO observed across time among countries
+
+ufo %&gt;%
+group_by(year) %&gt;%
+count(country) %&gt;%
+ungroup() %&gt;%
+mutate(year = as.numeric(year)) %&gt;%
+  ggplot(aes(x = year,y = n,group = country)) +
+  geom_line(aes(color = country)) +
+  theme(axis.text.x = element_text(angle = 90)) +
+  labs(
+title = &quot; Line Plot of Number of UFO Observed Across Time Among different Countries &quot;,
+    x = &quot;Year&quot;,
+    y = &quot;Number Of UFO Observed&quot;
+  )</code></pre>
+<p><img src="EDA_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
+<p>This line plot provides a trend showing the number of UFO observed in each country across time. It is obvious that USA gives the most number of data.we can see that for the United States, the earliest data happens before 1925. The amount of UFO sighting begins to increase sometime after 1950. Most of UFO sighting reports were taken place around 1990 and after. Similar trend was also observed in Canada and Australia, but with far less amount of data recorded.</p>
+</div>
+<div id="descriptive-statistics-in-encountered-length" class="section level1">
+<h1>Descriptive Statistics in Encountered Length</h1>
+<pre class="r"><code>ufo %&gt;% 
+  group_by(country) %&gt;% 
+  # create columns for count, mean, median, sd, Q1, Q3, IQR for each country
+  summarize(count = n(),
+            mean = mean(encounter_length),
+            median = median(encounter_length),
+            sd = sd(encounter_length),
+            Q1 = quantile(encounter_length, 0.25),
+            Q3 = quantile(encounter_length, 0.75),
+            IQR = IQR(encounter_length)) %&gt;% 
+  # arrange according to mean for each group
+  arrange(desc(mean)) %&gt;% 
+  # knit a table
+  knitr::kable(digits = 2, 
+               caption = &quot;The mean, median, sd, Q1, Q3 and IQR are for the variable lenght time (in seconds). &quot;)</code></pre>
+<table>
+<caption>The mean, median, sd, Q1, Q3 and IQR are for the variable lenght time (in seconds).</caption>
+<thead>
+<tr class="header">
+<th align="left">country</th>
+<th align="right">count</th>
+<th align="right">mean</th>
+<th align="right">median</th>
+<th align="right">sd</th>
+<th align="right">Q1</th>
+<th align="right">Q3</th>
+<th align="right">IQR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">UK</td>
+<td align="right">1892</td>
+<td align="right">66512.89</td>
+<td align="right">180</td>
+<td align="right">2322650.19</td>
+<td align="right">30.0</td>
+<td align="right">600</td>
+<td align="right">570.0</td>
+</tr>
+<tr class="even">
+<td align="left">Canada</td>
+<td align="right">2979</td>
+<td align="right">29053.86</td>
+<td align="right">120</td>
+<td align="right">1517051.49</td>
+<td align="right">20.0</td>
+<td align="right">600</td>
+<td align="right">580.0</td>
+</tr>
+<tr class="odd">
+<td align="left">Germany</td>
+<td align="right">103</td>
+<td align="right">24715.27</td>
+<td align="right">180</td>
+<td align="right">187783.67</td>
+<td align="right">30.0</td>
+<td align="right">600</td>
+<td align="right">570.0</td>
+</tr>
+<tr class="even">
+<td align="left">USA</td>
+<td align="right">65531</td>
+<td align="right">5801.26</td>
+<td align="right">180</td>
+<td align="right">403249.64</td>
+<td align="right">30.0</td>
+<td align="right">600</td>
+<td align="right">570.0</td>
+</tr>
+<tr class="odd">
+<td align="left">Australia</td>
+<td align="right">387</td>
+<td align="right">3823.99</td>
+<td align="right">180</td>
+<td align="right">61480.63</td>
+<td align="right">30.0</td>
+<td align="right">600</td>
+<td align="right">570.0</td>
+</tr>
+<tr class="even">
+<td align="left">Puerto Rico</td>
+<td align="right">24</td>
+<td align="right">1056.67</td>
+<td align="right">60</td>
+<td align="right">3655.46</td>
+<td align="right">52.5</td>
+<td align="right">300</td>
+<td align="right">247.5</td>
+</tr>
+<tr class="odd">
+<td align="left">Ireland</td>
+<td align="right">1</td>
+<td align="right">60.00</td>
+<td align="right">60</td>
+<td align="right">NA</td>
+<td align="right">60.0</td>
+<td align="right">60</td>
+<td align="right">0.0</td>
+</tr>
+<tr class="even">
+<td align="left">Isle of Man</td>
+<td align="right">4</td>
+<td align="right">52.50</td>
+<td align="right">40</td>
+<td align="right">49.92</td>
+<td align="right">17.5</td>
+<td align="right">75</td>
+<td align="right">57.5</td>
+</tr>
+</tbody>
+</table>
+<p>With relative small number of observations in Ireland, Germany, Isle of Man, Australia and Puerto Rico, the rest of analysis will mostly focus on USA. Since the standard deviations of the United States and Canada are way too large for a “readable” display, extreme values will be omitted for the later density plot.</p>
+<pre class="r"><code># create dataframe for the plot (which got rid of outliers for each country)
+filtered_ufo = ufo %&gt;% 
+  group_by(country) %&gt;% 
+  # add two columns according to its country: Q3, IQR
+  mutate(
+    Q3 = quantile(encounter_length, 0.75),
+    IQR = IQR(encounter_length)
+  ) %&gt;% 
+  # ungroup
+  ungroup() %&gt;% 
+  # filter out outliers
+  filter(encounter_length &lt; Q3 + 1.5 * IQR)
+
+# make a density plot
+filtered_ufo %&gt;%
+  # make x-aixs = encounter_length, fill the color by country
+  ggplot(aes(x = encounter_length, fill = country)) +
+  # set the transparency to 0.4 and set several customerized parameter
+  geom_density(alpha = 0.4, adjust = 0.5, color = &quot;cornsilk4&quot;) +
+  # to make the fill colors a bit prettier
+  scale_fill_viridis(option = &quot;plasma&quot;, discrete = TRUE) +
+  labs(title = &quot;Density Plot of Length Time for Each Country&quot;,
+       x = &quot;Encounter Length Time&quot;)</code></pre>
+<p><img src="EDA_files/figure-html/unnamed-chunk-4-1.png" width="90%" /></p>
+<p>In the plot, United States showed the most amount of data and spreaded out a lot with some spikes of encounter length. It is also important to mention that a lot of encounter happened within 500 seconds. In the United States, there seemed to be a pattern of sighting time (due to the spikes). Hence,a categorical analysis will be conducted later in the project. Meanwhile, a similar pattern was observed in Canada yet “milder” as they both shared similar spikes and distribution. Hence, questions like whether there is a particular pattern behind the UFO sighting might be asked.</p>
+</div>
+<div id="lag-in-documentation" class="section level1">
+<h1>Lag in Documentation:</h1>
+<p>In the dataset, we noticed that for a lot of the data, there are lags in time regards to their sighting time and the documentation time. Therefore, here is a plot that shows the distribution of lag time in years for each sighting by country.</p>
+<pre class="r"><code># tidy data
+lag_data = ufo %&gt;% 
+  # separate the date_documented into month, day and year
+  separate(date_documented, into = c(&quot;doc_month&quot;,&quot;doc_day&quot;,&quot;doc_year&quot;), sep = &quot;/&quot;) %&gt;% 
+  # add a variable called lag
+  mutate(lag = as.numeric(doc_year) - as.numeric(year))
+  
+# violin plot for the lag
+lag_data %&gt;% 
+  ggplot(aes(x = country, y = lag)) +
+  geom_violin(aes(fill = country), color = &quot;cornsilk4&quot;, alpha = 0.4) +
+  stat_summary(fun.y = median, geom = &quot;point&quot;, color = &quot;darksalmon&quot;, size = 3) +
+  labs(title = &quot;Violin Plot for the Lag Time in Actual Sighting Date and Documentation Date&quot;)</code></pre>
+<p><img src="EDA_files/figure-html/unnamed-chunk-5-1.png" width="90%" /></p>
+<p>Based on the plot, we can see that most of the data are documented relatively recent to their sighting, which is a good thing, because the longer the lag, the larger the possibility of wrongly documentation.</p>
+</div>
 
 
 
@@ -418,6 +626,11 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
 
 <script>
 $(document).ready(function ()  {
