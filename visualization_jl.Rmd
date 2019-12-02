@@ -46,8 +46,8 @@ separate( date, into = c("month","day","year"), sep = "/")
 ```{r}
 plot_time = ufo %>% 
   separate(time, into = c("hour", "minute"), sep = ":") %>% 
-  mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
   mutate(hour = recode(hour, "24" = "00")) %>%
+  mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
   select(-minute) %>% 
   group_by(hour, country) %>% 
   summarize(n = n()) %>% 
@@ -64,18 +64,48 @@ plot_time = ufo %>%
 plot_time
 ```
 
-## spaghetti plot: UFO in US by year (x=hour, y=year/month, group = us)
+## percentage of UFO number (x = hour, y = percentage = number of UFO in the hour in given country / total number of UFO in given country)
+```{r}
+num_country = ufo %>% 
+  group_by(country) %>% 
+  summarize(num_country = n())
+hour_country = ufo %>% 
+  separate(time, into = c("hour", "minute"), sep = ":") %>% 
+  mutate(hour = recode(hour, "24" = "00")) %>%
+  mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
+  select(-minute) %>% 
+  group_by(hour, country) %>% 
+  summarize(
+    n = n()
+  ) 
+plot_percentage = left_join(hour_country, num_country, by = "country") %>% 
+  mutate(percentage = n / num_country) %>% 
+  ggplot(aes(x = hour, y = percentage, color = country)) +
+  geom_point(aes(group = country)) +
+  geom_line(aes(group = country)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  ylim(0, 0.5) +
+  labs(
+    title = "Percentage of UFO by Countries in 24 Hours", 
+    x = "Hour",
+    y = "Percentage"
+  )
+```
+
+
+## spaghetti plot:  number of UFO in each hour by month (x=hour, y=year/month, group = us)
 ```{r}
 plot_us_month = ufo %>% 
   filter(country == "USA", year >= 1950) %>% 
   separate(time, into = c("hour", "minute"), sep = ":") %>% 
+  mutate(hour = recode(hour, "24" = "00")) %>%
   mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
   select(-minute) %>% 
   mutate(month = month.name[as.numeric(month)]) %>% 
-  group_by(hour, ufo_shape) %>% 
+  group_by(hour, month) %>% 
   summarize(n = n()) %>% 
-  ggplot(aes(x = hour, y = n, color = ufo_shape)) +
-  geom_line(aes(group = ufo_shape)) +
+  ggplot(aes(x = hour, y = n, color = month)) +
+  geom_line(aes(group = month)) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(
     title = "Number of UFO in Each Hour by Month in US",
@@ -85,5 +115,28 @@ plot_us_month = ufo %>%
 
 # display the plot
 plot_us_month
+```
+
+## spaghetti plot: number of UFO in each hour by shape (x=hour, y=shape, group = us)
+```{r}
+plot_us_shape = ufo %>% 
+  filter(country == "USA", year >= 1950) %>% 
+  separate(time, into = c("hour", "minute"), sep = ":") %>% 
+  mutate(hour = recode(hour, "24" = "00")) %>%
+  mutate(hour = paste0(hour, ":00-", hour, ":59")) %>% 
+  select(-minute) %>% 
+  group_by(hour, ufo_shape) %>% 
+  summarize(n = n()) %>% 
+  ggplot(aes(x = hour, y = n, color = ufo_shape)) +
+  geom_line(aes(group = ufo_shape)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(
+    title = "Number of UFO in Each Hour by UFO shape in US",
+    x = "Hour",
+    y = "Number"
+  )
+
+# display the plot
+plot_us_shape
 ```
 
