@@ -1,5 +1,5 @@
 ---
-title: "EDA"
+title: ""
 output:
   html_document:
     code_folding: hide
@@ -19,7 +19,7 @@ library(sf)
 library(mapview)
 library(rgdal)
 library(htmltools)
-
+library(plotly)
 
 knitr::opts_chunk$set(
   echo = TRUE,
@@ -51,11 +51,11 @@ separate( date, into = c("month","day","year"), sep = "/")
 
 
 
-# Overview of the UFO data. 
+# UFO Data Overview. 
 
 ```{r}
 ## A bargraph showing the total number of UFO observed among 7 countries.
-
+bar = 
 ufo %>%
   group_by(country) %>%
   count() %>%
@@ -69,6 +69,8 @@ ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percen
               vjust = -0.5,   size = 3) + 
     labs(title = "Bargraph of the precentage of UFO Observed by Country",
          x = "Country",y = "Precentage") 
+ggplotly(bar)
+
 ```
 
 
@@ -77,8 +79,7 @@ According to the graph above, the majority of the UFO were observed in the USA w
 
 ```{r}
 ## line plot showing the number of UFO observed across time among countries
-
-ufo %>%
+line_plot = ufo %>%
 group_by(year) %>%
 count(country) %>%
 ungroup() %>%
@@ -87,10 +88,13 @@ mutate(year = as.numeric(year)) %>%
   geom_line(aes(color = country)) +
   theme(axis.text.x = element_text(angle = 90)) +
   labs(
-title = " Line Plot of Number of UFO Observed Across Time Among different Countries ",
+title = " Number of UFO Across Time in different Countries ",
     x = "Year",
     y = "Number Of UFO Observed"
   )
+
+ggplotly(line_plot)
+
 
 ```
 
@@ -137,6 +141,7 @@ filtered_ufo = ufo %>%
   filter(encounter_length < Q3 + 1.5 * IQR)
 
 # make a density plot
+density_plot = 
 filtered_ufo %>%
   # make x-aixs = encounter_length, fill the color by country
   ggplot(aes(x = encounter_length, fill = country)) +
@@ -146,6 +151,9 @@ filtered_ufo %>%
   scale_fill_viridis(option = "plasma", discrete = TRUE) +
   labs(title = "Density Plot of Length Time for Each Country",
        x = "Encounter Length Time")
+ggplotly(density_plot)
+
+
 ```
 
 In the plot, United States showed the most amount of data and spreaded out a lot with some spikes of encounter length. It is also important to mention that a lot of encounter happened within 500 seconds. In the United States, there seemed to be a pattern of sighting time (due to the spikes). Hence,a categorical analysis will be conducted later in the project. Meanwhile, a similar pattern was observed in Canada yet "milder" as they both shared similar spikes and distribution. Hence, questions like whether there is a particular pattern behind the UFO sighting might be asked.  
@@ -165,11 +173,15 @@ lag_data = ufo %>%
   mutate(lag = as.numeric(doc_year) - as.numeric(year))
   
 # violin plot for the lag
+lag_plot = 
 lag_data %>% 
   ggplot(aes(x = country, y = lag)) +
   geom_violin(aes(fill = country), color = "cornsilk4", alpha = 0.4) +
   stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
   labs(title = "Violin Plot for the Lag Time in Actual Sighting Date and Documentation Date")
+
+ggplotly(lag_plot)
+
 
 ```
 
