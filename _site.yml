@@ -1,0 +1,20 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "EDA"
+      href: about.html
+    - text: "UFO in USA"
+      href: index.html
+    - text: "Map of State"
+      href: index.html
+    - text: "Map of City"
+      href: index.html
+    - text: "Models"
+      href: index.html
+    - icon: fa-facebook fa-lg
+      href: index.html
+output:
+  html_document:
+    theme: yeti
