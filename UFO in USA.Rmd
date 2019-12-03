@@ -47,7 +47,7 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 The goal of this part is to explore whether there is link between the shape of UFOs and their appearance in the U.S, as well as the association between shape of UFOs and their encounter length time.
 
-# The distribution of UFO shape in the U.S
+# The Distribution of UFO Shape in the U.S
 
 The light is the most frequent shape of UFO
 
@@ -157,7 +157,7 @@ Conclusion: 1):The most frequent shape of UFO is light;
             2):The UFO is more likely to appear during night
 
 
-#Shape vs avg encounter length
+# Shape vs. Encounter Length
 
 The observations with low avg encounter length increases after 1990
 
@@ -275,7 +275,9 @@ median_length_shape_data %>%
 
 
 <strong>The Median Length Time for Each Shape of UFO (by day and night) </strong>
+
 Whether the relationship between shape and the length time would change by time
+
 ```{r length_day_night}
 ufo_day_night_length =
 ufo_data %>%  
@@ -313,7 +315,7 @@ count = n()) %>%
 Conclusion:there is no association between encounter length time and UFO shape. 
 
 
-<strong>UFO appearance in each month</strong>
+# UFO Appearance in Each Month
 ```{r ufo_appearance_month}
 ufo_month_counts_plot =
 ufo_data %>%  
@@ -322,17 +324,14 @@ separate(date, into = c("month","day","year"), sep = "/") %>%
 filter(country == "USA") %>% 
 mutate(year_1 = case_when(year >= 1950 ~ "true",
                           TRUE ~"false")) %>% 
-mutate(month = forcats::fct_relevel(month, c("0","1","2","3","4","5","6","7","8","9","10","11","12"))) %>% 
+mutate(month = forcats::fct_relevel(month, c("1","2","3","4","5","6","7","8","9","10","11","12"))) %>% 
+mutate(month = recode(month,"1"="Jan","2"="Feb","3"="Mar","4"="Apr","5"="May","6"="Jun","7"="Jul","8"="Aug","9"="Sep","10"="Oct","11"="Nov","12"="Dec")) %>% 
 filter(year_1 == "true") %>% 
 select(-year_1) %>% 
 group_by(month) %>% 
 summarize(count_month = n()) %>% 
   ggplot(aes(x = month, y = count_month)) +
   geom_col(aes(fill = month), alpha = .75, position = position_dodge(1)) +
-  #scale_fill_manual(
-    #values = c("lightblue","lightpink"), 
-    #labels = c("day","night")
-    #) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(title = "The Plot of the Appearance UFO for Each Month", 
        y = "Counts of Appearance",
@@ -340,3 +339,4 @@ summarize(count_month = n()) %>%
   
 ufo_month_counts_plot
 ```
+The frequency of UFO appearance is higher after June, and peaks at July. 
