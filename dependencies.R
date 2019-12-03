@@ -13,6 +13,7 @@ devtools::install_cran("e1071", quiet = TRUE)
 devtools::install_cran("rgl", quiet = TRUE)
 devtools::install_cran("FactoMineR", quiet = TRUE)
 devtools::install_github("vqv/ggbiplot", quiet = TRUE)
+devtools::install_cran("mapview", quiet = TRUE)
 
 # load library
 library(tidyverse)
