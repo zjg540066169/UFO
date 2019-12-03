@@ -73,8 +73,7 @@ ggplotly(bar)
 
 ```
 
-
-According to the graph above, the majority of the UFO were observed in the USA with very small number of data came from Canada and UK. We can almost ignore data from Ireland, Germany, Isle of Man and Puerto Rico.
+According to the graph above, the majority, 92.4%, of the UFO were observed in the United States of America and smaller portion of data came from Canada and the United Kingdom. We can almost ignore data from Australia, Ireland, Germany, Isle of Man and Puerto Rico. For statisticaly significant analysis, we would like to include enough data to perform tests and we will have solid results, hopefully.
 
 
 ```{r}
@@ -95,16 +94,16 @@ title = " Number of UFO Across Time in different Countries ",
 
 ggplotly(line_plot)
 
-
 ```
 
-This line plot provides a trend showing the number of UFO observed in each country across time. It is obvious that USA gives the most number of data.we can see that for the United States, the earliest data happens before 1925. The amount of UFO sighting begins to increase sometime after 1950. Most of UFO sighting reports were taken place around 1990 and after. Similar trend was also observed in Canada and Australia, but with far less amount of data recorded.
+This line plot provides a trend showing the number of UFO observed in each country across time. According to the plot, it is obvious that USA (indicated by the yellow line) has the most number of data. We can see that for the United States, the earliest data happens before 1925. The amount of UFO sighting begins to increase sometime after 1950. Most of UFO sighting reports were taken place around 1990 and after. Similar trend was also observed in Canada (indicated by the violet line), Puerto Rico (indicated by the green line) and Australia (indicated by dark purple line), but with far less amount of data recorded. 
 
 
 
+# Descriptive Statistics in Encountered Length
 
-# Descriptive Statistics in Encountered Length 
 ```{r}
+
 ufo %>% 
   group_by(country) %>% 
   # create columns for count, mean, median, sd, Q1, Q3, IQR for each country
@@ -119,11 +118,11 @@ ufo %>%
   arrange(desc(mean)) %>% 
   # knit a table
   knitr::kable(digits = 2, 
-               caption = "The mean, median, sd, Q1, Q3 and IQR are for the variable lenght time (in seconds). ")
+               caption = "The mean, median, sd, Q1, Q3 and IQR are for the variable length time (in seconds). ")
 
 ```
 
-With relative small number of observations in Ireland, Germany, Isle of Man, Australia and Puerto Rico, the rest of analysis will mostly focus on USA. Since the standard deviations of the United States and Canada are way too large for a “readable” display,  extreme values will be omitted for the later density plot. 
+With relative small number of observations in Ireland, Germany, Isle of Man, Australia and Puerto Rico, the rest of analysis will mostly focus on the USA. The United Kingdom has the largest mean, 66512.89 seconds, and largest standard deviation, 2322650.18, and the smallest mean is Isle of Man, 52.50 seconds. According to the table above, since the standard deviations of the United States and Canada are way too large for a “readable” display, also we have decided above that we are mainly focusing on these two countries for analysis, extreme values will be omitted for the later density plot. 
 
 
 ```{r}
@@ -156,13 +155,13 @@ ggplotly(density_plot)
 
 ```
 
-In the plot, United States showed the most amount of data and spreaded out a lot with some spikes of encounter length. It is also important to mention that a lot of encounter happened within 500 seconds. In the United States, there seemed to be a pattern of sighting time (due to the spikes). Hence,a categorical analysis will be conducted later in the project. Meanwhile, a similar pattern was observed in Canada yet "milder" as they both shared similar spikes and distribution. Hence, questions like whether there is a particular pattern behind the UFO sighting might be asked.  
+In the plot, United States showed the most amount of data and spreaded out a lot with some spikes of encounter length. It is also important to mention that a lot of encounter happened within 500 seconds. In the United States, there seemed to be a pattern of sighting time (due to the spikes). Hence,a categorical analysis will be conducted later in the project. Meanwhile, a similar pattern was observed in Canada yet "milder" as they both shared similar spikes and distribution. Hence, questions like whether there is a particular pattern behind the UFO sighting might be asked. For other countries that were displayed in the plot above, we also observed similar pattern to some degree.
 
 
 
 # Lag in Documentation:
 
-In the dataset, we noticed that for a lot of the data, there are lags in time regards to their sighting time and the documentation time. Therefore, here is a plot that shows the distribution of lag time in years for each sighting by country.
+In the dataset, we noticed that for a lot of the data, there are lags in time regards to their sighting time and the documentation time. Lags may indicate inaccurate information in the dataset, since people's memory tends to become unreliable after time. Therefore, here is a plot that shows the distribution of lag time in years for each sighting by country.
 
 ```{r}
 # tidy data
