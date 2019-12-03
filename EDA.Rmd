@@ -184,5 +184,5 @@ ggplotly(lag_plot)
 
 ```
 
-Based on the plot, we can see that most of the data are documented relatively recent to their sighting, which is a good thing, because the longer the lag, the larger the possibility of wrongly documentation.
+Based on the plot, we can see that most of the data are documented relatively recent to their sighting, which is a good thing, because the longer the lag, the larger the possibility of wrongly documentation. However, there is oulier in most of countries, they are not common (only takes a very small part in the dataset). Hence, we consider that the most of dataset are reliable.
 
