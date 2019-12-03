@@ -3,9 +3,7 @@ title: "UFO in USA"
 author: "Jingyi, Ran"
 date: "12/1/2019"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  html_document
 ---
 
 ```{r setup, include=FALSE}
