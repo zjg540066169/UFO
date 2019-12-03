@@ -51,7 +51,7 @@ ufo =
 
 ## percentage
 
-calculate the percentage of frequency of UFO appearance in one city over that in all cities in the United States
+calculate the percentage of UFO appearence frequency in one city among all US cities
 
 ```{r}
 percentage_count = ufo %>% 
@@ -77,12 +77,17 @@ percent = percentage_count %>%
 #  filter(n < 100) %>% 
   ggplot(aes(x = n, y = percent)) +
   geom_point() +
-  geom_line()
+  geom_line() +
+  labs(
+    x = "UFO frequency",
+    y = "percentage in all US cities",
+    title = "Percentage of UFO Appearence Frequency among All US Cities"
+  )
 
 percent
 ```
 
-From the plot, it would be reasonable to separate the frequency map plot at n = 25.
+From the plot, we can see that majority of the cities in which UFO appeared has UFO appearance frequency less than 25 times. Therefore, it would be reasonable to separate the frequency map plot at n = 25.
 
 ## map
 
