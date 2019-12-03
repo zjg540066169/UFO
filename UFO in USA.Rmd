@@ -305,4 +305,30 @@ count = n()) %>%
 Conclusion:there is no association between encounter length time and UFO shape. 
 
 
-
+##UFO appearance in each month
+```{r ufo_appearance_month}
+ufo_month_counts_plot =
+ufo_data %>%  
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate(date, into = c("month","day","year"), sep = "/") %>%
+filter(country == "USA") %>% 
+mutate(year_1 = case_when(year >= 1950 ~ "true",
+                          TRUE ~"false")) %>% 
+mutate(month = forcats::fct_relevel(month, c("0","1","2","3","4","5","6","7","8","9","10","11","12"))) %>% 
+filter(year_1 == "true") %>% 
+select(-year_1) %>% 
+group_by(month) %>% 
+summarize(count_month = n()) %>% 
+  ggplot(aes(x = month, y = count_month)) +
+  geom_col(aes(fill = month), alpha = .75, position = position_dodge(1)) +
+  #scale_fill_manual(
+    #values = c("lightblue","lightpink"), 
+    #labels = c("day","night")
+    #) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(title = "The Plot of the Appearance UFO for Each Month", 
+       y = "Counts of Appearance",
+       x = "Month")
+  
+ufo_month_counts_plot
+```
