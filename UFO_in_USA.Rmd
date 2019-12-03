@@ -319,7 +319,6 @@ ufo_month_counts_plot
 
 ```
 
-
 According to the plot here, the number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year. 
 
 The frequency of UFO appearance is higher after June, and peaks at July. 
