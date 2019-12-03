@@ -34,12 +34,15 @@ ufo =
 
 
 #### mapping
-US =
-    
+USA=
     ufo %>%
-    filter(country == "USA") %>%
+    filter(country == "USA", year >= 1950,encounter_length < 6000) %>%
+    select(year,month,state,city,encounter_length,latitude,longitude) %>%
     group_by(state) %>%
-    summarise(Num.UFO = n()) 
+    mutate(
+        encounter_length =encounter_length/60,
+        total_encounter_length = sum(encounter_length)
+    )
 
 
 states = readOGR("../data/cb_2018_us_state_500k.shp")
@@ -54,14 +57,15 @@ is.element(new_states$STUSPS,US$state)
 is.element(US$state,new_states$STUSPS)
 
 ## make it into same order
-US = US[order(match(US$state, (new_states$STUSPS))),]
+USA = USA[order(match(USA$state, (new_states$STUSPS))),]
 
 # set for the range based on number being observed--discrete
 # bins = c(0,50,100,150,200,250,300,350,400,450,500,550)
 # pal = colorBin("YlOrRdBu",domain = US$Num.observed,bins = bins)
 
-pal <- colorNumeric(palette = "Reds",domain = c(0,1))
-labels = paste( "<p>","Number of UFO Observed from 1925 to 2015 ：", US$Num.UFO,"<p>",sep = "")
+pal <- colorNumeric(palette = "Reds",domain = USA$total_engounter_length)
+labels = paste( "<p>","total_encountered_length (min) ：", USA$total_encounter_length,"</p>",
+                sep = "")
 leaflet() %>%
     setView(-96,37.8,4) %>%
     addTiles() %>%
@@ -70,11 +74,11 @@ leaflet() %>%
                 smoothFactor = 0.2,
                 color = "white",
                 fillOpacity = 0.75,
-                fillColor = pal(US$Num.UFO),
+                fillColor = pal(USA$total_encounter_length),
                 label = lapply(labels, HTML)
     ) %>%
     addLegend(pal = pal,
-              values = US$Num.UFO,
+              values = USA$total_encounter_length,
               opacity = 0.7,
               position = "topright")
 
@@ -105,14 +109,16 @@ server <- function(input, output) {
 data_input = reactive({ US %>% filter(year>= input$date_range[1])%>%
         filter(year<= input$date_range[2]) %>%
         group_by(state) %>%
-        summarise(Num.UFO = n()) 
-    
+        mutate(
+            encounter_length =encounter_length/60,
+            total_engounter_length = sum(encounter_length)
+        )    
 })
 data_input_ordered = reactive({
     data_input()[order(match(data_input()$state,states$STUSPS)),]
 })
 labels = reactive({
-    paste("<p>","Number of UFO Observed Across Time ：", data_input_ordered$Num.UFO,"</p>",
+    paste("<p>","total_encountered_length (min) ：", data_input_ordered$total_encountered_length,"</p>",
           sep = "")})
 output$mymap = renderLeaflet(
    
@@ -124,11 +130,11 @@ output$mymap = renderLeaflet(
                     smoothFactor = 0.2,
                     color = "white",
                     fillOpacity = 0.75,
-                    fillColor = pal(data_input_ordered$Num.UFO),
+                    fillColor = pal(data_input_ordered$total_encounter_length),
                     label = lapply(labels(), HTML)
         ) %>%
         addLegend(pal = pal,
-                  values = data_input_ordered$Num.UFO,
+                  values = data_input_ordered$total_encounter_length,
                   opacity = 0.7,
                   position = "topright")
     

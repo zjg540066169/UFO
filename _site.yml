@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "EDA"
-      href: about.html
+      href: eda.html
     - text: "UFO in USA"
       href: index.html
     - text: "Map of State"

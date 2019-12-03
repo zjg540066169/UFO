@@ -123,7 +123,7 @@ Comment:
 According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round. 
 
 ```{r}
-## heatmap showing 
+## USA
   ufo %>%
   filter(country == "USA", year >= 1950, encounter_length <6000) %>%
   select(year, month, encounter_length) %>%
@@ -147,50 +147,10 @@ According to this plot, we can see that the light UFO shape was sighted most oft
     x = "Years",
     y = "Month"
   ) + 
-  theme(axis.text.x = element_text(angle = 90)) +
+  theme(axis.text.x = element_text(angle = 300)) +
   theme(plot.subtitle = element_text(hjust = 0.5))
 
-### Canada heatmap
- #ufo %>%
-  #filter(country == "Canada", year >= 1950, encounter_length < 6000) %>%
-  #select(year, month, encounter_length) %>%
-  #arrange(year) %>%
-  #group_by(year, month) %>%
-  #mutate(
-    #encounter_length = encounter_length/60,
- # ave_encountered_length = mean(encounter_length))%>%
-  #select(-encounter_length) %>%
-  #arrange(desc(month)) %>%
-  #ggplot(aes(x = year, y = month)) +
-  #geom_tile(aes(fill = ave_encountered_length), colour = "white") +
- # scale_fill_gradient(low = "lightyellow", high = "darkgreen") 
- 
- 
- ufo %>%
-  filter(country == "Canada", year >= 1950, encounter_length <6000) %>%
-  select(year, month, encounter_length) %>%
-  mutate(year = as.numeric(year),
-         month = as.numeric(month)) %>%
-  group_by(year,month) %>%
-  arrange(desc(month)) %>%
-  mutate(
-  ave_encountered_length = mean(encounter_length/60)) %>%
-  select(-encounter_length) %>%
-  ungroup() %>%
-  mutate(month = month.name[as.numeric(month)]) %>%
-  ggplot(aes(x = year, y = month)) +
-  geom_tile(aes(fill = ave_encountered_length), colour = "white") +
-  scale_fill_gradient(low = "lightyellow", high = "darkgreen") +
-  scale_x_continuous(name="Years", 
-                     breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
-                                ), limits= c (1950,2015)) +
-  labs(
-    title = "Average UFO Encounter Length Compared among Months Across Time in Canada ",
-    x = "Years",
-    y = "Month"
-  ) + 
-  theme(axis.text.x = element_text(angle = 90)) +
-  theme(plot.subtitle = element_text(hjust = 0.5))
+
 ``` 
  
  
@@ -242,8 +202,14 @@ labels = paste( "<p>","Number of UFO Observed Across Time ：", US$Num.UFO,"</p>
               opacity = 0.7,
               position = "topright")
 
-  
 ``` 
 
+
+
+```{r}
+
+
+
+```
 
 
