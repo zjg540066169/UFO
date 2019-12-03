@@ -37,60 +37,24 @@ scale_fill_discrete = scale_fill_viridis_d
 theme_set(theme_minimal() + theme(legend.position = "bottom"))
 ```
 
-## read data
+## 
 
 ```{r}
 ufo_data = read_csv("./data/tidied_data_final.csv", na = "")
 
 ufo =
-  ufo_data %>%  
-  separate(date_time, into = c( "date","time"), sep = " " ) %>%
-  separate( date, into = c("month","day","year"), sep = "/") %>% 
-  mutate(a = longitude, longitude = latitude, latitude = a)
-```
+ufo_data %>%  
+#na.omit(ufo_data) %>% 
+separate(date_time, into = c( "date","time"), sep = " " ) %>%
+separate( date, into = c("month","day","year"), sep = "/") %>% 
+mutate(a = longitude, longitude = latitude, latitude = a)
 
-
-## percentage 
-
-```{r}
-percentage_count = ufo %>% 
+plot_map_below100 = ufo %>% 
   filter(country == "USA") %>% 
   select(state, city, longitude, latitude) %>% 
   group_by(state, city, longitude, latitude) %>% 
   summarize(n = n()) %>% 
-  arrange(n) 
-count_all = percentage_count %>% 
-  nrow() %>% 
-  as.numeric()
-percent_calc = function(num){
-  count_num = percentage_count %>% 
-    filter(n == num) %>% 
-    nrow()
-  percent = count_num / count_all
-  percent
-}
-percent = percentage_count %>% 
-  group_by(n) %>% 
-  summarize(count = n()) %>% 
-  mutate(percent = (count / count_all) * 100) %>% 
-  filter(n < 100) %>% 
-  ggplot(aes(x = n, y = percent)) +
-  geom_point() +
-  geom_line()
-
-percent
-```
-
-
-## map
-
-```{r}
-plot_map_below25 = ufo %>% 
-  filter(country == "USA") %>% 
-  select(state, city, longitude, latitude) %>% 
-  group_by(state, city, longitude, latitude) %>% 
-  summarize(n = n()) %>% 
-  filter(n <= 25) %>% 
+  filter(n <= 100) %>% 
   plot_geo(locationmode = "USA-states", sizes = c(1, 250)) %>% 
   add_markers(
     x = ~latitude, y = ~longitude, group = ~city, color = ~n, hoverinfo = "text",
@@ -98,7 +62,7 @@ plot_map_below25 = ufo %>%
   ) %>% 
   colorbar(limits = c(0, 100))
 
-plot_map_above25 = ufo %>% 
+plot_map_above100 = ufo %>% 
   filter(country == "USA") %>% 
   select(state, city, longitude, latitude) %>% 
   group_by(state, city, longitude, latitude) %>% 
@@ -110,8 +74,5 @@ plot_map_above25 = ufo %>%
     text = ~ paste0(city, "<br />", state, ", <br />", n, " times seen UFO")
   ) %>% 
   colorbar(limits = c(50, 550))
-
-plot_map_below25
-plot_map_above25
 ```
 

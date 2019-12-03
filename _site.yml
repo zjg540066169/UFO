@@ -6,7 +6,7 @@ navbar:
     - text: "EDA"
       href: eda.html
     - text: "UFO in USA"
-      href: UFO_in_USA.html
+      href: UFO-in-USA.html
     - text: "Map of State"
       href: index.html
     - text: "Map of City"
