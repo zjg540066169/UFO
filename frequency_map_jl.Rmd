@@ -12,6 +12,7 @@ library(plotly)
 library(tidyverse)
 library(viridis)
 library(ggridges)
+library(leaflet)
 
 knitr::opts_chunk$set(
   # display the code in the code truck above its results in the final document
@@ -103,7 +104,7 @@ plot_map_above25 = ufo %>%
   select(state, city, longitude, latitude) %>% 
   group_by(state, city, longitude, latitude) %>% 
   summarize(n = n()) %>% 
-  filter(n > 50) %>% 
+  filter(n > 25) %>% 
   plot_geo(locationmode = "USA-states", sizes = c(1, 250)) %>% 
   add_markers(
     x = ~latitude, y = ~longitude, group = ~city, color = ~n, hoverinfo = "text",
@@ -113,5 +114,49 @@ plot_map_above25 = ufo %>%
 
 plot_map_below25
 plot_map_above25
+```
+
+## leaflet version
+
+Map for cities with UFO occurred less than 25 times. Markers size (radius) represents the frequency of UFO (n).
+
+```{r}
+map_ufo_under25 = ufo %>% 
+  filter(country == "USA") %>% 
+  select(state, city, longitude, latitude) %>% 
+  group_by(state, city, longitude, latitude) %>% 
+  summarize(n = n()) %>% 
+  filter(n <= 25)
+map_under25 = leaflet(data = map_ufo_under25) %>% 
+  addTiles() %>% 
+  addCircleMarkers(
+    radius = ~n/10,
+    ~latitude, 
+    ~longitude, 
+    popup = ~paste0(city, "<br />", state, ", <br />", n)
+  )
+map_under25
+```
+
+
+Map for cities with UFO occurred more than 25 times. Markers' size (radius) represents the frequency of UFO (n), and 7 cities with UFO occurred more than 300 times were labelled in red.
+
+```{r}
+map_ufo_above25 = ufo %>% 
+  filter(country == "USA") %>% 
+  select(state, city, longitude, latitude) %>% 
+  group_by(state, city, longitude, latitude) %>% 
+  summarize(n = n()) %>% 
+  filter(n > 25)
+map_above25 = leaflet(data = map_ufo_above25) %>% 
+  addTiles() %>% 
+  addCircleMarkers(
+    radius = ~n/100, 
+    color = ~ifelse(n > 300, "red", "navy"),
+    ~latitude, 
+    ~longitude, 
+    popup = ~paste0(city, "<br />", state, ", <br />", n)
+  )
+map_above25
 ```
 
