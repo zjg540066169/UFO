@@ -10,7 +10,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Jingyi, Ran" />
 
 
 <title>UFO in USA</title>
@@ -21,7 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
@@ -248,7 +251,67 @@ $(document).ready(function () {
 </style>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
 
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
 
 
 
@@ -258,6 +321,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -281,7 +354,7 @@ $(document).ready(function () {
   <a href="eda.html">EDA</a>
 </li>
 <li>
-  <a href="index.html">UFO in USA</a>
+  <a href="UFO-in-USA.html">UFO in USA</a>
 </li>
 <li>
   <a href="index.html">Map of State</a>
@@ -305,22 +378,29 @@ $(document).ready(function () {
 
 <div class="fluid-row" id="header">
 
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
 
 
 <h1 class="title toc-ignore">UFO in USA</h1>
-<h4 class="author">Jingyi, Ran</h4>
-<h4 class="date">12/1/2019</h4>
 
 </div>
 
 
-<div id="visualization-of-ufo-in-usa" class="section level3">
-<h3>Visualization of UFO in USA</h3>
+<div id="visualization-of-ufo-in-usa" class="section level1">
+<h1>Visualization of UFO in USA</h1>
 <p>The goal of this part is to explore whether there is link between the shape of UFOs and their appearance in the U.S, as well as the association between shape of UFOs and their encounter length time.</p>
 </div>
-<div id="the-distribution-of-ufo-shape-in-the-u.s" class="section level2">
-<h2>The distribution of UFO shape in the U.S</h2>
-<p>The light is the most frequent shape of UFO #Boxplot showing the distribution of the UFO Shape Observed in US</p>
+<div id="the-distribution-of-ufo-shape-in-the-u.s" class="section level1">
+<h1>The distribution of UFO shape in the U.S</h1>
+<p>The light is the most frequent shape of UFO</p>
+<p><strong> Boxplot showing the distribution of the UFO Shape Observed in US </strong></p>
 <pre class="r"><code>### Boxplot showing the distribution of the UFO Shape Observed in US
 ufo_data = readr::read_csv(&quot;./data/tidied_data_final.csv&quot;)</code></pre>
 <pre><code>## Parsed with column specification:
@@ -360,9 +440,10 @@ separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), se
   )
 
 ufo</code></pre>
-<p><img src="UFO-in-USA_files/figure-html/boxplot_shape_distribution-1.png" width="90%" /> Comment: According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round.</p>
+<p><img src="UFO-in-USA_files/figure-html/boxplot_shape_distribution-1.png" width="90%" /></p>
+<p>Comment: According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round.</p>
 <p>Explore whether the frequency of UFO shape changes with day and night Generally, the UFOs are more likely to be observed during night. The shape of light is the most frequent shape during night</p>
-<p>#Times of Appearance for Each Shape of UFO (by day and night)</p>
+<p><strong> Times of Appearance for Each Shape of UFO (by day and night) </strong></p>
 <pre class="r"><code>ufo_day_night_shape =
 ufo_data %&gt;%  
 separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
@@ -393,7 +474,8 @@ summarize(count_shape = n()) %&gt;%
   
   ufo_day_night_shape</code></pre>
 <p><img src="UFO-in-USA_files/figure-html/day_night_shape-1.png" width="90%" /></p>
-<p>The spagetti plot confirms that UFOs are more likely to appear during night ## Numbers of appearance of UFO in each hour by month</p>
+<p>The spagetti plot confirms that UFOs are more likely to appear during night</p>
+<p><strong> Numbers of appearance of UFO in each hour by month </strong></p>
 <pre class="r"><code>plot_us_month = ufo_data %&gt;% 
   separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
   separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
@@ -417,8 +499,9 @@ summarize(count_shape = n()) %&gt;%
 plot_us_month</code></pre>
 <p><img src="UFO-in-USA_files/figure-html/spagetti_appearance_each_hour-1.png" width="90%" /></p>
 <p>Conclusion: 1):The most frequent shape of UFO is light; 2):The UFO is more likely to appear during night</p>
-<p>##Shape vs avg encounter length</p>
-<p>The observations with low avg encounter length increases after 1990 # avg encounter length among months across year</p>
+<p>#Shape vs avg encounter length</p>
+<p>The observations with low avg encounter length increases after 1990</p>
+<p><strong> avg encounter length among months across year </strong></p>
 <pre class="r"><code>## heatmap showing 
   ufo_heatmap = ufo_data %&gt;% 
   separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
@@ -450,8 +533,9 @@ plot_us_month</code></pre>
 
 ufo_heatmap</code></pre>
 <p><img src="UFO-in-USA_files/figure-html/heatmap_length_month_year-1.png" width="90%" /></p>
-<p>shape vs. encounter length time #The violin plot of encounter length for each shape of ufo</p>
-<p>The relationship between shape and the median length time changing, cone, diamond #The bar chart of the median of encounter length time for each shape of UFO</p>
+<p>#shape vs. encounter length time</p>
+<p><strong>The violin plot of encounter length for each shape of ufo </strong></p>
+<p><strong>The bar chart of the median of encounter length time for each shape of UFO </strong></p>
 <pre class="r"><code># tidy data
 length_shape_data = ufo_data %&gt;% 
   mutate(ufo_shape = factor(ufo_shape),
@@ -517,7 +601,7 @@ median_length_shape_data %&gt;%
        y = &quot;Median of Encounter Length Time&quot;,
        x = &quot;UFO Shape&quot;)</code></pre>
 <p><img src="UFO-in-USA_files/figure-html/violin_plot_bar_chart-2.png" width="90%" /></p>
-<p>Whether the relationship between shape and the length time would change by time #The Median Length Time for Each Shape of UFO (by day and night)</p>
+<p><strong>The Median Length Time for Each Shape of UFO (by day and night) </strong> Whether the relationship between shape and the length time would change by time</p>
 <pre class="r"><code>ufo_day_night_length =
 ufo_data %&gt;%  
 separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
@@ -551,7 +635,7 @@ count = n()) %&gt;%
   ufo_day_night_length</code></pre>
 <p><img src="UFO-in-USA_files/figure-html/length_day_night-1.png" width="90%" /></p>
 <p>Conclusion:there is no association between encounter length time and UFO shape.</p>
-<p>##UFO appearance in each month</p>
+<p><strong>UFO appearance in each month</strong></p>
 <pre class="r"><code>ufo_month_counts_plot =
 ufo_data %&gt;%  
 separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
@@ -581,6 +665,8 @@ ufo_month_counts_plot</code></pre>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -612,7 +698,38 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -1,9 +1,10 @@
 ---
 title: "UFO in USA"
-author: "Jingyi, Ran"
-date: "12/1/2019"
 output: 
-  html_document
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -42,14 +43,16 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ```
 
-### Visualization of UFO in USA
+# Visualization of UFO in USA
 
 The goal of this part is to explore whether there is link between the shape of UFOs and their appearance in the U.S, as well as the association between shape of UFOs and their encounter length time.
 
-## The distribution of UFO shape in the U.S
+# The distribution of UFO shape in the U.S
 
 The light is the most frequent shape of UFO
-#Boxplot showing the distribution of the UFO Shape Observed in US
+
+<strong> Boxplot showing the distribution of the UFO Shape Observed in US </strong>
+
 ```{r boxplot_shape_distribution}
 ### Boxplot showing the distribution of the UFO Shape Observed in US
 ufo_data = readr::read_csv("./data/tidied_data_final.csv")
@@ -78,6 +81,7 @@ separate( date, into = c("month","day","year"), sep = "/") %>%
 ufo
 
 ```
+
 Comment: 
 According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round. 
 
@@ -86,7 +90,8 @@ Explore whether the frequency of UFO shape changes with day and night
 Generally, the UFOs are more likely to be observed during night. The shape of light is the most frequent shape during night
 
 
-#Times of Appearance for Each Shape of UFO (by day and night)
+<strong> Times of Appearance for Each Shape of UFO (by day and night) </strong>
+
 ```{r day_night_shape}
 ufo_day_night_shape =
 ufo_data %>%  
@@ -121,7 +126,9 @@ summarize(count_shape = n()) %>%
 
 
 The spagetti plot confirms that UFOs are more likely to appear during night
-## Numbers of appearance of UFO in each hour by month
+
+
+<strong> Numbers of appearance of UFO in each hour by month </strong>
 ```{r spagetti_appearance_each_hour}
 plot_us_month = ufo_data %>% 
   separate(date_time, into = c( "date","time"), sep = " " ) %>%
@@ -150,10 +157,11 @@ Conclusion: 1):The most frequent shape of UFO is light;
             2):The UFO is more likely to appear during night
 
 
-##Shape vs avg encounter length
+#Shape vs avg encounter length
 
 The observations with low avg encounter length increases after 1990
-# avg encounter length among months across year
+
+<strong> avg encounter length among months across year </strong>
 ```{r heatmap_length_month_year}
 ## heatmap showing 
   ufo_heatmap = ufo_data %>% 
@@ -188,12 +196,12 @@ ufo_heatmap
 ```
 
 
-shape vs. encounter length time 
-#The violin plot of encounter length for each shape of ufo
+#shape vs. encounter length time 
 
-The relationship between shape and the median length time 
-changing, cone, diamond 
-#The bar chart of the median of encounter length time for each shape of UFO
+<strong>The violin plot of encounter length for each shape of ufo </strong>
+
+<strong>The bar chart of the median of encounter length time for each shape of UFO </strong>
+
 ```{r violin_plot_bar_chart}
 
 # tidy data
@@ -264,8 +272,10 @@ median_length_shape_data %>%
 ```
 
 
+
+
+<strong>The Median Length Time for Each Shape of UFO (by day and night) </strong>
 Whether the relationship between shape and the length time would change by time
-#The Median Length Time for Each Shape of UFO (by day and night)
 ```{r length_day_night}
 ufo_day_night_length =
 ufo_data %>%  
@@ -303,7 +313,7 @@ count = n()) %>%
 Conclusion:there is no association between encounter length time and UFO shape. 
 
 
-##UFO appearance in each month
+<strong>UFO appearance in each month</strong>
 ```{r ufo_appearance_month}
 ufo_month_counts_plot =
 ufo_data %>%  
