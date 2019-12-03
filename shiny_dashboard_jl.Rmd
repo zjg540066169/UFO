@@ -9,7 +9,22 @@ runtime: shiny
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+library(tidyverse)
+library(viridis)
+library(leaflet)
 ```
+
+```{r}
+# data import and cleaning
+ufo_data = read_csv("./data/tidied_data_final.csv", na = "")
+
+ufo =
+  ufo_data %>%  
+  separate(date_time, into = c( "date","time"), sep = " " ) %>%
+  separate( date, into = c("month","day","year"), sep = "/") %>% 
+  mutate(a = longitude, longitude = latitude, latitude = a)
+```
+
 
 Column {.sidebar}
 -----------------------------------------------------------------------
