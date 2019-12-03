@@ -1,17 +1,16 @@
 ---
-title: "frequency_map"
+title: "leaflet_map"
 author: "J L"
-date: "11/15/2019"
+date: "12/3/2019"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-library(plotly)
 library(tidyverse)
 library(viridis)
-library(ggridges)
+library(leaflet)
 
 knitr::opts_chunk$set(
   # display the code in the code truck above its results in the final document
@@ -50,7 +49,9 @@ ufo =
 ```
 
 
-## percentage 
+## percentage
+
+calculate the percentage of frequency of UFO appearance in one city over that in all cities in the United States
 
 ```{r}
 percentage_count = ufo %>% 
@@ -73,7 +74,7 @@ percent = percentage_count %>%
   group_by(n) %>% 
   summarize(count = n()) %>% 
   mutate(percent = (count / count_all) * 100) %>% 
-  filter(n < 100) %>% 
+#  filter(n < 100) %>% 
   ggplot(aes(x = n, y = percent)) +
   geom_point() +
   geom_line()
@@ -81,37 +82,53 @@ percent = percentage_count %>%
 percent
 ```
 
+From the plot, it would be reasonable to separate the frequency map plot at n = 25.
 
 ## map
 
+For cities with UFO appearred less than 25 times:
+
 ```{r}
-plot_map_below25 = ufo %>% 
+below25 = ufo %>% 
   filter(country == "USA") %>% 
   select(state, city, longitude, latitude) %>% 
   group_by(state, city, longitude, latitude) %>% 
   summarize(n = n()) %>% 
-  filter(n <= 25) %>% 
-  plot_geo(locationmode = "USA-states", sizes = c(1, 250)) %>% 
-  add_markers(
-    x = ~latitude, y = ~longitude, group = ~city, color = ~n, hoverinfo = "text",
-    text = ~ paste0(city, "<br />", state, ", <br />", n, " times seen UFO")
-  ) %>% 
-  colorbar(limits = c(0, 100))
-
-plot_map_above25 = ufo %>% 
-  filter(country == "USA") %>% 
-  select(state, city, longitude, latitude) %>% 
-  group_by(state, city, longitude, latitude) %>% 
-  summarize(n = n()) %>% 
-  filter(n > 50) %>% 
-  plot_geo(locationmode = "USA-states", sizes = c(1, 250)) %>% 
-  add_markers(
-    x = ~latitude, y = ~longitude, group = ~city, color = ~n, hoverinfo = "text",
-    text = ~ paste0(city, "<br />", state, ", <br />", n, " times seen UFO")
-  ) %>% 
-  colorbar(limits = c(50, 550))
-
-plot_map_below25
-plot_map_above25
+  filter(n <= 25) 
+plot_below25 = leaflet(below25) %>% 
+  addTiles() %>% 
+  addCircleMarkers(
+    radius = ~n/10,
+    ~latitude,
+    ~longitude,
+    label = ~paste0(city, " ", state, ", ", n, " times seen UFO")
+  )
+plot_below25
 ```
 
+In this plot, the size (radius) of circle markers corresponds to the frequency of UFO appearance in the city.
+
+
+
+For cities with UFO appearred less than 25 times:
+
+```{r}
+above25 = ufo %>% 
+  filter(country == "USA") %>% 
+  select(state, city, longitude, latitude) %>% 
+  group_by(state, city, longitude, latitude) %>% 
+  summarize(n = n()) %>% 
+  filter(n > 25) 
+plot_above25 = leaflet(above25) %>% 
+  addTiles() %>% 
+  addCircleMarkers(
+    radius = ~n/100,
+    color = ~ifelse(n>300, "red", "navy"),
+    ~latitude,
+    ~longitude,
+    label = ~paste0(city, " ", state, ", ", n, " times seen UFO")
+  )
+plot_above25
+```
+
+In this plot, the size (radius) of circle markers corresponds to the frequency of UFO appearance in the city. 7 cities with UFO appeared more than 300 times are marked in red, while others in color navy.
