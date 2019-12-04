@@ -1,0 +1,58 @@
+---
+title: "Shiny Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+
+```{r}
+# set the state list for choices
+states = ufo %>% distinct(city) %>% pull()  
+# selectInput widget (dropdown menu)
+selectInput(
+  "state_choice", 
+  label = h3("Select state"),
+  choices = states, selected = "NY")
+
+# set the city list for choices
+cities = ufo %>% 
+  filter(state == input$state_choice) %>% 
+  distinct(city) %>% 
+  pull()
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+renderPrint({
+  input[["state_choice"]]
+})
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
