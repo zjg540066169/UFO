@@ -13,8 +13,8 @@ navbar:
       href: index.html
     - text: "Models"
       href: index.html
-    - icon: fa-facebook fa-lg
-      href: index.html
+    - icon: fa-github fa-lg
+      href: https://zjg540066169.github.io
 output:
   html_document:
     theme: yeti
