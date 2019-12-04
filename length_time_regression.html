@@ -315,8 +315,6 @@ $(document).ready(function () {
 </div>
 
 
-<div id="set-up" class="section level2">
-<h2>set up</h2>
 <pre class="r"><code># knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
 
@@ -325,12 +323,12 @@ set.seed(10)
 
 # load library
 library(tidyverse)</code></pre>
-<pre><code>## -- Attaching packages ------------------- tidyverse 1.3.0 --</code></pre>
+<pre><code>## -- Attaching packages ---------------------------------- tidyverse 1.3.0 --</code></pre>
 <pre><code>## v ggplot2 3.2.1     v purrr   0.3.3
 ## v tibble  2.1.3     v dplyr   0.8.3
 ## v tidyr   1.0.0     v stringr 1.4.0
 ## v readr   1.3.1     v forcats 0.4.0</code></pre>
-<pre><code>## -- Conflicts ---------------------- tidyverse_conflicts() --
+<pre><code>## -- Conflicts ------------------------------------- tidyverse_conflicts() --
 ## x dplyr::filter() masks stats::filter()
 ## x dplyr::lag()    masks stats::lag()</code></pre>
 <pre class="r"><code>library(viridis)</code></pre>
@@ -383,9 +381,8 @@ scale_fill_discrete = scale_fill_hue#  _viridis_d
 
 # have a minimal theme and legends at the bottom
 theme_set(theme_get() + theme(legend.position = &quot;bottom&quot;))</code></pre>
-</div>
 <div id="read-dataset" class="section level2">
-<h2>read dataset</h2>
+<h2>Read Dataset</h2>
 <pre class="r"><code>ufo_data = read_csv(file = &quot;./data/tidied_data_final.csv&quot;)</code></pre>
 <pre><code>## Parsed with column specification:
 ## cols(
@@ -432,8 +429,8 @@ y_process = function(df){#get dependent variables
   y
 }</code></pre>
 </div>
-<div id="run-lasso-on-data-only-state-included" class="section level2">
-<h2>run lasso on data, only state included</h2>
+<div id="run-lasso-on-the-data-exclude-city" class="section level2">
+<h2>Run Lasso on the Data, Exclude City</h2>
 <pre class="r"><code>ufo_state = 
   ufo %&gt;% 
   select(-add)
@@ -455,7 +452,7 @@ lasso_fit_state %&gt;%
     y = &quot;Estimated Coefficients&quot;
     ) +
   theme(plot.title = element_text(hjust = 0.5))</code></pre>
-<p><img src="length_time_regression_files/figure-html/unnamed-chunk-4-1.png" width="90%" /></p>
+<p><img src="length_time_regression_files/figure-html/unnamed-chunk-1-1.png" width="90%" /></p>
 <pre class="r"><code># cross - validation to calculate the best lambda
 lambda_best_state = 
   glmnet::cv.glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1, nfolds = 10)
@@ -472,7 +469,6 @@ lambda_best_state</code></pre>
 ## 1se  10506 1.627e+11 8.035e+10       0</code></pre>
 <pre class="r"><code>#best lambda
 lambda_state = lambda_best_state$lambda.min
-
 
 # fit the lasso model
 lasso_best_fit_state = 
@@ -578,9 +574,11 @@ glmnet::coef.glmnet(lasso_best_fit_state) </code></pre>
 ## ufo_shapeteardrop     .    
 ## ufo_shapetriangle     .    
 ## ufo_shapeunknown      .</code></pre>
+<p>According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.</p>
 </div>
 <div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level2">
 <h2>run lasso on data, only the city appeared more than 50 times included</h2>
+<p>We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.</p>
 <pre class="r"><code>ufo_city = 
   ufo %&gt;% 
   group_by(add) %&gt;% 
@@ -607,7 +605,7 @@ lasso_fit_city %&gt;%
     y = &quot;Estimated Coefficients&quot;
     ) +
   theme(plot.title = element_text(hjust = 0.5))</code></pre>
-<p><img src="length_time_regression_files/figure-html/unnamed-chunk-5-1.png" width="90%" /></p>
+<p><img src="length_time_regression_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
 <pre class="r"><code># cross - validation to calculate the best lambda
 lambda_best_city = 
   glmnet::cv.glmnet(x = x_process(ufo_city), y = y_process(ufo_city), alpha = 1, nfolds = 10)
@@ -803,10 +801,7 @@ glmnet::coef.glmnet(lasso_best_fit_city) </code></pre>
 ## ufo_shapeteardrop               .           
 ## ufo_shapetriangle               .           
 ## ufo_shapeunknown                .</code></pre>
-</div>
-<div id="checking-test-assumptions" class="section level2">
-<h2>Checking Test Assumptions</h2>
-<pre class="r"><code>#bartlett.test()</code></pre>
+<p>According to the result, most of terms are significant again. The only siginificant term is the term for city Virginia Beach. However, the coefficient for this term is so small (9.223037e-11) that we can just ignore. Hence, we can conclude that the knowledge of state, city, shape, month, year, hour, day, mintue does not contribute any insights on the encounter length of UFO.</p>
 </div>
 
 
