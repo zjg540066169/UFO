@@ -40,6 +40,7 @@ scale_colour_discrete = scale_colour_viridis_d
 scale_fill_discrete = scale_fill_viridis_d
 
 theme_set(theme_minimal() + theme(legend.position = "bottom"))
+ufo_data = readr::read_csv("./data/tidied_data_final.csv")
 
 ```
 
@@ -48,7 +49,6 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S., as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.
 
 
-## The distribution of UFO shape in the U.S.
 
 # The Distribution of UFO Shape in the U.S
 
@@ -59,7 +59,6 @@ The light is the most frequent shape of UFO
 
 ```{r boxplot_shape_distribution}
 ### Boxplot showing the distribution of the UFO Shape Observed in US
-ufo_data = readr::read_csv("./data/tidied_data_final.csv")
 
 ufo =
 ufo_data %>%  
@@ -162,49 +161,8 @@ plot_us_month
 Can we take a guess that light is most frequent shape because majority of sighting occured during the nighttime? Is there a association between these two variables?
 
 
-# Shape vs. Encounter Length
 
-
-## Shape vs. avg encounter length
-
-<strong> avg encounter length among months across year </strong>
-```{r heatmap_length_month_year}
-## heatmap showing 
-  ufo_heatmap = ufo_data %>% 
-  separate(date_time, into = c( "date","time"), sep = " " ) %>%
-  separate( date, into = c("month","day","year"), sep = "/") %>% 
-  filter(country == "USA", year >= 1950, encounter_length <6000) %>%
-  select(year, month, encounter_length) %>%
-  mutate(year = as.numeric(year),
-         month = as.numeric(month)) %>%
-  group_by(year,month) %>%
-  arrange(desc(month)) %>%
-  mutate(
-  ave_encountered_length = mean(encounter_length/60)) %>%
-  select(-encounter_length) %>%
-  ungroup() %>%
-  mutate(month = month.name[as.numeric(month)]) %>%
-  ggplot(aes(x = year, y = month)) +
-  geom_tile(aes(fill = ave_encountered_length), colour = "white") +
-  scale_fill_gradient(low = "lightyellow", high = "darkblue") +
-  scale_x_continuous(name="Years", 
-                     breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
-                                ), limits= c (1950,2015)) +
-  labs(
-    title = "Average UFO Encounter Length Compared among Months Across Time in USA ",
-    x = "Years",
-    y = "Month"
-  ) + 
-  theme(axis.text.x = element_text(angle = 90)) +
-  theme(plot.subtitle = element_text(hjust = 0.5))
-
-ufo_heatmap
-```
-
-As we can see that the darkness of color on the heatmap gradually fades away, we can infer that as the year gone by the average encounter length tends to be shorter. To be more specific, the observations with low average encounter length increases after 1990.
-
-
-## shape vs. encounter length time 
+#shape vs. encounter length time 
 
 <strong>The violin plot of encounter length for each shape of ufo </strong>
 
