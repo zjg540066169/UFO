@@ -83,7 +83,7 @@ ufo
 
 ```
 
-Comment: 
+
 According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round. 
 
 
@@ -158,7 +158,7 @@ plot_us_month
             2):The UFO is more likely to appear during night.
 
 
-# Month/Year vs. encounter length time 
+# Month/Year vs. Encounter length time 
 
 ```{r}
 ## USA
@@ -196,11 +196,10 @@ separate( date, into = c("month","day","year"), sep = "/")
 
 The above plot shows that there are more observations with lower encounter length time after the year of 1990. 
 
-# shape vs. encounter length time 
+# Shape vs. Encounter length time 
 
-<strong>The violin plot of encounter length for each shape of ufo </strong>
+<strong>The violin plot of encounter length for each shape of ufo & The bar chart of the median of encounter length time for each shape of UFO </strong>
 
-<strong>The bar chart of the median of encounter length time for each shape of UFO </strong>
 
 ```{r violin_plot_bar_chart}
 
@@ -217,7 +216,8 @@ length_shape_data %>%
   stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
   labs(title = "The Violin Plot of Encounter Length Time for Each Shape of UFO", 
        y = "Encounter Length of Time",
-       x = "UFO Shape")
+       x = "UFO Shape") +
+  theme(plot.title = element_text(hjust = 0.5))
 
 # tidy data for the bar chart
 median_length_shape_data = ufo_data %>% 
