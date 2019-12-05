@@ -8,10 +8,26 @@ runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
+try(source("./dependencies.R"), silent = TRUE)
+
+# ensure reproductivity
+set.seed(10)
+
+# load library
+
+
 library(flexdashboard)
 library(tidyverse)
 library(viridis)
-library(leaflet)                 
+library(leaflet)    
+library(viridis)
+library(ggridges)
+library(patchwork)
+library(rvest)
+library(MLmetrics)
+library(e1071)
+library(tidyverse)
+library(caret)
 ```
 
 
@@ -96,24 +112,10 @@ Column
 
 ```{r chartA, echo=FALSE}
 
-ufo_data = read_csv(file = "./data/tidied_data_final.csv")
-
-
-
-  # data tidy for prediction
-ufo =
-  ufo_data %>%  
-  filter(country == "USA") %>% 
-  separate(date, into = c("month","day","year"), sep = "/") %>% 
-  separate(time, into = c("hour","minute"), sep = ":") %>% 
-  select(year, month, day, hour, minute,state, city) %>%
-  na.omit(ufo_data) %>% 
-  mutate(add = paste(state, city)) %>% 
-  select(-state, -city) 
 
 # transform each levels in factors to new variables to form the input of SVM
 factor_variable_cope = function(df){
-    if (is.tibble(df)) {
+    if (is_tibble(df)) {
       df = as.data.frame(df)
     }
     for (i in colnames(df[, sapply(df, is.factor)])) {
@@ -123,29 +125,90 @@ factor_variable_cope = function(df){
       }
     }
     df
-  }
+}
+
+ufo_data = read_csv(file = "./data/tidied_data_final.csv")
+
+
+
+# data tidy for prediction
+ufo =
+  ufo_data %>%  
+  filter(country == "USA") %>% 
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
+  separate(time, into = c("hour","minute"), sep = ":") %>% 
+  select(year, month, day, hour, minute,state, city) %>%
+  na.omit(ufo_data) %>% 
+  mutate(add = paste(state, city)) %>% 
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day))
+
+
+
+
+
+
+
+
+
+
+
+
+renderPrint({
+  sample = tibble(add = input$city_state_choice, year = input$year_choice, month = input$month_choice, day = input$day_choice, hour = input$hour_choice, minute = input$minute_choice)
+  
+  ufo %>% 
+    select(year, month, day, hour, minute,state, city) %>%
+    na.omit(ufo_data) %>% 
+    mutate(add = paste(state, city)) %>% 
+    mutate(year = as.numeric(year), month = month.name[as.numeric(month)], hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
+    select(-city, -state)
+})
 
 
 renderLeaflet({
-  sample = tibble(add = input$city_state_choice, year = input$year_choice, month = input$month_choice, day = input$day_choice, hour = input$hour_choice, minute = input$minute_choice)
+  sample = tibble(add = as.character(input$city_state_choice), year = as.numeric(input$year_choice), month = as.character(input$month_choice), day = as.numeric(input$day_choice), hour = as.numeric(input$hour_choice), minute = as.numeric(input$minute_choice))
 
+  svm_model = readRDS("./SVM.rds")
   
   
-  
-  
-  svm_model = readRDS("SVM.rds")
-  
+  #svm = 
+  #  ufo_data %>% 
+  #  mutate(month = month.name[as.numeric(month)]) %>% 
+  #  bind_rows(sample, .) %>% 
+  #  mutate(year = as.numeric(year),  hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
+  #  mutate(month = as.factor(month)) %>% 
+  #  dplyr::group_by(add) %>% 
+  ##  mutate(count = dplyr::n()) %>% 
+  #  filter(count >= 100) %>% 
+  #  ungroup() %>% 
+  #  select(-count) %>% 
+  #  mutate(add = as.factor(add)) %>% 
+  #  as.data.frame() %>% 
+  #  factor_variable_cope() %>% 
+  #  slice(1) %>% 
+  #  select(-month, -add) %>% 
   
   svm = 
     ufo %>% 
-    rbind(sample) %>% 
-    mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
-    slice(nrow(.)) %>% 
+    select(year, month, day, hour, minute,state, city) %>%
+    na.omit(ufo_data) %>% 
+    mutate(add = paste(state, city)) %>% 
+    mutate(year = as.numeric(year), month = month.name[as.numeric(month)], hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
+    select(-city, -state) %>% 
+    bind_rows(sample, .) %>% 
+    mutate(month = as.factor(month)) %>% 
+    dplyr::group_by(add) %>% 
+    mutate(count = dplyr::n()) %>% 
+    filter(count >= 100) %>% 
+    ungroup() %>% 
+    select(-count) %>% 
+    mutate(add = as.factor(add)) %>% 
+    as.data.frame() %>% 
     factor_variable_cope() %>% 
+    slice(1) %>% 
     select(-month, -add) %>% 
-    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>%
     predict(svm_model, .)
-
   
   
   

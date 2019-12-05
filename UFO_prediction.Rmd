@@ -11,7 +11,6 @@ output:
 ```{r set up, include = FALSE}
 # knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
-quit()
 try(source("./dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
@@ -271,7 +270,6 @@ nu_ = 0.5
 # train svm models
 svm_model = 
     ufo_city %>% 
-    bind_rows(false_data) %>% 
     factor_variable_cope() %>% 
     select(-month, -add) %>% 
     mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
@@ -286,10 +284,62 @@ svm_model =
 # display the models
 svm_model
 
+
+saveRDS(svm_model, "SVM.rds")
+
+# transform each levels in factors to new variables to form the input of SVM
+factor_variable_cope = function(df){
+    if (is_tibble(df)) {
+      df = as.data.frame(df)
+    }
+    for (i in colnames(df[, sapply(df, is.factor)])) {
+      for (level in unique(df[, i])) {
+          df[paste(i, level, sep = "_")] = 
+              as.integer(ifelse(df[, i] == level, 1, -1))
+      }
+    }
+    df
+}
+
+
 sample = tibble(
   year = 1900,
-  month =  
+  month =  "October",
+  day = 10,
+  hour = 23,
+  minute = 0,
+  add = "CA San Bernardino"
 )
+
+
+
+svm_model = readRDS("SVM.rds")
+  
+  
+
+
+
+  svm = 
+    ufo %>% 
+    select(year, month, day, hour, minute,state, city) %>%
+    na.omit(ufo_data) %>% 
+    mutate(add = paste(state, city)) %>% 
+    mutate(year = as.numeric(year), month = month.name[as.numeric(month)], hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
+    select(-city, -state) %>% 
+    bind_rows(sample, .) %>% 
+    mutate(month = as.factor(month)) %>% 
+    dplyr::group_by(add) %>% 
+    mutate(count = dplyr::n()) %>% 
+    filter(count >= 100) %>% 
+    ungroup() %>% 
+    select(-count) %>% 
+    mutate(add = as.factor(add)) %>% 
+    as.data.frame() %>% 
+    factor_variable_cope() %>% 
+    slice(1) %>% 
+    select(-month, -add) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>%
+    predict(svm_model, .)
 
 
 ```
