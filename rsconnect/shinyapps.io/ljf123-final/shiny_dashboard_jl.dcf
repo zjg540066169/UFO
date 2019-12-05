@@ -1,0 +1,13 @@
+name: shiny_dashboard_jl
+title: shiny_dashboard_jl
+username:
+account: ljf123-final
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1564530
+bundleId: 2642771
+url: https://ljf123-final.shinyapps.io/shiny_dashboard_jl/
+when: 1575523817.31949
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _site.yml|.tidied_data_final_with_na.csv.icloud|.visualization_jingyi.html.icloud|0df.csv|about.html|about.Rmd|Chi-square.html|Chi-square.md|data_tidy.html|data_tidy.md|data_tidy.Rmd|dependencies.R|df.csv|EDA.html|EDA.Rmd|frequency_map_jl.html|frequency_map_jl.md|frequency_map_jl.Rmd|index.html|index.Rmd|leaflet_map_jl.html|leaflet_map_jl.Rmd|length_time_regression.html|length_time_regression.Rmd|Overview.html|Overview.Rmd|proposal.md|proposal.Rmd|shiny_prediction_jl.Rmd|UFO_in_USA.html|UFO_in_USA.Rmd|UFO_prediction.html|UFO_prediction.Rmd|UFO-in-USA.html|visualization_ Keyi.Rmd|visualization_-Keyi.md|visualization_-Keyi.Rmd|visualization_ANOVA_Ran.md|visualization_ANOVA_Ran.Rmd|visualization_jingyi 2.html|visualization_jingyi 3.html|visualization_jingyi.md|visualization_jingyi.Rmd|visualization_jl.md|visualization_jl.Rmd|visualization.md|Chi-square_files/figure-gfm/counts_month-1.png|Chi-square_files/figure-gfm/day_night_length-1.png|Chi-square_files/figure-gfm/day_night_shape-1.png|Chi-square_files/figure-gfm/length_day_night-1.png|Chi-square_files/figure-gfm/month_shape-1.png|leaflet_map_jl_files/figure-html/frequncy map-frequency percentage calculation.png|length_time_regression_files/figure-html/unnamed-chunk-1-1.png|length_time_regression_files/figure-html/unnamed-chunk-2-1.png|length_time_regression_files/figure-html/unnamed-chunk-4-1.png|length_time_regression_files/figure-html/unnamed-chunk-5-1.png|library_example/tidygraph.Rmd|shiny_mapping/app.R|UFO_prediction_files/figure-html/unnamed-chunk-2-1.png|UFO_prediction_files/figure-html/unnamed-chunk-5-1.png|visualization_ANOVA_Ran_files/figure-gfm/counts_month-1.png|visualization_ANOVA_Ran_files/figure-gfm/day_night_shape-1.png|visualization_ANOVA_Ran_files/figure-gfm/length_day_night-1.png|visualization_ANOVA_Ran_files/figure-gfm/month_shape-1.png|visualization_jl_files/figure-markdown_github/unnamed-chunk-2-1.png|visualization_jl_files/figure-markdown_github/unnamed-chunk-3-1.png|visualization_jl_files/figure-markdown_github/unnamed-chunk-4-1.png|visualization_jl_files/figure-markdown_github/unnamed-chunk-5-1.png|data_pot|EDA_files|site_libs|UFO_in_USA_files|UFO-in-USA_files|visualization_-Keyi_files|visualization_jingyi_files
