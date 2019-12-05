@@ -369,7 +369,9 @@ y_process = function(df){#get dependent variables
 
 ```
 
+We use cross validation to find the best lambda, which is a hyperparameter. This process supposed to help us find the best Lasso model. The line plot for the Lasso estimated coefficient for different lambda is displayed below.
 
+We use best-fit parameters to train the Lasso model again to get the best linear regression model. The coefficients of each independent variables table is presented below. 
 
 ```{r fig.width = 10, fig.height = 10}
 # Run Lasso on the Data, Exclude City
@@ -413,6 +415,8 @@ lasso_best_fit_state =
 glmnet::coef.glmnet(lasso_best_fit_state) 
 
 ```
+
+
 
 According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.
 

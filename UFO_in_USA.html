@@ -348,7 +348,7 @@ div.tocify {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Overview</a>
+  <a href="index.html">Overview &amp; Report</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -662,6 +662,8 @@ y_process = function(df){#get dependent variables
     pull(encounter_length)
   y
 }</code></pre>
+<p>We use cross validation to find the best lambda, which is a hyperparameter. This process supposed to help us find the best Lasso model. The line plot for the Lasso estimated coefficient for different lambda is displayed below.</p>
+<p>We use best-fit parameters to train the Lasso model again to get the best linear regression model. The coefficients of each independent variables table is presented below.</p>
 <pre class="r"><code># Run Lasso on the Data, Exclude City
 ufo_state = 
   ufo %&gt;% 
