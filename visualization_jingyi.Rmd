@@ -250,7 +250,7 @@ shape_words = shape_words %>%
   #arrange(desc(tfidf)) %>% 
   select(word, n) %>% 
   distinct() %>%
-  wordcloud2(shape_words, size = 1,shape = 'star')
+  wordcloud2(shape_words, size = 1,shape = 'star',color = "random-light")
 
 shape_words
 

@@ -8,8 +8,6 @@ runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
-try(source("./dependencies.R"), silent = TRUE)
-
 # ensure reproductivity
 set.seed(10)
 
@@ -27,6 +25,10 @@ library(rvest)
 library(MLmetrics)
 library(e1071)
 library(tidyverse)
+
+rsconnect::setAccountInfo(name='ljf123-final',
+			  token='2D3CCCE4B6471B1C1EE6D2236959DEAB',
+			  secret='fJ9Z9UzAv8wgVhnKcfqzX+jBrn1wUdB5SqfFopGl')
 ```
 
 
