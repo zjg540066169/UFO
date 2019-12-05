@@ -53,6 +53,9 @@ scale_fill_discrete = scale_fill_viridis_d
 theme_set(theme_bw() + theme(legend.position = "bottom"))
 ```
 
+# *The prediction visualization on map*
+
+<li> The appearance of UFO in the U.S can be predicted by ........ if you have interets, [please click here](https://ljf123-final.shinyapps.io/shiny_prediction/)
 
 # *Outlier Detection for UFO Prediction*
 
@@ -285,7 +288,7 @@ svm_model =
 svm_model
 
 # save models
-saveRDS(svm_model, "SVM.rds")
+#saveRDS(svm_model, "SVM.rds")
 
 ```
 
