@@ -48,6 +48,10 @@ scale_fill_discrete = scale_fill_viridis_d
 theme_set(theme_bw() + theme(legend.position = "bottom"))
 ```
 
+
+In the process of tidy data, we read the original data from github first. The first step we took is to detect any missing values, and we found that there are thousands of missing values in some key variables (state, country and UFO shape). Therefore, we took several counter measures. We overwrite missing values in UFO shape by "unknown" shape, which originally exist in the data as well. We also noticed that some information about country and state were "hidden"/embedded in the city variable, city_area variable seems very untidy. In order to get a clean dataset, we combined information of city_area, country and state to form a list of strings, and by these information, we adopted google API to correct the data and obtain a structured text. Unfortunately, google API did not work perfectly, but the majority of them are good enough for our analysis purpose, we omitted several confusing data but kept most of our tidied data.
+
+
 ## reading data
 
 ```{r download}
@@ -108,7 +112,7 @@ place_tidy = function(city_area, state, country) {
 }
 
 
-api_key = "AIzaSyC2BBNoODEb5Pg7wbY-Pqvl9VdYRkJ9sHM"
+#api_key = "AIzaSyC2BBNoODEb5Pg7wbY-Pqvl9VdYRkJ9sHM"
 
 
 time_step = 100
@@ -122,28 +126,21 @@ ufo_tidy_data =
   
   
   
-df_pnt = 
-  mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
-  mp_get_points() %>% 
-  tibble(
-    .$address,
-    .$address_google,
-    .$pnt,
-    .$status
-  ) %>% 
-  rename("place_string" = ".$address", "address_google" = ".$address_google", "pnt" = ".$pnt", "status" = ".$status") %>% 
-  select(place_string, address_google, pnt, status) %>%
-  mutate(lat = unlist(map(pull(., pnt), 1)),
-           long = unlist(map(pull(., pnt), 2))) %>% 
-  select(-pnt) %>% 
-  write.table(file = paste("./data_pot/", "df.csv", sep = ""), sep = ",", row.names = FALSE)
-
-  #map_df(.x = pull(., pnt), ~unclass(.x))
-#mutate(df_pnt, unnest(pnt))
-  #
-  
-#ufo_tidy_data = pmap_df(list(ufo_tidy_data$city_area, ufo_tidy_data$state, ufo_tidy_data$country), place_tidy)
-  #pmap(list(pull(., city_area), pull(., state), pull(., country)), ~place_tidy)
+#df_pnt = 
+#  mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
+#  mp_get_points() %>% 
+#  tibble(
+#    .$address,
+#    .$address_google,
+#    .$pnt,
+#    .$status
+#  ) %>% 
+#  rename("place_string" = ".$address", "address_google" = ".$address_google", "pnt" = ".$pnt", "status" = ".$status") %>% 
+#  select(place_string, address_google, pnt, status) %>%
+#  mutate(lat = unlist(map(pull(., pnt), 1)),
+#           long = unlist(map(pull(., pnt), 2))) %>% 
+#  select(-pnt) %>% 
+#  write.table(file = paste("./data_pot/", "df.csv", sep = ""), sep = ",", row.names = FALSE)
 
 ```
 
@@ -227,6 +224,6 @@ delete all the rows with NA
 ```{r NA, warning = FALSE}
 
 ufo_tidy %>% 
-  drop_na() %>% 
-  write.table(file = paste("./data/", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
+  drop_na() #%>% 
+  #write.table(file = paste("./data/", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
 ```

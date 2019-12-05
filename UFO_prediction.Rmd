@@ -2,8 +2,9 @@
 title: "UFO_Prediction"
 author: "Jungang Zou"
 date: "11/29/2019"
-output: github_document
+output: html_document
 ---
+
 
 ```{r set up, include = FALSE}
 # knitr will run the chunk but not include the chunk in the final document
@@ -15,16 +16,15 @@ try(source("./dependencies.R"), silent = TRUE)
 set.seed(10)
 
 # load library
-library(tidyverse)
+
 library(viridis)
 library(ggridges)
 library(patchwork)
 library(rvest)
-library(mapsapi)
+library(MLmetrics)
 library(e1071)
-library(ggbiplot)
-library(FactoMineR)
-
+library(tidyverse)
+library(modelr)
 
 
 knitr::opts_chunk$set(
@@ -52,37 +52,241 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 ```
 
 
-```{r}
+Outlier detection
 
+By the analysis we did before, we found association does exist in UFO appearance time and location. To enhence prediction accuracy, we adapt the powerful tool of Machine Learning in assist of our prediction. Unfortunately, we only have the "positive" samples in the dataset, which means only the UFO appearance data are availiable to us and the data about UFO not appearing are missing. Under this situation, we view prediction of whether UFO is appearing or not as a problem of one class classification, aka outlier detection. Here we take advantage of a popular method that combats this adversity, One Class Support Vector Machine. In this process. we fabricate "negative" samples that would be included in test data of the cross validation procedure. 
+
+
+```{r}
+# read data
 ufo_data = read_csv(file = "./data/tidied_data_final.csv")
 
 
+
+# data tidy for prediction
 ufo =
   ufo_data %>%  
-  #na.omit(ufo_data) %>% 
-  separate(date_time, into = c( "date","time"), sep = " " ) %>%
+  filter(country == "USA") %>% 
   separate(date, into = c("month","day","year"), sep = "/") %>% 
   separate(time, into = c("hour","minute"), sep = ":") %>% 
-  mutate(month = month.name[as.numeric(month)], year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), country = as.factor(country), state = as.factor(state), city = as.factor(city)) %>% 
-  select(year, month, day, hour, minute, country, state, city) %>% 
-  mutate(ufo_indentification = as.factor(T)) 
+  select(year, month, day, hour, minute,state, city) %>%
+  na.omit(ufo_data) %>% 
+  mutate(add = paste(state, city)) %>% 
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day))
+```
+  
+  
+```{r}  
 
-model = svm(ufo_indentification ~ ., data = ufo, type = 'one-classification', kernel = "linear")
+# keep the city that the ufo appears with more than 100 times, and delete others
+ufo_city = 
+  ufo %>% 
+  dplyr::group_by(add) %>% 
+  mutate(count = dplyr::n()) %>% 
+  filter(count >= 100) %>% 
+  ungroup() %>% 
+  select(-count) %>% 
+  select(-state, -city) %>% 
+  mutate(add = as.factor(add))
 
-plot(x = model,data = ufo, formula =  minute ~ year)
 ```
 
 
-```{r }
-library(e1071)
+Since we are predicting by city, which is a categorical data, each city will be treated as a dummy variable in the SVM model. Hence, we limited the city terms down to the cities that have more than 100 times of UFO sightings. 
 
-day = c(0,1,2,3,4,5,6)
-weather = c(6,5,4,3,2,1,0) #on the example, it was: c(1,0,0,0,0,0,0)
-happy = factor(c(T,T,T,T,T,T,T)) #on the example it was: happy = factor(c(T,F,F,F,F,F,F))
+# Cross Validation Preparation
 
-d = data.frame(day=day, weather=weather, happy=happy)
-model = svm(happy ~ day + weather, data = d, type='one-classification') #on the example it was: model = svm(happy ~ day + weather, data = d)
+```{r}
 
-plot(model, d)
+# set up the result of cross validation table
+nu_cv = tibble(
+  nu = numeric(),
+  f1_svm = list()
+)
+
+# transform each levels in factors to new variables to form the input of SVM
+factor_variable_cope = function(df){
+  if (is.tibble(df)) {
+    df = as.data.frame(df)
+  }
+  for (i in colnames(df[, sapply(df, is.factor)])) {
+    for (level in unique(df[, i])) {
+        df[paste(i, level, sep = "_")] = 
+            as.integer(ifelse(df[, i] == level, 1, -1))
+    }
+  }
+  df
+}
 
 ```
+
+
+# Cross Validation to tune the "nu" parameters for One Class Support Vector Machine
+
+method for cross validation for one class data come from the paper:
+
+Hempstalk, K., & Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.
+
+
+Use F1_score to evaluate the prediction result. F1_score can use to balance the result of unbalanced data.
+
+Here is the link to some background about F1 score:
+https://en.wikipedia.org/wiki/F1_score
+
+
+```{r}
+
+# tune the parameter for nu in OC-SVM
+for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
+  false_samples = 5000 # numbers of false samples
+
+  false_data = tibble( # false samples randomly generating
+    year = sample(1900:2100, false_samples, replace = T),
+    month = sample(ufo_city$month, false_samples, replace = T),
+    day = sample(1:30, false_samples, replace = T),
+    hour = sample(0:24, false_samples, replace = T),
+    minute = sample(ufo_city$minute, false_samples, replace = T),
+    add = sample(ufo_city$add, false_samples, replace = T)
+  ) %>% 
+    anti_join(ufo_city, by = c("year", "month", "day", "hour", "minute", "add")) # delete the samples of true in false dataset
+  
+  
+  false_n = nrow(false_data) #numbers of false samples
+  true_n = nrow(ufo_city) #numbers of true samples
+  
+  
+  # here we bind rows of true and false dataset to deal with the factor variables
+  train_df = 
+    ufo_city %>% 
+    bind_rows(false_data) %>% 
+    factor_variable_cope() %>% 
+    select(-month, -add) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
+    sample_frac(1)
+  
+  
+  # seperate the false and true samples from transformed data
+  false_df = 
+    train_df %>% 
+    slice((true_n + 1):(true_n + false_n)) %>% 
+    mutate(y = FALSE) %>% 
+    as_tibble() 
+  
+  true_df = 
+    train_df %>% 
+    slice(1:true_n) %>% 
+    mutate(y = TRUE) %>% 
+    as_tibble() 
+  
+  
+  # construct the cross validation dataset from true samples datasets
+  cv_df = 
+    crossv_mc(true_df, 10) %>% 
+    mutate(
+      train = map(train, as_tibble),
+      test = map(test, as_tibble)
+      )
+  
+  # add false samples to test dataset and construct the true labels 
+  for (i in 1:nrow(cv_df)) {
+    cv_df$test[[i]] = mutate(cv_df$test[[i]], y = TRUE)
+    cv_df$test[[i]] = rbind(cv_df$test[[i]], false_df)
+    cv_df$label[[i]] = cv_df$test[[i]]$y
+    cv_df$test[[i]] = select(cv_df$test[[i]], -y)
+  }
+   
+  # use OC-SVM to predict
+  cv_model = 
+    cv_df %>% 
+    mutate(svm_mod = map(train, ~svm(.x , y = NULL,
+             type = 'one-classification',
+             nu = nu_, # tune the parameters by cross validation
+             scale = TRUE, 
+             kernel = "linear"))) %>% 
+    mutate(pred_label = map2(svm_mod, test, ~predict(.x, .y)))
+  
+  # calculate the f1-score for each prediction
+  cv_f1 =
+    cv_model %>% 
+    mutate(f1_svm = map2_dbl(.x = label, .y = pred_label, ~F1_Score(y_true = .x, y_pred = .y))) 
+  
+  # save the result 
+  nu_cv = 
+    tibble(
+      nu = nu_,
+      f1_svm = mean(pull(cv_f1, f1_svm))
+    ) %>% 
+    rbind(nu_cv, .)
+  
+}
+```
+
+One Class Cross Valiadation is not an exact copy from what we have done in class, but the specific method we used here were included and explained more in-depth in the paper cited in the end of this page.
+
+
+# draw the graph of f1_score for each nu
+
+```{r}
+# change the scale of data for graph
+cvp = 
+  nu_cv %>% 
+  mutate(nu = case_when(
+    nu <= 0.3 ~ log10(nu),
+    nu > 0.3 ~ exp(nu)
+  ))
+
+# draw the graph
+cvp %>% 
+  ggplot(aes(x = nu, y = f1_svm, color = nu)) +
+  geom_point() +
+  geom_line() +
+  scale_x_continuous(
+    breaks = pull(cvp, nu),
+    labels = c("0.001", "0.005", "0.01", "0.05", "0.1", "0.3", "0.5", "0.7", "0.9", "0.99")
+  ) +
+  labs(
+    title = "Cross Validation Plot for nu in SVM",
+    x = "nu",
+    y = "F1 Score") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+
+```
+
+According the graph, we find nu = 0.5 is best parameter for OC-SVM.
+
+After geting the best nu, we use it to train OC-SVM again.
+
+
+# Train the Final Best Model with Best nu = 0.5
+
+```{r}
+nu_ = 0.5
+
+# train svm models
+svm_model = 
+    ufo_city %>% 
+    bind_rows(false_data) %>% 
+    factor_variable_cope() %>% 
+    select(-month, -add) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
+    sample_frac(1) %>% 
+    svm(y = NULL,
+             type = 'one-classification',
+             nu = nu_,
+             scale = TRUE, 
+             kernel = "linear")
+  
+# display the models
+svm_model
+
+```
+
+
+
+*Work Cited*
+
+Manevitz, L. M., & Yousef, M. (2001). One-class SVMs for document classification. Journal of machine Learning research, 2(Dec), 139-154.
+
+Hempstalk, K., & Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.
