@@ -196,7 +196,7 @@ separate( date, into = c("month","day","year"), sep = "/")
 
 
 
-#shape vs. encounter length time 
+# shape vs. encounter length time 
 
 <strong>The violin plot of encounter length for each shape of ufo </strong>
 
