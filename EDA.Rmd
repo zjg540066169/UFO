@@ -48,6 +48,27 @@ ufo_data %>%
 separate( date, into = c("month","day","year"), sep = "/")
 ```
 
+# Data Description
+
+In this dataset, it contains time and location data about UFO sighting across `r length(unique(pull(ufo, country)))` countries, from the year of `r min(pull(ufo, year))` to the year of `r max(pull(ufo, year))`. They are ` r nrow(ufo)` observations and `r ncol(ufo)` variables in the dataset. 
+
+The variables in the dataset are:
+
+* `year`: the year of UFO sighting
+* `month`: the month of UFO sighting
+* `day`: the day of UFO sighting
+* `time`: the extra time of UFO sighting
+* `city_description`: the extra description that came along with the city of UFO sighting
+* `city`: the city if UFO sighting
+* `state`: the state of UFO sighting
+* `ufo_shape`: the shape of the sighted UFO
+* `encounter_length`: the encounter time length of sighting UFO
+* `described_encounter_length`: the description from the people who reported the UFO encounter
+* `description`: the description of the UFO from the people who reported the UFO encounter
+* `date_documented`: the date of documentation of the UFO encounter
+* `latitude`: the latitude of UFO encounter
+* `longtitude`: the longtitude of UFO encounter
+* `country`: the country of UFO sighting
 
 
 # UFO Data Overview. 
