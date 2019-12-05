@@ -5,7 +5,7 @@ navbar:
     - text: "Overview & Report"
       href: index.html
     - text: "Screencast"
-      href: https://youtu.be/aHnN84ynnXk
+      href: https://youtu.be/_RFCC_VNT7U
   right:
     - text: "Tidy Data"
       href: data_tidy.html
