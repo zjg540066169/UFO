@@ -39,14 +39,15 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 
 ## reading data
 ```{r}
-ufo_data = read_csv(file = "./data/tidied_data_final.csv")
+ufo_data = read_csv(file = "./data/tidied_data_final.csv") 
+#%>% select(-X12)
 
 
 ufo =
-ufo_data %>%  
+  ufo_data %>%  
 #na.omit(ufo_data) %>% 
-separate(date_time, into = c( "date","time"), sep = " " ) %>%
-separate( date, into = c("month","day","year"), sep = "/")
+#separate(date_time, into = c( "date","time"), sep = " " ) %>%
+  separate(date, into = c("month","day","year"), sep = "/")
 
 
 
