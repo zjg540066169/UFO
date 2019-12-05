@@ -7,6 +7,52 @@ output:
     toc_float: true
 
 ---
+```{r message = FALSE, echo=FALSE, warning=FALSE}
+
+# knitr will run the chunk but not include the chunk in the final document
+try(source("./dependencies.R"), silent = TRUE)
+
+# ensure reproductivity
+set.seed(1)
+
+# load library
+library(tidyverse)
+library(tidytext)
+library(wordcloud2)
+data("stop_words")
+```
+
+```{r message = FALSE, echo=FALSE, warning=FALSE}
+ufo_data = read_csv("./data/tidied_data_final.csv")
+
+ufo = ufo_data %>%  
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
+  mutate(ufo_shape = forcats::fct_reorder(ufo_shape, encounter_length))
+
+shape_words = ufo %>% 
+  unnest_tokens(word, description) %>% 
+  anti_join(stop_words) %>% 
+  mutate(word = recode(word, "44" = "ufo")) %>% 
+  select(ufo_shape, word) %>% 
+  count(ufo_shape, word, sort = TRUE)
+  
+total_word = shape_words %>% 
+  group_by(ufo_shape) %>% 
+  summarise(total = sum(n))
+  
+shape_words = shape_words %>% 
+  #left_join(.，total_word, by = "ufo_shape") %>% 
+  #mutate(tfidf = n) %>% 
+  group_by(word) %>% 
+  mutate(n = sum(n)) %>% 
+  #arrange(desc(tfidf)) %>% 
+  select(word, n) %>% 
+  distinct() %>%
+  wordcloud2(shape_words, size = 1,shape = 'star')
+
+shape_words
+
+```
 
 # *Motivation for this project*
 
