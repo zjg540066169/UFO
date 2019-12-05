@@ -10,9 +10,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Jungang Zou" />
 
 
-<title>data_tidy.utf8.md</title>
+<title>data_tidy</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,6 +24,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -275,10 +278,10 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="eda.html">EDA</a>
+  <a href="EDA.html">EDA</a>
 </li>
 <li>
-  <a href="index.html">UFO in USA</a>
+  <a href="UFO_in_USA.html">UFO in USA</a>
 </li>
 <li>
   <a href="index.html">Map of State</a>
@@ -290,8 +293,8 @@ $(document).ready(function () {
   <a href="index.html">Models</a>
 </li>
 <li>
-  <a href="index.html">
-    <span class="fa fa-facebook fa-lg"></span>
+  <a href="https://zjg540066169.github.io">
+    <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
@@ -304,13 +307,14 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">data_tidy</h1>
+<h4 class="author">Jungang Zou</h4>
+<h4 class="date">11/9/2019</h4>
 
 </div>
 
 
-<div id="data_tidy" class="section level1">
-<h1>data_tidy</h1>
-<p>Jungang Zou 11/9/2019</p>
+<p>In the process of tidy data, we read the original data from github first. The first step we took is to detect any missing values, and we found that there are thousands of missing values in some key variables (state, country and UFO shape). Therefore, we took several counter measures. We overwrite missing values in UFO shape by “unknown” shape, which originally exist in the data as well. We also noticed that some information about country and state were “hidden”/embedded in the city variable, city_area variable seems very untidy. In order to get a clean dataset, we combined information of city_area, country and state to form a list of strings, and by these information, we adopted google API to correct the data and obtain a structured text. Unfortunately, google API did not work perfectly, but the majority of them are good enough for our analysis purpose, we omitted several confusing data but kept most of our tidied data.</p>
 <div id="reading-data" class="section level2">
 <h2>reading data</h2>
 <pre class="r"><code>ufo_original_data = readr::read_csv(&quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv&quot;)</code></pre>
@@ -330,20 +334,19 @@ $(document).ready(function () {
 ## )</code></pre>
 <pre class="r"><code>ufo_original_data</code></pre>
 <pre><code>## # A tibble: 80,332 x 11
-##    date_time city_area state country ufo_shape encounter_length
-##    &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;                &lt;dbl&gt;
-##  1 10/10/19… san marc… tx    us      cylinder              2700
-##  2 10/10/19… lackland… tx    &lt;NA&gt;    light                 7200
-##  3 10/10/19… chester … &lt;NA&gt;  gb      circle                  20
-##  4 10/10/19… edna      tx    us      circle                  20
-##  5 10/10/19… kaneohe   hi    us      light                  900
-##  6 10/10/19… bristol   tn    us      sphere                 300
-##  7 10/10/19… penarth … &lt;NA&gt;  gb      circle                 180
-##  8 10/10/19… norwalk   ct    us      disk                  1200
-##  9 10/10/19… pell city al    us      disk                   180
-## 10 10/10/19… live oak  fl    us      disk                   120
-## # … with 80,322 more rows, and 5 more variables:
-## #   described_encounter_length &lt;chr&gt;, description &lt;chr&gt;,
+##    date_time city_area state country ufo_shape encounter_length described_encou~
+##    &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;                &lt;dbl&gt; &lt;chr&gt;           
+##  1 10/10/19~ san marc~ tx    us      cylinder              2700 45 minutes      
+##  2 10/10/19~ lackland~ tx    &lt;NA&gt;    light                 7200 1-2 hrs         
+##  3 10/10/19~ chester ~ &lt;NA&gt;  gb      circle                  20 20 seconds      
+##  4 10/10/19~ edna      tx    us      circle                  20 1/2 hour        
+##  5 10/10/19~ kaneohe   hi    us      light                  900 15 minutes      
+##  6 10/10/19~ bristol   tn    us      sphere                 300 5 minutes       
+##  7 10/10/19~ penarth ~ &lt;NA&gt;  gb      circle                 180 about 3 mins    
+##  8 10/10/19~ norwalk   ct    us      disk                  1200 20 minutes      
+##  9 10/10/19~ pell city al    us      disk                   180 3  minutes      
+## 10 10/10/19~ live oak  fl    us      disk                   120 several minutes 
+## # ... with 80,322 more rows, and 4 more variables: description &lt;chr&gt;,
 ## #   date_documented &lt;chr&gt;, latitude &lt;dbl&gt;, longitude &lt;dbl&gt;</code></pre>
 </div>
 <div id="missing-value-detect" class="section level2">
@@ -352,19 +355,6 @@ $(document).ready(function () {
   map_df(.x = ., ~sum(is.na(.x))) %&gt;% 
   knitr::kable()</code></pre>
 <table>
-<colgroup>
-<col width="7%" />
-<col width="7%" />
-<col width="3%" />
-<col width="5%" />
-<col width="7%" />
-<col width="12%" />
-<col width="21%" />
-<col width="8%" />
-<col width="12%" />
-<col width="6%" />
-<col width="6%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="right">date_time</th>
@@ -415,8 +405,93 @@ $(document).ready(function () {
 ##  8 seattle (ballard area)                  wa   
 ##  9 zlatoust (russia)                       &lt;NA&gt; 
 ## 10 toronto (greater toronto area) (canada) on   
-## # … with 12,454 more rows</code></pre>
-</div>
+## # ... with 12,454 more rows</code></pre>
+<p>Since there are a lot of massive data in “city_area”, “state” and “country”, we need to tidy the data.</p>
+<p>First, to clearly describle the place of insterests, we seperate the variable “city_area” into 2 variable “city_area” and “city_description”.</p>
+<p>To further explore in place of interests, we write a function to use Google Map`s api, to clean the data.</p>
+<p>After download all data of the place of interests, we combine all the data in totally more than 800 files.</p>
+<pre class="r"><code>ufo_poi = 
+  list.files(&quot;./data_pot&quot;, pattern = &quot;^.+df.csv$&quot;) %&gt;%
+  map_chr(.x = ., ~paste(&quot;./data_pot&quot;, ., sep = &quot;/&quot;)) %&gt;% 
+  map_df(.x = ., read_csv) %&gt;% 
+  distinct()</code></pre>
+<pre class="r"><code>ufo_tidy =
+  ufo_tidy_data %&gt;% 
+  full_join(ufo_poi, ., by = c(&quot;place_string&quot;)) %&gt;% 
+  filter(status == &quot;OK&quot;) %&gt;% 
+  distinct() %&gt;% 
+  select(-city_area, -state, -country, -latitude, -longitude,  -status, -place_string) %&gt;% 
+  mutate(
+    country = str_extract(address_google, &quot;[^,]*$&quot;),
+    state = str_remove(address_google, &quot;[^,]*$&quot;),
+    country = str_remove(country, &quot;^[\\s0-9]*&quot;),
+    country = str_remove(country, &quot;[\\s0-9]*$&quot;),
+    city = str_remove(state, &quot;[^,]*,$&quot;),
+    city = str_remove(city, &quot;[\\s]*,$&quot;),
+    state = str_extract(state, &quot;[^,]*,$&quot;),
+    state = str_remove(state, &quot;^[\\s0-9]*&quot;),
+    state = str_remove(state, &quot;[\\s0-9]*,$&quot;)
+    ) #%&gt;%
+
+australia = 
+  ufo_tidy %&gt;% 
+  filter(country == &quot;Australia&quot;) %&gt;% 
+  separate(state, sep = &quot;\\s&quot;, into = c(&quot;city&quot;, &quot;state&quot;))
+
+ufo_tidy =
+  ufo_tidy %&gt;% 
+  left_join(australia, by = colnames(australia)[1:11]) %&gt;%
+  mutate(
+    state = if_else(country == &quot;Australia&quot;, state.y, state.x),
+    city =  if_else(country == &quot;Australia&quot;, city.y, city.x),
+         ) %&gt;% 
+  select(-state.y, -city.y, -state.x, -city.x) %&gt;% 
+  mutate(
+    city = replace(city, city == &quot;&quot; || is.na(city), &quot;unknown&quot;),
+    state = replace(state, state == &quot;&quot; || is.na(state), &quot;unknown&quot;),
+    country = replace(country, country == &quot;&quot; || is.na(country), &quot;unknown&quot;),
+    country = replace(country, country == &quot;United States&quot;, &quot;USA&quot;),
+    country = replace(country, country == &quot;United Kingdom&quot;, &quot;UK&quot;),
+    temp = lat,
+    lat = long,
+    long = temp
+  ) %&gt;% 
+  mutate(state = recode(state , 
+                &quot;Alabama&quot;=&quot;AL&quot;, &quot;Oregon&quot; = &quot;OR&quot;,&quot;Ohio&quot; = &quot;OH&quot;,&quot;New York&quot; = &quot;NY&quot;,&quot;New Mexico&quot; = &quot;NM&quot;, 
+                &quot;Alaska&quot;=&quot;AK&quot;, &quot;Nevada&quot; = &quot;NV&quot;,&quot;Nebraska&quot; = &quot;NE&quot;, &quot;Florida&quot; =&quot;FL&quot;,&quot;Georgia&quot;=&quot;GA&quot;,
+                &quot;Arizona&quot; = &quot;AZ&quot;,&quot;Idaho&quot;=&quot;ID&quot;,&quot;Illinois&quot; =&quot;IL&quot;,&quot;Indiana&quot;=&quot;IN&quot;,&quot;Iowa&quot; =&quot;IA&quot;,
+                &quot;Kansas&quot;=&quot;KS&quot;,&quot;Missouri&quot; =&quot;MO&quot;,&quot;Kentucky&quot; = &quot;KY&quot;,&quot;Louisiana&quot;=&quot;LA&quot;,&quot;Maine&quot;=&quot;ME&quot;,
+                &quot;Maryland&quot;=&quot;MD&quot;,&quot;Massachusetts&quot; = &quot;MA&quot;,&quot;Michigan&quot;=&quot;MI&quot;,&quot;Minnesota&quot;=&quot;MN&quot;,
+                 &quot;California&quot; = &quot;CA&quot;,&quot;Texas&quot; = &quot;TX&quot;,&quot;Tennessee&quot; = &quot;TN&quot;,&quot;Pennsylvania&quot; = &quot;PA&quot;,
+                &quot;Colorado&quot; = &quot;CO&quot;,&quot;Washington&quot; = &quot;WA&quot;,&quot;Vermont&quot; = &quot;VT&quot;,&quot;Utah&quot; = &quot;UT&quot;),
+         ufo_shape = recode(ufo_shape, &quot;changed&quot; = &quot;changing&quot;)
+         ) %&gt;% 
+  select(-address_google, -temp) %&gt;% 
+  rename(&quot;latitude&quot; = &quot;lat&quot;, &quot;longitude&quot; = &quot;long&quot;)</code></pre>
+<p>We assign “unknown” to NA in ufo_shape,</p>
+<pre class="r"><code>ufo_tidy = 
+  ufo_tidy %&gt;% 
+  mutate(ufo_shape = replace(ufo_shape, is.na(ufo_shape), &quot;unknown&quot;)) </code></pre>
+<p>delete all the rows with NA</p>
+<pre class="r"><code>ufo_tidy %&gt;% 
+  drop_na() #%&gt;% </code></pre>
+<pre><code>## # A tibble: 70,921 x 12
+##    latitude longitude date_time city_description ufo_shape encounter_length
+##       &lt;dbl&gt;     &lt;dbl&gt; &lt;chr&gt;     &lt;chr&gt;            &lt;chr&gt;                &lt;dbl&gt;
+##  1     34.1     -117. 10/14/20~ &quot;&quot;               sphere                  60
+##  2     34.1     -117. 10/7/200~ &quot;&quot;               sphere                1200
+##  3     34.1     -117. 11/14/20~ &quot;&quot;               light                  300
+##  4     34.1     -117. 11/16/20~ &quot;&quot;               light                   60
+##  5     34.1     -117. 11/17/20~ &quot;&quot;               light                  600
+##  6     34.1     -117. 11/21/20~ &quot;&quot;               fireball               300
+##  7     34.1     -117. 11/22/20~ &quot;&quot;               fireball               120
+##  8     34.1     -117. 1/13/200~ &quot;&quot;               sphere                  45
+##  9     34.1     -117. 1/15/198~ &quot;&quot;               unknown                300
+## 10     34.1     -117. 1/15/200~ &quot;&quot;               circle              259200
+## # ... with 70,911 more rows, and 6 more variables:
+## #   described_encounter_length &lt;chr&gt;, description &lt;chr&gt;, date_documented &lt;chr&gt;,
+## #   country &lt;chr&gt;, state &lt;chr&gt;, city &lt;chr&gt;</code></pre>
+<pre class="r"><code>  #write.table(file = paste(&quot;./data/&quot;, &quot;tidied_data_final.csv&quot;, sep = &quot;&quot;), sep = &quot;,&quot;, row.names = FALSE)</code></pre>
 </div>
 
 
