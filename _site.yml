@@ -2,7 +2,7 @@ name: "What?!! You said there was an UFO???"
 output_dir: "."
 navbar:
   left:
-    - text: "Overview"
+    - text: "Overview & Report"
       href: index.html
   right:
     - text: "Tidy Data"
