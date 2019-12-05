@@ -237,18 +237,10 @@ shape_words = ufo %>%
   mutate(word = recode(word, "44" = "ufo")) %>% 
   select(ufo_shape, word) %>% 
   count(ufo_shape, word, sort = TRUE)
-
-shape_words
   
 total_word = shape_words %>% 
   group_by(ufo_shape) %>% 
   summarise(total = sum(n))
-
-total_word
-
-word_cloud = left_join(shape_words, total_word, by = "ufo_shape")
-
-word_cloud
   
 shape_words = shape_words %>% 
   #left_join(.，total_word, by = "ufo_shape") %>% 
