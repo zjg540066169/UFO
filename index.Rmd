@@ -88,7 +88,7 @@ Our team is trying to attack the problem with multiple angles. For starters, we 
  <li> There is only one time of observation of UFO in most cities in the U.S, but large cities have higher probability to observe the UFO more often.
  <li> Based on the the LASSO model, the UFO encounter length is not associated with the location, shape and time
  <li> The UFO is most frequently observed in the Texas, [please click here for information about other states](map_of_state.html)
- <li> The UFO is more likely to appear in cities in the westcoast,[please click here to see the map ](map_of_state.html)
+ <li> The UFO is more likely to appear in cities in the westcoast, [please click here to see the map ](map_of_state.html)
  <li> The appearance of UFO in the U.S can be predicted by ........ if you have interets, [please click here](UFO_prediction.html)
  </ul> 
 
