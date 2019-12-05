@@ -348,7 +348,7 @@ div.tocify {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="Overview.html">Overview</a>
+  <a href="index.html">Overview</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -628,8 +628,9 @@ ufo_month_counts_plot</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/ufo_appearance_month-1.png" width="90%" /></p>
 <p>According to the plot here, the number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year. In other words, the frequency of UFO appearance is higher after June, and peaks at July.</p>
 <p><em>Conclusion:</em> 1):There is no association between the shape of UFO and encounter length time; 2):The UFO is more likely to appear during the second half of the year.</p>
-<div id="lasso-length-time-vs.location-time-shape" class="section level2">
-<h2><em>LASSO (length time vs. location, time, shape)</em></h2>
+</div>
+<div id="lasso-length-time-vs.location-time-shape" class="section level1">
+<h1><em>LASSO (length time vs. location, time, shape)</em></h1>
 <pre class="r"><code># Read Dataset
 ufo =
   ufo_data %&gt;%  
@@ -681,7 +682,8 @@ lasso_fit_state %&gt;%
     x = &quot;Lambda&quot;,
     y = &quot;Estimated Coefficients&quot;
     ) +
-  theme(legend.position = &quot;right&quot;) +
+  theme(legend.position = &quot;bottom&quot;) +
+  guides(color = guide_legend(nrow = 10, byrow = TRUE)) + 
   theme(plot.title = element_text(hjust = 0.5))</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
 <pre class="r"><code># cross - validation to calculate the best lambda
@@ -797,10 +799,8 @@ glmnet::coef.glmnet(lasso_best_fit_state) </code></pre>
 ## ufo_shapetriangle  .           
 ## ufo_shapeunknown   .</code></pre>
 <p>According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.</p>
-</div>
-</div>
-<div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level1">
-<h1><em>Run lasso on data, only the city appeared more than 50 times included</em></h1>
+<div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level2">
+<h2><em>Run lasso on data, only the city appeared more than 50 times included</em></h2>
 <p>We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.</p>
 <pre class="r"><code>ufo_city = 
   ufo %&gt;% 
@@ -827,7 +827,8 @@ lasso_fit_city %&gt;%
     x = &quot;Lambda&quot;,
     y = &quot;Estimated Coefficients&quot;
     ) +
-  theme(legend.position = &quot;right&quot;) +
+  theme(legend.position = &quot;bottom&quot;) +
+  guides(color = guide_legend(nrow = 12, byrow = TRUE)) + 
   theme(plot.title = element_text(hjust = 0.5))</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-3-1.png" width="90%" /></p>
 <pre class="r"><code># cross - validation to calculate the best lambda
@@ -1019,6 +1020,7 @@ glmnet::coef.glmnet(lasso_best_fit_city) </code></pre>
 ## ufo_shapetriangle               .           
 ## ufo_shapeunknown                .</code></pre>
 <p>According to the result, most of terms are not statistically significant. The only siginificant term is the city Virginia Beach. However, the coefficient for this term is too small (9.223037e-11), so that we can just ignore. Hence, we can conclude that the knowledge of state, city, shape, month, year, hour, day, mintue does not contribute any insights on the encounter length of UFO.</p>
+</div>
 </div>
 
 

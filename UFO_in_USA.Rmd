@@ -325,7 +325,7 @@ In other words, the frequency of UFO appearance is higher after June, and peaks 
             2):The UFO is more likely to appear during the second half of the year.
             
 
-## *LASSO (length time vs. location, time, shape)*
+# *LASSO (length time vs. location, time, shape)*
 ```{r read dataset}
 # Read Dataset
 ufo =
@@ -390,7 +390,8 @@ lasso_fit_state %>%
     x = "Lambda",
     y = "Estimated Coefficients"
     ) +
-  theme(legend.position = "right") +
+  theme(legend.position = "bottom") +
+  guides(color = guide_legend(nrow = 10, byrow = TRUE)) + 
   theme(plot.title = element_text(hjust = 0.5))
 
 # cross - validation to calculate the best lambda
@@ -413,7 +414,7 @@ glmnet::coef.glmnet(lasso_best_fit_state)
 According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.
 
 
-# *Run lasso on data, only the city appeared more than 50 times included*
+## *Run lasso on data, only the city appeared more than 50 times included*
 
 We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.
 ```{r fig.width = 10, fig.height = 10}
@@ -443,7 +444,8 @@ lasso_fit_city %>%
     x = "Lambda",
     y = "Estimated Coefficients"
     ) +
-  theme(legend.position = "right") +
+  theme(legend.position = "bottom") +
+  guides(color = guide_legend(nrow = 12, byrow = TRUE)) + 
   theme(plot.title = element_text(hjust = 0.5))
 
 # cross - validation to calculate the best lambda

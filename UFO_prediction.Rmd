@@ -2,7 +2,7 @@
 title: "UFO Prediction"
 output:
    html_document:
-    #code_folding: hide
+    code_folding: show
     toc: true
     toc_float: true
 ---
@@ -249,9 +249,9 @@ cvp %>%
     labels = c("0.001", "0.005", "0.01", "0.05", "0.1", "0.3", "0.5", "0.7", "0.9", "0.99")
   ) +
   labs(
-    title = "Cross Validation Plot for nu in SVM",
+    title = "Average F1 Score for nu in SVM by 10 folds CV",
     x = "nu",
-    y = "F1 Score") +
+    y = "Average F1 Score") +
   theme(plot.title = element_text(hjust = 0.5)) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
