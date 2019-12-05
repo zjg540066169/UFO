@@ -1,8 +1,10 @@
 ---
-title: "data_tidy"
-author: "Jungang Zou"
-date: "11/9/2019"
-output: github_document
+title: "Tidy Data"
+output: 
+  html_document:
+    #code_folding: hide
+    toc: true
+    toc_float: true
 ---
 
 ```{r set up, include = FALSE}
@@ -54,7 +56,7 @@ In the process of tidy data, we read the original data from github first. The fi
 
 ## reading data
 
-```{r download}
+```{r download, message = FALSE}
 ufo_original_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
 
 ufo_original_data
@@ -124,8 +126,11 @@ ufo_tidy_data =
   mutate(state = replace(state, is.na(state), ""), country = replace(country, is.na(country), ""), city_description = replace(city_description, is.na(city_description), "")) %>% 
   mutate(place_string = paste(city_area, city_description, state, country, sep = ", "))
   
-  
-  
+```
+
+The code to use Google Map`s api and get the geographic data. Since we do not need to get data again, we comment it. 
+
+```{r}
 #df_pnt = 
 #  mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %>% 
 #  mp_get_points() %>% 
@@ -142,7 +147,9 @@ ufo_tidy_data =
 #  select(-pnt) %>% 
 #  write.table(file = paste("./data_pot/", "df.csv", sep = ""), sep = ",", row.names = FALSE)
 
+
 ```
+
 
 After download all data of the place of interests, we combine all the data in totally more than 800 files.
 
@@ -154,6 +161,8 @@ ufo_poi =
   map_df(.x = ., read_csv) %>% 
   distinct()
 ```
+
+After downloading the data from Google Map`s api, we find there is still little mass data, so we tidy them by hand.
 
 ```{r merge_poi_data, warning = FALSE}
 ufo_tidy =
@@ -198,11 +207,11 @@ ufo_tidy =
     long = temp
   ) %>% 
   mutate(state = recode(state , 
-                "Alabama"="AL", "Oregon" = "OR","Ohio" = "OH","New York" = "NY","New Mexico" = "NM", 
-                "Alaska"="AK", "Nevada" = "NV","Nebraska" = "NE", "Florida" ="FL","Georgia"="GA",
-                "Arizona" = "AZ","Idaho"="ID","Illinois" ="IL","Indiana"="IN","Iowa" ="IA",
-                "Kansas"="KS","Missouri" ="MO","Kentucky" = "KY","Louisiana"="LA","Maine"="ME",
-                "Maryland"="MD","Massachusetts" = "MA","Michigan"="MI","Minnesota"="MN",
+                "Alabama" = "AL", "Oregon" = "OR","Ohio" = "OH","New York" = "NY","New Mexico" = "NM", 
+                "Alaska" = "AK", "Nevada" = "NV","Nebraska" = "NE", "Florida" = "FL","Georgia" = "GA",
+                "Arizona" = "AZ","Idaho" = "ID","Illinois" = "IL","Indiana" = "IN","Iowa" = "IA",
+                "Kansas" = "KS","Missouri" = "MO","Kentucky" = "KY","Louisiana" = "LA","Maine" = "ME",
+                "Maryland" = "MD","Massachusetts" = "MA","Michigan" = "MI","Minnesota" = "MN",
                  "California" = "CA","Texas" = "TX","Tennessee" = "TN","Pennsylvania" = "PA",
                 "Colorado" = "CO","Washington" = "WA","Vermont" = "VT","Utah" = "UT"),
          ufo_shape = recode(ufo_shape, "changed" = "changing")
@@ -211,7 +220,7 @@ ufo_tidy =
   rename("latitude" = "lat", "longitude" = "long")
 ```
 
-We assign "unknown" to NA in ufo_shape, 
+Here, we assign "unknown" to mssing value in ufo_shape, 
 
 ```{r shape_unknown, warning = FALSE}
 ufo_tidy = 
@@ -219,11 +228,14 @@ ufo_tidy =
   mutate(ufo_shape = replace(ufo_shape, is.na(ufo_shape), "unknown")) 
 ```
 
-delete all the rows with NA
+Delete all the rows with missing value and save the cleaned data. Since we do not need to save the tidied data again, we comment the code here.
 
 ```{r NA, warning = FALSE}
 
 ufo_tidy %>% 
-  drop_na() #%>% 
-  #write.table(file = paste("./data/", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
+  drop_na() %>%
+  filter(Encoding(city) != "UTF-8") %>%
+  
+  separate(date_time, into = c("date", "time"), sep = " ")# %>% 
+  #write.table(file = paste("./", "tidied_data_final.csv", sep = ""), sep = ",", row.names = FALSE)
 ```
