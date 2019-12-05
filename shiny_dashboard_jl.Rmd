@@ -35,6 +35,12 @@ ufo =
 
 Column {.sidebar}
 -----------------------------------------------------------------------
+This dashboard reveals the number of times UFO appeared in each city in US. The size (radius) of circle markers corresponds to the frequency of UFO appearance in the city.
+
+Users can adjust the frequency range (minimum number UFO appeared, maximum number UFO appeared) to see which cities in US had UFO appeared the input number of times. The frequency map is revealing cities with UFO appeared 25 to 300 times by default.
+
+The focus points are marked in red, revealing cities with UFO appeared more than the input number of times. By default, the focus point input was set as 300, and 7 cities with UFO appeared more than 300 times are marked in red, while others in navy.
+
 
 ```{r sidebar, echo=FALSE}
 # set the max and min frequency for range

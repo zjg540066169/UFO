@@ -57,7 +57,7 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 
 # *Outlier Detection for UFO Prediction*
 
-By the analysis we did before, we found association does exist in UFO appearance time and location. To enhence prediction accuracy, we adapt the powerful tool of Machine Learning in assist of our prediction. Unfortunately, we only have the "positive" samples in the dataset, which means only the UFO appearance data are availiable to us and the data about UFO not appearing are missing. Under this situation, we view prediction of whether UFO is appearing or not as a problem of one class classification, aka outlier detection. Here we take advantage of a popular method that combats this adversity, One Class Support Vector Machine. In this process. we fabricate "negative" samples that would be included in test data of the cross validation procedure. 
+By the analysis we did before, we found that association does exist in UFO appearance time and location. To enhance prediction accuracy, we adapted the powerful tool of Machine Learning in assistance of our prediction. Unfortunately, we only have the "positive" samples in the dataset, which means only the UFO appearance data are availiable to us and the data about UFO not appearing are missing. Under this situation, we view prediction of whether UFO is appearing or not as a problem of one class classification, aka outlier detection. Here we take advantage of a popular method that combats this adversity, One Class Support Vector Machine. In this process. we fabricated "negative" samples that would be included in test data of the cross validation procedure. 
 
 
 ```{r message = FALSE, warning = FALSE}
@@ -97,7 +97,7 @@ ufo_city =
 
 Since we are predicting by city, which is a categorical data, each city will be treated as a dummy variable in the SVM model. Hence, we limited the city terms down to the cities that have more than 100 times of UFO sightings. 
 
-Usually, SVM model will provide analysts kernel methods to choose. RBF kernel and linear kernel are the most frequent seen methods. Given that RBF is usually effective and good for non-linear data, the training of RBF are time-consuming and the hyperparameters are needed to be tuned for achieveing the best result. We here used an easier-to-train and only one parameter (nu), in contrast with RBF which contains more than two parameters. To elaborate on the parameter nu is that the statistical meaning of this parameter is an upper bound on the fraction of outliers. Because the fraction in population is unknown, we need to estimate the hyperparameter by cross validation.
+Usually, SVM model will provide analysts kernel methods to choose. RBF kernel and linear kernel are the most frequently used methods. Given that RBF is usually effective and good for non-linear data, the training of RBF are time-consuming and the hyperparameters are needed to be tuned for achieveing the best result. We here used an easier-to-train and only one parameter (nu), in contrast with RBF which contains more than two parameters. To elaborate on the parameter nu is that the statistical meaning of this parameter is an upper bound on the fraction of outliers. Because the fraction in population is unknown, we need to estimate the hyperparameter by cross validation.
 
 
 # *Cross Validation Preparation*
