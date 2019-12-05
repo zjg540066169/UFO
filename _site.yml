@@ -1,7 +1,9 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home"
+  left:
+    - text: "Overview"
+      href: Overview.html
   right:
     - text: "EDA"
       href: EDA.html
@@ -17,4 +19,4 @@ navbar:
       href: https://zjg540066169.github.io
 output:
   html_document:
-    theme: yeti
+    theme: journal
