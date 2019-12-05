@@ -368,7 +368,7 @@ y_process = function(df){#get dependent variables
 
 
 
-```{r}
+```{r fig.width = 20, fig.height = 20}
 # Run Lasso on the Data, Exclude City
 ufo_state = 
   ufo %>% 
@@ -413,11 +413,12 @@ glmnet::coef.glmnet(lasso_best_fit_state)
 
 According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.
 
-## run lasso on data, only the city appeared more than 50 times included
+
+# *Run lasso on data, only the city appeared more than 50 times included*
 
 We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.
+```{r fig.width = 15, fig.height = 15}
 
-```{r}
 ufo_city = 
   ufo %>% 
   group_by(add) %>% 

@@ -1,12 +1,51 @@
 ---
-title: "My awesome website"
-output: 
+title: "What?!! You said there was an UFO???"
+output:
   html_document:
+    #code_folding: hide
     toc: true
     toc_float: true
-   
+
 ---
 
-# This is Jeff's awesome website
+# *Motivation for this project*
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+Over half a million people have signed up to an event called [“Storm Area 51, they can’t stop all of us”](https://www.independent.co.uk/news/world/americas/storm-area-51-latest-aliens-sighting-us-military-ready-nevada-a9004086.html) serveral months ago. People were planning to break into the Area 51 to find out the existence of aliens. This event triggers our interests about the UFO as our group members are all alien enthusiasts. So,we want to apply what we have learned in the Data Science to explore whether there are some patterns in the appearance of UFO in USA and other nations.  
+
+
+# *Anticipated data sources*
+
+Our data comes from tidytuesday weekly project, which encourages new and experienced users to use the tidyverse tools to analyze data sets that change every week. Our dataset is [UFP Sightings around the world](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25).This data included more than 80,000 recorded UFO "sightings" around the world, including the UFO shape, state/country, latitude and longitude of where the sighting occurred, duration of the "event" and the data time when it occurred.
+
+
+# *Research Questions*
+
+ <li> whether there is any relationship between shapes of UFO and the time of appearance (day, month, year). 
+ <li> whether there is an association between shapes of UFO and the encounter length time.
+ <li> whether there is any relationship between state/cities and UFO's in the U.S. For example, whether all states share the same probability of sighting an UFO and what kind of UFO.
+ <li> If there exist some aforementioned associations, is it possible to predict the appearance of UFO in the U.S ? 
+ </ul>
+ 
+ 
+# *Method*
+
+Our team is trying to attack the problem with multiple angles. For starters, we are going to tidy data and visualize data. We are interetsed in demostrate the data geographically as a highlight of the visualization. The next step is to explore the the appearance of UFO and the encounter length in different countries by graphs and descriptive statistics. Then, we exclusively focues on analyzing the UFO appearance and encounter length time in the U.S by drawing various plots. More importantly, we used the leaflet map to visualize the appearance of UFO across states and cities. In the last part of our project, which is an attempt to make it to be meaningful and practical, we are interested in making a prediction for the dataset depending on the findings from aforementioned analysis. Specifically, a one-class support vector machine is performed to predict the appearance of UFO in the U.S.
+ 
+
+# *Findings*
+
+ <li> The UFO shape of "light" was observed most often, the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round.
+ <li> In general, the UFOs are more likely to be observed during night and the shape of "light" is the most frequent shape during night.
+ <li> As the year gone by the average encounter length tends to be shorter. To be more specific, the observations with low average encounter length increases after 1990.
+ <li> There is no association between encounter length time and UFO shape.
+ <li> The number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year.
+ <li> There is only one time of observation of UFO in most cities in the U.S, but large cities have higher probability to observe the UFO more often. 
+  <li> Based on the the LASSO model, the UFO encounter length is not associated with the location, shape and time
+ <li> The appearance of UFO in the U.S can be predicted by ........ if you have interets, [please clik here]()
+ </ul> 
+
+# *Discussion*
+The UFO with the shape of "light" have a <strong>higher possibility to be observed during night</strong>, which is aligned with the common sense that lighting objects are more likely to be found in dark night. And UFO is more likely to be observed during the second half of the year, so <strong>aliens may like to spend the winter on earth</strong>. Furthermore, based on the the LASSO model, the UFO encounter length is not associated with the location, shape and time, which indicates that the length time of appearance of UFO is a random event. On the other hand, from the shiny flexdashboard generates another interesting finding that the observation of UFOs is <strong>more in west coast </strong>than the east coast in U.S. Since there is an association between location and appearance of UFO, the aforementioned model <strong>(one-class support vector machine)</strong> is applied to predict the appearance of UFO, the F1_score (a measure of accuracy in unbalanced data) of training the model by cross validation is approximately 65%. 
+
+
+

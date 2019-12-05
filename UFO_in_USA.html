@@ -362,7 +362,7 @@ div.tocify {
   <a href="UFO_in_USA.html">UFO in USA</a>
 </li>
 <li>
-  <a href="index.html">Map of City</a>
+  <a href="https://ljf123-final.shinyapps.io/shiny_dashboard_jl/">Map of City</a>
 </li>
 <li>
   <a href="index.html">Models</a>
@@ -806,8 +806,9 @@ glmnet::coef.glmnet(lasso_best_fit_state) </code></pre>
 ## ufo_shapeunknown   .</code></pre>
 <p>According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.</p>
 </div>
-<div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level2">
-<h2>run lasso on data, only the city appeared more than 50 times included</h2>
+</div>
+<div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level1">
+<h1><em>Run lasso on data, only the city appeared more than 50 times included</em></h1>
 <p>We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.</p>
 <pre class="r"><code>ufo_city = 
   ufo %&gt;% 
@@ -1034,7 +1035,6 @@ glmnet::coef.glmnet(lasso_best_fit_city) </code></pre>
 ## ufo_shapetriangle               .           
 ## ufo_shapeunknown                .</code></pre>
 <p>According to the result, most of terms are not statistically significant. The only siginificant term is the city Virginia Beach. However, the coefficient for this term is too small (9.223037e-11), so that we can just ignore. Hence, we can conclude that the knowledge of state, city, shape, month, year, hour, day, mintue does not contribute any insights on the encounter length of UFO.</p>
-</div>
 </div>
 
 
