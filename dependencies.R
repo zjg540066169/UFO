@@ -9,13 +9,11 @@ devtools::install_github("mapview", quiet = TRUE)
 devtools::install_cran("mapview", quiet = TRUE)
 devtools::install_github("lchiffon/wordcloud2", quiet = TRUE)
 devtools::install_cran("e1071", quiet = TRUE)
-devtools::install_cran("rgl", quiet = TRUE)
-devtools::install_cran("FactoMineR", quiet = TRUE)
-devtools::install_github("vqv/ggbiplot", quiet = TRUE)
 devtools::install_cran("mapview", quiet = TRUE)
 devtools::install_cran("plspm", quiet = TRUE)
 devtools::install_cran("polycor", quiet = TRUE)
 devtools::install_cran("misc3d", quiet = TRUE)
+devtools::install_cran("MLmetrics", quiet = TRUE)
 
 
 
