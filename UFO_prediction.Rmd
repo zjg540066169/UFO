@@ -5,6 +5,7 @@ date: "11/29/2019"
 output: html_document
 ---
 
+
 ```{r set up, include = FALSE}
 # knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
@@ -51,6 +52,11 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 ```
 
 
+Outlier detection
+
+By the analysis we did before, we found association does exist in UFO appearance time and location. To enhence prediction accuracy, we adapt the powerful tool of Machine Learning in assist of our prediction. Unfortunately, we only have the "positive" samples in the dataset, which means only the UFO appearance data are availiable to us and the data about UFO not appearing are missing. Under this situation, we view prediction of whether UFO is appearing or not as a problem of one class classification, aka outlier detection. Here we take advantage of a popular method that combats this adversity, One Class Support Vector Machine. In this process. we fabricate "negative" samples that would be included in test data of the cross validation procedure. 
+
+
 ```{r}
 # read data
 ufo_data = read_csv(file = "./data/tidied_data_final.csv")
@@ -86,6 +92,8 @@ ufo_city =
 ```
 
 
+Since we are predicting by city, which is a categorical data, each city will be treated as a dummy variable in the SVM model. Hence, we limited the city terms down to the cities that have more than 100 times of UFO sightings. 
+
 # Cross Validation Preparation
 
 ```{r}
@@ -93,9 +101,7 @@ ufo_city =
 # set up the result of cross validation table
 nu_cv = tibble(
   nu = numeric(),
-  f1_svm = list(),
-  label = list(),
-  pred_label = list()
+  f1_svm = list()
 )
 
 # transform each levels in factors to new variables to form the input of SVM
@@ -122,8 +128,9 @@ method for cross validation for one class data come from the paper:
 Hempstalk, K., & Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.
 
 
-Use F1_score to evaluate the prediction result. F1_score can use to balance the result of imbalanced data.
+Use F1_score to evaluate the prediction result. F1_score can use to balance the result of unbalanced data.
 
+Here is the link to some background about F1 score:
 https://en.wikipedia.org/wiki/F1_score
 
 
@@ -214,8 +221,10 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
 }
 ```
 
+One Class Cross Valiadation is not an exact copy from what we have done in class, but the specific method we used here were included and explained more in-depth in the paper cited in the end of this page.
 
-draw the graph of f1_score for each nu
+
+# draw the graph of f1_score for each nu
 
 ```{r}
 # change the scale of data for graph
@@ -245,9 +254,12 @@ cvp %>%
 
 ```
 
-From the graph we find nu = 0.5 is best parameter for OC-SVM.
+According the graph, we find nu = 0.5 is best parameter for OC-SVM.
 
 After geting the best nu, we use it to train OC-SVM again.
+
+
+# Train the Final Best Model with Best nu = 0.5
 
 ```{r}
 nu_ = 0.5
@@ -273,5 +285,8 @@ svm_model
 
 
 
+*Work Cited*
 
+Manevitz, L. M., & Yousef, M. (2001). One-class SVMs for document classification. Journal of machine Learning research, 2(Dec), 139-154.
 
+Hempstalk, K., & Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.
