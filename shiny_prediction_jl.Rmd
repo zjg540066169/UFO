@@ -1,5 +1,5 @@
 ---
-title: "Shiny Dashboard"
+title: "Predicting UFO"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -36,6 +36,8 @@ ufo_usa = ufo_usa %>%
   select(-city, -state)
 ```
 
+Column {.sidebar}
+-----------------------------------------------------------------------
 
 ```{r sidebar, echo=FALSE}
 # set the year list for choices
@@ -87,40 +89,84 @@ selectInput(
   choices = city_states, selected = "Brooklyn NY")
 ```
 
+Column 
+-----------------------------------------------------------------------
 
-### Chart A
+### Predicting whether UFO will appear in the chosen place and time
 
 ```{r chartA, echo=FALSE}
-renderPrint({
-  input[["city_state_choice"]]
-})
-renderPrint({
-  input[["year_choice"]]
-})
-renderPrint({
-  input[["month_choice"]]
+
+ufo_data = read_csv(file = "./data/tidied_data_final.csv")
+
+
+
+  # data tidy for prediction
+ufo =
+  ufo_data %>%  
+  filter(country == "USA") %>% 
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
+  separate(time, into = c("hour","minute"), sep = ":") %>% 
+  select(year, month, day, hour, minute,state, city) %>%
+  na.omit(ufo_data) %>% 
+  mutate(add = paste(state, city)) %>% 
+  select(-state, -city) 
+
+# transform each levels in factors to new variables to form the input of SVM
+factor_variable_cope = function(df){
+    if (is.tibble(df)) {
+      df = as.data.frame(df)
+    }
+    for (i in colnames(df[, sapply(df, is.factor)])) {
+      for (level in unique(df[, i])) {
+          df[paste(i, level, sep = "_")] = 
+              as.integer(ifelse(df[, i] == level, 1, -1))
+      }
+    }
+    df
+  }
+
+
+renderLeaflet({
+  sample = tibble(add = input$city_state_choice, year = input$year_choice, month = input$month_choice, day = input$day_choice, hour = input$hour_choice, minute = input$minute_choice)
+
+  
+  
+  
+  
+  svm_model = readRDS("SVM.rds")
+  
+  
+  svm = 
+    ufo %>% 
+    rbind(sample) %>% 
+    mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
+    slice(nrow(.)) %>% 
+    factor_variable_cope() %>% 
+    select(-month, -add) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
+    predict(svm_model, .)
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  ufo_usa %>% 
+    filter(city_state == input$city_state_choice) %>% 
+    select(latitude, longitude, city_state) %>% 
+    mutate(svm = svm_model) %>% 
+    leaflet() %>% 
+    addTiles() %>% 
+    addCircleMarkers(
+      radius = ~n/100,
+      color = ~ifelse(svm[[1]] == TRUE, "red", "navy"),
+      ~latitude,
+      ~longitude
+    )
 })
 ```
-
-
-
-### Chart B
-
-```{r chartB, echo=FALSE}
-renderPrint({
-  input[["day_choice"]]
-})
-```
-
-### Chart C
-
-```{r chartC, echo=FALSE}
-renderPrint({
-  input[["hour_choice"]]
-})
-renderPrint({
-  input[["minute_choice"]]
-})
-```
-
 
