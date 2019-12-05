@@ -67,19 +67,19 @@ states = readOGR("data/cb_2018_us_state_500k.shp", verbose = FALSE)
 #is.element(states$STUSPS,US$state)
 
 # missing 14,38,39,46,45 so to create new_states df with only matching states
-new_states = subset(states, is.element(states$STUSPS,US$state))
+new_states = subset(states, is.element(states$STUSPS, pull(US, state)))
 #is.element(new_states$STUSPS,US$state)
 #is.element(US$state,new_states$STUSPS)
 
 ## make it into same order
-US = US[order(match(US$state, (new_states$STUSPS))),]
+US = US[order(match(pull(US, state), new_states$STUSPS)),]
 
 # set for the range based on number being observed--discrete
 # bins = c(0,50,100,150,200,250,300,350,400,450,500,550)
 # pal = colorBin("YlOrRdBu",domain = US$Num.observed,bins = bins)
  
-pal <- colorNumeric(palette = "Reds",domain = US$Num.UFO)
-labels = paste( "<p>","Number of UFO Observed Across Time ：", US$Num.UFO,"</p>",
+pal <- colorNumeric(palette = "Reds",domain = pull(US, Num.UFO))
+labels = paste( "<p>","Number of UFO Observed Across Time ：", pull(US, Num.UFO) ,"</p>",
   sep = "")
   leaflet() %>%
   setView(-96,37.8,4) %>%
@@ -89,11 +89,11 @@ labels = paste( "<p>","Number of UFO Observed Across Time ：", US$Num.UFO,"</p>
               smoothFactor = 0.2,
               color = "white",
               fillOpacity = 0.75,
-              fillColor = pal(US$Num.UFO),
+              fillColor = pal(pull(US, Num.UFO)),
               label = lapply(labels, HTML)
               ) %>%
     addLegend(pal = pal,
-              values = US$Num.UFO,
+              values = pull(US, Num.UFO),
               opacity = 0.7,
               position = "topright")
 ```
