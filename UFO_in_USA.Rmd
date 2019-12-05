@@ -41,19 +41,16 @@ scale_fill_discrete = scale_fill_viridis_d
 
 theme_set(theme_minimal() + theme(legend.position = "bottom"))
 ufo_data = readr::read_csv("./data/tidied_data_final.csv")
-
 ```
 
 # *Visualization of UFO in USA*
 
-The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S., as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.
+The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S, as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.
 
 
 
 # The Distribution of UFO Shape in the U.S
 
-
-The light is the most frequent shape of UFO
 
 <strong> Boxplot showing the distribution of the UFO Shape Observed in US </strong>.
 
@@ -79,17 +76,18 @@ separate( date, into = c("month","day","year"), sep = "/") %>%
     title = "Boxplot Showing Distribution of the UFO Shape Observed in the U.S.",
     x = "UFO Shape",
     y = "Number"
-  )
+  ) +
+  theme(plot.title = element_text(hjust = 0.5))
 
 ufo
 
 ```
 
-Comment: 
+
 According to this plot, we can see that the light UFO shape was sighted most often, and the changed shape was the least often according to their medium value. Some of the most common sighted UFO shapes are light, trianle, circle, unknown, other, and fireball, disk, and sphere. Some of the least common sighted UFO shapes are changed crescent, delta, flare, hezagon, pyramid and round. 
 
 
-After seeing the distribution of shape and UFO sighting frequency, we are tryint to explore whether the frequency of UFO shape changes by day and night. In general, the UFOs are more likely to be observed during night and the shape of light is the most frequent shape during night as indicated by the plot below.
+After seeing the distribution of shape and UFO sighting frequency, we are trying to explore whether the frequency of UFO shape changes by day and night. In general, the UFOs are more likely to be observed during night and the shape of light is the most frequent shape during night as indicated by the plot below.
 
 
 <strong> Times of Appearance for Each Shape of UFO (by day and night) </strong>
@@ -120,13 +118,14 @@ summarize(count_shape = n()) %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(title = "Times of Appearance for Each Shape of UFO (by day and night)", 
        y = "counts",
-       x = "UFO Shape")
+       x = "UFO Shape") +
+  theme(plot.title = element_text(hjust = 0.5))
   
   ufo_day_night_shape
 ```
 
 
-The spagetti plot here confirms that UFOs are more likely to appear during night.
+The spagetti plot below confirms that UFOs are more likely to appear during night, since the frequency of appearance dramatically after 6pm. 
 
 
 <strong> Numbers of appearance of UFO in each hour by month </strong>
@@ -148,7 +147,8 @@ plot_us_month = ufo_data %>%
     title = "Number of UFO in Each Hour by Month in US",
     x = "Hour",
     y = "Number"
-  )
+  ) +
+  theme(plot.title = element_text(hjust = 0.5))
 
 # display the plot
 plot_us_month
@@ -157,9 +157,8 @@ plot_us_month
 *Conclusion:* 1):The most frequent shape of UFO is light; 
             2):The UFO is more likely to appear during night.
 
-Can we take a guess that light is most frequent shape because majority of sighting occured during the nighttime? Is there a association between these two variables?
 
-# Month/Year vs. encounter length time 
+# Month/Year vs. Encounter length time 
 
 ```{r}
 ## USA
@@ -191,16 +190,16 @@ separate( date, into = c("month","day","year"), sep = "/")
     y = "Month"
   ) + 
   theme(axis.text.x = element_text(angle = 300)) +
-  theme(plot.subtitle = element_text(hjust = 0.5))
+  #theme(plot.subtitle = element_text(hjust = 0.5)) +
+  theme(plot.title = element_text(hjust = 0.5))
 ```
 
+The above plot shows that there are more observations with lower encounter length time after the year of 1990. 
 
+# Shape vs. Encounter length time 
 
-# shape vs. encounter length time 
+<strong>The violin plot of encounter length for each shape of ufo & The bar chart of the median of encounter length time for each shape of UFO </strong>
 
-<strong>The violin plot of encounter length for each shape of ufo </strong>
-
-<strong>The bar chart of the median of encounter length time for each shape of UFO </strong>
 
 ```{r violin_plot_bar_chart}
 
@@ -217,7 +216,8 @@ length_shape_data %>%
   stat_summary(fun.y = median, geom = "point", color = "darksalmon", size = 3) +
   labs(title = "The Violin Plot of Encounter Length Time for Each Shape of UFO", 
        y = "Encounter Length of Time",
-       x = "UFO Shape")
+       x = "UFO Shape") +
+  theme(plot.title = element_text(hjust = 0.5))
 
 # tidy data for the bar chart
 median_length_shape_data = ufo_data %>% 
@@ -235,7 +235,8 @@ median_length_shape_data %>%
   theme(axis.text.x = element_text(angle = 300)) +
   labs(title = "The Bar Chart of Median of Encounter Length Time for Each Shape of UFO",
        y = "Median of Encounter Length Time",
-       x = "UFO Shape")
+       x = "UFO Shape") +
+  theme(plot.title = element_text(hjust = 0.5))
 
 ```
 
@@ -277,7 +278,8 @@ count = n()) %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(title = "The Median Length Time for Each Shape of UFO (by day and night)", 
        y = "median length",
-       x = "UFO Shape")
+       x = "UFO Shape") +
+  theme(plot.title = element_text(hjust = 0.5))
   
   ufo_day_night_length
 ```
@@ -305,13 +307,15 @@ summarize(count_month = n()) %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(title = "The Plot of the Appearance UFO for Each Month", 
        y = "Counts of Appearance",
-       x = "Month")
+       x = "Month") +
+  theme(plot.title = element_text(hjust = 0.5))
   
 ufo_month_counts_plot
 
 ```
 
 According to the plot here, the number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year. 
+In other words, the frequency of UFO appearance is higher after June, and peaks at July. 
 
-The frequency of UFO appearance is higher after June, and peaks at July. 
-
+*Conclusion:* 1):There is no association between the shape of UFO and encounter length time; 
+            2):The UFO is more likely to appear during the second half of the year.

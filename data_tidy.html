@@ -10,17 +10,19 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Jungang Zou" />
 
 
-<title>data_tidy</title>
+<title>Tidy Data</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -106,33 +108,33 @@ summary {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 45px;
+  padding-top: 61px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h2 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h3 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h4 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h5 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h6 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .dropdown-submenu {
   position: relative;
@@ -251,6 +253,63 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -258,6 +317,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -270,21 +339,23 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Home</a>
+      <a class="navbar-brand" href="index.html"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        
+        <li>
+  <a href="Overview.html">Overview</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
+  <a href="index.html">Tidy Data</a>
+</li>
+<li>
   <a href="EDA.html">EDA</a>
 </li>
 <li>
   <a href="UFO_in_USA.html">UFO in USA</a>
-</li>
-<li>
-  <a href="index.html">Map of State</a>
 </li>
 <li>
   <a href="index.html">Map of City</a>
@@ -307,9 +378,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">data_tidy</h1>
-<h4 class="author">Jungang Zou</h4>
-<h4 class="date">11/9/2019</h4>
+<h1 class="title toc-ignore">Tidy Data</h1>
 
 </div>
 
@@ -317,36 +386,23 @@ $(document).ready(function () {
 <p>In the process of tidy data, we read the original data from github first. The first step we took is to detect any missing values, and we found that there are thousands of missing values in some key variables (state, country and UFO shape). Therefore, we took several counter measures. We overwrite missing values in UFO shape by “unknown” shape, which originally exist in the data as well. We also noticed that some information about country and state were “hidden”/embedded in the city variable, city_area variable seems very untidy. In order to get a clean dataset, we combined information of city_area, country and state to form a list of strings, and by these information, we adopted google API to correct the data and obtain a structured text. Unfortunately, google API did not work perfectly, but the majority of them are good enough for our analysis purpose, we omitted several confusing data but kept most of our tidied data.</p>
 <div id="reading-data" class="section level2">
 <h2>reading data</h2>
-<pre class="r"><code>ufo_original_data = readr::read_csv(&quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv&quot;)</code></pre>
-<pre><code>## Parsed with column specification:
-## cols(
-##   date_time = col_character(),
-##   city_area = col_character(),
-##   state = col_character(),
-##   country = col_character(),
-##   ufo_shape = col_character(),
-##   encounter_length = col_double(),
-##   described_encounter_length = col_character(),
-##   description = col_character(),
-##   date_documented = col_character(),
-##   latitude = col_double(),
-##   longitude = col_double()
-## )</code></pre>
-<pre class="r"><code>ufo_original_data</code></pre>
+<pre class="r"><code>ufo_original_data = readr::read_csv(&quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv&quot;)
+
+ufo_original_data</code></pre>
 <pre><code>## # A tibble: 80,332 x 11
-##    date_time city_area state country ufo_shape encounter_length described_encou~
+##    date_time city_area state country ufo_shape encounter_length described_encou…
 ##    &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;                &lt;dbl&gt; &lt;chr&gt;           
-##  1 10/10/19~ san marc~ tx    us      cylinder              2700 45 minutes      
-##  2 10/10/19~ lackland~ tx    &lt;NA&gt;    light                 7200 1-2 hrs         
-##  3 10/10/19~ chester ~ &lt;NA&gt;  gb      circle                  20 20 seconds      
-##  4 10/10/19~ edna      tx    us      circle                  20 1/2 hour        
-##  5 10/10/19~ kaneohe   hi    us      light                  900 15 minutes      
-##  6 10/10/19~ bristol   tn    us      sphere                 300 5 minutes       
-##  7 10/10/19~ penarth ~ &lt;NA&gt;  gb      circle                 180 about 3 mins    
-##  8 10/10/19~ norwalk   ct    us      disk                  1200 20 minutes      
-##  9 10/10/19~ pell city al    us      disk                   180 3  minutes      
-## 10 10/10/19~ live oak  fl    us      disk                   120 several minutes 
-## # ... with 80,322 more rows, and 4 more variables: description &lt;chr&gt;,
+##  1 10/10/19… san marc… tx    us      cylinder              2700 45 minutes      
+##  2 10/10/19… lackland… tx    &lt;NA&gt;    light                 7200 1-2 hrs         
+##  3 10/10/19… chester … &lt;NA&gt;  gb      circle                  20 20 seconds      
+##  4 10/10/19… edna      tx    us      circle                  20 1/2 hour        
+##  5 10/10/19… kaneohe   hi    us      light                  900 15 minutes      
+##  6 10/10/19… bristol   tn    us      sphere                 300 5 minutes       
+##  7 10/10/19… penarth … &lt;NA&gt;  gb      circle                 180 about 3 mins    
+##  8 10/10/19… norwalk   ct    us      disk                  1200 20 minutes      
+##  9 10/10/19… pell city al    us      disk                   180 3  minutes      
+## 10 10/10/19… live oak  fl    us      disk                   120 several minutes 
+## # … with 80,322 more rows, and 4 more variables: description &lt;chr&gt;,
 ## #   date_documented &lt;chr&gt;, latitude &lt;dbl&gt;, longitude &lt;dbl&gt;</code></pre>
 </div>
 <div id="missing-value-detect" class="section level2">
@@ -405,16 +461,33 @@ $(document).ready(function () {
 ##  8 seattle (ballard area)                  wa   
 ##  9 zlatoust (russia)                       &lt;NA&gt; 
 ## 10 toronto (greater toronto area) (canada) on   
-## # ... with 12,454 more rows</code></pre>
+## # … with 12,454 more rows</code></pre>
 <p>Since there are a lot of massive data in “city_area”, “state” and “country”, we need to tidy the data.</p>
 <p>First, to clearly describle the place of insterests, we seperate the variable “city_area” into 2 variable “city_area” and “city_description”.</p>
 <p>To further explore in place of interests, we write a function to use Google Map`s api, to clean the data.</p>
+<p>The code to use Google Map`s api and get the geographic data. Since we do not need to get data again, we comment it.</p>
+<pre class="r"><code>#df_pnt = 
+#  mp_geocode(addresses = pull(ufo_tidy_data, place_string), key = api_key) %&gt;% 
+#  mp_get_points() %&gt;% 
+#  tibble(
+#    .$address,
+#    .$address_google,
+#    .$pnt,
+#    .$status
+#  ) %&gt;% 
+#  rename(&quot;place_string&quot; = &quot;.$address&quot;, &quot;address_google&quot; = &quot;.$address_google&quot;, &quot;pnt&quot; = &quot;.$pnt&quot;, &quot;status&quot; = &quot;.$status&quot;) %&gt;% 
+#  select(place_string, address_google, pnt, status) %&gt;%
+#  mutate(lat = unlist(map(pull(., pnt), 1)),
+#           long = unlist(map(pull(., pnt), 2))) %&gt;% 
+#  select(-pnt) %&gt;% 
+#  write.table(file = paste(&quot;./data_pot/&quot;, &quot;df.csv&quot;, sep = &quot;&quot;), sep = &quot;,&quot;, row.names = FALSE)</code></pre>
 <p>After download all data of the place of interests, we combine all the data in totally more than 800 files.</p>
 <pre class="r"><code>ufo_poi = 
   list.files(&quot;./data_pot&quot;, pattern = &quot;^.+df.csv$&quot;) %&gt;%
   map_chr(.x = ., ~paste(&quot;./data_pot&quot;, ., sep = &quot;/&quot;)) %&gt;% 
   map_df(.x = ., read_csv) %&gt;% 
   distinct()</code></pre>
+<p>After downloading the data from Google Map`s api, we find there is still little mass data, so we tidy them by hand.</p>
 <pre class="r"><code>ufo_tidy =
   ufo_tidy_data %&gt;% 
   full_join(ufo_poi, ., by = c(&quot;place_string&quot;)) %&gt;% 
@@ -457,45 +530,50 @@ ufo_tidy =
     long = temp
   ) %&gt;% 
   mutate(state = recode(state , 
-                &quot;Alabama&quot;=&quot;AL&quot;, &quot;Oregon&quot; = &quot;OR&quot;,&quot;Ohio&quot; = &quot;OH&quot;,&quot;New York&quot; = &quot;NY&quot;,&quot;New Mexico&quot; = &quot;NM&quot;, 
-                &quot;Alaska&quot;=&quot;AK&quot;, &quot;Nevada&quot; = &quot;NV&quot;,&quot;Nebraska&quot; = &quot;NE&quot;, &quot;Florida&quot; =&quot;FL&quot;,&quot;Georgia&quot;=&quot;GA&quot;,
-                &quot;Arizona&quot; = &quot;AZ&quot;,&quot;Idaho&quot;=&quot;ID&quot;,&quot;Illinois&quot; =&quot;IL&quot;,&quot;Indiana&quot;=&quot;IN&quot;,&quot;Iowa&quot; =&quot;IA&quot;,
-                &quot;Kansas&quot;=&quot;KS&quot;,&quot;Missouri&quot; =&quot;MO&quot;,&quot;Kentucky&quot; = &quot;KY&quot;,&quot;Louisiana&quot;=&quot;LA&quot;,&quot;Maine&quot;=&quot;ME&quot;,
-                &quot;Maryland&quot;=&quot;MD&quot;,&quot;Massachusetts&quot; = &quot;MA&quot;,&quot;Michigan&quot;=&quot;MI&quot;,&quot;Minnesota&quot;=&quot;MN&quot;,
+                &quot;Alabama&quot; = &quot;AL&quot;, &quot;Oregon&quot; = &quot;OR&quot;,&quot;Ohio&quot; = &quot;OH&quot;,&quot;New York&quot; = &quot;NY&quot;,&quot;New Mexico&quot; = &quot;NM&quot;, 
+                &quot;Alaska&quot; = &quot;AK&quot;, &quot;Nevada&quot; = &quot;NV&quot;,&quot;Nebraska&quot; = &quot;NE&quot;, &quot;Florida&quot; = &quot;FL&quot;,&quot;Georgia&quot; = &quot;GA&quot;,
+                &quot;Arizona&quot; = &quot;AZ&quot;,&quot;Idaho&quot; = &quot;ID&quot;,&quot;Illinois&quot; = &quot;IL&quot;,&quot;Indiana&quot; = &quot;IN&quot;,&quot;Iowa&quot; = &quot;IA&quot;,
+                &quot;Kansas&quot; = &quot;KS&quot;,&quot;Missouri&quot; = &quot;MO&quot;,&quot;Kentucky&quot; = &quot;KY&quot;,&quot;Louisiana&quot; = &quot;LA&quot;,&quot;Maine&quot; = &quot;ME&quot;,
+                &quot;Maryland&quot; = &quot;MD&quot;,&quot;Massachusetts&quot; = &quot;MA&quot;,&quot;Michigan&quot; = &quot;MI&quot;,&quot;Minnesota&quot; = &quot;MN&quot;,
                  &quot;California&quot; = &quot;CA&quot;,&quot;Texas&quot; = &quot;TX&quot;,&quot;Tennessee&quot; = &quot;TN&quot;,&quot;Pennsylvania&quot; = &quot;PA&quot;,
                 &quot;Colorado&quot; = &quot;CO&quot;,&quot;Washington&quot; = &quot;WA&quot;,&quot;Vermont&quot; = &quot;VT&quot;,&quot;Utah&quot; = &quot;UT&quot;),
          ufo_shape = recode(ufo_shape, &quot;changed&quot; = &quot;changing&quot;)
          ) %&gt;% 
   select(-address_google, -temp) %&gt;% 
   rename(&quot;latitude&quot; = &quot;lat&quot;, &quot;longitude&quot; = &quot;long&quot;)</code></pre>
-<p>We assign “unknown” to NA in ufo_shape,</p>
+<p>Here, we assign “unknown” to mssing value in ufo_shape,</p>
 <pre class="r"><code>ufo_tidy = 
   ufo_tidy %&gt;% 
   mutate(ufo_shape = replace(ufo_shape, is.na(ufo_shape), &quot;unknown&quot;)) </code></pre>
-<p>delete all the rows with NA</p>
+<p>Delete all the rows with missing value and save the cleaned data. Since we do not need to save the tidied data again, we comment the code here.</p>
 <pre class="r"><code>ufo_tidy %&gt;% 
-  drop_na() #%&gt;% </code></pre>
-<pre><code>## # A tibble: 70,921 x 12
-##    latitude longitude date_time city_description ufo_shape encounter_length
-##       &lt;dbl&gt;     &lt;dbl&gt; &lt;chr&gt;     &lt;chr&gt;            &lt;chr&gt;                &lt;dbl&gt;
-##  1     34.1     -117. 10/14/20~ &quot;&quot;               sphere                  60
-##  2     34.1     -117. 10/7/200~ &quot;&quot;               sphere                1200
-##  3     34.1     -117. 11/14/20~ &quot;&quot;               light                  300
-##  4     34.1     -117. 11/16/20~ &quot;&quot;               light                   60
-##  5     34.1     -117. 11/17/20~ &quot;&quot;               light                  600
-##  6     34.1     -117. 11/21/20~ &quot;&quot;               fireball               300
-##  7     34.1     -117. 11/22/20~ &quot;&quot;               fireball               120
-##  8     34.1     -117. 1/13/200~ &quot;&quot;               sphere                  45
-##  9     34.1     -117. 1/15/198~ &quot;&quot;               unknown                300
-## 10     34.1     -117. 1/15/200~ &quot;&quot;               circle              259200
-## # ... with 70,911 more rows, and 6 more variables:
+  drop_na() %&gt;%
+  filter(Encoding(city) != &quot;UTF-8&quot;) %&gt;%
+  
+  separate(date_time, into = c(&quot;date&quot;, &quot;time&quot;), sep = &quot; &quot;)# %&gt;% </code></pre>
+<pre><code>## # A tibble: 70,852 x 13
+##    latitude longitude date  time  city_description ufo_shape encounter_length
+##       &lt;dbl&gt;     &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;            &lt;chr&gt;                &lt;dbl&gt;
+##  1     34.1     -117. 10/1… 13:30 &quot;&quot;               sphere                  60
+##  2     34.1     -117. 10/7… 23:50 &quot;&quot;               sphere                1200
+##  3     34.1     -117. 11/1… 18:50 &quot;&quot;               light                  300
+##  4     34.1     -117. 11/1… 05:38 &quot;&quot;               light                   60
+##  5     34.1     -117. 11/1… 07:00 &quot;&quot;               light                  600
+##  6     34.1     -117. 11/2… 18:30 &quot;&quot;               fireball               300
+##  7     34.1     -117. 11/2… 21:44 &quot;&quot;               fireball               120
+##  8     34.1     -117. 1/13… 20:30 &quot;&quot;               sphere                  45
+##  9     34.1     -117. 1/15… 22:00 &quot;&quot;               unknown                300
+## 10     34.1     -117. 1/15… 12:00 &quot;&quot;               circle              259200
+## # … with 70,842 more rows, and 6 more variables:
 ## #   described_encounter_length &lt;chr&gt;, description &lt;chr&gt;, date_documented &lt;chr&gt;,
 ## #   country &lt;chr&gt;, state &lt;chr&gt;, city &lt;chr&gt;</code></pre>
-<pre class="r"><code>  #write.table(file = paste(&quot;./data/&quot;, &quot;tidied_data_final.csv&quot;, sep = &quot;&quot;), sep = &quot;,&quot;, row.names = FALSE)</code></pre>
+<pre class="r"><code>  #write.table(file = paste(&quot;./&quot;, &quot;tidied_data_final.csv&quot;, sep = &quot;&quot;), sep = &quot;,&quot;, row.names = FALSE)</code></pre>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -528,6 +606,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
