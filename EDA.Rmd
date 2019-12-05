@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "EDA"
 output:
   html_document:
     code_folding: hide
@@ -48,7 +48,7 @@ ufo_data %>%
 separate( date, into = c("month","day","year"), sep = "/")
 ```
 
-# Data Description
+# *Data Description*
 
 In this dataset, it contains time and location data about UFO sighting across `r length(unique(pull(ufo, country)))` countries, from the year of `r min(pull(ufo, year))` to the year of `r max(pull(ufo, year))`. They are `r  nrow(ufo)` observations and `r ncol(ufo)` variables in the dataset. 
 
@@ -71,7 +71,7 @@ The variables in the dataset are:
 * `country`: the country of UFO sighting
 
 
-# UFO Data Overview. 
+# *UFO Data Overview*
 
 ```{r}
 ## A bargraph showing the total number of UFO observed among 7 countries.
@@ -123,7 +123,7 @@ This line plot provides a trend showing the number of UFO observed in each count
 
 
 
-# Descriptive Statistics in Encountered Length
+# *Descriptive Statistics in Encountered Length*
 
 ```{r}
 
@@ -182,7 +182,7 @@ In the plot, United States showed the most amount of data and spreaded out a lot
 
 
 
-# Lag in Documentation:
+# *Lag in Documentation*
 
 In the dataset, we noticed that for a lot of the data, there are lags in time regards to their sighting time and the documentation time. Lags may indicate inaccurate information in the dataset, since people's memory tends to become unreliable after time. Therefore, here is a plot that shows the distribution of lag time in years for each sighting by country.
 

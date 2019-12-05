@@ -54,7 +54,7 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 In the process of tidy data, we read the original data from github first. The first step we took is to detect any missing values, and we found that there are thousands of missing values in some key variables (state, country and UFO shape). Therefore, we took several counter measures. We overwrite missing values in UFO shape by "unknown" shape, which originally exist in the data as well. We also noticed that some information about country and state were "hidden"/embedded in the city variable, city_area variable seems very untidy. In order to get a clean dataset, we combined information of city_area, country and state to form a list of strings, and by these information, we adopted <strong>Google API</strong> to correct the data and obtain a structured text. Unfortunately, Google API did not work perfectly, but the majority of them are good enough for our analysis purpose, we omitted several confusing data but kept most of our tidied data.
 
 
-## reading data
+## *Reading data*
 
 ```{r download, message = FALSE}
 ufo_original_data = readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
@@ -62,7 +62,7 @@ ufo_original_data = readr::read_csv("https://raw.githubusercontent.com/rfordatas
 ufo_original_data
 ```
 
-## Missing Value Detect
+## *Missing Value Detect*
 
 ```{r detect_missing}
 ufo_original_data %>% 
@@ -73,7 +73,7 @@ ufo_original_data %>%
 We find the variable "state", "country", "ufo_shape" has largest number of missing values.
 
 
-## Fill the missing value
+## *Fill the missing value*
 
 According to the relationships of "city_area", "state" and "country", we can fill the missing value.
 
