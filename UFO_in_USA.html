@@ -351,7 +351,7 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="eda.html">EDA</a>
+  <a href="EDA.html">EDA</a>
 </li>
 <li>
   <a href="UFO_in_USA.html">UFO in USA</a>
@@ -366,8 +366,8 @@ div.tocify {
   <a href="index.html">Models</a>
 </li>
 <li>
-  <a href="index.html">
-    <span class="fa fa-facebook fa-lg"></span>
+  <a href="https://zjg540066169.github.io">
+    <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
@@ -396,34 +396,16 @@ div.tocify {
 <div id="visualization-of-ufo-in-usa" class="section level1">
 <h1><em>Visualization of UFO in USA</em></h1>
 <p>The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S., as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.</p>
-<div id="the-distribution-of-ufo-shape-in-the-u.s." class="section level2">
-<h2>The distribution of UFO shape in the U.S.</h2>
-</div>
 </div>
 <div id="the-distribution-of-ufo-shape-in-the-u.s" class="section level1">
 <h1>The Distribution of UFO Shape in the U.S</h1>
 <p>The light is the most frequent shape of UFO</p>
 <p><strong> Boxplot showing the distribution of the UFO Shape Observed in US </strong>.</p>
 <pre class="r"><code>### Boxplot showing the distribution of the UFO Shape Observed in US
-ufo_data = readr::read_csv(&quot;./data/tidied_data_final.csv&quot;)</code></pre>
-<pre><code>## Parsed with column specification:
-## cols(
-##   latitude = col_double(),
-##   longitude = col_double(),
-##   date_time = col_character(),
-##   city_description = col_character(),
-##   ufo_shape = col_character(),
-##   encounter_length = col_double(),
-##   described_encounter_length = col_character(),
-##   description = col_character(),
-##   date_documented = col_character(),
-##   country = col_character(),
-##   state = col_character(),
-##   city = col_character()
-## )</code></pre>
-<pre class="r"><code>ufo =
+
+ufo =
 ufo_data %&gt;%  
-separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
+#separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
 separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
   filter(country == &quot;USA&quot;,year &gt;= 1950) %&gt;%
   group_by(state) %&gt;%
@@ -449,7 +431,6 @@ ufo</code></pre>
 <p><strong> Times of Appearance for Each Shape of UFO (by day and night) </strong></p>
 <pre class="r"><code>ufo_day_night_shape =
 ufo_data %&gt;%  
-separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
 separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;%
 separate(time, into = c(&quot;hour&quot;,&quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
 mutate(hour=recode(hour, &quot;00&quot;=&quot;24&quot;)) %&gt;% 
@@ -480,7 +461,7 @@ summarize(count_shape = n()) %&gt;%
 <p>The spagetti plot here confirms that UFOs are more likely to appear during night.</p>
 <p><strong> Numbers of appearance of UFO in each hour by month </strong></p>
 <pre class="r"><code>plot_us_month = ufo_data %&gt;% 
-  separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
+  #separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
   separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
   filter(country == &quot;USA&quot;,year &gt;= 1950) %&gt;%
   separate(time, into = c(&quot;hour&quot;, &quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
@@ -504,15 +485,14 @@ plot_us_month</code></pre>
 <p><em>Conclusion:</em> 1):The most frequent shape of UFO is light; 2):The UFO is more likely to appear during night.</p>
 <p>Can we take a guess that light is most frequent shape because majority of sighting occured during the nighttime? Is there a association between these two variables?</p>
 </div>
-<div id="shape-vs.-encounter-length" class="section level1">
-<h1>Shape vs. Encounter Length</h1>
-<div id="shape-vs.-avg-encounter-length" class="section level2">
-<h2>Shape vs. avg encounter length</h2>
-<p><strong> avg encounter length among months across year </strong></p>
-<pre class="r"><code>## heatmap showing 
-  ufo_heatmap = ufo_data %&gt;% 
-  separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
-  separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
+<div id="monthyear-vs.encounter-length-time" class="section level1">
+<h1>Month/Year vs. encounter length time</h1>
+<pre class="r"><code>## USA
+ufo =
+ufo_data %&gt;%  
+separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;)
+
+  ufo %&gt;%
   filter(country == &quot;USA&quot;, year &gt;= 1950, encounter_length &lt;6000) %&gt;%
   select(year, month, encounter_length) %&gt;%
   mutate(year = as.numeric(year),
@@ -535,15 +515,12 @@ plot_us_month</code></pre>
     x = &quot;Years&quot;,
     y = &quot;Month&quot;
   ) + 
-  theme(axis.text.x = element_text(angle = 90)) +
-  theme(plot.subtitle = element_text(hjust = 0.5))
-
-ufo_heatmap</code></pre>
-<p><img src="UFO_in_USA_files/figure-html/heatmap_length_month_year-1.png" width="90%" /></p>
-<p>As we can see that the darkness of color on the heatmap gradually fades away, we can infer that as the year gone by the average encounter length tends to be shorter. To be more specific, the observations with low average encounter length increases after 1990.</p>
+  theme(axis.text.x = element_text(angle = 300)) +
+  theme(plot.subtitle = element_text(hjust = 0.5))</code></pre>
+<p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-1-1.png" width="90%" /></p>
 </div>
-<div id="shape-vs.-encounter-length-time" class="section level2">
-<h2>shape vs. encounter length time</h2>
+<div id="shape-vs.encounter-length-time" class="section level1">
+<h1>shape vs. encounter length time</h1>
 <p><strong>The violin plot of encounter length for each shape of ufo </strong></p>
 <p><strong>The bar chart of the median of encounter length time for each shape of UFO </strong></p>
 <pre class="r"><code># tidy data
@@ -585,7 +562,7 @@ median_length_shape_data %&gt;%
 <p>Whether the relationship between shape and the length time would change by time</p>
 <pre class="r"><code>ufo_day_night_length =
 ufo_data %&gt;%  
-separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
+# separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
 separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;%
 separate(time, into = c(&quot;hour&quot;,&quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
 mutate(hour=recode(hour, &quot;00&quot;=&quot;24&quot;)) %&gt;% 
@@ -617,12 +594,11 @@ count = n()) %&gt;%
 <p><img src="UFO_in_USA_files/figure-html/length_day_night-1.png" width="90%" /></p>
 <p>The plot did not display any particular pattern or trend over the shape of UFO, hence we conclude that there is no association between encounter length time and UFO shape.</p>
 </div>
-</div>
 <div id="ufo-appearance-in-each-month" class="section level1">
 <h1>UFO Appearance in Each Month</h1>
 <pre class="r"><code>ufo_month_counts_plot =
 ufo_data %&gt;%  
-separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
+# separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
 separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;%
 filter(country == &quot;USA&quot;) %&gt;% 
 mutate(year_1 = case_when(year &gt;= 1950 ~ &quot;true&quot;,

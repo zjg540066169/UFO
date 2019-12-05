@@ -5,9 +5,8 @@ date: "11/13/2019"
 output: html_document
 ---
 
-## set up
 
-```{r}
+```{r Set Up}
 # knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
 
@@ -48,8 +47,8 @@ theme_set(theme_get() + theme(legend.position = "bottom"))
 
 ```
 
-## read dataset
-```{r}
+## Read Dataset
+```{r read dataset}
 ufo_data = read_csv(file = "./data/tidied_data_final.csv")
 
 
@@ -69,7 +68,7 @@ ufo =
 ```
   
   
-```{r}
+```{r define useful functions}
 x_process = function(df){#get independent variables
   x = 
     df %>% 
@@ -92,9 +91,10 @@ y_process = function(df){#get dependent variables
 ```
 
 
-## run lasso on data, only state included
+## Run Lasso on the Data, Exclude City
 
 ```{r}
+
 ufo_state = 
   ufo %>% 
   select(-add)
@@ -127,7 +127,6 @@ lambda_best_state
 #best lambda
 lambda_state = lambda_best_state$lambda.min
 
-
 # fit the lasso model
 lasso_best_fit_state = 
   glmnet::glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1, nlambda = 1, lambda = lambda_state) #alpha is the parameters to control the type of elastic net models, when alpha = 1, the elastic net model is equivalent to lasso.
@@ -137,7 +136,11 @@ glmnet::coef.glmnet(lasso_best_fit_state)
 
 ```
 
+According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.
+
 ## run lasso on data, only the city appeared more than 50 times included
+
+We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.
 
 ```{r}
 ufo_city = 
@@ -186,11 +189,5 @@ lasso_best_fit_city =
 glmnet::coef.glmnet(lasso_best_fit_city) 
 ```
 
-## Checking Test Assumptions
-
-```{r Homogeneity of variance}
-
-#bartlett.test()
-
-```
+According to the result, most of terms are significant again. The only siginificant term is the term for city Virginia Beach. However, the coefficient for this term is so small (9.223037e-11) that we can just ignore. Hence, we can conclude that the knowledge of state, city, shape, month, year, hour, day, mintue does not contribute any insights on the encounter length of UFO.
 

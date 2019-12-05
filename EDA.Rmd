@@ -45,7 +45,6 @@ ufo_data = read_csv(file = "./data/tidied_data_final.csv")
 
 ufo =
 ufo_data %>%  
-separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate( date, into = c("month","day","year"), sep = "/")
 ```
 
@@ -70,6 +69,7 @@ ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percen
     labs(title = "Bargraph of the precentage of UFO Observed by Country",
          x = "Country",y = "Precentage") 
 ggplotly(bar)
+
 
 ```
 
