@@ -47,7 +47,7 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 ufo_data = readr::read_csv("./data/tidied_data_final.csv")
 ```
 
-# *Visualization of UFO in USA*
+# Visualization of UFO in USA
 
 The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S, as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.
 
