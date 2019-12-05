@@ -12,7 +12,7 @@ navbar:
     - text: "UFO in USA"
       href: UFO_in_USA.html
     - text: "Map of City"
-      href: index.html
+      href: https://ljf123-final.shinyapps.io/shiny_dashboard_jl/
     - text: "Models"
       href: index.html
     - icon: fa-github fa-lg
