@@ -365,7 +365,7 @@ div.tocify {
   <a href="https://ljf123-final.shinyapps.io/shiny_dashboard_jl/">Map of City</a>
 </li>
 <li>
-  <a href="index.html">Models</a>
+  <a href="UFO_prediction.html">Models</a>
 </li>
 <li>
   <a href="https://zjg540066169.github.io">
@@ -511,7 +511,7 @@ separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), se
   geom_tile(aes(fill = ave_encountered_length), colour = &quot;white&quot;) +
   scale_fill_gradient(low = &quot;lightyellow&quot;, high = &quot;darkblue&quot;) +
   scale_x_continuous(name=&quot;Years&quot;, 
-                     breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
+                     breaks = c(1950, 1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
                                 ), limits= c (1950,2015)) +
   labs(
     title = &quot;Average UFO Encounter Length Compared among Months Across Time in USA &quot;,
@@ -681,23 +681,15 @@ lasso_fit_state %&gt;%
     x = &quot;Lambda&quot;,
     y = &quot;Estimated Coefficients&quot;
     ) +
+  theme(legend.position = &quot;right&quot;) +
   theme(plot.title = element_text(hjust = 0.5))</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
 <pre class="r"><code># cross - validation to calculate the best lambda
 lambda_best_state = 
   glmnet::cv.glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1, nfolds = 10)
 
-# display the result
-lambda_best_state</code></pre>
-<pre><code>## 
-## Call:  glmnet::cv.glmnet(x = x_process(ufo_state), y = y_process(ufo_state),      nfolds = 10, alpha = 1) 
-## 
-## Measure: Mean-Squared Error 
-## 
-##     Lambda   Measure        SE Nonzero
-## min  10359 1.627e+11 8.134e+10       0
-## 1se  10359 1.627e+11 8.134e+10       0</code></pre>
-<pre class="r"><code>#best lambda
+
+#best lambda
 lambda_state = lambda_best_state$lambda.min
 
 # fit the lasso model
@@ -835,23 +827,15 @@ lasso_fit_city %&gt;%
     x = &quot;Lambda&quot;,
     y = &quot;Estimated Coefficients&quot;
     ) +
+  theme(legend.position = &quot;right&quot;) +
   theme(plot.title = element_text(hjust = 0.5))</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-3-1.png" width="90%" /></p>
 <pre class="r"><code># cross - validation to calculate the best lambda
 lambda_best_city = 
   glmnet::cv.glmnet(x = x_process(ufo_city), y = y_process(ufo_city), alpha = 1, nfolds = 10)
 
-# display the result
-lambda_best_city</code></pre>
-<pre><code>## 
-## Call:  glmnet::cv.glmnet(x = x_process(ufo_city), y = y_process(ufo_city),      nfolds = 10, alpha = 1) 
-## 
-## Measure: Mean-Squared Error 
-## 
-##     Lambda   Measure       SE Nonzero
-## min   8713 1.158e+10 7.75e+09       0
-## 1se   8713 1.158e+10 7.75e+09       0</code></pre>
-<pre class="r"><code>#best lambda
+
+#best lambda
 lambda_city = lambda_best_city$lambda.min
 
 

@@ -50,7 +50,7 @@ separate( date, into = c("month","day","year"), sep = "/")
 
 # Data Description
 
-In this dataset, it contains time and location data about UFO sighting across `r length(unique(pull(ufo, country)))` countries, from the year of `r min(pull(ufo, year))` to the year of `r max(pull(ufo, year))`. They are ` r nrow(ufo)` observations and `r ncol(ufo)` variables in the dataset. 
+In this dataset, it contains time and location data about UFO sighting across `r length(unique(pull(ufo, country)))` countries, from the year of `r min(pull(ufo, year))` to the year of `r max(pull(ufo, year))`. They are `r  nrow(ufo)` observations and `r ncol(ufo)` variables in the dataset. 
 
 The variables in the dataset are:
 

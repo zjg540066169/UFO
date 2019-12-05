@@ -2,7 +2,7 @@
 title: "Tidy Data"
 output: 
   html_document:
-    #code_folding: hide
+    code_folding: show
     toc: true
     toc_float: true
 ---

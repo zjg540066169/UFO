@@ -397,8 +397,6 @@ lasso_fit_state %>%
 lambda_best_state = 
   glmnet::cv.glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1, nfolds = 10)
 
-# display the result
-lambda_best_state
 
 #best lambda
 lambda_state = lambda_best_state$lambda.min
@@ -452,8 +450,6 @@ lasso_fit_city %>%
 lambda_best_city = 
   glmnet::cv.glmnet(x = x_process(ufo_city), y = y_process(ufo_city), alpha = 1, nfolds = 10)
 
-# display the result
-lambda_best_city
 
 #best lambda
 lambda_city = lambda_best_city$lambda.min

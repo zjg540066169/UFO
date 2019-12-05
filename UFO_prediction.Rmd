@@ -11,7 +11,7 @@ output:
 ```{r set up, include = FALSE}
 # knitr will run the chunk but not include the chunk in the final document
 # copy from Jeff
-
+quit()
 try(source("./dependencies.R"), silent = TRUE)
 
 # ensure reproductivity
@@ -141,8 +141,8 @@ https://en.wikipedia.org/wiki/F1_score
 
 # tune the parameter for nu in OC-SVM
 for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
-  true_n = nrow(ufo_city) #numbers of true samples
-  false_samples = true_n # numbers of false samples
+  true_n = nrow(ufo_city)  #numbers of true samples
+  false_samples = true_n / 10 # numbers of false samples
 
   false_data = tibble( # false samples randomly generating
     year = sample(1900:2100, false_samples, replace = T),
@@ -277,13 +277,20 @@ svm_model =
     mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
     sample_frac(1) %>% 
     svm(y = NULL,
-             type = 'one-classification',
-             nu = nu_,
-             scale = TRUE, 
-             kernel = "linear")
+        type = 'one-classification',
+        nu = nu_,
+        scale = TRUE, 
+        kernel = "linear"
+        )
   
 # display the models
 svm_model
+
+sample = tibble(
+  year = 1900,
+  month =  
+)
+
 
 ```
 
