@@ -52,49 +52,45 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 
 
 ```{r}
-
+# read data
 ufo_data = read_csv(file = "./data/tidied_data_final.csv")
 
 
 
-
+# data tidy for prediction
 ufo =
   ufo_data %>%  
   filter(country == "USA") %>% 
-  #na.omit(ufo_data) %>% 
-  
-  #separate(date_time, into = c( "date","time"), sep = " " ) %>%
   separate(date, into = c("month","day","year"), sep = "/") %>% 
   separate(time, into = c("hour","minute"), sep = ":") %>% 
   select(year, month, day, hour, minute,state, city) %>%
   na.omit(ufo_data) %>% 
   mutate(add = paste(state, city)) %>% 
-  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) #%>%  
-  #mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), state = as.factor(state), city = as.factor(city)) %>%
-  #select(-city, -state)# %>% 
-  #as.data.frame()
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day))
+```
   
- # mutate(ufo_indentification = as.factor(T)) #%>% 
   
+```{r}  
+
+# keep the city that the ufo appears with more than 100 times, and delete others
 ufo_city = 
   ufo %>% 
   dplyr::group_by(add) %>% 
   mutate(count = dplyr::n()) %>% 
-  filter(count > 100) %>% 
+  filter(count >= 100) %>% 
   ungroup() %>% 
   select(-count) %>% 
   select(-state, -city) %>% 
   mutate(add = as.factor(add))
 
+```
 
 
+# Cross Validation Preparation
 
+```{r}
 
-#library(GGally)
-#ggpairs(ufo,
-#  columns = c("year", "month", "day", "hour", "minute"),#c("mfr",   "fat", "calories", "sodium", "sugars"),
-  #ggplot2::aes(colour = state)
-#)
+# set up the result of cross validation table
 nu_cv = tibble(
   nu = numeric(),
   f1_svm = list(),
@@ -102,6 +98,7 @@ nu_cv = tibble(
   pred_label = list()
 )
 
+# transform each levels in factors to new variables to form the input of SVM
 factor_variable_cope = function(df){
   if (is.tibble(df)) {
     df = as.data.frame(df)
@@ -115,10 +112,28 @@ factor_variable_cope = function(df){
   df
 }
 
-for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
-  false_samples = 5000
+```
 
-  false_data = tibble(
+
+# Cross Validation to tune the "nu" parameters for One Class Support Vector Machine
+
+method for cross validation for one class data come from the paper:
+
+Hempstalk, K., & Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.
+
+
+Use F1_score to evaluate the prediction result. F1_score can use to balance the result of imbalanced data.
+
+https://en.wikipedia.org/wiki/F1_score
+
+
+```{r}
+
+# tune the parameter for nu in OC-SVM
+for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
+  false_samples = 5000 # numbers of false samples
+
+  false_data = tibble( # false samples randomly generating
     year = sample(1900:2100, false_samples, replace = T),
     month = sample(ufo_city$month, false_samples, replace = T),
     day = sample(1:30, false_samples, replace = T),
@@ -126,15 +141,14 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
     minute = sample(ufo_city$minute, false_samples, replace = T),
     add = sample(ufo_city$add, false_samples, replace = T)
   ) %>% 
-    anti_join(ufo_city, by = c("year", "month", "day", "hour", "minute", "add"))# %>% 
-    #factor_variable_cope() %>% 
-    #select(-month, -add) %>% 
-    #mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) 
+    anti_join(ufo_city, by = c("year", "month", "day", "hour", "minute", "add")) # delete the samples of true in false dataset
   
   
-  false_n = nrow(false_data)
-  true_n = nrow(ufo_city)
+  false_n = nrow(false_data) #numbers of false samples
+  true_n = nrow(ufo_city) #numbers of true samples
   
+  
+  # here we bind rows of true and false dataset to deal with the factor variables
   train_df = 
     ufo_city %>% 
     bind_rows(false_data) %>% 
@@ -144,23 +158,29 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
     sample_frac(1)
   
   
-  
+  # seperate the false and true samples from transformed data
   false_df = 
     train_df %>% 
     slice((true_n + 1):(true_n + false_n)) %>% 
     mutate(y = FALSE) %>% 
     as_tibble() 
   
+  true_df = 
+    train_df %>% 
+    slice(1:true_n) %>% 
+    mutate(y = TRUE) %>% 
+    as_tibble() 
   
+  
+  # construct the cross validation dataset from true samples datasets
   cv_df = 
-    crossv_mc(train_df, 10) %>% 
+    crossv_mc(true_df, 10) %>% 
     mutate(
       train = map(train, as_tibble),
-      test = map(test, as_tibble)#,
-      
-      #test = bind_rows(test, false_df)                              # add false samples
+      test = map(test, as_tibble)
       )
   
+  # add false samples to test dataset and construct the true labels 
   for (i in 1:nrow(cv_df)) {
     cv_df$test[[i]] = mutate(cv_df$test[[i]], y = TRUE)
     cv_df$test[[i]] = rbind(cv_df$test[[i]], false_df)
@@ -168,34 +188,37 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
     cv_df$test[[i]] = select(cv_df$test[[i]], -y)
   }
    
+  # use OC-SVM to predict
   cv_model = 
     cv_df %>% 
     mutate(svm_mod = map(train, ~svm(.x , y = NULL,
              type = 'one-classification',
-             nu = nu_,
+             nu = nu_, # tune the parameters by cross validation
              scale = TRUE, 
              kernel = "linear"))) %>% 
     mutate(pred_label = map2(svm_mod, test, ~predict(.x, .y)))
   
-  
+  # calculate the f1-score for each prediction
   cv_f1 =
     cv_model %>% 
     mutate(f1_svm = map2_dbl(.x = label, .y = pred_label, ~F1_Score(y_true = .x, y_pred = .y))) 
   
+  # save the result 
   nu_cv = 
     tibble(
       nu = nu_,
       f1_svm = mean(pull(cv_f1, f1_svm))
-      #label = nest(as_tibble(pull(cv_model, label))),
-      #pred_label = nest(as_tibble(pull(cv_model, pred_label))),
     ) %>% 
-    #slice(1) %>% 
     rbind(nu_cv, .)
   
 }
 ```
 
+
+draw the graph of f1_score for each nu
+
 ```{r}
+# change the scale of data for graph
 cvp = 
   nu_cv %>% 
   mutate(nu = case_when(
@@ -203,6 +226,7 @@ cvp =
     nu > 0.3 ~ exp(nu)
   ))
 
+# draw the graph
 cvp %>% 
   ggplot(aes(x = nu, y = f1_svm, color = nu)) +
   geom_point() +
@@ -220,9 +244,15 @@ cvp %>%
 
 
 ```
+
+From the graph we find nu = 0.5 is best parameter for OC-SVM.
+
+After geting the best nu, we use it to train OC-SVM again.
+
 ```{r}
 nu_ = 0.5
 
+# train svm models
 svm_model = 
     ufo_city %>% 
     bind_rows(false_data) %>% 
@@ -236,6 +266,7 @@ svm_model =
              scale = TRUE, 
              kernel = "linear")
   
+# display the models
 svm_model
 
 ```
