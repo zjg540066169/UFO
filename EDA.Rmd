@@ -88,7 +88,9 @@ ggplot(aes(x = country, y = precentage , fill = country, label =  scales::percen
     geom_text(position = position_dodge(width = .9),  
               vjust = -0.5,   size = 3) + 
     labs(title = "Bargraph of the precentage of UFO Observed by Country",
-         x = "Country",y = "Precentage") 
+         x = "Country",y = "Precentage") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
 ggplotly(bar)
 
 
