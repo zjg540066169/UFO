@@ -353,7 +353,7 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="index.html">Tidy Data</a>
+  <a href="data_tidy.html">Tidy Data</a>
 </li>
 <li>
   <a href="EDA.html">EDA</a>
@@ -628,6 +628,413 @@ ufo_month_counts_plot</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/ufo_appearance_month-1.png" width="90%" /></p>
 <p>According to the plot here, the number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year. In other words, the frequency of UFO appearance is higher after June, and peaks at July.</p>
 <p><em>Conclusion:</em> 1):There is no association between the shape of UFO and encounter length time; 2):The UFO is more likely to appear during the second half of the year.</p>
+<div id="lasso-length-time-vs.location-time-shape" class="section level2">
+<h2><em>LASSO (length time vs. location, time, shape)</em></h2>
+<pre class="r"><code># Read Dataset
+ufo =
+  ufo_data %&gt;%  
+  filter(country == &quot;USA&quot;) %&gt;% 
+  #na.omit(ufo_data) %&gt;% 
+  #separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
+  separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
+  separate(time, into = c(&quot;hour&quot;,&quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), country = as.factor(country), state = as.factor(state), city = as.factor(city)) %&gt;% 
+  mutate(add = paste(state, city)) %&gt;% 
+  select(year, month, day, hour, minute, state,  add, ufo_shape, encounter_length) %&gt;% 
+  na.omit() #%&gt;% </code></pre>
+<pre class="r"><code>x_process = function(df){#get independent variables
+  x = 
+    df %&gt;% 
+    select(-encounter_length) %&gt;% 
+    model.matrix( ~ ., .)
+  x
+}
+
+
+
+# make the response variables
+y_process = function(df){#get dependent variables
+  y = 
+    df %&gt;% 
+    select(encounter_length) %&gt;% 
+    pull(encounter_length)
+  y
+}</code></pre>
+<pre class="r"><code># Run Lasso on the Data, Exclude City
+ufo_state = 
+  ufo %&gt;% 
+  select(-add)
+
+lasso_fit_state = 
+  glmnet::glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1) %&gt;%  #alpha is the parameters to control the type of elastic net models, when alpha = 1, the elastic net model is equivalent to lasso.
+  broom::tidy(.) # clean the result
+
+
+# draw the plot
+lasso_fit_state %&gt;% 
+  filter(term != &quot;(Intercept)&quot;) %&gt;% 
+  ggplot(aes(x = lambda, estimate, color = term)) + 
+  geom_line() + 
+  scale_x_reverse() +
+  labs(
+    title = &quot;Lineplot of the Lasso Estimated Coefficients for Different Lambda&quot;,
+    x = &quot;Lambda&quot;,
+    y = &quot;Estimated Coefficients&quot;
+    ) +
+  theme(plot.title = element_text(hjust = 0.5))</code></pre>
+<p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
+<pre class="r"><code># cross - validation to calculate the best lambda
+lambda_best_state = 
+  glmnet::cv.glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1, nfolds = 10)
+
+# display the result
+lambda_best_state</code></pre>
+<pre><code>## 
+## Call:  glmnet::cv.glmnet(x = x_process(ufo_state), y = y_process(ufo_state),      nfolds = 10, alpha = 1) 
+## 
+## Measure: Mean-Squared Error 
+## 
+##     Lambda   Measure        SE Nonzero
+## min  10359 1.627e+11 8.134e+10       0
+## 1se  10359 1.627e+11 8.134e+10       0</code></pre>
+<pre class="r"><code>#best lambda
+lambda_state = lambda_best_state$lambda.min
+
+# fit the lasso model
+lasso_best_fit_state = 
+  glmnet::glmnet(x = x_process(ufo_state), y = y_process(ufo_state), alpha = 1, nlambda = 1, lambda = lambda_state) #alpha is the parameters to control the type of elastic net models, when alpha = 1, the elastic net model is equivalent to lasso.
+
+# display the parameters
+glmnet::coef.glmnet(lasso_best_fit_state) </code></pre>
+<pre><code>## 96 x 1 sparse Matrix of class &quot;dgCMatrix&quot;
+##                              s0
+## (Intercept)        5.804124e+03
+## (Intercept)        .           
+## year               .           
+## monthAugust        .           
+## monthDecember      .           
+## monthFebruary      .           
+## monthJanuary       .           
+## monthJuly          .           
+## monthJune          .           
+## monthMarch         .           
+## monthMay           .           
+## monthNovember      .           
+## monthOctober       .           
+## monthSeptember     .           
+## day                .           
+## hour               .           
+## minute             .           
+## stateAL            .           
+## stateAR            1.492455e-11
+## stateAZ            .           
+## stateCA            .           
+## stateCO            .           
+## stateCT            .           
+## stateDC            .           
+## stateDE            .           
+## stateFL            .           
+## stateGA            .           
+## stateHI            .           
+## stateI-            .           
+## stateIA            .           
+## stateID            .           
+## stateIL            .           
+## stateIN            .           
+## stateKS            .           
+## stateKY            .           
+## stateLA            .           
+## stateMA            .           
+## stateMD            .           
+## stateME            .           
+## stateMI            .           
+## stateMN            .           
+## stateMO            .           
+## stateMS            .           
+## stateMT            .           
+## stateNC            .           
+## stateND            .           
+## stateNE            .           
+## stateNH            .           
+## stateNJ            .           
+## stateNM            .           
+## stateNV            .           
+## stateNY            .           
+## stateOH            .           
+## stateOK            .           
+## stateOR            .           
+## statePA            .           
+## stateRI            .           
+## stateSC            .           
+## stateSD            .           
+## stateTN            .           
+## stateTX            .           
+## stateUT            .           
+## stateVA            .           
+## stateVirginia      .           
+## stateVT            .           
+## stateWA            .           
+## stateWest Virginia .           
+## stateWI            .           
+## stateWV            .           
+## stateWY            .           
+## ufo_shapechevron   .           
+## ufo_shapecigar     .           
+## ufo_shapecircle    .           
+## ufo_shapecone      .           
+## ufo_shapecrescent  .           
+## ufo_shapecross     .           
+## ufo_shapecylinder  .           
+## ufo_shapedelta     .           
+## ufo_shapediamond   .           
+## ufo_shapedisk      .           
+## ufo_shapeegg       .           
+## ufo_shapefireball  .           
+## ufo_shapeflare     .           
+## ufo_shapeflash     .           
+## ufo_shapeformation .           
+## ufo_shapehexagon   .           
+## ufo_shapelight     .           
+## ufo_shapeother     .           
+## ufo_shapeoval      .           
+## ufo_shapepyramid   .           
+## ufo_shaperectangle .           
+## ufo_shaperound     .           
+## ufo_shapesphere    .           
+## ufo_shapeteardrop  .           
+## ufo_shapetriangle  .           
+## ufo_shapeunknown   .</code></pre>
+<p>According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.</p>
+</div>
+<div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level2">
+<h2>run lasso on data, only the city appeared more than 50 times included</h2>
+<p>We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.</p>
+<pre class="r"><code>ufo_city = 
+  ufo %&gt;% 
+  group_by(add) %&gt;% 
+  mutate(count = n()) %&gt;% 
+  filter(count &gt; 50) %&gt;% 
+  ungroup() %&gt;% 
+  select(-count) %&gt;% 
+  select(-state)
+  
+lasso_fit_city = 
+  glmnet::glmnet(x = x_process(ufo_city), y = y_process(ufo_city), alpha = 1) %&gt;%  #alpha is the parameters to control the type of elastic net models, when alpha = 1, the elastic net model is equivalent to lasso.
+  broom::tidy(.) # clean the result
+
+
+# draw the plot
+lasso_fit_city %&gt;% 
+  filter(term != &quot;(Intercept)&quot;) %&gt;% 
+  ggplot(aes(x = lambda, estimate, color = term)) + 
+  geom_line() + 
+  scale_x_reverse() +
+  labs(
+    title = &quot;Lineplot of the Lasso Estimated Coefficients for Different Lambda&quot;,
+    x = &quot;Lambda&quot;,
+    y = &quot;Estimated Coefficients&quot;
+    ) +
+  theme(plot.title = element_text(hjust = 0.5))</code></pre>
+<p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-3-1.png" width="90%" /></p>
+<pre class="r"><code># cross - validation to calculate the best lambda
+lambda_best_city = 
+  glmnet::cv.glmnet(x = x_process(ufo_city), y = y_process(ufo_city), alpha = 1, nfolds = 10)
+
+# display the result
+lambda_best_city</code></pre>
+<pre><code>## 
+## Call:  glmnet::cv.glmnet(x = x_process(ufo_city), y = y_process(ufo_city),      nfolds = 10, alpha = 1) 
+## 
+## Measure: Mean-Squared Error 
+## 
+##     Lambda   Measure       SE Nonzero
+## min   8713 1.158e+10 7.75e+09       0
+## 1se   8713 1.158e+10 7.75e+09       0</code></pre>
+<pre class="r"><code>#best lambda
+lambda_city = lambda_best_city$lambda.min
+
+
+# fit the lasso model
+lasso_best_fit_city = 
+  glmnet::glmnet(x = x_process(ufo_city), y = y_process(ufo_city), alpha = 1, nlambda = 1, lambda = lambda_city) #alpha is the parameters to control the type of elastic net models, when alpha = 1, the elastic net model is equivalent to lasso.
+
+# display the parameters
+glmnet::coef.glmnet(lasso_best_fit_city) </code></pre>
+<pre><code>## 171 x 1 sparse Matrix of class &quot;dgCMatrix&quot;
+##                                           s0
+## (Intercept)                     2.833291e+03
+## (Intercept)                     .           
+## year                            .           
+## monthAugust                     .           
+## monthDecember                   .           
+## monthFebruary                   .           
+## monthJanuary                    .           
+## monthJuly                       .           
+## monthJune                       .           
+## monthMarch                      .           
+## monthMay                        .           
+## monthNovember                   .           
+## monthOctober                    .           
+## monthSeptember                  .           
+## day                             .           
+## hour                            .           
+## minute                          .           
+## addAL Birmingham                .           
+## addAZ Chandler                  .           
+## addAZ Gilbert                   .           
+## addAZ Glendale                  .           
+## addAZ Lake Havasu City          .           
+## addAZ Mesa                      .           
+## addAZ Phoenix                   .           
+## addAZ Scottsdale                .           
+## addAZ Sedona                    .           
+## addAZ Surprise                  .           
+## addAZ Tempe                     .           
+## addAZ Tucson                    .           
+## addCA 350 W 1st St, Los Angeles .           
+## addCA Bakersfield               .           
+## addCA Burbank                   .           
+## addCA El Cajon                  .           
+## addCA Escondido                 .           
+## addCA Fresno                    .           
+## addCA Hayward                   .           
+## addCA Huntington Beach          .           
+## addCA Irvine                    .           
+## addCA Long Beach                .           
+## addCA Los Angeles               .           
+## addCA Modesto                   .           
+## addCA Oakland                   .           
+## addCA Redding                   .           
+## addCA Riverside                 .           
+## addCA Sacramento                .           
+## addCA San Diego                 .           
+## addCA San Francisco             .           
+## addCA San Jose                  .           
+## addCA Santa Barbara             .           
+## addCA Santa Cruz                .           
+## addCA Santa Rosa                .           
+## addCA Simi Valley               .           
+## addCA Ventura                   .           
+## addCO Boulder                   .           
+## addCO Colorado Springs          .           
+## addCO Denver                    .           
+## addCO Longmont                  .           
+## addFL Fort Lauderdale           .           
+## addFL Jacksonville              .           
+## addFL Miami                     .           
+## addFL Naples                    .           
+## addFL Orlando                   .           
+## addFL Pensacola                 .           
+## addFL Sarasota                  .           
+## addFL St. Petersburg            .           
+## addFL Tampa                     .           
+## addFL West Palm Beach           .           
+## addGA Atlanta                   .           
+## addHI Honolulu                  .           
+## addIA Des Moines                .           
+## addID Boise                     .           
+## addIL Chicago                   .           
+## addIL Rockford                  .           
+## addIL Tinley Park               .           
+## addIN Indianapolis              .           
+## addKS Wichita                   .           
+## addKY Lexington                 .           
+## addKY Louisville                .           
+## addMA Boston                    .           
+## addMD Baltimore                 .           
+## addMI Detroit                   .           
+## addMI Grand Rapids              .           
+## addMN Minneapolis               .           
+## addMN St Paul                   .           
+## addMO Columbia                  .           
+## addMO Kansas City               .           
+## addMO Springfield               .           
+## addMO St. Louis                 .           
+## addNC Charlotte                 .           
+## addNC Greensboro                .           
+## addNC Raleigh                   .           
+## addNC Wilmington                .           
+## addNE Lincoln                   .           
+## addNE Omaha                     .           
+## addNM Albuquerque               .           
+## addNM Santa Fe                  .           
+## addNV Henderson                 .           
+## addNV Las Vegas                 .           
+## addNV Reno                      .           
+## addNY 255 Vesey St, New York    .           
+## addNY Brooklyn                  .           
+## addNY Buffalo                   .           
+## addNY Manhattan, New York       .           
+## addNY New York                  .           
+## addNY Rochester                 .           
+## addNY Staten Island             .           
+## addNY The Bronx                 .           
+## addOH Cincinnati                .           
+## addOH Cleveland                 .           
+## addOH Columbus                  .           
+## addOH Toledo                    .           
+## addOK Oklahoma City             .           
+## addOK Tulsa                     .           
+## addOR Eugene                    .           
+## addOR Hillsboro                 .           
+## addOR Portland                  .           
+## addOR Salem                     .           
+## addPA Philadelphia              .           
+## addPA Pittsburgh                .           
+## addSC Myrtle Beach              .           
+## addSC North Myrtle Beach        .           
+## addTN Knoxville                 .           
+## addTN Memphis                   .           
+## addTN Nashville                 .           
+## addTX Arlington                 .           
+## addTX Austin                    .           
+## addTX Corpus Christi            .           
+## addTX Dallas                    .           
+## addTX El Paso                   .           
+## addTX Fort Worth                .           
+## addTX Houston                   .           
+## addTX San Antonio               .           
+## addUT Salt Lake City            .           
+## addVA Richmond                  .           
+## addVA Virginia Beach            5.630893e-11
+## addWA Auburn                    .           
+## addWA Bellevue                  .           
+## addWA Bellingham                .           
+## addWA Bremerton                 .           
+## addWA Everett                   .           
+## addWA Olympia                   .           
+## addWA Renton                    .           
+## addWA Seattle                   .           
+## addWA Spokane                   .           
+## addWA Tacoma                    .           
+## addWA Vancouver                 .           
+## addWA Yakima                    .           
+## addWI Madison                   .           
+## addWI Milwaukee                 .           
+## ufo_shapechevron                .           
+## ufo_shapecigar                  .           
+## ufo_shapecircle                 .           
+## ufo_shapecone                   .           
+## ufo_shapecross                  .           
+## ufo_shapecylinder               .           
+## ufo_shapedelta                  .           
+## ufo_shapediamond                .           
+## ufo_shapedisk                   .           
+## ufo_shapeegg                    .           
+## ufo_shapefireball               .           
+## ufo_shapeflare                  .           
+## ufo_shapeflash                  .           
+## ufo_shapeformation              .           
+## ufo_shapelight                  .           
+## ufo_shapeother                  .           
+## ufo_shapeoval                   .           
+## ufo_shaperectangle              .           
+## ufo_shapesphere                 .           
+## ufo_shapeteardrop               .           
+## ufo_shapetriangle               .           
+## ufo_shapeunknown                .</code></pre>
+<p>According to the result, most of terms are not statistically significant. The only siginificant term is the city Virginia Beach. However, the coefficient for this term is too small (9.223037e-11), so that we can just ignore. Hence, we can conclude that the knowledge of state, city, shape, month, year, hour, day, mintue does not contribute any insights on the encounter length of UFO.</p>
+</div>
 </div>
 
 
