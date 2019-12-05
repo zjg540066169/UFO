@@ -9,50 +9,118 @@ runtime: shiny
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+library(tidyverse)
+library(viridis)
+library(leaflet)                 
 ```
 
-Column {.sidebar}
------------------------------------------------------------------------
 
-```{r}
-# set the state list for choices
-states = ufo %>% distinct(city) %>% pull()  
-# selectInput widget (dropdown menu)
+```{r import, include=FALSE}
+# data import and cleaning
+ufo_data = read_csv("./data/tidied_data_final.csv", na = "")
+
+ufo_usa =
+  ufo_data %>%  
+  separate(time, into = c("hour", "minute"), sep = ":") %>% 
+  separate(date, into = c("month","day","year"), sep = "/") %>% 
+  mutate(a = longitude, longitude = latitude, latitude = a) %>% 
+  filter(country == "USA") %>% 
+  select(latitude, longitude, state, city, year, month, day, hour, minute) 
+
+ufo_frequncy = ufo_usa %>% 
+  group_by(latitude, longitude, state, city) %>% 
+  summarize(n = n())
+
+ufo_usa = ufo_usa %>% 
+  mutate(city_state = paste(city, state)) %>% 
+  select(-city, -state)
+```
+
+
+```{r sidebar, echo=FALSE}
+# set the year list for choices
+years = c(1900:2100)
+# selectInput widget for year
 selectInput(
-  "state_choice", 
-  label = h3("Select state"),
-  choices = states, selected = "NY")
+  "year_choice",
+  label = h3("Choose year"),
+  choices = years, selected = "2000")
 
-# set the city list for choices
-cities = ufo %>% 
-  filter(state == input$state_choice) %>% 
-  distinct(city) %>% 
-  pull()
+# set the month list for choices
+months = month.name
+# selectInput widget for month
+selectInput(
+  "month_choice",
+  label = h3("Choose month"),
+  choices = months, selected = "January")
+
+# set the day list for choices
+days = c(1:31)
+# selectInput widget for day
+selectInput(
+  "day_choice",
+  label = h3("Choose day"),
+  choices = days, selected = "1")
+
+# set the hour list for choices
+hours = ufo_usa %>% distinct(hour) %>% arrange(hour) %>% pull(hour) 
+# selectInput widget for hour
+selectInput(
+  "hour_choice",
+  label = h3("Choose hour"),
+  choices = hours, selected = "00")
+
+# set the minute list for choices
+minutes = ufo_usa %>% distinct(minute) %>% arrange(minute) %>% pull(minute) 
+# selectInput widget for hour
+selectInput(
+  "minute_choice",
+  label = h3("Choose minute"),
+  choices = minutes, selected = "00")
+
+# set the city_state list for choices
+city_states = ufo_usa %>% distinct(city_state) %>% pull(city_state)  
+# selectInput widget (dropdown menu) for city_state
+selectInput(
+  "city_state_choice", 
+  label = h3("Select city-state"),
+  choices = city_states, selected = "Brooklyn NY")
 ```
 
-Column {data-width=650}
------------------------------------------------------------------------
 
 ### Chart A
 
-```{r}
+```{r chartA, echo=FALSE}
 renderPrint({
-  input[["state_choice"]]
+  input[["city_state_choice"]]
+})
+renderPrint({
+  input[["year_choice"]]
+})
+renderPrint({
+  input[["month_choice"]]
 })
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
+
 
 ### Chart B
 
-```{r}
-
+```{r chartB, echo=FALSE}
+renderPrint({
+  input[["day_choice"]]
+})
 ```
 
 ### Chart C
 
-```{r}
-
+```{r chartC, echo=FALSE}
+renderPrint({
+  input[["hour_choice"]]
+})
+renderPrint({
+  input[["minute_choice"]]
+})
 ```
+
 

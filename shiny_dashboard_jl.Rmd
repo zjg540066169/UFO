@@ -1,9 +1,9 @@
 ---
-title: "Shiny Dashboard"
+title: "US Frequency Map"
 output: 
   flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+    orientation: column
+    vertical_layout: fill 
 runtime: shiny
 ---
 
@@ -20,7 +20,7 @@ ufo_data = read_csv("./data/tidied_data_final.csv", na = "")
 
 ufo =
   ufo_data %>%  
-  separate(date_time, into = c("date","time"), sep = " " ) %>%
+#  separate(date_time, into = c("date","time"), sep = " " ) %>%
   separate(date, into = c("month","day","year"), sep = "/") %>% 
   mutate(a = longitude, longitude = latitude, latitude = a) %>% 
   filter(country == "USA") %>% 
@@ -29,6 +29,8 @@ ufo =
   summarize(n = n())
 ```
 
+Column {.sidebar}
+-----------------------------------------------------------------------
 
 ```{r sidebar, echo=FALSE}
 # set the max and min frequency for range
@@ -50,6 +52,8 @@ sliderInput(
   min = min_focus, max = max_focus, value = 300)
 ```
 
+Column 
+-----------------------------------------------------------------------
 
 ### US Frequency Map
 
