@@ -1,0 +1,101 @@
+---
+title: "Map of State"
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE, echo = FALSE, warning=FALSE, message = FALSE}
+library(tidyverse)
+library(leaflet)
+library(dplyr)
+library(ggplot2)
+library(ggmap)
+library(sf)
+library(mapview)
+library(rgdal)
+library(htmltools)
+
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  fig.width = 8,
+  fig.height = 6, 
+  out.width = "90%"
+)
+
+
+options(
+  ggplot2.countinuous.colour = "viridis",
+  ggplot2.countinuous.fill = "viridis"
+)
+scale_colour_discrete = scale_colour_viridis_d
+scale_fill_discrete = scale_fill_viridis_d
+
+theme_set(theme_minimal() + theme(legend.position = "bottom"))
+
+```
+
+```{r import, include=FALSE, echo = FALSE, warning=FALSE, message = FALSE}
+ufo_data = read_csv(file = "./data/tidied_data_final.csv") 
+#%>% select(-X12)
+
+
+ufo =
+  ufo_data %>%  
+#na.omit(ufo_data) %>% 
+#separate(date_time, into = c( "date","time"), sep = " " ) %>%
+  separate(date, into = c("month","day","year"), sep = "/")
+```
+
+The Map of State reveals the number of times UFO observed in each state across time.
+
+```{r map, echo = FALSE, warning=FALSE, message = FALSE, collapse=FALSE}
+#### mapping
+US =
+  ufo %>%
+  filter(country == "USA") %>%
+  group_by(state) %>%
+  summarise(Num.UFO = n()) 
+
+
+states = readOGR("data/cb_2018_us_state_500k.shp", verbose = FALSE)
+
+#check for the matching bewtween shapefile and my US dataset
+#is.element(US$state,(states$STUSPS))
+#is.element(states$STUSPS,US$state)
+
+# missing 14,38,39,46,45 so to create new_states df with only matching states
+new_states = subset(states, is.element(states$STUSPS,US$state))
+#is.element(new_states$STUSPS,US$state)
+#is.element(US$state,new_states$STUSPS)
+
+## make it into same order
+US = US[order(match(US$state, (new_states$STUSPS))),]
+
+# set for the range based on number being observed--discrete
+# bins = c(0,50,100,150,200,250,300,350,400,450,500,550)
+# pal = colorBin("YlOrRdBu",domain = US$Num.observed,bins = bins)
+ 
+pal <- colorNumeric(palette = "Reds",domain = US$Num.UFO)
+labels = paste( "<p>","Number of UFO Observed Across Time ：", US$Num.UFO,"</p>",
+  sep = "")
+  leaflet() %>%
+  setView(-96,37.8,4) %>%
+  addTiles() %>%
+  addPolygons(data = states,
+              weight = 1,
+              smoothFactor = 0.2,
+              color = "white",
+              fillOpacity = 0.75,
+              fillColor = pal(US$Num.UFO),
+              label = lapply(labels, HTML)
+              ) %>%
+    addLegend(pal = pal,
+              values = US$Num.UFO,
+              opacity = 0.7,
+              position = "topright")
+```
+
+From the map above, it is obvious that Texas has an overwhelmingly large amount of observed UFO of over 9000 times, compared to other states with only below 4000 times of UFO observed. 
