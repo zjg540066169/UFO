@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   left:
     - text: "Overview"
-      href: Overview.html
+      href: index.html
   right:
     - text: "Tidy Data"
       href: data_tidy.html
