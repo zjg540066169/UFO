@@ -5,6 +5,8 @@ navbar:
     - text: "Overview"
       href: Overview.html
   right:
+    - text: "Tidy Data"
+      href: data_tidy.html
     - text: "EDA"
       href: EDA.html
     - text: "UFO in USA"
