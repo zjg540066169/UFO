@@ -10,18 +10,19 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Jungang Zou" />
 
-<meta name="date" content="2019-11-29" />
 
-<title>UFO_Prediction</title>
+<title>UFO Prediction</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -107,33 +108,33 @@ summary {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 45px;
+  padding-top: 61px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h2 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h3 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h4 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h5 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .section h6 {
-  padding-top: 50px;
-  margin-top: -50px;
+  padding-top: 66px;
+  margin-top: -66px;
 }
 .dropdown-submenu {
   position: relative;
@@ -252,6 +253,63 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -259,6 +317,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -271,21 +339,23 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Home</a>
+      <a class="navbar-brand" href="index.html"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        
+        <li>
+  <a href="Overview.html">Overview</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
+  <a href="data_tidy.html">Tidy Data</a>
+</li>
+<li>
   <a href="EDA.html">EDA</a>
 </li>
 <li>
   <a href="UFO_in_USA.html">UFO in USA</a>
-</li>
-<li>
-  <a href="index.html">Map of State</a>
 </li>
 <li>
   <a href="index.html">Map of City</a>
@@ -308,75 +378,51 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">UFO_Prediction</h1>
-<h4 class="author">Jungang Zou</h4>
-<h4 class="date">11/29/2019</h4>
+<h1 class="title toc-ignore">UFO Prediction</h1>
 
 </div>
 
 
-<pre class="r"><code>ufo_data = read_csv(file = &quot;./data/tidied_data_final.csv&quot;)</code></pre>
-<pre><code>## Parsed with column specification:
-## cols(
-##   latitude = col_double(),
-##   longitude = col_double(),
-##   city_description = col_character(),
-##   ufo_shape = col_character(),
-##   encounter_length = col_double(),
-##   described_encounter_length = col_character(),
-##   description = col_character(),
-##   date_documented = col_character(),
-##   country = col_character(),
-##   state = col_character(),
-##   city = col_character(),
-##   X12 = col_logical(),
-##   date = col_character(),
-##   time = col_time(format = &quot;&quot;)
-## )</code></pre>
-<pre class="r"><code>ufo =
+<div id="outlier-detection-for-ufo-prediction" class="section level1">
+<h1><em>Outlier Detection for UFO Prediction</em></h1>
+<p>By the analysis we did before, we found association does exist in UFO appearance time and location. To enhence prediction accuracy, we adapt the powerful tool of Machine Learning in assist of our prediction. Unfortunately, we only have the “positive” samples in the dataset, which means only the UFO appearance data are availiable to us and the data about UFO not appearing are missing. Under this situation, we view prediction of whether UFO is appearing or not as a problem of one class classification, aka outlier detection. Here we take advantage of a popular method that combats this adversity, One Class Support Vector Machine. In this process. we fabricate “negative” samples that would be included in test data of the cross validation procedure.</p>
+<pre class="r"><code># read data
+ufo_data = read_csv(file = &quot;./data/tidied_data_final.csv&quot;)
+
+
+
+# data tidy for prediction
+ufo =
   ufo_data %&gt;%  
   filter(country == &quot;USA&quot;) %&gt;% 
-  #na.omit(ufo_data) %&gt;% 
-  
-  #separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
   separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
   separate(time, into = c(&quot;hour&quot;,&quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
   select(year, month, day, hour, minute,state, city) %&gt;%
   na.omit(ufo_data) %&gt;% 
   mutate(add = paste(state, city)) %&gt;% 
-  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) #%&gt;%  
-  #mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), state = as.factor(state), city = as.factor(city)) %&gt;%
-  #select(-city, -state)# %&gt;% 
-  #as.data.frame()
-  
- # mutate(ufo_indentification = as.factor(T)) #%&gt;% 
-  
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day))</code></pre>
+<pre class="r"><code># keep the city that the ufo appears with more than 100 times, and delete others
 ufo_city = 
   ufo %&gt;% 
   dplyr::group_by(add) %&gt;% 
   mutate(count = dplyr::n()) %&gt;% 
-  filter(count &gt; 100) %&gt;% 
+  filter(count &gt;= 100) %&gt;% 
   ungroup() %&gt;% 
   select(-count) %&gt;% 
   select(-state, -city) %&gt;% 
-  mutate(add = as.factor(add))
-
-
-
-
-
-#library(GGally)
-#ggpairs(ufo,
-#  columns = c(&quot;year&quot;, &quot;month&quot;, &quot;day&quot;, &quot;hour&quot;, &quot;minute&quot;),#c(&quot;mfr&quot;,   &quot;fat&quot;, &quot;calories&quot;, &quot;sodium&quot;, &quot;sugars&quot;),
-  #ggplot2::aes(colour = state)
-#)
+  mutate(add = as.factor(add))</code></pre>
+<p>Since we are predicting by city, which is a categorical data, each city will be treated as a dummy variable in the SVM model. Hence, we limited the city terms down to the cities that have more than 100 times of UFO sightings.</p>
+<p>Usually, SVM model will provide analysts kernel methods to choose. RBF kernel and linear kernel are the most frequent seen methods. Given that RBF is usually effective and good for non-linear data, the training of RBF are time-consuming and the hyperparameters are needed to be tuned for achieveing the best result. We here used an easier-to-train and only one parameter (nu), in contrast with RBF which contains more than two parameters. To elaborate on the parameter nu is that the statistical meaning of this parameter is an upper bound on the fraction of outliers. Because the fraction in population is unknown, we need to estimate the hyperparameter by cross validation.</p>
+</div>
+<div id="cross-validation-preparation" class="section level1">
+<h1><em>Cross Validation Preparation</em></h1>
+<pre class="r"><code># set up the result of cross validation table
 nu_cv = tibble(
   nu = numeric(),
-  f1_svm = list(),
-  label = list(),
-  pred_label = list()
+  f1_svm = list()
 )
 
+# transform each levels in factors to new variables to form the input of SVM
 factor_variable_cope = function(df){
   if (is.tibble(df)) {
     df = as.data.frame(df)
@@ -388,12 +434,19 @@ factor_variable_cope = function(df){
     }
   }
   df
-}
-
+}</code></pre>
+</div>
+<div id="cross-validation-to-tune-the-nu-parameters-for-one-class-support-vector-machine" class="section level1">
+<h1>Cross Validation to tune the “nu” parameters for One Class Support Vector Machine</h1>
+<p>We here used tenfold cross validation and the sample size of the fabricated data is 1/10 of the sample size of the positive dataset. Hence, during the cross validation, sample size of the test set and training set are the same.</p>
+<p>Use F1_score to evaluate the prediction result. F1_score can use to balance the result of unbalanced data.</p>
+<p>Here is the link to some background about F1 score: <a href="https://en.wikipedia.org/wiki/F1_score" class="uri">https://en.wikipedia.org/wiki/F1_score</a></p>
+<pre class="r"><code># tune the parameter for nu in OC-SVM
 for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
-  false_samples = 5000
+  true_n = nrow(ufo_city) #numbers of true samples
+  false_samples = true_n # numbers of false samples
 
-  false_data = tibble(
+  false_data = tibble( # false samples randomly generating
     year = sample(1900:2100, false_samples, replace = T),
     month = sample(ufo_city$month, false_samples, replace = T),
     day = sample(1:30, false_samples, replace = T),
@@ -401,15 +454,14 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
     minute = sample(ufo_city$minute, false_samples, replace = T),
     add = sample(ufo_city$add, false_samples, replace = T)
   ) %&gt;% 
-    anti_join(ufo_city, by = c(&quot;year&quot;, &quot;month&quot;, &quot;day&quot;, &quot;hour&quot;, &quot;minute&quot;, &quot;add&quot;))# %&gt;% 
-    #factor_variable_cope() %&gt;% 
-    #select(-month, -add) %&gt;% 
-    #mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) 
+    anti_join(ufo_city, by = c(&quot;year&quot;, &quot;month&quot;, &quot;day&quot;, &quot;hour&quot;, &quot;minute&quot;, &quot;add&quot;)) # delete the samples of true in false dataset
   
   
-  false_n = nrow(false_data)
-  true_n = nrow(ufo_city)
+  false_n = nrow(false_data) #numbers of false samples
   
+  
+  
+  # here we bind rows of true and false dataset to deal with the factor variables
   train_df = 
     ufo_city %&gt;% 
     bind_rows(false_data) %&gt;% 
@@ -419,23 +471,29 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
     sample_frac(1)
   
   
-  
+  # seperate the false and true samples from transformed data
   false_df = 
     train_df %&gt;% 
     slice((true_n + 1):(true_n + false_n)) %&gt;% 
     mutate(y = FALSE) %&gt;% 
     as_tibble() 
   
+  true_df = 
+    train_df %&gt;% 
+    slice(1:true_n) %&gt;% 
+    #mutate(y = TRUE) %&gt;% 
+    as_tibble() 
   
+  
+  # construct the cross validation dataset from true samples datasets
   cv_df = 
-    crossv_mc(train_df, 10) %&gt;% 
+    crossv_mc(true_df, 10) %&gt;% 
     mutate(
       train = map(train, as_tibble),
-      test = map(test, as_tibble)#,
-      
-      #test = bind_rows(test, false_df)                              # add false samples
+      test = map(test, as_tibble)
       )
   
+  # add false samples to test dataset and construct the true labels 
   for (i in 1:nrow(cv_df)) {
     cv_df$test[[i]] = mutate(cv_df$test[[i]], y = TRUE)
     cv_df$test[[i]] = rbind(cv_df$test[[i]], false_df)
@@ -443,38 +501,43 @@ for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
     cv_df$test[[i]] = select(cv_df$test[[i]], -y)
   }
    
+  # use OC-SVM to predict
   cv_model = 
     cv_df %&gt;% 
     mutate(svm_mod = map(train, ~svm(.x , y = NULL,
              type = &#39;one-classification&#39;,
-             nu = nu_,
+             nu = nu_, # tune the parameters by cross validation
              scale = TRUE, 
              kernel = &quot;linear&quot;))) %&gt;% 
     mutate(pred_label = map2(svm_mod, test, ~predict(.x, .y)))
   
-  
+  # calculate the f1-score for each prediction
   cv_f1 =
     cv_model %&gt;% 
     mutate(f1_svm = map2_dbl(.x = label, .y = pred_label, ~F1_Score(y_true = .x, y_pred = .y))) 
   
+  # save the result 
   nu_cv = 
     tibble(
       nu = nu_,
       f1_svm = mean(pull(cv_f1, f1_svm))
-      #label = nest(as_tibble(pull(cv_model, label))),
-      #pred_label = nest(as_tibble(pull(cv_model, pred_label))),
     ) %&gt;% 
-    #slice(1) %&gt;% 
     rbind(nu_cv, .)
   
 }</code></pre>
-<pre class="r"><code>cvp = 
+<p>One Class Cross Valiadation is not an exact copy from what we have done in class, but the specific method we used here were included and explained more in-depth in the paper cited in the end of this page.</p>
+</div>
+<div id="draw-the-graph-of-f1_score-for-each-nu" class="section level1">
+<h1><em>Draw the graph of f1_score for each nu</em></h1>
+<pre class="r"><code># change the scale of data for graph
+cvp = 
   nu_cv %&gt;% 
   mutate(nu = case_when(
     nu &lt;= 0.3 ~ log10(nu),
     nu &gt; 0.3 ~ exp(nu)
   ))
 
+# draw the graph
 cvp %&gt;% 
   ggplot(aes(x = nu, y = f1_svm, color = nu)) +
   geom_point() +
@@ -489,9 +552,15 @@ cvp %&gt;%
     y = &quot;F1 Score&quot;) +
   theme(plot.title = element_text(hjust = 0.5)) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))</code></pre>
-<p><img src="UFO_prediction_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
+<p><img src="UFO_prediction_files/figure-html/unnamed-chunk-5-1.png" width="90%" /></p>
+<p>According the graph, we find nu = 0.5 is best parameter for OC-SVM.</p>
+<p>After geting the best nu, we use it to train OC-SVM again.</p>
+</div>
+<div id="train-the-final-best-model-with-best-nu-0.5" class="section level1">
+<h1><em>Train the Final Best Model with Best nu = 0.5</em></h1>
 <pre class="r"><code>nu_ = 0.5
 
+# train svm models
 svm_model = 
     ufo_city %&gt;% 
     bind_rows(false_data) %&gt;% 
@@ -505,6 +574,7 @@ svm_model =
              scale = TRUE, 
              kernel = &quot;linear&quot;)
   
+# display the models
 svm_model</code></pre>
 <pre><code>## 
 ## Call:
@@ -518,10 +588,18 @@ svm_model</code></pre>
 ##       gamma:  0.01587302 
 ##          nu:  0.5 
 ## 
-## Number of Support Vectors:  7083</code></pre>
+## Number of Support Vectors:  9060</code></pre>
+</div>
+<div id="work-cited" class="section level1">
+<h1><em>Work Cited</em></h1>
+<p>Manevitz, L. M., &amp; Yousef, M. (2001). One-class SVMs for document classification. Journal of machine Learning research, 2(Dec), 139-154.</p>
+<p>Hempstalk, K., &amp; Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.</p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -554,6 +632,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
