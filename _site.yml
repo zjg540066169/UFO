@@ -14,7 +14,7 @@ navbar:
     - text: "Map of City"
       href: https://ljf123-final.shinyapps.io/shiny_dashboard_jl/
     - text: "Models"
-      href: index.html
+      href: UFO_prediction.html
     - icon: fa-github fa-lg
       href: https://zjg540066169.github.io
 output:
