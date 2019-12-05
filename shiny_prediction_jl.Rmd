@@ -27,7 +27,6 @@ library(rvest)
 library(MLmetrics)
 library(e1071)
 library(tidyverse)
-library(caret)
 ```
 
 
@@ -43,13 +42,22 @@ ufo_usa =
   filter(country == "USA") %>% 
   select(latitude, longitude, state, city, year, month, day, hour, minute) 
 
+
+
+
 ufo_frequncy = ufo_usa %>% 
   group_by(latitude, longitude, state, city) %>% 
   summarize(n = n())
 
 ufo_usa = ufo_usa %>% 
-  mutate(city_state = paste(city, state)) %>% 
-  select(-city, -state)
+  mutate(city_state = paste(state, city, sep = " ")) %>% 
+  select(-city, -state) %>% 
+  dplyr::group_by(city_state) %>% 
+  mutate(count = dplyr::n()) %>% 
+  filter(count >= 100) %>% 
+  ungroup() %>% 
+  select(-count) %>% 
+  mutate(add = as.factor(city_state))
 ```
 
 Column {.sidebar}
@@ -110,7 +118,7 @@ Column
 
 ### Predicting whether UFO will appear in the chosen place and time
 
-```{r chartA, echo=FALSE}
+```{r chartA, echo=FALSE, message=FALSE, warning = FALSE}
 
 
 # transform each levels in factors to new variables to form the input of SVM
@@ -143,28 +151,6 @@ ufo =
   mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day))
 
 
-
-
-
-
-
-
-
-
-
-
-renderPrint({
-  sample = tibble(add = input$city_state_choice, year = input$year_choice, month = input$month_choice, day = input$day_choice, hour = input$hour_choice, minute = input$minute_choice)
-  
-  ufo %>% 
-    select(year, month, day, hour, minute,state, city) %>%
-    na.omit(ufo_data) %>% 
-    mutate(add = paste(state, city)) %>% 
-    mutate(year = as.numeric(year), month = month.name[as.numeric(month)], hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
-    select(-city, -state)
-})
-
-
 renderLeaflet({
   sample = tibble(add = as.character(input$city_state_choice), year = as.numeric(input$year_choice), month = as.character(input$month_choice), day = as.numeric(input$day_choice), hour = as.numeric(input$hour_choice), minute = as.numeric(input$minute_choice))
 
@@ -188,14 +174,14 @@ renderLeaflet({
   #  slice(1) %>% 
   #  select(-month, -add) %>% 
   
-  svm = 
+   svm = 
     ufo %>% 
     select(year, month, day, hour, minute,state, city) %>%
     na.omit(ufo_data) %>% 
     mutate(add = paste(state, city)) %>% 
     mutate(year = as.numeric(year), month = month.name[as.numeric(month)], hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) %>% 
     select(-city, -state) %>% 
-    bind_rows(sample, .) %>% 
+    bind_rows(., sample) %>% 
     mutate(month = as.factor(month)) %>% 
     dplyr::group_by(add) %>% 
     mutate(count = dplyr::n()) %>% 
@@ -205,28 +191,27 @@ renderLeaflet({
     mutate(add = as.factor(add)) %>% 
     as.data.frame() %>% 
     factor_variable_cope() %>% 
-    slice(1) %>% 
+    slice(nrow(.)) %>% 
     select(-month, -add) %>% 
-    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>%
-    predict(svm_model, .)
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute))
   
+ 
   
+  svm_result =
+    predict(svm_model, as.data.frame(svm))
   
-  
-  
-  
-  
-  
-
-  ufo_usa %>% 
+  svm_result =
+    ufo_usa %>% 
     filter(city_state == input$city_state_choice) %>% 
-    select(latitude, longitude, city_state) %>% 
-    mutate(svm = svm_model) %>% 
+    select(latitude, longitude, city_state) %>%
+    distinct() %>% 
+    mutate(svm = svm_result) 
+  
+  svm_result %>% 
     leaflet() %>% 
     addTiles() %>% 
     addCircleMarkers(
-      radius = ~n/100,
-      color = ~ifelse(svm[[1]] == TRUE, "red", "navy"),
+      color = ~if_else(svm_result$svm == TRUE, "blue", "red"),
       ~latitude,
       ~longitude
     )
