@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"plant city, , fl, us","Plant City, FL, USA","OK",-82.1128641,28.0186323
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"eagan, , mn, us","Eagan, MN, USA","OK",-93.1668858,44.8041322
+"luverne , near, al, us","Luverne, AL 36049, USA","OK",-86.2638492,31.7165455
+"sandy springs, , ga, us","Sandy Springs, GA, USA","OK",-84.3733147,33.9304352
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"palm bay, , fl, us","Palm Bay, FL, USA","OK",-80.5886646,28.0344621
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"midlothian, , il, us","Midlothian, IL 60445, USA","OK",-87.7175491,41.6253116
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"capitol heights, , md, us","Capitol Heights, MD 20743, USA","OK",-76.9158068,38.8851122
+"gatineau , canada, qc, ca","Gatineau, QC, Canada","OK",-75.7012723,45.4765446
+"rhinebeck, , ny, us","Rhinebeck, NY, USA","OK",-73.9074372,41.9318294
+"morehead, , ky, us","Morehead, KY 40351, USA","OK",-83.4326841,38.1839705
+"delta, , co, us","Delta, CO 81416, USA","OK",-108.0689582,38.7422062
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"marshall, , il, us","Marshall, IL 62441, USA","OK",-87.6936384,39.3914252
+"dekalb, , il, us","DeKalb, IL, USA","OK",-88.7503647,41.9294736
+"sierra vista, ft. huachuca, az, ","Fort Huachuca, Sierra Vista, AZ, USA","OK",-110.3499216,31.5552157
+"philippines, , , ","Philippines","OK",121.774017,12.879721
+"south fallsburg, , ny, us","South Fallsburg, NY, USA","OK",-74.634327,41.7206468
+"hampstead, , nh, us","Hampstead, NH, USA","OK",-71.1809803,42.8744882
+"lone pine, , ca, us","Lone Pine, CA, USA","OK",-118.0628654,36.6060444
+"montrose, , pa, us","Montrose, PA 18801, USA","OK",-75.8771388,41.8339653
+"clarion, , ia, us","Clarion, IA 50525, USA","OK",-93.732992,42.7316387
+"shalimar, , fl, us","Shalimar, FL 32579, USA","OK",-86.5791189,30.4457544
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"skies over sierra nevada, , ca, ","Sierra Nevada, California, USA","OK",-119.574224,38.2692123
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"saxton, , pa, us","Saxton, PA 16678, USA","OK",-78.2444563,40.2153571
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"lorian, , oh, ","Lorain, OH, USA","OK",-82.1823746,41.452819
+"poulsbo, , wa, us","Poulsbo, WA 98370, USA","OK",-122.6465372,47.735928
+"flagstaff , near hwy 180 north of, az, us","US-180, Flagstaff, AZ, USA","OK",-111.6513003,35.1982472
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"somogyfajsz , hungary, , ","Somogyfajsz, 8708 Hungary","OK",17.5706706,46.5059429
+"burr ridge, , il, us","Burr Ridge, IL, USA","OK",-87.9183919,41.7489203
+"saskatoon , approx 10 minutes west of, sa, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"victor, , ny, us","Victor, NY 14564, USA","OK",-77.4088794,42.9825633
+"cottage hills, , il, us","Cottage Hills, Alton, IL, USA","OK",-90.0886948,38.909353
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"apex, , nc, us","Apex, NC, USA","OK",-78.8502856,35.732652
+"sarpsborg , norway, , ","Sarpsborg, Norway","OK",11.1094028,59.2840729
+"mckinney, , tx, us","McKinney, TX, USA","OK",-96.6389342,33.1983388
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"shady shores, , tx, us","Shady Shores, TX, USA","OK",-97.0294532,33.1651199
+"angels camp, , ca, us","Angels Camp, CA 95222, USA","OK",-120.5385299,38.0677832
+"clearfield, , ut, us","Clearfield, UT, USA","OK",-112.0260538,41.1107771
+"morrison, , co, us","Morrison, CO, USA","OK",-105.1910996,39.6535988
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"lake isabella, , ca, us","Lake Isabella, CA, USA","OK",-118.473141,35.6180087
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"lake omak, , wa, ","Omak Lake, Washington 98841, USA","OK",-119.406729,48.2900098
+"kernville, , ca, us","Kernville, CA, USA","OK",-118.4253627,35.7546732
+"payson, , az, us","Payson, AZ 85541, USA","OK",-111.3251355,34.2308684
+"dothan, , al, us","Dothan, AL, USA","OK",-85.3904888,31.2232313
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"omaha , near, ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"robert, , la, us","Robert, LA 70455, USA","OK",-90.3413076,30.5058161
+"oriental, , nc, us","Oriental, NC 28571, USA","OK",-76.6929867,35.0309956
+"montgomery, , al, us","Montgomery, AL, USA","OK",-86.3077368,32.3792233
+"mason city, , ia, us","Mason City, IA 50401, USA","OK",-93.2010367,43.1535728
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"drachten , netherlands, , ","Drachten, Netherlands","OK",6.0586373,53.0925814
+"lisbon, , ny, us","Lisbon, NY 13658, USA","OK",-75.3210467,44.727284
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"napoleonville, , la, us","Napoleonville, LA 70390, USA","OK",-91.0274993,29.9382674
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"hellier, , ky, us","Hellier, KY 41534, USA","OK",-82.4712631,37.2876074
+"muscatine, , ia, us","Muscatine, IA 52761, USA","OK",-91.0432051,41.424473
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"atlantic ocean , at sea, , ","Labrador Sea","OK",-50.0951145,57.3516217
+"murrells inlet, , sc, us","Murrells Inlet, SC 29576, USA","OK",-79.0414261,33.5510021
+"vienna, , va, us","Vienna, VA 22180, USA","OK",-77.2652604,38.9012225
+"warrensburg, , mo, us","Warrensburg, MO 64093, USA","OK",-93.7360498,38.7627893
+"pikeville, , ky, us","Pikeville, KY 41501, USA","OK",-82.5187629,37.4792672
+"campos dos goytacazes , brazil, , ","Campos dos Goytacazes - State of Rio de Janeiro, Brazil","OK",-41.3267187,-21.7587303
+"budd lake, , nj, us","Budd Lake, Mt Olive Township, NJ, USA","OK",-74.7340523,40.8712101
+"muillca township, , nj, ","Mullica, NJ, USA","OK",-74.663464,39.5907851
+"monterrey , mexico, , ","Monterrey, Nuevo Leon, Mexico","OK",-100.3161126,25.6866142
+"bergenfield, , nj, us","Bergenfield, NJ, USA","OK",-73.9973608,40.9275987
+"chehalis, , wa, us","Chehalis, WA 98532, USA","OK",-122.9698002,46.6652443
+"lakeville, , mn, us","Lakeville, MN, USA","OK",-93.24272,44.6496868
+"campbell river , canada, bc, ca","Campbell River, BC, Canada","OK",-125.2733353,50.0331226
+"north bergen, , nj, us","North Bergen, NJ, USA","OK",-74.012084,40.8042674
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"north mankato, , mn, us","North Mankato, MN 56003, USA","OK",-94.033845,44.1732996
+"newtown square, , pa, us","Newtown Square, PA 19073, USA","OK",-75.4007058,39.9868904
+"sterling heights, , mi, us","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"consecon , canada, on, ","Consecon, Prince Edward, ON K0K 1T0, Canada","OK",-77.5223564,43.9947174
+"scarborough, , me, us","Scarborough, ME, USA","OK",-70.3344921,43.5901974
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

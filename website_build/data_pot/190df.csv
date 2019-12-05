@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"harwich, barnstable, ma, ","Harwich, MA, USA","OK",-70.0622231,41.6716498
+"simpsonville, , sc, us","Simpsonville, SC, USA","OK",-82.2542834,34.7370639
+"pella, , ia, us","Pella, IA 50219, USA","OK",-92.916405,41.4080327
+"pretoria , south africa, , ","Pretoria, South Africa","OK",28.2292712,-25.7478676
+"freeport, , fl, us","Freeport, FL, USA","OK",-86.1360517,30.4982516
+"wauchula, , fl, us","Wauchula, FL 33873, USA","OK",-81.8114715,27.5472589
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"burlington, , vt, us","Burlington, VT, USA","OK",-73.212072,44.4758825
+"clinton-sherman airpark, , ok, ","Clinton Sherman Airport, 2nd St, Foss, OK 73647, USA","OK",-99.1968869,35.342855
+"shelton, , ct, us","Shelton, CT 06484, USA","OK",-73.0931641,41.3164856
+"wallingford, , ct, us","Wallingford, CT 06492, USA","OK",-72.8230736,41.4570108
+"tuolumne, , ca, us","Tuolumne, CA 95379, USA","OK",-120.2412999,37.9627027
+"somerset, , ma, us","Somerset, MA, USA","OK",-71.1286194,41.7695425
+"honokowaii, , hi, ","Napili-Honokowai, HI, USA","OK",-156.6808988,20.963681
+"homer, , ak, us","Homer, AK, USA","OK",-151.5483333,59.6425
+"pelham, , nh, us","Pelham, NH 03076, USA","OK",-71.3245067,42.7345339
+"pontiac, , mi, us","Pontiac, MI, USA","OK",-83.2910468,42.6389216
+"aurora, , nc, us","Aurora, NC 27806, USA","OK",-76.788543,35.3054469
+"christiansburg, , va, us","Christiansburg, VA 24073, USA","OK",-80.4089389,37.1298517
+"nicholson, , ga, us","Nicholson, GA, USA","OK",-83.4315488,34.1139993
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"natick, , ma, us","Natick, MA, USA","OK",-71.3468091,42.2775281
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"southampton, , pa, us","Southampton, PA, USA","OK",-75.0435916,40.179209
+"daphne, , al, us","Daphne, AL, USA","OK",-87.9036047,30.6035255
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"belmont, , nc, us","Belmont, NC 28012, USA","OK",-81.037297,35.2429175
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"farmington, , mo, us","Farmington, MO 63640, USA","OK",-90.4217895,37.7808846
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"goodyear, , az, us","Goodyear, AZ, USA","OK",-112.3576567,33.4353394
+"methuen, , ma, us","Methuen, MA 01844, USA","OK",-71.1908924,42.7262016
+"padang , west sumatra, , ","Padang, Padang City, West Sumatra, Indonesia","OK",100.417181,-0.9470832
+"stockton, , ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"rio rico, , az, us","Rio Rico, AZ 85648, USA","OK",-110.9742353,31.4673632
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"san anselmo, , ca, us","San Anselmo, CA 94960, USA","OK",-122.5616448,37.9746458
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"santa paula, , ca, us","Santa Paula, CA 93060, USA","OK",-119.0592705,34.3541659
+"venice, , fl, us","Venice, FL, USA","OK",-82.4542632,27.0997775
+"lacey, , wa, us","Lacey, WA, USA","OK",-122.8232553,47.0358969
+"shallotte , hwy 17, nc, us","US-17, Shallotte, NC, USA","OK",-78.4102211,33.9715479
+"brecksville, , oh, us","Brecksville, OH 44141, USA","OK",-81.6267904,41.3197763
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"dayton, , oh, us","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"new port richey, , fl, us","New Port Richey, FL, USA","OK",-82.7192671,28.2441768
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"spirit lake , rural, id, us","Spirit Lake, ID 83869, USA","OK",-116.8685314,47.9662924
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"aegean sea , turkey, , ","Aegean Sea","OK",25.268555,39.019184
+"tinaquillo , venezuela, , ","Tinaquillo 2209, Cojedes, Venezuela","OK",-68.3076366,9.9128832
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"murrieta, , ca, us","Murrieta, CA, USA","OK",-117.2139232,33.5539143
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"studio city , san fernando valley, ca, us","Studio City, Los Angeles, CA, USA","OK",-118.3870991,34.1395597
+"anaheim hills, , ca, us","Anaheim Hills, Anaheim, CA, USA","OK",-117.7490656,33.8508021
+"redlands, , ca, us","Redlands, CA, USA","OK",-117.1825381,34.0555693
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"glendale, eagle rock , ca, ","Eagle Rock, Los Angeles, CA, USA","OK",-118.2140883,34.1391568
+"big bear lake, , ca, us","Big Bear Lake, CA, USA","OK",-116.9114215,34.2438963
+"la quinta, , ca, us","La Quinta, CA, USA","OK",-116.3100095,33.6633573
+"sanger, , ca, us","Sanger, CA 93657, USA","OK",-119.5559652,36.708006
+"claremont, , ca, us","Claremont, CA, USA","OK",-117.7197785,34.0966764
+"vista, , ca, us","Vista, CA, USA","OK",-117.2425355,33.2000368
+"jurupa, , ca, ","Jurupa Valley, CA, USA","OK",-117.4854802,33.9971974
+"san fernando valley, , ca, ","San Fernando Valley, CA, USA","OK",-118.4396756,34.1825782
+"sierra madre, , ca, us","Sierra Madre, CA 91024, USA","OK",-118.0528456,34.1616729
+"tustin, , ca, us","Tustin, CA, USA","OK",-117.8236391,33.7420005
+"south pasadena, , ca, us","South Pasadena, CA 91030, USA","OK",-118.1503488,34.1161196
+"luka, , il, ","Iuka, IL 62849, USA","OK",-88.790334,38.6161588
+"santa barbara,  highway 154, ca, ","CA-154, Santa Barbara, CA, USA","OK",-119.7600179,34.4408571
+"merrillan, , wi, us","Merrillan, WI 54754, USA","OK",-90.8412561,44.4510731
+"sydney , 50 miles north of, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"seattle, tacoma, wa, ","1425 E 27th St, Tacoma, WA 98421, USA","OK",-122.411827,47.2401819
+"ponca, , ar, us","Ponca, AR 72742, USA","OK",-93.3646264,36.0242433
+"fort mcmurray , canada, ab, ca","Fort McMurray, AB, Canada","OK",-111.3790441,56.7266598
+"whitehall, , pa, us","Whitehall, PA, USA","OK",-75.4985521,40.6572331
+"osage beach, , mo, us","Osage Beach, MO, USA","OK",-92.6179621,38.1503113
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"wainwright, , ak, us","Wainwright, AK, USA","OK",-160.0383332,70.6369444
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"dillsburg, , pa, us","Dillsburg, PA 17019, USA","OK",-77.034978,40.1109255
+"orange county, , ca, us","Orange County, CA, USA","OK",-117.8311428,33.7174708
+"enid, tulsa , ok, ","8811 S Yale Ave #100, Tulsa, OK 74137, USA","OK",-95.9209348,36.0347491
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"meriden, wallingford , ct, ","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"winnebago, , mn, us","Winnebago, MN 56098, USA","OK",-94.1657949,43.767733
+"wyreema , australia, , au","Wyreema QLD 4352, Australia","OK",151.866667,-27.65
+"wailea, , hi, us","Wailea, Wailea-Makena, HI 96753, USA","OK",-156.4391668,20.6871826
+"el segundo, , ca, us","El Segundo, CA 90245, USA","OK",-118.4164652,33.9191799
+"long beach, lakewood city limt, ca, ","Lakewood, CA, USA","OK",-118.1339563,33.8536269
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"fortescue , over the delaware bay, nj, us","Fortescue, Downe, NJ, USA","OK",-75.1717775,39.2382135
+"barryton, , mi, us","Barryton, MI 49305, USA","OK",-85.1469787,43.7525253
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"marathon, , fl, us","Marathon, FL 33050, USA","OK",-81.0446262,24.726026
+"la jolla, , ca, us","La Jolla, San Diego, CA, USA","OK",-117.2712717,32.8328112
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"exeter , uk, , gb","Exeter, UK","OK",-3.533899,50.718412
+"bairnsdale , victoria&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"la crosse, , wi, us","La Crosse, WI, USA","OK",-91.2519017,43.8137751
+"plymouth, , mn, us","Plymouth, MN, USA","OK",-93.4555093,45.0105194
+"elmira, , ny, us","Elmira, NY, USA","OK",-76.8077338,42.0897965
+"gladstone, , mo, us","Gladstone, MO, USA","OK",-94.554677,39.2038918
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"srinagar&#44 kashmir , india, , ",NA,"REQUEST_DENIED",NA,NA
+"moore, , ok, us","Moore, OK, USA","OK",-97.4867028,35.3395079
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"orwigsburg, , pa, us","Orwigsburg, PA 17961, USA","OK",-76.1007713,40.654813
+"encinitas, , ca, us","Encinitas, CA, USA","OK",-117.2919818,33.0369867
+"desoto, , mo, ","De Soto, MO 63020, USA","OK",-90.5551258,38.1394978
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"helsby&#44 cheshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"ludington, , mi, us","Ludington, MI 49431, USA","OK",-86.4525831,43.9552825
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"pocahontas, , ar, us","Pocahontas, AR 72455, USA","OK",-90.971233,36.2614554
+"glen ellyn, , il, us","Glen Ellyn, IL, USA","OK",-88.0670118,41.8775293
+"greenwood, , ms, us","Greenwood, MS, USA","OK",-90.1795281,33.5162315
+"hayesville, , nc, us","Hayesville, NC 28904, USA","OK",-83.8179527,35.0462003
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"inverness, , il, us","Inverness, IL, USA","OK",-88.0961865,42.1180815
+"council bluffs, , ia, us","Council Bluffs, IA, USA","OK",-95.8608333,41.2619444
+"south shore, , ky, us","South Shore, KY 41175, USA","OK",-82.9582284,38.72091
+"council bluffs, , ia, us","Council Bluffs, IA, USA","OK",-95.8608333,41.2619444
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"clearwater beach, , fl, us","Clearwater Beach, Clearwater, FL, USA","OK",-82.8285877,27.972065
+"seminole, , ok, us","Seminole, OK, USA","OK",-96.670573,35.2245201
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"lindenhurst, , ny, us","Lindenhurst, NY 11757, USA","OK",-73.3734547,40.6867667
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"poughkeepsie, , ny, us","Poughkeepsie, NY, USA","OK",-73.9209701,41.7003713
+"rishton, blackburn&#44 lancashire , , ",NA,"REQUEST_DENIED",NA,NA
+"laguna niguel, , ca, us","Laguna Niguel, CA, USA","OK",-117.7149438,33.5236744
+"laurel, , md, us","Laurel, MD, USA","OK",-76.8483061,39.0992752
+"quatzsite, , az, ","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"middletown, , oh, us","Middletown, OH, USA","OK",-84.3982763,39.5150576
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"cocoa, , fl, us","Cocoa, FL, USA","OK",-80.7419984,28.3861159
+"cocoa, , fl, us","Cocoa, FL, USA","OK",-80.7419984,28.3861159
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"folsom, , la, us","Folsom, LA 70437, USA","OK",-90.1873048,30.6301889
+"bountiful, , ut, us","Bountiful, UT 84010, USA","OK",-111.880771,40.8893895
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"grimsby , uk, , gb","Grimsby, UK","OK",-0.080784,53.567471
+"ray city, , ga, us","Ray City, GA 31645, USA","OK",-83.1993186,31.0746445
+"williston , seen from; to ne, vt, us","Lake Iroquois, Vermont, USA","OK",-73.0856016,44.3705359
+"reseda, studio city, ca, ","Reseda, Los Angeles, CA, USA","OK",-118.5360517,34.2011141
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"bath , uk, , gb","Bath, UK","OK",-2.3590167,51.3810641
+"islamabad , pakistan, , ","Islamabad, Islamabad Capital Territory, Pakistan","OK",73.0478848,33.6844202
+"uxbridge, , ma, us","Uxbridge, MA, USA","OK",-71.6302532,42.0772429
+"round rock, , tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"kilmartin , uk, , gb","Kilmartin, Lochgilphead PA31 8RW, UK","OK",-5.4843491,56.135094
+"san jacinto, , ca, us","San Jacinto, CA, USA","OK",-116.958635,33.7839084
+"norton, , ma, us","Norton, MA, USA","OK",-71.1869963,41.9667703
+"hancock, , md, us","Hancock, MD 21750, USA","OK",-78.1797293,39.6989809
+"cary, , nc, us","Cary, NC, USA","OK",-78.7811169,35.79154
+"tularosa, , nm, us","Tularosa, NM 88352, USA","OK",-106.0186025,33.073973
+"eunice, , la, us","Eunice, LA 70535, USA","OK",-92.4176324,30.4943669
+"butler, , mo, us","Butler, MO 64730, USA","OK",-94.3305059,38.2586347
+"lompoc, , ca, us","Lompoc, CA, USA","OK",-120.4579409,34.6391501
+"pratt, , ks, us","Pratt, KS, USA","OK",-98.7375911,37.6439071
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"taunton, , ma, us","Taunton, MA, USA","OK",-71.0897674,41.900101
+"o&#39neals, , ca, us",NA,"REQUEST_DENIED",NA,NA
+"kinsman, , il, us","Kinsman, IL 60437, USA","OK",-88.569512,41.1897554
+"mira mesa, , ca, us","Mira Mesa, San Diego, CA, USA","OK",-117.1382404,32.9184763
+"kent , uk, , gb","Kent, UK","OK",0.5217254,51.2787075
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"ottersberg , germany, , de","28870 Ottersberg, Germany","OK",9.1464989,53.1093476
+"burgaw, , nc, us","Burgaw, NC 28425, USA","OK",-77.926098,34.5521113
+"swansea , uk, , gb","Swansea, UK","OK",-3.943646,51.62144
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"pawling, , ny, us","Pawling, NY, USA","OK",-73.5829689,41.5796695
+"mio, , mi, us","Mio, MI 48647, USA","OK",-84.1297276,44.6522362
+"savage, , md, us","Savage, MD, USA","OK",-76.8217374,39.1378733
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"ingleside, , il, us","Ingleside, IL 60041, USA","OK",-88.139818,42.3812067
+"de leon, , tx, us","De Leon, TX 76444, USA","OK",-98.5358825,32.1109743
+"kingsville, , mo, us","Kingsville, MO 64061, USA","OK",-94.0699427,38.7430659
+"bon air, , va, us","Bon Air, VA, USA","OK",-77.5577653,37.5248695
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

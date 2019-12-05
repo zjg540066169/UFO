@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"sandy, , ut, ","Sandy, UT, USA","OK",-111.8389726,40.5649781
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"boonville, , mo, us","Boonville, MO 65233, USA","OK",-92.7432418,38.9736392
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"londonderry, , nh, us","Londonderry, NH, USA","OK",-71.3739272,42.8651298
+"bow, , wa, us","Bow, WA 98232, USA","OK",-122.3980367,48.5603051
+"noida , india, , ","Noida, Uttar Pradesh, India","OK",77.3910265,28.5355161
+"burnaby , canada, bc, ca","Burnaby, BC, Canada","OK",-122.9805104,49.2488091
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"kennebunk, , me, us","Kennebunk, ME 04043, USA","OK",-70.54399,43.3845306
+"hot springs, , ar, us","Hot Springs, AR, USA","OK",-93.0551795,34.5037004
+"natick, , ma, us","Natick, MA, USA","OK",-71.3468091,42.2775281
+"mechelen , belgium, , ","Mechelen, Belgium","OK",4.4775362,51.0258761
+"oxford, , me, us","Oxford, ME, USA","OK",-70.4931557,44.1317459
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"gary, , in, us","Gary, IN, USA","OK",-87.3371523,41.6020403
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"sparta, , tn, us","Sparta, TN 38583, USA","OK",-85.4641421,35.9258985
+"the colony, , tx, us","The Colony, TX, USA","OK",-96.8928309,33.0806083
+"conshohocken, , pa, us","Conshohocken, PA 19428, USA","OK",-75.3015714,40.0792766
+"tijuana , mexico, , ","Tijuana, Baja California, Mexico","OK",-117.0382471,32.5149469
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"sauble beach , canada, on, ","Sauble Beach, ON N0H, Canada","OK",-81.2650823,44.6296021
+"gresham, , or, us","Gresham, OR, USA","OK",-122.4347608,45.5098502
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"montebello, , ca, us","Montebello, CA, USA","OK",-118.1137535,34.0165053
+"montebello, , ca, us","Montebello, CA, USA","OK",-118.1137535,34.0165053
+"mt. laguna, , ca, us","Mt Laguna, CA 91948, USA","OK",-116.4187931,32.8674653
+"brentwood town , outside halifax, ns, ","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"new york city , staten island, ny, us","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"monterey park, , ca, us","Monterey Park, CA, USA","OK",-118.1228476,34.0625106
+"minot, , nd, us","Minot, ND, USA","OK",-101.2922906,48.2329668
+"venice, , ne, us","Venice, NE 68069, USA","OK",-96.3543849,41.2390169
+"venice, , ne, us","Venice, NE 68069, USA","OK",-96.3543849,41.2390169
+"hampton beach, , nh, us","Hampton Beach, Hampton, NH 03842, USA","OK",-70.8134818,42.9113098
+"exeter , south-east of&#44 on golf course, on, ca",NA,"REQUEST_DENIED",NA,NA
+"oswego, , ny, us","Oswego, NY, USA","OK",-76.5104973,43.4553461
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"watchung, , nj, us","Watchung, NJ, USA","OK",-74.4509863,40.63788
+"westland, , mi, us","Westland, MI, USA","OK",-83.400211,42.324204
+"wahpeton, , nd, us","Wahpeton, ND 58075, USA","OK",-96.6059072,46.2652367
+"littleton, , ma, us","Littleton, MA, USA","OK",-71.5128022,42.5372893
+"monroe, , wa, us","Monroe, WA, USA","OK",-121.970958,47.8553772
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"chilliwack , canada, bc, ca","Chilliwack, BC, Canada","OK",-121.9514666,49.1579401
+"monroe, , wa, us","Monroe, WA, USA","OK",-121.970958,47.8553772
+"garfield, , nj, us","Garfield, NJ 07026, USA","OK",-74.113198,40.8814882
+"tinton falls, , nj, us","Tinton Falls, NJ, USA","OK",-74.1004185,40.3042773
+"anaheim hills, , ca, us","Anaheim Hills, Anaheim, CA, USA","OK",-117.7490656,33.8508021
+"mount shasta , on, ca, us","Mt Shasta, CA 96067, USA","OK",-122.3105666,41.3098746
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"sea isle, , nj, ","Sea Isle City, NJ 08243, USA","OK",-74.6929387,39.1534477
+"belleville , canada, on, ca","Belleville, ON, Canada","OK",-77.3832315,44.1627589
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"long beach, , ms, us","Long Beach, MS 39560, USA","OK",-89.1528176,30.3504751
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"clermont, , ga, us","Clermont, GA 30527, USA","OK",-83.7735148,34.4778752
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"millersville, , tn, us","Millersville, TN, USA","OK",-86.7112496,36.3660393
+"springview, , ne, us","Springview, NE 68778, USA","OK",-99.7490055,42.8244444
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"canyon, , tx, us","Canyon, TX 79015, USA","OK",-101.9188024,34.9803342
+"mansfield , uk, , gb","Mansfield, UK","OK",-1.198674,53.147195
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"marana, , az, us","Marana, AZ, USA","OK",-111.2224422,32.436381
+"broadway , uk, , gb","Broadway, UK","OK",-1.854492,52.035467
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"delray beach florida, , fl, ","Delray Beach, FL, USA","OK",-80.0728201,26.4614625
+"chatsworth, , ca, us","Chatsworth, Los Angeles, CA, USA","OK",-118.61481,34.2506356
+"pahrump, , nv, us","Pahrump, NV, USA","OK",-115.9839147,36.2082943
+"lawton, , ok, us","Lawton, OK, USA","OK",-98.3959291,34.6035669
+"moline, , il, us","Moline, IL, USA","OK",-90.5151342,41.5067003
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"farmington, , mn, us","Farmington, MN, USA","OK",-93.1435497,44.6402434
+"farmington, , mn, us","Farmington, MN, USA","OK",-93.1435497,44.6402434
+"harrodsburg, , ky, us","Harrodsburg, KY 40330, USA","OK",-84.8432852,37.762298
+"dalton-in-furness , uk, , ","Dalton-in-Furness, UK","OK",-3.1782,54.156887
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"freeport, , tx, us","Freeport, TX 77541, USA","OK",-95.3596617,28.9541368
+"sparks, , nv, us","Sparks, NV, USA","OK",-119.7526886,39.5349112
+"charlestown, , ri, us","Charlestown, RI, USA","OK",-71.6418744,41.3832162
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"rural el paso, , il, ","El Paso, IL 61738, USA","OK",-89.0164626,40.7392017
+"kansas city, , ks, us","Kansas City, KS, USA","OK",-94.6267873,39.1155314
+"chilton, , wi, us","Chilton, WI 53014, USA","OK",-88.1628785,44.0288803
+"clayton, , nc, us","Clayton, NC, USA","OK",-78.4563914,35.650711
+"pacheco, , ca, us","Pacheco, CA, USA","OK",-122.0720633,37.9854114
+"casselton, , nd, us","Casselton, ND 58012, USA","OK",-97.2111999,46.9005292
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"gardena, , ca, us","Gardena, CA, USA","OK",-118.3089624,33.8883487
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

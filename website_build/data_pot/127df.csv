@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"rocky mount, , nc, us","Rocky Mount, NC, USA","OK",-77.7905339,35.9382103
+"burlington, , il, us","Burlington, IL, USA","OK",-88.5481412,42.0528038
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"aptos, , ca, us","Aptos, CA 95003, USA","OK",-121.8994016,36.9771729
+"melbourne , oakleigh, , au","Oakleigh VIC 3166, Australia","OK",145.0923305,-37.8990236
+"slough , uk, , gb","Slough, UK","OK",-0.5950406,51.5105384
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"tionesta, , pa, us","Tionesta, PA 16353, USA","OK",-79.4558798,41.49534
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"bicester&#44 oxfordshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"lake charles, , la, us","Lake Charles, LA, USA","OK",-93.2173758,30.2265949
+"bangor, , me, us","Bangor, ME 04401, USA","OK",-68.7712257,44.8016128
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"white sulphur springs, , mt, us","White Sulphur Springs, MT 59645, USA","OK",-110.9021561,46.548277
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"kaufman, , tx, us","Kaufman, TX, USA","OK",-96.3088693,32.5890238
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"guwahati , india, , ","Guwahati, Assam, India","OK",91.7362365,26.1445169
+"coos bay, , or, us","Coos Bay, OR, USA","OK",-124.2178903,43.3665007
+"fairbanks, , ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"laredo, , tx, us","Laredo, TX, USA","OK",-99.5075519,27.5035613
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"winter garden, , fl, us","Winter Garden, FL 34787, USA","OK",-81.5861847,28.5652787
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"allegan, , mi, us","Allegan, MI 49010, USA","OK",-85.8553031,42.5291989
+"lake forest, , ca, us","Lake Forest, CA, USA","OK",-117.6861023,33.6469437
+"nevada , above; in flight; 37000 ft., nv, ","Nevada, USA","OK",-116.419389,38.8026097
+"antioch, , ca, us","Antioch, CA, USA","OK",-121.805789,38.0049214
+"western shore , canada, ns, ","Western Shore, NS B0J 3M0, Canada","OK",-64.314502,44.531403
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"dover, , oh, us","Dover, OH, USA","OK",-81.4740054,40.5206198
+"nodine, , mn, us","Nodine, MN 55925, USA","OK",-91.4362532,43.9049645
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"point pleasant, , nj, us","Point Pleasant, NJ 08742, USA","OK",-74.0681931,40.0831714
+"centreville, , md, us","Centreville, MD 21617, USA","OK",-76.0663334,39.0417785
+"burlington, , nc, us","Burlington, NC, USA","OK",-79.4377991,36.0956918
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"venice, , ca, us","Venice, Los Angeles, CA, USA","OK",-118.4694832,33.9850469
+"providence forge, , va, us","Providence Forge, VA 23140, USA","OK",-77.0435799,37.4418131
+"camp creek, , wv, ","Camp Creek, WV 25820, USA","OK",-81.1099046,37.5095915
+"lehighton, , pa, us","Lehighton, PA 18235, USA","OK",-75.7138008,40.8337029
+"wakeeney , near; trego county, ks, us","WaKeeney, KS 67672, USA","OK",-99.8795656,39.0250082
+"afton, , va, ","Afton, VA 22920, USA","OK",-78.8395137,38.0323988
+"bradford, , pa, us","Bradford, PA 16701, USA","OK",-78.649163,41.9564953
+"jordan, , mn, us","Jordan, MN 55352, USA","OK",-93.6294286,44.6711949
+"kirkcaldy , uk, , gb","Kirkcaldy, UK","OK",-3.158137,56.1168249
+"mills river, , nc, us","Mills River, NC, USA","OK",-82.566789,35.3884479
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"townsend, , ma, us","Townsend, MA, USA","OK",-71.7051265,42.6667718
+"rydal, , pa, us","Rydal, PA 19046, USA","OK",-75.1085068,40.1064992
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"new delhi , india, , ","New Delhi, Delhi, India","OK",77.2090212,28.6139391
+"jordan, , mn, us","Jordan, MN 55352, USA","OK",-93.6294286,44.6711949
+"willard, , mo, us","Willard, MO, USA","OK",-93.4285272,37.305047
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"colorado city, , co, us","Colorado City, CO, USA","OK",-104.8352628,37.9452861
+"north bergen, , nj, us","North Bergen, NJ, USA","OK",-74.012084,40.8042674
+"mountain house, , ca, us","Mountain House, CA, USA","OK",-121.543234,37.7793901
+"mission hills, , ca, us","Mission Hills, Los Angeles, CA, USA","OK",-118.4688776,34.2722582
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"batesville, , ms, us","Batesville, MS 38606, USA","OK",-89.9442567,34.3114982
+"ionia, , mi, us","Ionia, MI 48846, USA","OK",-85.0711174,42.9872547
+"phenix city &amp; columbus&#44ga, , al, ",NA,"REQUEST_DENIED",NA,NA
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"oak ridge, , tn, us","Oak Ridge, TN, USA","OK",-84.2696449,36.0103561
+"moline, , il, us","Moline, IL, USA","OK",-90.5151342,41.5067003
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"hatboro, , pa, us","Hatboro, PA 19040, USA","OK",-75.1068388,40.1742757
+"cornell, , wi, us","Cornell, WI 54732, USA","OK",-91.1493107,45.1671881
+"tracy, , ca, us","Tracy, CA, USA","OK",-121.4252227,37.7396513
+"wellsboro, , pa, us","Wellsboro, PA 16901, USA","OK",-77.3005304,41.7486838
+"ralleigh, , nc, ","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"jim thorpe, , pa, us","Jim Thorpe, PA, USA","OK",-75.7324127,40.8759235
+"ft. campbell, , ky, ","Fort Campbell, KY, USA","OK",-87.4773902,36.6634467
+"lyman, , sc, us","Lyman, SC, USA","OK",-82.1273312,34.9481741
+"garrison, , nd, us","Garrison, ND 58540, USA","OK",-101.4157165,47.6522225
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"cordova, , tn, us","Cordova, Memphis, TN, USA","OK",-89.761545,35.1598391
+"canoga park, , ca, us","Canoga Park, Los Angeles, CA, USA","OK",-118.6058609,34.208254
+"gloversville, , ny, us","Gloversville, NY, USA","OK",-74.3437467,43.0528506
+"bemidji, , mn, us","Bemidji, MN 56601, USA","OK",-94.8826861,47.471573
+"jacksonville, , tx, us","Jacksonville, TX 75766, USA","OK",-95.2705042,31.963778
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"laguna hills, , ca, us","Laguna Hills, CA, USA","OK",-117.6986604,33.5916433
+"boston , northwest of, ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"shell lake, , wi, us","Shell Lake, WI 54871, USA","OK",-91.9254537,45.7393928
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"branson, , mo, us","Branson, MO 65616, USA","OK",-93.2185144,36.6436731
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"roseburg, , or, us","Roseburg, OR, USA","OK",-123.3417381,43.216505
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

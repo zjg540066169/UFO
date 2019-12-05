@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"grand prairie, , tx, us","Grand Prairie, TX, USA","OK",-96.9977846,32.7459645
+"lake city, , fl, us","Lake City, FL, USA","OK",-82.6392899,30.1896756
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"fair lawn, , nj, us","Fair Lawn, NJ 07410, USA","OK",-74.1318096,40.9403762
+"edison, , nj, us","Edison, NJ, USA","OK",-74.4120953,40.5187154
+"poughkeepsie, , ny, us","Poughkeepsie, NY, USA","OK",-73.9209701,41.7003713
+"little falls, , nj, us","Little Falls, NJ, USA","OK",-74.2082286,40.8690101
+"taylorville, , il, us","Taylorville, IL, USA","OK",-89.294533,39.548935
+"savanah, , ga, ","Savannah, GA, USA","OK",-81.091203,32.0808989
+"deming area, , nm, ","Deming, NM 88030, USA","OK",-107.7586404,32.2686981
+"brighton, , mi, us","Brighton, MI 48116, USA","OK",-83.7802214,42.5294773
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"greenville, , va, us","Greenville, VA, USA","OK",-79.1558632,38.0034669
+"belle chasse, , la, us","Belle Chasse, LA, USA","OK",-89.9906253,29.8549287
+"birch bay, , wa, us","Birch Bay, WA, USA","OK",-122.7446219,48.9178883
+"holmdel, , nj, us","Holmdel, NJ, USA","OK",-74.1840322,40.3451095
+"trumbull, , ct, us","Trumbull, CT 06611, USA","OK",-73.2006639,41.2428563
+"belleville , near, on, ca","Belleville, ON, Canada","OK",-77.3832315,44.1627589
+"georgetown, , tx, us","Georgetown, TX, USA","OK",-97.6779842,30.6332618
+"georgetown, , tx, us","Georgetown, TX, USA","OK",-97.6779842,30.6332618
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"las vegas, , nm, us","Las Vegas, NM 87701, USA","OK",-105.2227978,35.5942137
+"lake elsinore, , ca, us","Lake Elsinore, CA, USA","OK",-117.3272615,33.6680772
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"smith, , ky, us","Smith, KY 40815, USA","OK",-83.2593455,36.7359208
+"elmvale , canada, on, ca","Elmvale, ON L0L 1P0, Canada","OK",-79.8660747,44.5836295
+"east sparta, , oh, us","East Sparta, OH, USA","OK",-81.354835,40.667283
+"teller, , ak, us","Teller, AK, USA","OK",-166.3608333,65.2636111
+"richton, , ms, us","Richton, MS 39476, USA","OK",-88.9400492,31.3493426
+"san juan capistrano, , ca, us","San Juan Capistrano, CA, USA","OK",-117.6627655,33.5019027
+"arkansas , location unknown, ar, ","Arkansas, USA","OK",-91.8318334,35.20105
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"longueuil , canada, pq, ca","Longueuil, QC, Canada","OK",-73.5107131,45.5369442
+"beaver dam, , wi, us","Beaver Dam, WI 53916, USA","OK",-88.837329,43.4577692
+"dyersburg, , tn, us","Dyersburg, TN 38024, USA","OK",-89.3856281,36.0345159
+"lakeville, , ct, us","Lakeville, Salisbury, CT, USA","OK",-73.4408034,41.9644861
+"collinsville, , al, us","Collinsville, AL 35961, USA","OK",-85.8605251,34.2639821
+"alton , kendall hill subdivision, il, us","Kendall Hill, Wood River Township, IL 62095, USA","OK",-90.0437161,38.8497698
+"connell, , wa, us","Connell, WA 99326, USA","OK",-118.8611117,46.6634733
+"van nuys , colbath ave., ca, us","Colbath Ave, Los Angeles, CA, USA","OK",-118.436729,34.1930072
+"benson landing, , vt, us","Benson Landing, Benson, VT 05743, USA","OK",-73.3676158,43.7283959
+"benson landing, , vt, us","Benson Landing, Benson, VT 05743, USA","OK",-73.3676158,43.7283959
+"redding, , ct, us","Redding, CT 06896, USA","OK",-73.392898,41.3045399
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"corona, , nm, us","Corona, NM 88318, USA","OK",-105.5966686,34.2509071
+"defiance, , oh, us","Defiance, OH 43512, USA","OK",-84.3557802,41.2844933
+"st. clair shores, , mi, ","St Clair Shores, MI, USA","OK",-82.8963604,42.4974085
+"avilla, , ar, us","Avilla, AR 72002, USA","OK",-92.5851613,34.6825921
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"finland, , , ","Finland","OK",25.7481511,61.92411
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"glen burnie, , md, us","Glen Burnie, MD, USA","OK",-76.6246886,39.1626084
+"arizona , northern location, az, ","1899 S San Francisco St, Flagstaff, AZ 86011, USA","OK",-111.6539683,35.1804402
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"snohomish co. , mountainous area&#44 camping, wa, ",NA,"REQUEST_DENIED",NA,NA
+"willits, , ca, us","Willits, CA 95490, USA","OK",-123.3555656,39.4096079
+"north fork, , ca, us","North Fork, CA 93643, USA","OK",-119.5094012,37.2293678
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"sinai peninsula , egypt, , ","Sinai Peninsula, Nuweiba, South Sinai Governorate, Egypt","OK",34,29.5
+"fenton, , mo, us","Fenton, MO, USA","OK",-90.4429881,38.5126456
+"glenelg, , md, us","Glenelg, MD, USA","OK",-76.9896261,39.2592982
+"thoiry , france, , ","01710 Thoiry, France","OK",5.97991,46.236466
+"mckinney, , tx, us","McKinney, TX, USA","OK",-96.6389342,33.1983388
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"sumter, , sc, us","Sumter, SC, USA","OK",-80.3414693,33.9204354
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"berea, , oh, us","Berea, OH 44017, USA","OK",-81.8543026,41.3661614
+"sidney, , mt, us","Sidney, MT 59270, USA","OK",-104.1563253,47.7166836
+"abingdon, , il, us","Abingdon, IL 61410, USA","OK",-90.4017954,40.8044833
+"sunset, , tx, us","Sunset, TX 76270, USA","OK",-97.7666999,33.4520535
+"crofton , vancouver island, bc, ca","Crofton, BC, Canada","OK",-123.6457976,48.863844
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"casalabate , italy, , ","73100 Casalabate, Province of Lecce, Italy","OK",18.1205899,40.4971706
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"puerto rico , at sea north of, pr, ","Puerto Rico","OK",-66.590149,18.220833
+"elkton, , md, us","Elkton, MD 21921, USA","OK",-75.8332718,39.6067789
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"hilo, , hi, us","Hilo, HI 96720, USA","OK",-155.0868193,19.7241106
+"magnolia, , de, us","Magnolia, DE 19962, USA","OK",-75.4760327,39.0712238
+"moscow, , id, us","Moscow, ID, USA","OK",-117.000165,46.7323875
+"grand coulee, , wa, us","Grand Coulee, WA 99133, USA","OK",-119.0120921,47.9391662
+"california desert, , ca, ","44475 Monterey Ave, Palm Desert, CA 92260, USA","OK",-116.3916773,33.7257078
+"california desert , interstate 8, ca, ","I-8, California, USA","OK",-115.684864,32.7738311
+"kernville, , ca, us","Kernville, CA, USA","OK",-118.4253627,35.7546732
+"safford, , az, us","Safford, AZ, USA","OK",-109.70758,32.8339546
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"clyde, , tx, us","Clyde, TX 79510, USA","OK",-99.4936912,32.4059605
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"rehoboth beach, , de, us","Rehoboth Beach, DE, USA","OK",-75.0760137,38.7209454
+"caldwell, , id, us","Caldwell, ID, USA","OK",-116.6873596,43.6629384
+"sebago lake, , me, us","Sebago Lake, Maine, USA","OK",-70.5620952,43.853734
+"aventura, , fl, us","Aventura, FL, USA","OK",-80.1392121,25.9564812
+"wilkes-barre, , pa, us","Wilkes-Barre, PA, USA","OK",-75.8813075,41.2459149
+"raymond, , ms, us","Raymond, MS 39154, USA","OK",-90.4225951,32.2593146
+"perry sound , canada, on, ","Parry Sound, ON, Canada","OK",-80.034783,45.3473925
+"prince george , canada, bc, ca","Prince George, BC, Canada","OK",-122.7496693,53.9170641
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

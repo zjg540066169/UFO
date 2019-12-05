@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"saskatoon , canada, sa, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"errol, , nh, us","Errol, NH, USA","OK",-71.1378558,44.7814393
+"wrenshall, , mn, us","Wrenshall, MN 55797, USA","OK",-92.3853613,46.6166577
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"barnum, , mn, us","Barnum, MN 55707, USA","OK",-92.6885312,46.5030014
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"yukon , canada, yk, ","Yukon, Canada","OK",-135,64.2823274
+"prescott, , az, us","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"keizer, , or, us","Keizer, OR, USA","OK",-123.0262077,44.9901194
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"koblevo , ukraine, , ","Kobleve, Mykolaiv Oblast, Ukraine","OK",31.1947408,46.6274254
+"bridgewater , canada, ns, ca","Bridgewater, NS, Canada","OK",-64.5208798,44.3721167
+"bakersfield , 1-30&#44 north of, ca, us",NA,"REQUEST_DENIED",NA,NA
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"anna maria island, , fl, ","Anna Maria Island, Florida, USA","OK",-82.7144811,27.5041264
+"fort morgan , west of, co, us","Fort Morgan, CO 80701, USA","OK",-103.7999509,40.2502582
+"grand rapids , outside, mi, us","443 Bridge St NW Suite 1, Grand Rapids, MI 49504, USA","OK",-85.680766,42.970721
+"richmond, , tx, us","Richmond, TX, USA","OK",-95.7607832,29.5821811
+"milledgeville, , ga, us","Milledgeville, GA, USA","OK",-83.2320991,33.0801429
+"stark, , ks, us","Stark, KS 66775, USA","OK",-95.1430326,37.6900454
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"whyalla , australia, , au","Whyalla SA 5600, Australia","OK",137.5753107,-33.0379671
+"lowell, , mi, us","Lowell, MI 49331, USA","OK",-85.3419609,42.9336426
+"preston , uk, , gb","Preston, UK","OK",-2.70309,53.763201
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"airdrie , canada, ab, ca","Airdrie, AB, Canada","OK",-114.0134073,51.2926993
+"adelaide , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"penticton , canada, bc, ca","Penticton, BC, Canada","OK",-119.5937077,49.4991381
+"eagle lake manor, , wi, us","Eagle Lake Manor, Eagle Lake, WI 53139, USA","OK",-88.1350869,42.698351
+"ridgefield, , wa, us","Ridgefield, WA 98642, USA","OK",-122.6881558,45.8143224
+"rockledge, , fl, us","Rockledge, FL, USA","OK",-80.7269854,28.3164498
+"culpeper, , va, us","Culpeper, VA 22701, USA","OK",-77.9962512,38.4729632
+"wyandotte, , mi, us","Wyandotte, MI, USA","OK",-83.1499239,42.2142064
+"rockerville, , sd, us","Rockerville, SD 57702, USA","OK",-103.3585202,43.9580438
+"weed, , ca, us","Weed, CA, USA","OK",-122.3861269,41.4226498
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"chula vista, , ca, us","Chula Vista, CA, USA","OK",-117.0841955,32.6400541
+"whitesboro, , ny, us","Whitesboro, NY 13492, USA","OK",-75.2915557,43.1220141
+"nanaimo , canada, bc, ca","Nanaimo, BC, Canada","OK",-123.9400648,49.1658836
+"plymouth, , mn, us","Plymouth, MN, USA","OK",-93.4555093,45.0105194
+"sultan, , wa, us","Sultan, WA, USA","OK",-121.8165095,47.8626013
+"mercer island, , wa, us","Mercer Island, WA 98040, USA","OK",-122.2220674,47.5706548
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"cairo, , ny, us","Cairo, NY, USA","OK",-74.006509,42.2982586
+"bangkok , thailand, , ","Bangkok, Thailand","OK",100.5017651,13.7563309
+"new port richey, , fl, us","New Port Richey, FL, USA","OK",-82.7192671,28.2441768
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"armadale , australia, , au","Armadale WA 6112, Australia","OK",116.0128764,-32.1473012
+"winooski, , vt, us","Winooski, VT, USA","OK",-73.1856832,44.491438
+"highland, , in, us","Highland, IN, USA","OK",-87.451984,41.5536468
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"south elgin, , il, us","South Elgin, IL, USA","OK",-88.2922996,41.9941938
+"trout lake, , wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"north bergen, , nj, us","North Bergen, NJ, USA","OK",-74.012084,40.8042674
+"north bergen, , nj, us","North Bergen, NJ, USA","OK",-74.012084,40.8042674
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"scottsbluff, , ne, us","Scottsbluff, NE 69361, USA","OK",-103.6671662,41.8666341
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"gold bar, , wa, us","Gold Bar, WA, USA","OK",-121.6970606,47.8567695
+"trout lake, , wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"thunder bay , canada, on, ca","Thunder Bay, ON, Canada","OK",-89.2476823,48.3808951
+"polegate , uk, , gb","Polegate, UK","OK",0.243813,50.824012
+"white plains, , ny, us","White Plains, NY, USA","OK",-73.7629097,41.0339862
+"guilford, , ct, us","Guilford, CT, USA","OK",-72.674364,41.288906
+"commerce city, , co, us","Commerce City, CO, USA","OK",-104.9338675,39.8083196
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"mastic beach, , ny, us","Mastic Beach, NY, USA","OK",-72.8520476,40.7667655
+"waldorf, , md, us","Waldorf, MD, USA","OK",-76.9105483,38.6265124
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"glendale, , ut, us","Glendale, UT 84729, USA","OK",-112.5971542,37.3177609
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"westport, port henry , ny, ","Port Henry, NY 12974, USA","OK",-73.4598473,44.0483884
+"canoga park, , ca, us","Canoga Park, Los Angeles, CA, USA","OK",-118.6058609,34.208254
+"abadania , brazil, , ","Abadiânia - State of Goiás, 72940-000, Brazil","OK",-48.7064825,-16.197426
+"ainsworth, , ne, us","Ainsworth, NE 69210, USA","OK",-99.8615126,42.5449992
+"lowell, , mi, us","Lowell, MI 49331, USA","OK",-85.3419609,42.9336426
+"stratford, , ct, us","Stratford, CT, USA","OK",-73.1331651,41.1845415
+"oshkosh, , wi, us","Oshkosh, WI, USA","OK",-88.5426136,44.0247062
+"spencer, , in, us","Spencer, IN 47460, USA","OK",-86.7625058,39.2867117
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"washington, , nj, us","Washington, NJ 07882, USA","OK",-74.9793378,40.7584326
+"bluffton, , oh, ","Bluffton, OH 45817, USA","OK",-83.8888288,40.8953301
+"east cape , mexico, , ","Cabo San Lucas, Baja California Sur, Mexico","OK",-109.9167371,22.8905327
+"fremantle , australia, , au","Fremantle WA 6160, Australia","OK",115.7551085,-32.0518191
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"winnipeg , moose lake, mb, ca","Moose Lake, MB, Canada","OK",-100.3109319,53.70456
+"sedro woolley, , wa, ","Sedro-Woolley, WA 98284, USA","OK",-122.2361101,48.50389
+"sedro woolley, , wa, ","Sedro-Woolley, WA 98284, USA","OK",-122.2361101,48.50389
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"land o&#39lakes, , fl, ",NA,"REQUEST_DENIED",NA,NA
+"maidstone&#44 kent , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"orient, , me, us","Orient, ME 04471, USA","OK",-67.8400137,45.8170031
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

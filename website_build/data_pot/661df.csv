@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"antioch, , il, us","Antioch, IL 60002, USA","OK",-88.0956396,42.4772418
+"south yarmouth, , ma, us","South Yarmouth, Yarmouth, MA, USA","OK",-70.1847413,41.6667779
+"seatac, , wa, us","SeaTac, WA, USA","OK",-122.2960726,47.4435903
+"lebanon, , or, us","Lebanon, OR 97355, USA","OK",-122.9070339,44.5365119
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"sequim, , wa, us","Sequim, WA 98382, USA","OK",-123.1018438,48.0795365
+"cowpens, , sc, us","Cowpens, SC 29330, USA","OK",-81.8039916,35.0167918
+"franklin, , in, us","Franklin, IN 46131, USA","OK",-86.0549863,39.4806055
+"rochester, , wa, us","Rochester, WA 98579, USA","OK",-123.0755296,46.8280636
+"sylvania, , oh, us","Sylvania, OH, USA","OK",-83.7129935,41.7189392
+"tahoe city, , ca, us","Tahoe City, CA, USA","OK",-120.1451812,39.1677134
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"key west, , fl, us","Key West, FL 33040, USA","OK",-81.7799871,24.5550593
+"plantation, , fl, us","Plantation, FL, USA","OK",-80.2331036,26.1275862
+"wethersfield, , ct, us","Wethersfield, CT, USA","OK",-72.6596244,41.7063537
+"west new york, , nj, ","West New York, NJ 07093, USA","OK",-74.0143064,40.7878788
+"alma, , ar, us","Alma, AR 72921, USA","OK",-94.2218752,35.4778653
+"massillon, , oh, us","Massillon, OH, USA","OK",-81.5215093,40.7967244
+"waldoboro, , me, us","Waldoboro, ME 04572, USA","OK",-69.3756017,44.0952725
+"seminary, , ms, us","Seminary, MS 39479, USA","OK",-89.4975669,31.5623892
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"winchendon, , ma, us","Winchendon, MA, USA","OK",-72.0439529,42.6871009
+"romeoville, , il, us","Romeoville, IL, USA","OK",-88.0895061,41.6475306
+"allentown , upper macungie twsp, pa, us","Upper Macungie Township, PA, USA","OK",-75.632447,40.5697736
+"captiva, , fl, us","Captiva, FL 33924, USA","OK",-82.1892614,26.5220227
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"gardner, , ks, us","Gardner, KS 66030, USA","OK",-94.9271868,38.8108408
+"santa fe, , tx, us","Santa Fe, TX, USA","OK",-95.1057625,29.3780129
+"shoshone, , id, us","Shoshone, ID 83352, USA","OK",-114.4058752,42.9360165
+"new delhi , india, , ","New Delhi, Delhi, India","OK",77.2090212,28.6139391
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"unknown, , la, ","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"unknown, , la, ","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"proctor, , ok, us","Proctor, OK 74464, USA","OK",-94.777451,35.9661987
+"conshohocken, , pa, us","Conshohocken, PA 19428, USA","OK",-75.3015714,40.0792766
+"excelsior, , mn, us","Excelsior, MN 55331, USA","OK",-93.5663455,44.9032963
+"mill valley, , ca, us","Mill Valley, CA 94941, USA","OK",-122.5449763,37.9060368
+"tarrant city, , al, us","Tarrant, AL 35217, USA","OK",-86.7718017,33.586822
+"stanfield, , or, us","Stanfield, OR 97875, USA","OK",-119.2172351,45.7804098
+"altoona, , pa, us","Altoona, PA, USA","OK",-78.3947359,40.5186809
+"smithson&#39s valley, , tx, ",NA,"REQUEST_DENIED",NA,NA
+"prairie grove, , ar, us","Prairie Grove, AR 72753, USA","OK",-94.3177103,35.9759145
+"hamilton, , oh, us","Hamilton, OH, USA","OK",-84.5613355,39.3995008
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"bowleys quarters, , md, us","Bowleys Quarters, MD, USA","OK",-76.3942732,39.3256518
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"eagle pass, , tx, us","Eagle Pass, TX 78852, USA","OK",-100.4995214,28.7091433
+"longview, , wa, us","Longview, WA, USA","OK",-122.9381672,46.1381676
+"ludlow, , ma, us","Ludlow, MA, USA","OK",-72.475919,42.1600936
+"exeter, , nh, us","Exeter, NH 03833, USA","OK",-70.9477546,42.9814292
+"monroe, , ga, us","Monroe, GA, USA","OK",-83.713229,33.7948364
+"roswell, , nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"mohave, , ca, ","Mojave, CA 93501, USA","OK",-118.1739645,35.0524699
+"saugus, , ma, us","Saugus, MA, USA","OK",-71.0110473,42.4651421
+"framingham, , ma, us","Framingham, MA, USA","OK",-71.4161565,42.279286
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"denver , east of, co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"nenana, , ak, us","Nenana, AK 99760, USA","OK",-149.0930556,64.5638889
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"claycomo, , mo, us","Claycomo, MO, USA","OK",-94.4907509,39.2032099
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"atlantic ocean , unknown, va, ","Virginia, USA","OK",-78.6568942,37.4315734
+"tahlequah, , ok, us","Tahlequah, OK 74464, USA","OK",-94.969956,35.91537
+"sullivan, , il, us","Sullivan, IL 61951, USA","OK",-88.6078392,39.599479
+"oneonta, , ny, us","Oneonta, NY 13820, USA","OK",-75.0637746,42.4528571
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"aurora, , oh, us","Aurora, OH 44202, USA","OK",-81.3453858,41.3175549
+"roseville, , mi, us","Roseville, MI 48066, USA","OK",-82.9371409,42.4972583
+"west lafayette, , in, us","West Lafayette, IN, USA","OK",-86.9080655,40.4258686
+"vernon, , tx, us","Vernon, TX 76384, USA","OK",-99.2650804,34.1545306
+"lowell, , in, us","Lowell, IN 46356, USA","OK",-87.4205903,41.2914243
+"lowell, , in, us","Lowell, IN 46356, USA","OK",-87.4205903,41.2914243
+"rochester , outside of, ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"amherst, , ny, us","Amherst, NY, USA","OK",-78.792272,42.9790067
+"galesburg, , il, us","Galesburg, IL 61401, USA","OK",-90.3712395,40.9478158
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"westford, , ma, us","Westford, MA 01886, USA","OK",-71.4378411,42.5792583
+"burien, , wa, us","Burien, WA, USA","OK",-122.3405305,47.4668384
+"sag harbor, , ny, us","Sag Harbor, NY 11963, USA","OK",-72.2925819,40.9978773
+"lee vining, , ca, us","Lee Vining, CA 93541, USA","OK",-119.119943,37.957592
+"ft. benning, , ga, ","Fort Benning, GA 31905, USA","OK",-84.9552211,32.3530561
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"yosemite pass , in the valley over; nr. nv border, ca, ","Yosemite National Park, California, USA","OK",-119.5383294,37.8651011
+"sewickley, , pa, us","Sewickley, PA 15143, USA","OK",-80.1844243,40.5364846
+"cannon, , de, us","3400 W Olive Ave, Burbank, CA 91505, USA","OK",-118.3361883,34.1536137
+"church hill, , pa, us","Church Hill, Brown Township, PA 17084, USA","OK",-77.5986062,40.6820134
+"east palestine, , oh, us","East Palestine, OH 44413, USA","OK",-80.5403469,40.8339509
+"pomona, , ca, us","Pomona, CA, USA","OK",-117.7499909,34.055103
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"bjursas, falun , , ","790 21 Bjursås, Sweden","OK",15.446767,60.738464
+"baldwin city, , ks, us","Baldwin City, KS 66006, USA","OK",-95.1863603,38.775007
+"unknown, , az, ","Arizona, USA","OK",-111.0937311,34.0489281
+"johnstown, , pa, us","Johnstown, PA, USA","OK",-78.9219698,40.3267407
+"port jefferson, , ny, us","Port Jefferson, NY 11777, USA","OK",-73.0692732,40.9464875
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"east barre, , vt, us","East Barre, Barre, VT, USA","OK",-72.4505411,44.1587843
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

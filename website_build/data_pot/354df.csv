@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"west springfield, , pa, us","West Springfield, PA 16443, USA","OK",-80.4742366,41.9458892
+"wickenburg, , az, us","Wickenburg, AZ 85390, USA","OK",-112.7301882,33.9697664
+"edray, , wv, us","Edray, WV 24954, USA","OK",-80.0914547,38.2745635
+"wellington, , ks, us","Wellington, KS, USA","OK",-97.3717118,37.2653004
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"penn laird, , va, us","Penn Laird, VA 22846, USA","OK",-78.8025247,38.3856818
+"baraboo, , wi, us","Baraboo, WI 53913, USA","OK",-89.7442906,43.4710944
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"sloatsburg, , ny, us","Sloatsburg, NY 10974, USA","OK",-74.192924,41.1545395
+"squamish , canada, bc, ca","Squamish, BC, Canada","OK",-123.1558121,49.7016339
+"blue bell, , pa, us","Blue Bell, PA, USA","OK",-75.266289,40.1523309
+"chennai , india, , ","Chennai, Tamil Nadu, India","OK",80.2707184,13.0826802
+"independence, , ky, us","Independence, KY, USA","OK",-84.544109,38.9431183
+"caniste, , ny, ","Canisteo, NY 14823, USA","OK",-77.6058225,42.2703487
+"snoqualmie, , wa, us","Snoqualmie, WA, USA","OK",-121.8253906,47.5287132
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"aurora, , il, us","Aurora, IL, USA","OK",-88.3200715,41.7605849
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"alliance, , oh, us","Alliance, OH 44601, USA","OK",-81.1059309,40.9153362
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"fairview, , or, us","Fairview, OR 97024, USA","OK",-122.4334645,45.5425323
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"carson, , ca, us","Carson, CA, USA","OK",-118.281693,33.8316745
+"milford, , oh, us","Milford, OH, USA","OK",-84.2943821,39.1753377
+"everett, snohomish, wa, ","Everett, WA, USA","OK",-122.2020795,47.9789848
+"redlands, , ca, us","Redlands, CA, USA","OK",-117.1825381,34.0555693
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"pomona, , ca, us","Pomona, CA, USA","OK",-117.7499909,34.055103
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"greenacres, , fl, ","Greenacres, FL, USA","OK",-80.1353896,26.6276276
+"los lunas, albuqerque, nm, ","Los Lunas, NM 87031, USA","OK",-106.7333599,34.806166
+"moncure, , nc, us","Moncure, NC 27559, USA","OK",-79.0783474,35.6226831
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"lennox head , australia, , au","Lennox Head NSW 2478, Australia","OK",153.583333,-28.8
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"brandon, , vt, us","Brandon, VT 05733, USA","OK",-73.0876119,43.7981195
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"canton, , mi, us","Canton, MI, USA","OK",-83.482116,42.3086444
+"burnaby , canada, bc, ca","Burnaby, BC, Canada","OK",-122.9805104,49.2488091
+"plant city, , fl, us","Plant City, FL, USA","OK",-82.1128641,28.0186323
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"morristown, , nj, us","Morristown, NJ 07960, USA","OK",-74.4815438,40.7967667
+"arizona , desert; on route 66, az, ","Rte 66, Arizona, USA","OK",-110.3178434,34.9553863
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"greenfield, , ca, us","Greenfield, CA 93927, USA","OK",-121.2438138,36.3207998
+"seattle , shoreline, wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"howell, , nj, ","Howell Township, NJ, USA","OK",-74.2082671,40.1645785
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"fallbrook , north, ca, us","Fallbrook, CA 92028, USA","OK",-117.2511466,33.3764196
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"memphis , near west memphis, ar, ","West Memphis, AR, USA","OK",-90.1845388,35.1464797
+"powhatan, , va, us","Powhatan, VA 23139, USA","OK",-77.9188239,37.5415273
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"istanbul , turkey, , ","İstanbul, Turkey","OK",28.9783589,41.0082376
+"vassalboro, , me, us","Vassalboro, ME, USA","OK",-69.6777605,44.4588807
+"buffalo, , mo, us","Buffalo, MO 65622, USA","OK",-93.0924093,37.6439289
+"eureka springs, , ar, us","Eureka Springs, AR, USA","OK",-93.7379711,36.4011825
+"conway, , ar, us","Conway, AR, USA","OK",-92.4421011,35.0886963
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"timbo , approx.7 miles west of , ar, us","Timbo, AR, USA","OK",-92.3168963,35.8710113
+"timbo , approx. 7 miles west of, ar, us","Timbo, AR, USA","OK",-92.3168963,35.8710113
+"fredericksburg, , va, us","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"olive branch , desoto city, ms, us","Olive Branch, MS 38654, USA","OK",-89.8295315,34.9617604
+"smyrna, , tn, us","Smyrna, TN, USA","OK",-86.5186045,35.9828412
+"little rock , north of, ar, us","North Little Rock, AR, USA","OK",-92.2670941,34.769536
+"sallisaw, , ok, us","Sallisaw, OK 74955, USA","OK",-94.7874463,35.4603711
+"elmira, , ny, us","Elmira, NY, USA","OK",-76.8077338,42.0897965
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"mountain home , 3 miles so. of mo in center of ar, ar, us","Mountain Home, AR, USA","OK",-92.381346,36.3353949
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"belleville, , wi, us","Belleville, WI 53508, USA","OK",-89.5381766,42.8597241
+"bozeman , i-90 west&#44  20-30 miles before, mt, us",NA,"REQUEST_DENIED",NA,NA
+"syracuse, , ny, us","Syracuse, NY, USA","OK",-76.1474244,43.0481221
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"glenwood, , nm, us","Glenwood, Mogollon, NM 88039, USA","OK",-108.8833714,33.316173
+"fakenham&#44 norfolk  , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"hollywood, , ca, us","Hollywood, Los Angeles, CA, USA","OK",-118.3286614,34.0928092
+"mississippi, , wv, ","748 Mc Mechen St, Benwood, WV 26031, USA","OK",-80.7342176,40.0149222
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"dover, , nh, us","Dover, NH, USA","OK",-70.8736698,43.1978624
+"shelby, , oh, us","Shelby, OH 44875, USA","OK",-82.6618424,40.8814452
+"warthen, , ga, us","Warthen, GA 31094, USA","OK",-82.8037491,33.1020949
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"otego, , ny, us","Otego, NY, USA","OK",-75.1778853,42.4205267
+"tom, , ok, us","Tom, OK 74740, USA","OK",-94.5729863,33.7359468
+"warthen, , ga, us","Warthen, GA 31094, USA","OK",-82.8037491,33.1020949
+"chanute, , ks, us","Chanute, KS 66720, USA","OK",-95.4572034,37.6792135
+"fostoria, , oh, us","Fostoria, OH 44830, USA","OK",-83.4168702,41.156998
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"partlow, , va, us","Partlow, VA 22534, USA","OK",-77.6388764,38.038748
+"camp hill, , pa, us","Camp Hill, PA 17011, USA","OK",-76.9199742,40.2398118
+"paragon, , in, us","Paragon, IN, USA","OK",-86.562499,39.3950468
+"yorktown, , va, us","Yorktown, VA 23690, USA","OK",-76.5096731,37.2387556
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

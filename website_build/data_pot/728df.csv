@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"pollock pines, , ca, us","Pollock Pines, CA 95726, USA","OK",-120.5865935,38.7612923
+"geneva, , ne, us","Geneva, NE 68361, USA","OK",-97.5958818,40.5269512
+"bradford, baildon moor , , ","Baildon Moor, Baildon, Shipley BD17 5LG, UK","OK",-1.7869342,53.8552714
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"hermantown, , mn, us","Hermantown, MN, USA","OK",-92.2382464,46.8068852
+"patuxent river, , md, ","Patuxent River, MD, USA","OK",-76.42295,38.2772663
+"eldorado, , ar, ","El Dorado, AR 71730, USA","OK",-92.6662674,33.20763
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"yukon , canada, yk, ","Yukon, Canada","OK",-135,64.2823274
+"lyndhurst, , oh, us","Lyndhurst, OH 44124, USA","OK",-81.4887315,41.5200523
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"enumclaw, , wa, us","Enumclaw, WA 98022, USA","OK",-121.9915003,47.2042681
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"stoney creek , canada, on, ca","Stoney Creek, Hamilton, ON, Canada","OK",-79.7195586,43.2272182
+"arvada, , co, us","Arvada, CO, USA","OK",-105.0874842,39.8027644
+"dayton, , oh, us","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"highlands ranch, , co, us","Highlands Ranch, CO, USA","OK",-104.9739333,39.5480789
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"mcminnville, , or, us","McMinnville, OR 97128, USA","OK",-123.1987163,45.2101162
+"merriam, , ks, us","Merriam, KS, USA","OK",-94.6935701,39.0236165
+"minden, , nv, us","Minden, NV 89423, USA","OK",-119.7657332,38.9540739
+"grover beach, , ca, us","Grover Beach, CA, USA","OK",-120.6212821,35.1216424
+"luxembourg, , , ","Luxembourg","OK",6.129583,49.815273
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"peterborough , uk, , gb","Peterborough, UK","OK",-0.2405299,52.5694985
+"kill devil hills, , nc, us","Kill Devil Hills, NC 27948, USA","OK",-75.6760101,36.0307226
+"mount shasta , near, ca, us","Mt Shasta, CA 96067, USA","OK",-122.3105666,41.3098746
+"coronado, , ca, us","Coronado, CA, USA","OK",-117.1830891,32.6858853
+"lake city, , mi, us","Lake City, MI 49651, USA","OK",-85.2150455,44.3352872
+"vancouver island , canada, bc, ","Vancouver Island, British Columbia, Canada","OK",-125.4493906,49.6506376
+"fairfax, , va, us","Fairfax, VA, USA","OK",-77.3063733,38.8462236
+"weatherford, , tx, us","Weatherford, TX, USA","OK",-97.7972544,32.7592955
+"valley springs, , ca, us","Valley Springs, CA 95252, USA","OK",-120.8291033,38.1915856
+"converse, , tx, us","Converse, TX, USA","OK",-98.3161241,29.5180081
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"mcallen, , tx, us","McAllen, TX, USA","OK",-98.2300124,26.2034071
+"osterburg, , pa, us","Osterburg, PA 16667, USA","OK",-78.5202946,40.1695228
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"tijuana , mexico, , ","Tijuana, Baja California, Mexico","OK",-117.0382471,32.5149469
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"glenfield, , ny, us","Glenfield, NY 13343, USA","OK",-75.4021251,43.710347
+"marana, , az, us","Marana, AZ, USA","OK",-111.2224422,32.436381
+"bonnybridge , uk, , gb","Bonnybridge FK4, UK","OK",-3.887711,56.003212
+"cape may, , nj, us","Cape May, NJ 08204, USA","OK",-74.9060053,38.9351125
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"barriere , canada, bc, ca","Barrière, BC, Canada","OK",-120.1237108,51.1824784
+"barriere , canada, bc, ca","Barrière, BC, Canada","OK",-120.1237108,51.1824784
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"soap lake, , wa, us","Soap Lake, WA 98851, USA","OK",-119.490591,47.389307
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"stanley, , va, us","Stanley, VA 22851, USA","OK",-78.5025089,38.5754001
+"patchogue, , ny, us","Patchogue, NY 11772, USA","OK",-73.019343,40.7659783
+"kenai, , ak, us","Kenai, AK, USA","OK",-151.2583333,60.5544444
+"llandeilo , uk, , gb","Llandeilo SA19, UK","OK",-3.99143,51.88469
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"launceston , tas&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"asheboro, , nc, us","Asheboro, NC, USA","OK",-79.8136446,35.7079146
+"ellicott city, , md, us","Ellicott City, MD, USA","OK",-76.7983067,39.2673283
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"mitzpe ramon , israel, , ","Mitzpe Ramon, Israel","OK",34.801898,30.610203
+"mastic beach, , ny, us","Mastic Beach, NY, USA","OK",-72.8520476,40.7667655
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"marblehead, , ma, us","Marblehead, MA, USA","OK",-70.8578024,42.4999582
+"mount cobb, , pa, us","Mt Cobb, PA 18436, USA","OK",-75.4932401,41.4134163
+"darien center, , ny, us","Darien Center, NY 14040, USA","OK",-78.3886312,42.9011708
+"vine grove, , ky, us","Vine Grove, KY, USA","OK",-85.9813524,37.8100674
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"haifa , israel, , ","Haifa, Israel","OK",34.989571,32.7940463
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"columbus, , ga, us","Columbus, GA, USA","OK",-84.9877094,32.4609764
+"mae chang , thailand, , ","Mae Chang, Lampang, Thailand","OK",99.6541603,18.221781
+"payette, , id, us","Payette, ID 83661, USA","OK",-116.9337711,44.0782195
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"teterboro, , nj, us","Teterboro, NJ, USA","OK",-74.0593075,40.8598219
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"laconia, , nh, us","Laconia, NH, USA","OK",-71.4703509,43.5278546
+"marana , avra valley, az, us","Avra Valley, AZ 85653, USA","OK",-111.315385,32.4378484
+"fairburn, , ga, us","Fairburn, GA, USA","OK",-84.5810418,33.5670562
+"alamosa , madano pass, co, us","Medano Pass, Colorado 81146, USA","OK",-105.4327844,37.8561128
+"leroy, , ks, ","Le Roy, KS 66857, USA","OK",-95.6337114,38.0843917
+"pocahontas, , ia, us","Pocahontas, IA 50574, USA","OK",-94.6691467,42.7355299
+"needham, , ma, us","Needham, MA, USA","OK",-71.2377548,42.2809285
+"grass valley, , or, us","Grass Valley, OR 97029, USA","OK",-120.7856113,45.3601247
+"upshire essex , uk, , ","Upshire, Waltham Abbey EN9 3SR, UK","OK",0.0453973,51.6929709
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

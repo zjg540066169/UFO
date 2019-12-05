@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"st. george, , ut, us","St. George, UT, USA","OK",-113.5684164,37.0965278
+"north ogden, , ut, us","North Ogden, UT, USA","OK",-111.9602196,41.3071645
+"vona, , co, us","Vona, CO 80861, USA","OK",-102.7429831,39.3036044
+"wynne, , ar, us","Wynne, AR 72396, USA","OK",-90.7867798,35.224533
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"point of rocks, , wy, us","Point of Rocks, WY, USA","OK",-108.785668,41.6802397
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"gallatin, , tn, us","Gallatin, TN 37066, USA","OK",-86.4466599,36.3883809
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"cotulla, , tx, us","Cotulla, TX 78014, USA","OK",-99.2350322,28.436934
+"lewisburg, , tn, us","Lewisburg, TN 37091, USA","OK",-86.7888887,35.4492404
+"cornersville, , tn, us","Cornersville, TN, USA","OK",-86.8397236,35.3614649
+"connersville, , in, us","Connersville, IN 47331, USA","OK",-85.1410748,39.6411589
+"north hollywood, , ca, us","North Hollywood, Los Angeles, CA, USA","OK",-118.3812562,34.187044
+"lawrenceville, , ga, us","Lawrenceville, GA, USA","OK",-83.9879625,33.9562149
+"east glastonbury, , ct, us","East Glastonbury, Glastonbury, CT 06033, USA","OK",-72.5345322,41.6908061
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"chesnee, , sc, us","Chesnee, SC 29323, USA","OK",-81.8609371,35.1484549
+"chester, , pa, us","Chester, PA, USA","OK",-75.3557457,39.849557
+"calhoun, , ga, us","Calhoun, GA, USA","OK",-84.9510542,34.502587
+"seaside, , or, us","Seaside, OR 97138, USA","OK",-123.9226385,45.9931636
+"janesville wi, near tripp road, wi, ","Tripp Rd, Janesville, WI 53548, USA","OK",-89.075533,42.6353112
+"upper marlboro, , md, us","Upper Marlboro, MD 20772, USA","OK",-76.7496909,38.8159473
+"columbia, , sc, us","Columbia, SC, USA","OK",-81.0348144,34.0007104
+"stephens city, , va, us","Stephens City, VA, USA","OK",-78.2180567,39.0834398
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"evans, , ga, us","Evans, GA, USA","OK",-82.1306747,33.5337464
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"ft. denaud, , fl, ","Denaud, FL 33935, USA","OK",-81.5100775,26.7422887
+"greenacres, , fl, ","Greenacres, FL, USA","OK",-80.1353896,26.6276276
+"rio linda, , ca, us","Rio Linda, CA, USA","OK",-121.4485654,38.6910138
+"ridgecrest, , ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"yuba city, , ca, us","Yuba City, CA, USA","OK",-121.6169108,39.1404477
+"mineral bluff, , ga, us","Mineral Bluff, GA 30559, USA","OK",-84.2768849,34.9145561
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"exton, , pa, us","Exton, PA 19341, USA","OK",-75.6274583,40.0325817
+"newport beach, , ca, us","Newport Beach, CA, USA","OK",-117.9298493,33.6188829
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"lebanon, , pa, us","Lebanon, PA, USA","OK",-76.4113497,40.3409251
+"holyoke , 6-8 miles southwest of, co, us","Holyoke, CO 80734, USA","OK",-102.3024103,40.5844369
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"burney, , ca, us","Burney, CA 96013, USA","OK",-121.6608205,40.8823811
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"welwyn garden city , uk, , gb","Welwyn Garden City, UK","OK",-0.208661,51.8031689
+"howell, , mi, us","Howell, MI, USA","OK",-83.9293952,42.6072552
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"andover, , ma, us","Andover, MA, USA","OK",-71.1367953,42.6583356
+"monroe, , in, us","Monroe County, IN, USA","OK",-86.4996546,39.1851445
+"lafayette, , ca, us","Lafayette, CA, USA","OK",-122.1180201,37.8857582
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"everglades , on aligator alley, fl, ","Everglades Pkwy, Florida, USA","OK",-81.0203819,26.1694445
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"deltona, , fl, us","Deltona, FL, USA","OK",-81.2636738,28.9005446
+"lake okeechoobee, , fl, ","Lake Okeechobee, Florida, USA","OK",-80.7975834,26.9689536
+"orange, , ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"simpson, , pa, us","Simpson, PA 18407, USA","OK",-75.4851836,41.5917495
+"mukwanago, genesee , wi, ","Mukwonago, WI, USA","OK",-88.3334274,42.8666803
+"spooner, , wi, us","Spooner, WI 54801, USA","OK",-91.8893431,45.8224475
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"ft. knox, , ky, ","Fort Knox, KY 40121, USA","OK",-85.9562469,37.9161043
+"joyce kilmer slickrock creek wilderness, , nc, ","Joyce Kilmer-Slickrock Wilderness, Robbinsville, NC 28771, USA","OK",-83.9754617,35.3736955
+"eastport, , me, us","Eastport, ME, USA","OK",-66.9899785,44.9061906
+"waltham, , ma, us","Waltham, MA, USA","OK",-71.2356113,42.3764852
+"st.thomas , u. s. virgin islands, , ","St Thomas, 00802, USVI","OK",-64.8940946,18.3380965
+"grover beach, , ca, us","Grover Beach, CA, USA","OK",-120.6212821,35.1216424
+"gisborne , new zealand, , ","Gisborne, New Zealand","OK",178.017649,-38.662334
+"hollister, , ca, us","Hollister, CA 95023, USA","OK",-121.4016021,36.8524545
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"s&atilde;o paulo , brazil, , ","3804 W 8th St, Coffeyville, KS 67337, USA","OK",-95.6714121,37.0366406
+"hinesville, , ga, us","Hinesville, GA 31313, USA","OK",-81.6141099,31.8315028
+"malden, , mo, us","Malden, MO 63863, USA","OK",-89.9664798,36.5570028
+"los gatos, , ca, us","Los Gatos, CA, USA","OK",-121.9623751,37.2358078
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"indian springs, , al, us","Indian Springs Village, AL, USA","OK",-86.7491802,33.3595143
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"shiocton, , wi, us","Shiocton, WI 54170, USA","OK",-88.5789903,44.4447056
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"brockton, , ma, us","Brockton, MA, USA","OK",-71.0183787,42.0834335
+"brockton, , ma, us","Brockton, MA, USA","OK",-71.0183787,42.0834335
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"waterloo, , il, us","Waterloo, IL 62298, USA","OK",-90.1498341,38.3358857
+"munich , germany, , de","Munich, Germany","OK",11.5819805,48.1351253
+"calistoga, , ca, us","Calistoga, CA 94515, USA","OK",-122.5797054,38.5787965
+"lakewood, , co, us","Lakewood, CO, USA","OK",-105.0813734,39.7047095
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"west alexandria, , oh, us",NA,"ZERO_RESULTS",NA,NA
+"baumholder , germany, , de","55774 Baumholder, Germany","OK",7.329064,49.617846
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

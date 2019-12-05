@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"westminster , near, md, us","Westminster, MD, USA","OK",-76.9958149,39.5753791
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"sheffield , uk, , gb","Sheffield, UK","OK",-1.470085,53.381129
+"eureka springs, , ar, us","Eureka Springs, AR, USA","OK",-93.7379711,36.4011825
+"davenport, , ia, us","Davenport, IA, USA","OK",-90.5776367,41.5236437
+"beulaville, , nc, us","Beulaville, NC 28518, USA","OK",-77.7738667,34.9237763
+"tillamook, , or, us","Tillamook, OR 97141, USA","OK",-123.8440137,45.4562158
+"cicero, , il, us","Cicero, IL, USA","OK",-87.7539448,41.8455877
+"hampton , near langley afb, va, us","Langley AFB, Hampton, VA, USA","OK",-76.3592241,37.0835074
+"bolton , canada, on, ca","Bolton, Caledon, ON, Canada","OK",-79.7306602,43.8741995
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"granite city, , il, us","Granite City, IL, USA","OK",-90.1487199,38.7014389
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"watertown, , sd, us","Watertown, SD 57201, USA","OK",-97.1150732,44.8994088
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"hershey , or sutherland, ne, us","Hershey, NE, USA","OK",-101.002652,41.1586079
+"jefforsonville, , in, ","Jeffersonville, IN, USA","OK",-85.7371847,38.2775702
+"avinger , lake o&#39 the pinext, tx, us",NA,"REQUEST_DENIED",NA,NA
+"coldstream , canada, bc, ","Coldstream, BC, Canada","OK",-119.168328,50.2240647
+"nizhny novgorod , russia, , ","Nizhny Novgorod, Nizhny Novgorod Oblast, Russia","OK",43.936059,56.2965039
+"fenton, , mi, us","Fenton, MI, USA","OK",-83.7049498,42.7978061
+"colinga , near, ca, ","Coalinga, CA 93210, USA","OK",-120.3601496,36.139678
+"san fransisco, , ca, ","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"moultrie, , ga, us","Moultrie, GA, USA","OK",-83.7888387,31.1799407
+"southampton , uk, , gb","Southampton, UK","OK",-1.4043509,50.9097004
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"quincy, , ma, us","Quincy, MA, USA","OK",-71.0022705,42.2528772
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"de pere, , wi, us","De Pere, WI, USA","OK",-88.0603806,44.4488805
+"mckinney, , tx, us","McKinney, TX, USA","OK",-96.6389342,33.1983388
+"massey, , md, us","Massey, MD 21650, USA","OK",-75.825214,39.3098333
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"rotorua , new zealand, , ","Rotorua, New Zealand","OK",176.2497461,-38.1368478
+"palmdale, , ca, us","Palmdale, CA, USA","OK",-118.1164613,34.5794343
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"ione, , wa, us","Ione, WA 99139, USA","OK",-117.4171886,48.7410261
+"stratford , uk, , gb","Stratford-upon-Avon CV37, UK","OK",-1.708298,52.19173
+"west unity, , oh, us","West Unity, OH 43570, USA","OK",-84.4349491,41.586162
+"fulton, , ny, us","Fulton, NY 13069, USA","OK",-76.4171585,43.3228462
+"ojai, , ca, us","Ojai, CA 93023, USA","OK",-119.242889,34.4480495
+"east haddam, , ct, us","East Haddam, CT, USA","OK",-72.4757767,41.5034351
+"east greenbush, , ny, us","East Greenbush, NY, USA","OK",-73.6889378,42.6068049
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"seneca falls, , ny, us","Seneca Falls, NY 13148, USA","OK",-76.7966215,42.9106219
+"grand rapids, , mn, us","Grand Rapids, MN 55744, USA","OK",-93.5302142,47.2371658
+"norton , uk, , gb","Norton, Stockton-on-Tees, UK","OK",-1.3110078,54.5887043
+"sebastopol, , ca, us","Sebastopol, CA 95472, USA","OK",-122.8238806,38.4021359
+"isleta, , nm, us","Isleta Village Proper, NM, USA","OK",-106.6930811,34.9078296
+"bristol , uk, , gb","Bristol, UK","OK",-2.58791,51.454513
+"melbourne , australia, , au","Melbourne VIC, Australia","OK",144.9630576,-37.8136276
+"guayaquil, , , ","Guayaquil, Ecuador","OK",-79.8890662,-2.1894128
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"forest groce, , or, ","Forest Grove, OR 97116, USA","OK",-123.1211134,45.526998
+"boone, , nc, us","Boone, NC, USA","OK",-81.6745517,36.216795
+"norwood -cincinnati, , oh, ","2020 Sherman Ave, Cincinnati, OH 45212, USA","OK",-84.459441,39.161302
+"wildwood crest, , nj, us","Wildwood Crest, NJ 08260, USA","OK",-74.8335015,38.9748351
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"plains, , pa, us","Plains, PA 18705, USA","OK",-75.8501955,41.2753589
+"plains, , pa, us","Plains, PA 18705, USA","OK",-75.8501955,41.2753589
+"plains, , pa, us","Plains, PA 18705, USA","OK",-75.8501955,41.2753589
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"gahanna, , oh, us","Gahanna, OH, USA","OK",-82.8793446,40.0192307
+"glencoe, , ky, us","Glencoe, KY, USA","OK",-84.8227255,38.7145093
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"greenwood, , in, us","Greenwood, IN, USA","OK",-86.1066526,39.6136578
+"chamita, , nm, us","Chamita, NM 87566, USA","OK",-106.1040675,36.0753005
+"middletown, , oh, us","Middletown, OH, USA","OK",-84.3982763,39.5150576
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"bensenville, , il, us","Bensenville, IL, USA","OK",-87.9400657,41.9550296
+"gonzales, , la, us","Gonzales, LA 70737, USA","OK",-90.9200987,30.2385294
+"amboy, , ca, us","Amboy, CA 92304, USA","OK",-115.7444411,34.5577721
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"fraser, , mi, us","Fraser, MI 48026, USA","OK",-82.9493652,42.539202
+"barstow and needles , between, ca, ","Barstow, CA, USA","OK",-117.0172826,34.8957957
+"falmouth, , me, us","Falmouth, ME, USA","OK",-70.2601759,43.7435343
+"manson, , wa, us","Manson, WA 98831, USA","OK",-120.1567011,47.8847447
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"kent island, , md, ","Kent Island, MD, USA","OK",-76.3289941,38.9373391
+"eastern u.s. , commercial flight, , ",NA,"ZERO_RESULTS",NA,NA
+"cotulla, , tx, us","Cotulla, TX 78014, USA","OK",-99.2350322,28.436934
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"in-flight sighting, , il, ","Illinois, USA","OK",-89.3985283,40.6331249
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"lebanon, , oh, us","Lebanon, OH 45036, USA","OK",-84.2029922,39.4353373
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"elkins, , ar, us","Elkins, AR, USA","OK",-94.0082547,36.0014682
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

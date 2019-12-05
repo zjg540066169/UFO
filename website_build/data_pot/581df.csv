@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"newport beach, , ca, us","Newport Beach, CA, USA","OK",-117.9298493,33.6188829
+"ocean city, , nj, us","Ocean City, NJ, USA","OK",-74.5746001,39.2776156
+"overbrook, , ks, us","Overbrook, KS 66524, USA","OK",-95.5572026,38.7805607
+"avalon, , nj, us","Avalon, NJ 08202, USA","OK",-74.7176622,39.101225
+"cabazon, , ca, us","Cabazon, CA 92230, USA","OK",-116.7872399,33.9175154
+"margate, , nj, ","Margate City, NJ 08402, USA","OK",-74.5034858,39.327894
+"new milford, , ct, us","New Milford, CT, USA","OK",-73.4085463,41.5770433
+"lynn, , ma, us","Lynn, MA, USA","OK",-70.9494938,42.466763
+"nottingham, , md, us","Nottingham, MD, USA","OK",-76.4548626,39.3698263
+"hendersonville, , tn, us","Hendersonville, TN, USA","OK",-86.6199957,36.3047735
+"scandia, , mn, us","Scandia, MN, USA","OK",-92.8057669,45.2535777
+"pahrump, , nv, us","Pahrump, NV, USA","OK",-115.9839147,36.2082943
+"clemmons, , nc, us","Clemmons, NC, USA","OK",-80.3819984,36.0215258
+"mebane, , nc, us","Mebane, NC 27302, USA","OK",-79.2669619,36.0959715
+"merrill, , ia, us","Merrill, IA 51038, USA","OK",-96.2486357,42.7197133
+"nevada city, , ca, us","Nevada City, CA 95959, USA","OK",-121.0160594,39.2615606
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"ankara , turkey, , ","Ankara, Turkey","OK",32.8597419,39.9333635
+"amherst, , va, us","Amherst, VA 24521, USA","OK",-79.0514134,37.5851412
+"salinas, , ca, us","Salinas, CA, USA","OK",-121.6555013,36.6777372
+"janesville, , wi, us","Janesville, WI, USA","OK",-89.0187222,42.6827885
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"richmond, , ca, us","Richmond, CA, USA","OK",-122.3477486,37.9357576
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"evans mills, , ny, us","Evans Mills, NY 13637, USA","OK",-75.8071525,44.0881158
+"poughkeepsie, , ny, us","Poughkeepsie, NY, USA","OK",-73.9209701,41.7003713
+"port neches, , tx, us","Port Neches, TX, USA","OK",-93.9585067,29.9913244
+"sapulpa, , ok, us","Sapulpa, OK, USA","OK",-96.1141664,35.9987007
+"lindenhurst, , ny, us","Lindenhurst, NY 11757, USA","OK",-73.3734547,40.6867667
+"council bluffs, , ia, us","Council Bluffs, IA, USA","OK",-95.8608333,41.2619444
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"staunton, , va, us","Staunton, VA 24401, USA","OK",-79.0716958,38.149576
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"seaside, , or, us","Seaside, OR 97138, USA","OK",-123.9226385,45.9931636
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"independence, , ky, us","Independence, KY, USA","OK",-84.544109,38.9431183
+"hilo, , hi, us","Hilo, HI 96720, USA","OK",-155.0868193,19.7241106
+"frisco, , nc, us","Frisco, NC 27936, USA","OK",-75.6324876,35.2298559
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"north topsail, , nc, ","North Topsail Beach, NC, USA","OK",-77.43163,34.4901665
+"oakridge, , or, us","Oakridge, OR, USA","OK",-122.4617159,43.7465124
+"auburn, , ca, us","Auburn, CA, USA","OK",-121.0768901,38.8965654
+"emerald isle, , nc, us","Emerald Isle, NC 28594, USA","OK",-76.9507762,34.6779399
+"deland, , fl, ","DeLand, FL, USA","OK",-81.3031179,29.028318
+"pawleys island, , sc, us","Pawleys Island, SC, USA","OK",-79.1214313,33.4332236
+"beekmantown, , ny, us","Beekmantown, NY 12901, USA","OK",-73.4920802,44.7708742
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"ardmore, , ok, us","Ardmore, OK 73401, USA","OK",-97.1436254,34.1742611
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"west los angeles, , ca, us","West Los Angeles, Los Angeles, CA, USA","OK",-118.442596,34.0412085
+"defiance, , oh, us","Defiance, OH 43512, USA","OK",-84.3557802,41.2844933
+"mukilteo, , wa, us","Mukilteo, WA, USA","OK",-122.3045815,47.9445396
+"elkins, , wv, us","Elkins, WV 26241, USA","OK",-79.8467349,38.9259397
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"lorton, , va, us","Lorton, VA, USA","OK",-77.2277603,38.704282
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"fort myers beach, , fl, us","Fort Myers Beach, FL 33931, USA","OK",-81.948145,26.4520248
+"troy, , il, us","Troy, IL, USA","OK",-89.8831541,38.7292147
+"huber heights , bethel township, oh, us","Huber Heights, OH, USA","OK",-84.1246608,39.843947
+"ann arbor, , mi, us","Ann Arbor, MI, USA","OK",-83.7430378,42.2808256
+"staten island, , ny, ","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"raton, des moines, nm, ","532 Broadway Ave, Des Moines, NM 88418, USA","OK",-103.83366,36.7606017
+"smithport, , pa, us","Smethport, PA 16749, USA","OK",-78.4447413,41.8111748
+"rock springs, , wy, us","Rock Springs, WY 82901, USA","OK",-109.2029043,41.5874644
+"burkesville, , ky, us","Burkesville, KY 42717, USA","OK",-85.3705186,36.7903399
+"springdale, , ar, us","Springdale, AR, USA","OK",-94.1288141,36.1867442
+"tupelo, , ms, us","Tupelo, MS, USA","OK",-88.7033859,34.2576066
+"new jersey , northern, nj, ","Bergen County, NJ, USA","OK",-74.07701,40.9262762
+"pulaski, , va, us","Pulaski, VA 24301, USA","OK",-80.7797935,37.0478982
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"chosica , peru, , ","Lurigancho-Chosica, Peru","OK",-76.9053613,-12.0096967
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"cleveland heights, , oh, us","Cleveland Heights, OH, USA","OK",-81.556235,41.5200518
+"zell , farm outside of, sd, us","Zell, SD 57469, USA","OK",-98.7284331,44.8969201
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"kindred, , nd, us","Kindred, ND 58051, USA","OK",-97.0170323,46.6485779
+"levittown, , ny, us","Levittown, NY, USA","OK",-73.5142921,40.7259336
+"kelso, , wa, us","Kelso, WA, USA","OK",-122.9084445,46.146779
+"manchester, , ct, us","Manchester, CT, USA","OK",-72.5215009,41.7759301
+"new goshen, , in, us","New Goshen, IN, USA","OK",-87.46231,39.5811657
+"williamsport, , pa, us","Williamsport, PA, USA","OK",-77.0010786,41.2411897
+"martinsburg, , wv, us","Martinsburg, WV, USA","OK",-77.9638869,39.4562099
+"salem, , il, us","Salem, IL, USA","OK",-88.9456158,38.6269929
+"marfa, , tx, us","Marfa, TX 79843, USA","OK",-104.020623,30.3094622
+"morgan city, , la, us","Morgan City, LA 70380, USA","OK",-91.20677,29.6993748
+"salem, , ma, us","Salem, MA, USA","OK",-70.8967155,42.51954
+"woodbridge, , nj, us","Woodbridge Township, NJ, USA","OK",-74.2846022,40.5575986
+"albion, , ny, us","Albion, NY 14411, USA","OK",-78.1936319,43.2464477
+"blackstone, , ma, us","Blackstone, MA 01504, USA","OK",-71.536786,42.0418415
+"tupelo, , ms, us","Tupelo, MS, USA","OK",-88.7033859,34.2576066
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"roseville, , mn, us","Roseville, MN 55113, USA","OK",-93.1566107,45.0060767
+"new gulf, , tx, ","Newgulf, TX 77420, USA","OK",-95.8999532,29.255248
+"newbury park, , ca, us","Newbury Park, Thousand Oaks, CA, USA","OK",-118.9070887,34.1805403
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

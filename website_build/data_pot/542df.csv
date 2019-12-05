@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"ontario, , ca, us","Ontario, CA, USA","OK",-117.6508876,34.0633443
+"elkhart, , in, us","Elkhart, IN, USA","OK",-85.9766671,41.6819935
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"rudy, , ar, us","Rudy, AR, USA","OK",-94.2707652,35.5278646
+"overland park, , ks, us","Overland Park, KS, USA","OK",-94.6707917,38.9822282
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"weatherford, , tx, us","Weatherford, TX, USA","OK",-97.7972544,32.7592955
+"brisbane , australia, , au","Brisbane QLD, Australia","OK",153.0251235,-27.4697707
+"coeur d&#39alene mountains, , wa, ",NA,"REQUEST_DENIED",NA,NA
+"mcpherson, , ks, us","McPherson, KS 67460, USA","OK",-97.6642087,38.3708415
+"asdod , israel, , ","Ashdod, Israel","OK",34.655314,31.804381
+"brantford , canada, on, ca","Brantford, ON, Canada","OK",-80.2644254,43.1393867
+"france , over&#44 somewhere, , ",NA,"REQUEST_DENIED",NA,NA
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"rustburg, , va, us","Rustburg, VA 24588, USA","OK",-79.1008543,37.2768113
+"not sure, , ca, ","Big Sur, CA, USA","OK",-121.8080556,36.2704233
+"clearfield, , pa, us","Clearfield, PA 16830, USA","OK",-78.4391876,41.0272796
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"winchester, , in, us","Winchester, IN 47394, USA","OK",-84.9813549,40.1719892
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"vandergrift, , pa, us","Vandergrift, PA, USA","OK",-79.5647667,40.6028434
+"dennisport, , ma, ","Dennis Port, Dennis, MA, USA","OK",-70.1286293,41.658445
+"stonyford, , ca, us","Stonyford, CA 95979, USA","OK",-122.5445485,39.3750411
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"beloit, , wi, us","Beloit, WI 53511, USA","OK",-89.0317765,42.5083482
+"granite falls, , wa, us","Granite Falls, WA 98252, USA","OK",-121.968742,48.0839895
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"newport, , ri, us","Newport, RI, USA","OK",-71.3128285,41.4901024
+"chesterfield, , mo, us","Chesterfield, MO, USA","OK",-90.5770675,38.6631083
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"manchester, , nh, us","Manchester, NH, USA","OK",-71.4547891,42.9956397
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"elkhart, , in, us","Elkhart, IN, USA","OK",-85.9766671,41.6819935
+"pasco, , wa, us","Pasco, WA 99301, USA","OK",-119.0922316,46.2305049
+"ely, , mn, us","Ely, MN 55731, USA","OK",-91.8670873,47.9032372
+"mulino, , or, us","Mulino, OR, USA","OK",-122.5816605,45.2212415
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"adelaide , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"polonnaruwa , sri lanka, , ","Polonnaruwa, Sri Lanka","OK",81.0187984,7.9403384
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"gilroy, , ca, us","Gilroy, CA 95020, USA","OK",-121.5566373,37.0029828
+"gilroy, , ca, us","Gilroy, CA 95020, USA","OK",-121.5566373,37.0029828
+"melbourne , australia, , au","Melbourne VIC, Australia","OK",144.9630576,-37.8136276
+"covington , on highway 64, va, us","I-64, Covington, VA, USA","OK",-80.0063291,37.7806614
+"beaver, , pa, us","Beaver, PA, USA","OK",-80.3047846,40.6953437
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"chattahoochee county, , ga, us","Chattahoochee County, GA, USA","OK",-84.8150781,32.2952274
+"maize, , ks, us","Maize, KS, USA","OK",-97.4672674,37.7791787
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"adelaide , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"muskegon, , mi, us","Muskegon, MI, USA","OK",-86.2483921,43.2341813
+"clinton, , nj, us","Clinton, NJ 08809, USA","OK",-74.90989,40.6367682
+"high bridge, , nj, us","High Bridge, NJ, USA","OK",-74.8957231,40.6670454
+"rotterdam , netherlands, , ","Rotterdam, Netherlands","OK",4.4777326,51.9244201
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"linn creek, , mo, us","Linn Creek, MO 65052, USA","OK",-92.7115732,38.0380899
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"la vergne, , tn, us","La Vergne, TN, USA","OK",-86.5819394,36.0156178
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"samos , greece, , ","Samos, Greece","OK",26.9777701,37.7547857
+"manchester, , nh, us","Manchester, NH, USA","OK",-71.4547891,42.9956397
+"oakley, , ca, us","Oakley, CA 94561, USA","OK",-121.7124536,37.9974219
+"van buren, , ar, us","Van Buren, AR 72956, USA","OK",-94.348268,35.436756
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"argos, , in, us","3015 Windward Plaza Suite 300, Alpharetta, GA 30005, USA","OK",-84.2440812,34.0912494
+"albuquerque, houston , tx, ","2727 W Holcombe Blvd, Houston, TX 77025, USA","OK",-95.421271,29.705321
+"mound, , mn, us","Mound, MN 55364, USA","OK",-93.6660719,44.9366295
+"nanaimo&#44 parksville , canada, bc, ",NA,"REQUEST_DENIED",NA,NA
+"st. george island, , fl, ","St. George Island, Florida 32328, USA","OK",-84.8802444,29.6584899
+"neosho, , mo, us","Neosho, MO 64850, USA","OK",-94.367996,36.8689554
+"wayland, , mi, us","Wayland, MI 49348, USA","OK",-85.6447438,42.6739208
+"hopewell junction, , ny, us","Hopewell Junction, NY 12533, USA","OK",-73.8087442,41.5839823
+"tweed heads , australia, , au","Tweed Heads NSW, Australia","OK",153.5370011,-28.1786656
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"lowell, , ar, us","Lowell, AR, USA","OK",-94.1307587,36.2553543
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"texarkana, , tx, us","Texarkana, TX, USA","OK",-94.0476882,33.425125
+"kenly, , nc, us","Kenly, NC 27542, USA","OK",-78.124809,35.5960854
+"elora , canada, on, ca","Elora, ON, Canada","OK",-80.4305427,43.683715
+"shropshire , uk, , gb","Shropshire, UK","OK",-2.7417849,52.7063657
+"atmore, , al, us","Atmore, AL 36502, USA","OK",-87.4938708,31.0237921
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"llanelli , south wales, , gb","Llanelli, UK","OK",-4.160248,51.680886
+"deerfield, , il, us","Deerfield, IL, USA","OK",-87.8445119,42.1711365
+"trinidad, , co, us","Trinidad, CO 81082, USA","OK",-104.5005407,37.1694632
+"ellendale, , mn, us","Ellendale, MN 56026, USA","OK",-93.3013213,43.8727383
+"grimsby , uk, , gb","Grimsby, UK","OK",-0.080784,53.567471
+"quito , ecuador, , ","Quito, Ecuador","OK",-78.4678382,-0.1806532
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

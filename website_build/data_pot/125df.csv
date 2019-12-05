@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hartford, , ct, us","Hartford, CT, USA","OK",-72.6733723,41.7658043
+"battle ground, , wa, us","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"carbondale, , il, us","Carbondale, IL, USA","OK",-89.2167501,37.7272727
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"half moon bay, , ca, us","Half Moon Bay, CA, USA","OK",-122.4285862,37.4635519
+"barbourville, , ky, us","Barbourville, KY, USA","OK",-83.8888138,36.8664765
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"belton, , mo, us","Belton, MO, USA","OK",-94.5318982,38.8119527
+"pekin, , in, us","New Pekin, IN 47165, USA","OK",-86.016919,38.50506
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"casper, , wy, us","Casper, WY, USA","OK",-106.3251749,42.8500769
+"bullhead city, , az, us","Bullhead City, AZ, USA","OK",-114.5285981,35.1359386
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"oregon, , oh, us","Oregon, OH, USA","OK",-83.4868768,41.6436603
+"west allenhurst, , nj, us","West Allenhurst, Ocean Township, NJ 07711, USA","OK",-74.0112834,40.2377829
+"fountain city, , wi, us","Fountain City, WI 54629, USA","OK",-91.7187627,44.1319078
+"el paso and alamogordo , between , nm, ","1021 S White Sands Blvd # A, Alamogordo, NM 88310, USA","OK",-105.9590283,32.8797978
+"belton, , tx, us","Belton, TX, USA","OK",-97.464453,31.0560132
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"valley stream, , ny, us","Valley Stream, NY, USA","OK",-73.7084645,40.6642699
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"auburn, , nh, us","Auburn, NH, USA","OK",-71.348398,43.0045288
+"norwalk, , ca, us","Norwalk, CA, USA","OK",-118.081733,33.9022367
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"redlands, , ca, us","Redlands, CA, USA","OK",-117.1825381,34.0555693
+"monticello, , mn, us","Monticello, MN, USA","OK",-93.7941378,45.3055201
+"lost river, , wv, ","Lost River, WV 26801, USA","OK",-78.8057968,38.9561313
+"swaledale, , ia, us","Swaledale, IA 50477, USA","OK",-93.314887,42.9771521
+"oud-heverlee , belgium, , ","Oud-Heverlee, Belgium","OK",4.6633371,50.8371647
+"gallatin, , tn, us","Gallatin, TN 37066, USA","OK",-86.4466599,36.3883809
+"gallatin, , tn, us","Gallatin, TN 37066, USA","OK",-86.4466599,36.3883809
+"keystone , us 30 @, ia, us","US-30, Iowa, USA","OK",-93.0978418,42.0082167
+"brighton, , ma, us","Brighton, Boston, MA, USA","OK",-71.1626756,42.3463503
+"philippines, , , ","Philippines","OK",121.774017,12.879721
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"new salem, , il, us","New Salem, IL 62357, USA","OK",-90.8476304,39.7075473
+"cabot, , ar, us","Cabot, AR, USA","OK",-92.0165336,34.974532
+"seekonk, , ma, us","Seekonk, MA, USA","OK",-71.3369972,41.808434
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"muskogee, , ok, us","Muskogee, OK, USA","OK",-95.3696909,35.7478769
+"piscataway, , nj, us","Piscataway, NJ 08854, USA","OK",-74.4642861,40.554887
+"johnson city, , ny, us","Johnson City, NY 13790, USA","OK",-75.9588092,42.1156308
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"ponca city, , ok, us","Ponca City, OK, USA","OK",-97.0855948,36.706981
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"brunswick, , me, us","Brunswick, ME 04011, USA","OK",-69.966996,43.9140162
+"pearland, , tx, us","Pearland, TX, USA","OK",-95.2860474,29.5635666
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"puerto vallarta , mexico, , ","Puerto Vallarta, Jalisco, Mexico","OK",-105.2253316,20.653407
+"woodburn, , or, us","Woodburn, OR 97071, USA","OK",-122.8553724,45.143731
+"dade city, , fl, us","Dade City, FL, USA","OK",-82.1959178,28.3647248
+"navajo mountain, , ut, us","Navajo Mountain, UT 86044, USA","OK",-110.7912486,37.0194409
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"frankin, , ny, ","Franklin, NY 13775, USA","OK",-75.1651689,42.3406373
+"franklin, , ma, us","Franklin, MA 02038, USA","OK",-71.396725,42.0834313
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"princess anne, , md, us","Princess Anne, MD 21853, USA","OK",-75.692427,38.2028993
+"lee vining, , ca, us","Lee Vining, CA 93541, USA","OK",-119.119943,37.957592
+"puckett, , ms, us","Puckett, MS, USA","OK",-89.7759998,32.0814661
+"goffs , ne of, ca, us","Goffs, CA 92332, USA","OK",-115.060997,34.917431
+"bodie state park, , ca, ","Bodie, CA, USA","OK",-119.01251,38.2127793
+"bertram, , tx, us","Bertram, TX 78605, USA","OK",-98.0555763,30.7437957
+"ettalong beach nsw , australia, , ","Ettalong Beach NSW 2257, Australia","OK",151.335,-33.515
+"byron, , ga, us","Byron, GA 31008, USA","OK",-83.7596295,32.6537561
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"moss landing, , ca, us","Moss Landing, CA 95039, USA","OK",-121.7868953,36.8044003
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"macon, , mo, us","Macon, MO 63552, USA","OK",-92.4726859,39.7422561
+"blue springs, , mo, us","Blue Springs, MO, USA","OK",-94.2816148,39.0169509
+"barnala sherpur , village, , ","Barnala, Punjab, India","OK",75.5467979,30.3819446
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"bellchester, , mn, ","Bellechester, MN, USA","OK",-92.5112976,44.3683004
+"newcastle , uk, , gb","Newcastle upon Tyne, UK","OK",-1.61778,54.978252
+"southampton, , pa, us","Southampton, PA, USA","OK",-75.0435916,40.179209
+"grove, , ok, us","Grove, OK 74344, USA","OK",-94.7691186,36.5936863
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"battle ground, , wa, us","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"fort washington, , pa, us","Fort Washington, PA, USA","OK",-75.1926937,40.1416782
+"chantilly, centreville, va, ","Chantilly, VA, USA","OK",-77.4310992,38.8942786
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"east falmouth, , ma, us","East Falmouth, Falmouth, MA 02536, USA","OK",-70.5586401,41.5784425
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"thornton-cleveleys , uk, , ","Thornton-Cleveleys FY5 3SU, UK","OK",-3.0213709,53.873712
+"leesburg, , ga, us","Leesburg, GA 31763, USA","OK",-84.1707423,31.7321156
+"stratford , not exact, ct, us","Stratford, CT, USA","OK",-73.1331651,41.1845415
+"duvall, , wa, us","Duvall, WA 98019, USA","OK",-121.9856781,47.7423218
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

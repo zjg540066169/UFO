@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"morecambe , uk, , gb","Morecambe, UK","OK",-2.864968,54.074166
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"churchville, , md, us","Churchville, MD, USA","OK",-76.2497401,39.5596314
+"lansing, , mi, us","Lansing, MI, USA","OK",-84.5555347,42.732535
+"bowleys quarters, , md, us","Bowleys Quarters, MD, USA","OK",-76.3942732,39.3256518
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"florence, , or, us","Florence, OR 97439, USA","OK",-124.099841,43.9826214
+"papillion, , ne, us","Papillion, NE, USA","OK",-96.0422378,41.1544432
+"sullivan, , il, us","Sullivan, IL 61951, USA","OK",-88.6078392,39.599479
+"burleson, , tx, us","Burleson, TX, USA","OK",-97.3208492,32.5420821
+"fridley, , mn, us","Fridley, MN, USA","OK",-93.2632821,45.0860765
+"tuscon, , az, ","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"raymore, , mo, us","Raymore, MO 64083, USA","OK",-94.4527294,38.801953
+"in-flight , midwestern u. s., mt, ","Montana, USA","OK",-110.3625658,46.8796822
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"ararat, , va, us","Ararat, VA 24053, USA","OK",-80.5106191,36.599025
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"porum, , ok, us","Porum, OK 74455, USA","OK",-95.2655231,35.3562083
+"joshua tree, , ca, us","Joshua Tree, CA 92252, USA","OK",-116.3130661,34.134728
+"pollock, , la, us","Pollock, LA 71467, USA","OK",-92.4070823,31.5257321
+"jackson, , nj, us","Jackson Township, NJ, USA","OK",-74.3587473,40.0918895
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"manville, , nj, us","Manville, NJ 08835, USA","OK",-74.5876569,40.5409367
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"kent , uk, , gb","Kent, UK","OK",0.5217254,51.2787075
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"west sacramento, , ca, us","West Sacramento, CA, USA","OK",-121.530234,38.5804609
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"camarillo, , ca, us","Camarillo, CA, USA","OK",-119.0376023,34.2163937
+"stockbridge, , ga, us","Stockbridge, GA, USA","OK",-84.2338093,33.5442781
+"albuquerque , 20 miles east of, nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"mojave, , ca, us","Mojave, CA 93501, USA","OK",-118.1739645,35.0524699
+"pauma, , ca, ","Pauma Valley, CA 92061, USA","OK",-116.9814167,33.3033679
+"jammu , india, , ","Jammu and Kashmir","OK",76.5761714,33.778175
+"cape may, , nj, us","Cape May, NJ 08204, USA","OK",-74.9060053,38.9351125
+"middlesbrough , uk, , gb","Middlesbrough, UK","OK",-1.234956,54.574227
+"bulls gap, , tn, us","Bulls Gap, TN 37711, USA","OK",-83.0859967,36.2570407
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"port alberni , canada, bc, ca","Port Alberni, BC, Canada","OK",-124.8055494,49.2338882
+"cottonwood, , ca, us","Cottonwood, CA 96022, USA","OK",-122.2808355,40.3857087
+"grayson, , ky, us","Grayson, KY 41143, USA","OK",-82.9485023,38.3325812
+"belvidere, , il, us","Belvidere, IL 61008, USA","OK",-88.8442674,42.2639098
+"george , at gorge amphitheater, wa, ","754 Silica Rd NW, George, WA 98848, USA","OK",-119.9956017,47.1012282
+"george, , wa, us","George, WA, USA","OK",-119.8558822,47.0790224
+"south pasadena, , ca, us","South Pasadena, CA 91030, USA","OK",-118.1503488,34.1161196
+"eldorado, , il, us","Eldorado, IL 62930, USA","OK",-88.4381029,37.8136583
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"norwood, , oh, us","Norwood, OH, USA","OK",-84.4542798,39.1644798
+"carbondale, , pa, us","Carbondale, PA 18407, USA","OK",-75.5018508,41.5736935
+"tecoman , mexico, , ","Tecomán, Colima, Mexico","OK",-103.8738031,18.9173829
+"bennington, , vt, us","Bennington, VT 05201, USA","OK",-73.1967741,42.8781345
+"la porte, , tx, us","La Porte, TX 77571, USA","OK",-95.0193728,29.6657838
+"frisco, , tx, us","Frisco, TX, USA","OK",-96.8236116,33.1506744
+"clovis, , nm, us","Clovis, NM 88101, USA","OK",-103.2052272,34.4047987
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"princeton, , il, us","Princeton, IL 61356, USA","OK",-89.4648145,41.3680919
+"blandon, , pa, us","Blandon, PA, USA","OK",-75.8867317,40.4413786
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"medina, , mn, us","Medina, MN, USA","OK",-93.5824586,45.0352411
+"arizona city, , az, us","Arizona City, AZ 85123, USA","OK",-111.6709584,32.7558935
+"bethlehem, , ct, us","Bethlehem, CT, USA","OK",-73.2057595,41.640378
+"canyon lake, , tx, us","Canyon Lake, TX, USA","OK",-98.2625127,29.8752177
+"orondo , near, wa, us","Orondo, WA 98843, USA","OK",-120.2281346,47.6233217
+"clatskanie, , or, us","Clatskanie, OR 97016, USA","OK",-123.2039163,46.1041271
+"clinton, , nj, us","Clinton, NJ 08809, USA","OK",-74.90989,40.6367682
+"sunriver, , or, us","Sunriver, OR 97707, USA","OK",-121.4333539,43.8693935
+"sioux city, , ia, us","Sioux City, IA, USA","OK",-96.4049408,42.4963416
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"denver, , pa, us","Denver, PA, USA","OK",-76.1371683,40.2331483
+"frenchtown, , nj, us","Frenchtown, NJ 08825, USA","OK",-75.06156,40.5262138
+"long beach, , ny, us","Long Beach, NY, USA","OK",-73.657908,40.5884373
+"milford, , de, us","Milford, DE 19963, USA","OK",-75.4279748,38.9126129
+"north yorkshire , uk, , gb","North Yorkshire, UK","OK",-1.5412015,53.9915028
+"scotch plains, , nj, us","Scotch Plains, NJ 07076, USA","OK",-74.369018,40.6400404
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"vienna, , va, us","Vienna, VA 22180, USA","OK",-77.2652604,38.9012225
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"riverside, , pa, us","Riverside, PA, USA","OK",-76.6288451,40.9553644
+"winfield, , il, us","Winfield, IL, USA","OK",-88.1609031,41.8616956
+"sterling heights, , mi, us","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"haltom city, , tx, us","Haltom City, TX, USA","OK",-97.2691817,32.7995738
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"brantford , canada, on, ca","Brantford, ON, Canada","OK",-80.2644254,43.1393867
+"keaau, , hi, us","Keaau, HI 96749, USA","OK",-155.0394139,19.6213287
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"east dennis, , ma, us","East Dennis, Dennis, MA, USA","OK",-70.1619638,41.7426094
+"centralia, , wa, us","Centralia, WA, USA","OK",-122.9542972,46.7162136
+"mukwonago, , wi, us","Mukwonago, WI, USA","OK",-88.3334274,42.8666803
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"victoria, , tx, us","Victoria, TX, USA","OK",-97.0035982,28.8052674
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

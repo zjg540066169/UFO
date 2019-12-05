@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"beaumont, , tx, us","Beaumont, TX, USA","OK",-94.1265562,30.080174
+"norfolk, , va, us","Norfolk, VA, USA","OK",-76.2858726,36.8507689
+"tracy, , ca, us","Tracy, CA, USA","OK",-121.4252227,37.7396513
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"vineland, , nj, us","Vineland, NJ, USA","OK",-75.0259637,39.4863773
+"imperial beach, , ca, us","Imperial Beach, CA, USA","OK",-117.1130849,32.5839444
+"mount wilson observatory , los angeles, ca, ","Los Angeles, CA, USA","OK",-118.0572966,34.2252867
+"brick, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"mount kisco, , ny, us","Mt Kisco, NY 10549, USA","OK",-73.7270761,41.2042616
+"california , entire west coast, ca, ","2785 CA-46, Wasco, CA 93280, USA","OK",-119.3563077,35.6004347
+"dolly sods wilderness area, , wv, ","Dolly Sods Wilderness, Dry Fork, WV 26260, USA","OK",-79.3436563,39.0448313
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"st. charles , 1.5 mi north of&#44 randall road, il, us",NA,"REQUEST_DENIED",NA,NA
+"silverdale, , wa, us","Silverdale, WA, USA","OK",-122.6948697,47.6445386
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"roseburg, , or, us","Roseburg, OR, USA","OK",-123.3417381,43.216505
+"tomah, , wi, us","Tomah, WI 54660, USA","OK",-90.5040214,43.9785759
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"los altos, , ca, us","Los Altos, CA, USA","OK",-122.1141298,37.3852183
+"shasta, sand flat, ca, ","Sand Flat , Mt Shasta, Sand Flat Rd, Mt Shasta, CA 96067, USA","OK",-122.2518139,41.3490428
+"marathon, , fl, us","Marathon, FL 33050, USA","OK",-81.0446262,24.726026
+"charlottetown , canada, pe, ca","Charlottetown, PE, Canada","OK",-63.1310704,46.23824
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"mount shasta, , ca, us","Mt Shasta, CA 96067, USA","OK",-122.3105666,41.3098746
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"shasta, sand flat, ca, ","Sand Flat , Mt Shasta, Sand Flat Rd, Mt Shasta, CA 96067, USA","OK",-122.2518139,41.3490428
+"cozumel , mexico, , ","Cozumel, Quintana Roo, Mexico","OK",-86.9223432,20.4229839
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"mechanicsburg, , pa, us","Mechanicsburg, PA, USA","OK",-77.0080309,40.2132692
+"coatesville, , pa, us","Coatesville, PA 19320, USA","OK",-75.8238355,39.9831616
+"gardiner, , mt, us","Gardiner, MT 59030, USA","OK",-110.7057663,45.0318802
+"mount laurel, , nj, us","Mt Laurel Township, NJ, USA","OK",-74.8909988,39.934002
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"alamogordo, , nm, us","Alamogordo, NM 88310, USA","OK",-105.960265,32.8995325
+"hermitage, , pa, us","Hermitage, PA, USA","OK",-80.44868,41.2333896
+"white oak, , ms, us","White Oak, MS 38676, USA","OK",-90.35417,34.6458299
+"johannesburg, , mi, us","Johannesburg, MI 49751, USA","OK",-84.4556356,44.9857311
+"dahlonega, , ga, us","Dahlonega, GA 30533, USA","OK",-83.9843953,34.5261465
+"lincoln , uk, , gb","Lincoln, UK","OK",-0.540579,53.230688
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"pepperell, , ma, us","Pepperell, MA 01463, USA","OK",-71.5884363,42.6659232
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"angeles national forest area, , ca, ","Angeles National Forest, Palmdale, CA 93550, USA","OK",-118.0057775,34.3166567
+"groton, , nh, us","Groton, NH, USA","OK",-71.8367572,43.7018051
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"rochelle, , tx, us","Rochelle, TX, USA","OK",-99.2098287,31.2246566
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"holland, , oh, us","Holland, OH 43528, USA","OK",-83.711604,41.621718
+"mehoopany, , pa, us","Mehoopany, PA 18629, USA","OK",-76.0604814,41.5634095
+"moriches bay , long island, ny, ","Moriches Bay, New York, USA","OK",-72.7171052,40.7810173
+"moriches bay , long island, ny, ","Moriches Bay, New York, USA","OK",-72.7171052,40.7810173
+"thailand , northeast, , ","3520 Cottman Ave, Philadelphia, PA 19149, USA","OK",-75.0421226,40.0372006
+"huntsville, , tx, us","Huntsville, TX, USA","OK",-95.5507771,30.7235263
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"punta gorda, , fl, us","Punta Gorda, FL, USA","OK",-82.0453664,26.9297836
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"caribbean sea, , fl, ","235 Commercial Blvd, Lauderdale-By-The-Sea, FL 33308, USA","OK",-80.0995178,26.1902783
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"rogersville, , tn, us","Rogersville, TN 37857, USA","OK",-83.0054423,36.407317
+"lake worth, , fl, us","Lake Worth, FL, USA","OK",-80.0684479,26.6167555
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"ellicott city, , md, us","Ellicott City, MD, USA","OK",-76.7983067,39.2673283
+"norfolk, , ny, us","Norfolk, NY, USA","OK",-74.9910336,44.8008872
+"calexico, , ca, us","Calexico, CA, USA","OK",-115.4988834,32.6789476
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"prescott, , az, us","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"surfside beach, , sc, us","Surfside Beach, SC 29575, USA","OK",-78.9730887,33.6060031
+"tallahassee, , fl, us","Tallahassee, FL, USA","OK",-84.2807329,30.4382559
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"cranbrook , canada, bc, ca","Cranbrook, BC V1C, Canada","OK",-115.7694002,49.5129678
+"waterville, , me, us","Waterville, ME, USA","OK",-69.6317121,44.5520105
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"whangarei , new zealand, ny, ","New York, NY, USA","OK",-74.0059728,40.7127753
+"raeford, , nc, us","Raeford, NC 28376, USA","OK",-79.2241997,34.9809995
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"dubai , uae, , ","Dubai - United Arab Emirates","OK",55.2707828,25.2048493
+"natchez, , ms, us","Natchez, MS 39120, USA","OK",-91.403171,31.5604442
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"lincolnton, , ga, us","Lincolnton, GA 30817, USA","OK",-82.479018,33.7923477
+"krimpen a, d ijssel , , ","Krimpen aan den IJssel, Netherlands","OK",4.5962325,51.9143534
+"corunna, , mi, us","Corunna, MI, USA","OK",-84.117745,42.9819728
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"nodine, , mn, us","Nodine, MN 55925, USA","OK",-91.4362532,43.9049645
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

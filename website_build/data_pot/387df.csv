@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"martinsburg, , wv, us","Martinsburg, WV, USA","OK",-77.9638869,39.4562099
+"malton , canada, on, ca","Malton, Mississauga, ON L4T, Canada","OK",-79.6419698,43.7210303
+"fillmore, , in, us","Fillmore, IN 46128, USA","OK",-86.7533401,39.6675465
+"stillwater, , mn, us","Stillwater, MN 55082, USA","OK",-92.8088443,45.056004
+"norcoss, , ga, ","Norcross, GA, USA","OK",-84.2135309,33.9412127
+"atlanta , after takeoff; in flight, ga, us","Hartsfield-Jackson Atlanta International Airport (ATL), 6000 N Terminal Pkwy, Atlanta, GA 30320, USA","OK",-84.4277001,33.6407282
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"westwood, , nj, us","Westwood, NJ 07675, USA","OK",-74.0326395,40.9912087
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"coquitlam , canada, bc, ca","Coquitlam, BC, Canada","OK",-122.7932065,49.2837626
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"kenhorst, reading, pa, ","Kenhorst, PA 19607, USA","OK",-75.939376,40.3106481
+"whitefish, , mt, us","Whitefish, MT 59937, USA","OK",-114.3352652,48.4106373
+"pembroke, , va, us","Pembroke, VA 24136, USA","OK",-80.6389541,37.3195684
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"lodi, , ca, us","Lodi, CA, USA","OK",-121.2722194,38.1341477
+"orland, , ca, us","Orland, CA 95963, USA","OK",-122.1963748,39.7473803
+"spokane valley, , wa, us","Spokane Valley, WA, USA","OK",-117.2393748,47.6732281
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"south reno, , nv, ","Reno, NV, USA","OK",-119.8138027,39.5296329
+"ibadan , univ. of ibadan, , ","Ibadan, Nigeria","OK",3.9003432,7.4445907
+"palm beach gardens, , fl, us","Palm Beach Gardens, FL, USA","OK",-80.1386547,26.8233946
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"decatur, , il, us","Decatur, IL, USA","OK",-88.9548001,39.8403147
+"maple grove, , mn, us","Maple Grove, MN, USA","OK",-93.4557877,45.0724642
+"greer, , sc, us","Greer, SC, USA","OK",-82.2270568,34.9387279
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"windsor, , il, us","1424 Minnesota Ave, Windsor, IL 61957, USA","OK",-88.6015513,39.4426601
+"richardson, , tx, us","Richardson, TX, USA","OK",-96.7298519,32.9483335
+"st. helena, , nc, us","St Helena, NC 28425, USA","OK",-77.9167457,34.5141813
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"rio rancho, , nm, us","Rio Rancho, NM, USA","OK",-106.6630437,35.2327544
+"marco island, , fl, ","Marco Island, FL 34145, USA","OK",-81.7075355,25.9397412
+"hinesville, , ga, us","Hinesville, GA 31313, USA","OK",-81.6141099,31.8315028
+"stockton, west of, ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"grindstone, , pa, us","Grindstone, PA 15442, USA","OK",-79.8315845,40.0173724
+"cedar park, , tx, us","Cedar Park, TX, USA","OK",-97.8202888,30.505198
+"juneau, , ak, us","Juneau, AK, USA","OK",-134.4197221,58.3019444
+"exeter, , ne, us","Exeter, NE 68351, USA","OK",-97.4503271,40.6441737
+"ypsilanti, , mi, us","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"babson park, , fl, us","Babson Park, FL 33827, USA","OK",-81.5222974,27.8319708
+"london, , ky, us","London, KY, USA","OK",-84.0832646,37.1289771
+"south fulton, , tn, us","South Fulton, TN 38257, USA","OK",-88.8753371,36.5008943
+"chesaprake, , va, ","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"lexington, , nc, us","Lexington, NC, USA","OK",-80.2533838,35.8240265
+"clinton, , ny, us","Clinton, NY 13323, USA","OK",-75.3785034,43.0484029
+"la mesa, , ca, us","La Mesa, CA, USA","OK",-117.0230839,32.7678287
+"raywick, , ky, us","Raywick, KY 40060, USA","OK",-85.4305193,37.5603408
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"nikko , japan, , ","Nikko, Tochigi, Japan","OK",139.6982361,36.7198987
+"dauphin island, , al, us","Dauphin Island, AL, USA","OK",-88.1124155,30.2542565
+"clovis, , nm, us","Clovis, NM 88101, USA","OK",-103.2052272,34.4047987
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"dauphin island, , al, us","Dauphin Island, AL, USA","OK",-88.1124155,30.2542565
+"mansfield , quebec, qc, ","Mansfield-et-Pontefract, QC, Canada","OK",-76.7329996,45.8525303
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"forster , australia, , au","Forster NSW 2428, Australia","OK",152.511667,-32.180556
+"mount vernon, , wa, us","Mt Vernon, WA, USA","OK",-122.3374543,48.4201105
+"lincoln, , ca, us","Lincoln, CA, USA","OK",-121.2930079,38.891565
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"hamburg, , ny, us","Hamburg, NY 14075, USA","OK",-78.8294768,42.7158927
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"beaver creek, , or, us","Beavercreek, OR, USA","OK",-122.5353423,45.2879294
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"clarion, , pa, us","Clarion, PA 16214, USA","OK",-79.3853218,41.2147851
+"coos bay, , or, us","Coos Bay, OR, USA","OK",-124.2178903,43.3665007
+"new brighton, , mn, us","New Brighton, MN 55112, USA","OK",-93.2018908,45.0655212
+"depoe bay, , or, us","Depoe Bay, OR 97341, USA","OK",-124.0631713,44.8084467
+"bedford park, , il, us","Bedford Park, IL, USA","OK",-87.7812524,41.7641723
+"mt. charlston, , nv, ","Mt Charleston, NV 89124, USA","OK",-115.6427949,36.2571855
+"st. peter, , mn, us","St Peter, MN 56082, USA","OK",-93.955691,44.3258932
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"marion, , nc, us","Marion, NC 28752, USA","OK",-82.0092745,35.6840131
+"fitchburg, , ma, us","Fitchburg, MA 01420, USA","OK",-71.8022955,42.5834228
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"merrillville, , in, us","Merrillville, IN, USA","OK",-87.3328139,41.4828144
+"palmetto , just east of&#44 off i-85, ga, us",NA,"REQUEST_DENIED",NA,NA
+"san jose , approx. 15 miles east of, ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"venice, , ca, us","Venice, Los Angeles, CA, USA","OK",-118.4694832,33.9850469
+"chino hills, , ca, us","Chino Hills, CA, USA","OK",-117.7325848,33.9898188
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"eagle river, , ak, us","Eagle River, Anchorage, AK 99577, USA","OK",-149.56805,61.3293186
+"great falls, , mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"london , ontario, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"bellevue, , id, us","Bellevue, ID, USA","OK",-114.2605999,43.4635179
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"hillsborough, , nc, us","Hillsborough, NC 27278, USA","OK",-79.0997347,36.0754183
+"robert moses causway north landfall, , ny, ","Robert Moses State Park, Robert Moses Causeway, Babylon, NY 11702, USA","OK",-73.2611703,40.6233545
+"manhattan beach, , ca, us","Manhattan Beach, CA 90266, USA","OK",-118.4109089,33.8847361
+"bristol, , tn, us","Bristol, TN, USA","OK",-82.1887444,36.5951059
+"elm mott, , tx, us","Elm Mott, TX 76640, USA","OK",-97.10083,31.670983
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

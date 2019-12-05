@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"portland, , ma, ","Portland, ME, USA","OK",-70.2568189,43.6590993
+"dundalk, , md, us","Dundalk, MD, USA","OK",-76.5205184,39.2506633
+"lake jackson, brazoria, tx, ","Lake Jackson, TX, USA","OK",-95.4343859,29.0338575
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"oklahoma, , ok, ","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"moorsville, , in, ","Mooresville, IN, USA","OK",-86.37416,39.6128243
+"alcalde, , nm, us","Alcalde, NM 87566, USA","OK",-106.053634,36.0889116
+"pinellas park, , fl, us","Pinellas Park, FL, USA","OK",-82.6995443,27.8428025
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"south harrisburg, , va, ","Harrisonburg, VA, USA","OK",-78.8689155,38.4495688
+"thononasassa, , fl, ","Thonotosassa, FL, USA","OK",-82.3023128,28.0614065
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"slippery rock, , pa, us","Slippery Rock, PA 16057, USA","OK",-80.0564468,41.0639506
+"jacksonville, , nc, us","Jacksonville, NC, USA","OK",-77.4302414,34.7540524
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"valdosta, , ga, us","Valdosta, GA, USA","OK",-83.2784851,30.8327022
+"suceava , romania, , ","Suceava, Romania","OK",26.2732302,47.6634521
+"palm springs, , fl, us","Palm Springs, FL, USA","OK",-80.0961538,26.6359009
+"soddy daisy, , tn, ","Soddy-Daisy, TN, USA","OK",-85.1907904,35.2359025
+"ishpeming, , mi, us","Ishpeming, MI 49849, USA","OK",-87.6676358,46.4885469
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"latonia, , ky, us","Latonia, Covington, KY, USA","OK",-84.5096621,39.0514185
+"winston-salem, , nc, us","Winston-Salem, NC, USA","OK",-80.244216,36.0998596
+"bowie, , tx, us","Bowie, TX 76230, USA","OK",-97.8486457,33.5589953
+"verona, , pa, us","Verona, PA 15147, USA","OK",-79.843105,40.5064571
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"los angeles , highland park, ca, us","Highland Park, Los Angeles, CA, USA","OK",-118.1843898,34.1154946
+"tidewater, , or, us","Tidewater, OR 97390, USA","OK",-123.9003916,44.4112314
+"north bend, , or, us","North Bend, OR 97459, USA","OK",-124.2242803,43.4065012
+"cardiff , uk, , gb","Cardiff, UK","OK",-3.17909,51.481581
+"richton park, , il, us","Richton Park, IL, USA","OK",-87.7033787,41.484479
+"buffalo grove, , il, us","Buffalo Grove, IL, USA","OK",-87.9631308,42.1662831
+"north bay , canada, on, ca","North Bay, ON, Canada","OK",-79.4608204,46.3091152
+"queen creek, , az, us","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"sierra vista, , az, us","Sierra Vista, AZ, USA","OK",-110.2772856,31.5455001
+"mulege , baja california, ca, ","Mulegé, Baja California Sur, Mexico","OK",-111.9835831,26.8922164
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"kendall, , fl, us","Kendall, FL, USA","OK",-80.357827,25.6660336
+"ashburn, , va, us","Ashburn, VA, USA","OK",-77.4874416,39.0437567
+"townsend, maryville, tn, ","Townsend, TN 37882, USA","OK",-83.7557281,35.6753657
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"wichita falls, , tx, us","Wichita Falls, TX, USA","OK",-98.4933873,33.9137085
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"rexburg, , id, us","Rexburg, ID, USA","OK",-111.7924237,43.8231096
+"manville, , nj, us","Manville, NJ 08835, USA","OK",-74.5876569,40.5409367
+"winters, , tx, us","Winters, TX 79567, USA","OK",-99.962313,31.9565343
+"laguna hills, , ca, us","Laguna Hills, CA, USA","OK",-117.6986604,33.5916433
+"durham, , nc, us","Durham, NC, USA","OK",-78.898619,35.9940329
+"ensenada, , , ","Ensenada, Baja California, Mexico","OK",-116.5963713,31.8667427
+"norfolk, , ma, us","Norfolk, MA, USA","OK",-71.3250563,42.1195426
+"catonsville, , md, us","Catonsville, MD, USA","OK",-76.7319161,39.2720509
+"leitchfield, , ky, us","Leitchfield, KY 42754, USA","OK",-86.2938637,37.4800544
+"inverness, , fl, us","Inverness, FL, USA","OK",-82.3313955,28.8354507
+"sumrall, , ms, us","Sumrall, MS 39482, USA","OK",-89.5422909,31.4173935
+"morden&#44 surrey , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"saint augustine beach , nearest, fl, us","St Augustine Beach, FL 32080, USA","OK",-81.2711546,29.8439828
+"plymouth, , pa, us","Plymouth, PA, USA","OK",-75.9446428,41.2403596
+"lubbock, , tx, us","Lubbock, TX, USA","OK",-101.8551665,33.5778631
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"punta gorda, , fl, us","Punta Gorda, FL, USA","OK",-82.0453664,26.9297836
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"wesley chapel, , fl, us","Wesley Chapel, FL, USA","OK",-82.3641751,28.182893
+"moncton , 50.42km before, nb, ca","Moncton, NB, Canada","OK",-64.7782313,46.0878165
+"muskegon, , mi, us","Muskegon, MI, USA","OK",-86.2483921,43.2341813
+"miramichi , canada, nb, ca","Miramichi, NB, Canada","OK",-65.5059061,47.0295709
+"georgetown, , tx, us","Georgetown, TX, USA","OK",-97.6779842,30.6332618
+"kearns, , ut, us","Kearns, UT 84118, USA","OK",-111.9963275,40.6599468
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"wilmont, , ar, ","Wilmot, AR 71676, USA","OK",-91.5734539,33.0573469
+"alligator alley, , fl, ","Everglades Pkwy, Florida, USA","OK",-81.0203819,26.1694445
+"boulder creek, , ca, us","Boulder Creek, CA 95006, USA","OK",-122.1221869,37.1260578
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"union, , nj, us","Union, NJ, USA","OK",-74.2631635,40.6975898
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"worth, , il, us","Worth, IL, USA","OK",-87.7972754,41.6897548
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"mannington, , wv, us","Mannington, WV 26582, USA","OK",-80.343418,39.5309169
+"philippi, , wv, us","Philippi, WV 26416, USA","OK",-80.0403578,39.1523198
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"connersville, , in, us","Connersville, IN 47331, USA","OK",-85.1410748,39.6411589
+"clinton, , ct, us","Clinton, CT, USA","OK",-72.5288034,41.2882208
+"new baltimore, , mi, us","New Baltimore, MI 48047, USA","OK",-82.7368616,42.6811436
+"northampton, , ma, us","Northampton, MA, USA","OK",-72.6412013,42.3250896
+"medford, , ma, us","Medford, MA, USA","OK",-71.1061639,42.4184296
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"brigg , uk, , gb","Brigg DN20, UK","OK",-0.491887,53.55185
+"ridgecrest, , ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"centerville, , oh, us","Centerville, OH, USA","OK",-84.1593818,39.6283928
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"bahamas, , , ","The Bahamas","OK",-77.39628,25.03428
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"muscle shoals, , al, us","Muscle Shoals, AL, USA","OK",-87.6675292,34.7448112
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

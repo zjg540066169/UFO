@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"port townsend , 10 nm so., wa, us","Port Townsend, WA 98368, USA","OK",-122.7604471,48.1170387
+"brampton , near toronto, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"wheeling, , wv, us","Wheeling, WV 26003, USA","OK",-80.7209149,40.0639616
+"mm 99 mile exit, i-5, wa, ","I-5, Washington, USA","OK",-122.4626352,47.2277508
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"hickory corners, , mi, us","Hickory Corners, MI 49060, USA","OK",-85.3760882,42.4415829
+"colchester , canada, on, ca","Colchester, Essex, ON N0R 1G0, Canada","OK",-82.926412,41.986065
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"goose eye , uk, , ","Goose Eye, Keighley BD22, UK","OK",-1.957718,53.8615819
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"guntersville, , al, us","Guntersville, AL, USA","OK",-86.2947041,34.3581473
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"norwich , uk, , gb","Norwich, UK","OK",1.297355,52.6308859
+"oneonta, , ny, us","Oneonta, NY 13820, USA","OK",-75.0637746,42.4528571
+"epcot center , walt diseny world, fl, ","200 Epcot Center Dr, Orlando, FL 32821, USA","OK",-81.549404,28.374694
+"oconomowoc, , wi, us","Oconomowoc, WI 53066, USA","OK",-88.4992659,43.1116731
+"hollywood, , ca, us","Hollywood, Los Angeles, CA, USA","OK",-118.3286614,34.0928092
+"shoreline , views from, wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"west boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"fargo, , nd, us","Fargo, ND, USA","OK",-96.7898034,46.8771863
+"wanamingo, , mn, us","Wanamingo, MN 55983, USA","OK",-92.7904749,44.3044091
+"seattle , north, wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"singapore, , , ","Singapore","OK",103.819836,1.352083
+"nevada , on west bound airplane over northern, nv, ","Reno, NV, USA","OK",-119.8138027,39.5296329
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"scarborough , toronto, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"arivaca, , az, us","Arivaca, AZ 85601, USA","OK",-111.3314522,31.5773351
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"burtonsville, , md, us","Burtonsville, MD, USA","OK",-76.9324752,39.1112193
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"none, , ca, ","4751 Power Inn Rd, Sacramento, CA 95826, USA","OK",-121.4079373,38.5327512
+"greenville, , sc, us","Greenville, SC, USA","OK",-82.3940104,34.8526176
+"berkley springs, , md, ","Berkeley Springs, WV 25411, USA","OK",-78.2271957,39.6269902
+"st.charles, , mi, ","St Charles, MI 48655, USA","OK",-84.1428734,43.2994596
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"chandigarh , india, , ","Chandigarh, India","OK",76.7794179,30.7333148
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"hazel, , ky, us","Hazel, KY 42049, USA","OK",-88.3258742,36.5022783
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"sandpoint, , id, us","Sandpoint, ID 83864, USA","OK",-116.553465,48.276577
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"bailey, , nc, us","Bailey, NC 27807, USA","OK",-78.1188808,35.780712
+"coram, , ny, us","Coram, NY, USA","OK",-73.0014946,40.8687096
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"tavares, , fl, us","Tavares, FL 32778, USA","OK",-81.725632,28.8041579
+"new strawn, , ks, us","New Strawn, KS 66839, USA","OK",-95.7419311,38.2625197
+"crystal beach, , tx, us","Crystal Beach, Bolivar Peninsula, TX 77550, USA","OK",-94.6396378,29.457177
+"sevastopol , ukraine, , ","Sevastopol","OK",33.5253671,44.61665
+"juneau, , ak, us","Juneau, AK, USA","OK",-134.4197221,58.3019444
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"homosassa, , fl, us","Homosassa, FL, USA","OK",-82.6151001,28.7813722
+"peachtree city, , ga, us","Peachtree City, GA, USA","OK",-84.5963432,33.3968557
+"fallbrook, , ca, us","Fallbrook, CA 92028, USA","OK",-117.2511466,33.3764196
+"ogden, , ut, us","Ogden, UT, USA","OK",-111.9738304,41.223
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"bluefield, , wv, us","Bluefield, WV 24701, USA","OK",-81.2223195,37.2698395
+"tulum , near cancun, , ","Tulum, Cancún, Q.R., Mexico","OK",-86.8263694,21.2028282
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"waynesboro, , pa, us","Waynesboro, PA 17268, USA","OK",-77.5777692,39.755927
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"marion, , ia, us","Marion, IA, USA","OK",-91.5968958,42.033279
+"north atlantic ocean, , , ","North Atlantic Ocean","OK",-39.462891,35.746512
+"elmore, , al, us","Elmore, AL, USA","OK",-86.3149712,32.5387448
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"derbyshire , uk, , gb","Derbyshire, UK","OK",-1.5623885,53.1046782
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"newport, , or, us","Newport, OR, USA","OK",-124.0534505,44.6367836
+"orchard park, , ny, us","Orchard Park, NY, USA","OK",-78.7440921,42.7675323
+"towson, , md, us","Towson, MD, USA","OK",-76.6019125,39.4014955
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"addison, , al, us","Addison, AL 35540, USA","OK",-87.1814012,34.2023243
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"jamestown, , ky, us","Jamestown, KY, USA","OK",-85.06301,36.9847899
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"riverhead, , ny, us","Riverhead, NY 11901, USA","OK",-72.6620402,40.9170435
+"augusta, , me, us","Augusta, ME 04330, USA","OK",-69.7794897,44.3106241
+"newtown, , pa, us","Newtown, PA 18940, USA","OK",-74.9322596,40.2283371
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"basalt, , co, us","Basalt, CO, USA","OK",-107.0328241,39.3688731
+"berlin, , ct, us","Berlin, CT, USA","OK",-72.7456519,41.621488
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"lake charles, , la, us","Lake Charles, LA, USA","OK",-93.2173758,30.2265949
+"shepherdsville, , ky, us","Shepherdsville, KY 40165, USA","OK",-85.7157924,37.9883991
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

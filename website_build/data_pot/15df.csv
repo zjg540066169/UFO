@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"prescott, , az, us","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"yonkers, , ny, us","Yonkers, NY, USA","OK",-73.8987469,40.9312099
+"kingston , canada, on, ca","Kingston, ON, Canada","OK",-76.4859544,44.2311717
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"mead  , near spokane, wa, us","Mead, WA, USA","OK",-117.3552741,47.7664789
+"warrensville, , nc, us","Warrensville, NC 28693, USA","OK",-81.5187955,36.460963
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"raymond, , nh, us","Raymond, NH, USA","OK",-71.1833857,43.0362094
+"salinas, , ca, us","Salinas, CA, USA","OK",-121.6555013,36.6777372
+"escondido, , ca, us","Escondido, CA, USA","OK",-117.086421,33.1192068
+"breezewood, , pa, us","Breezewood, PA, USA","OK",-78.2388071,39.9991865
+"mechanicsville, , va, us","Mechanicsville, VA, USA","OK",-77.3733139,37.6087561
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"gonzales, , la, us","Gonzales, LA 70737, USA","OK",-90.9200987,30.2385294
+"kuantan , malaysia, , ","Kuantan, Pahang, Malaysia","OK",103.2201828,3.7633859
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"chicago , downtown&#44 on l. michigan, il, us",NA,"REQUEST_DENIED",NA,NA
+"adkins, , tx, us","Adkins, TX 78101, USA","OK",-98.2372329,29.3930129
+"franklin, , ma, us","Franklin, MA 02038, USA","OK",-71.396725,42.0834313
+"demming , canada, ns, ","Deming Island, Municipality of the District of Guysborough, NS B0H 1V0, Canada","OK",-61.1785534,45.2146431
+"lake elmo, , mn, us","Lake Elmo, MN 55042, USA","OK",-92.8793768,44.9957998
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"savanna, , il, us","Savanna, IL 61074, USA","OK",-90.1567944,42.0944671
+"savage, , mn, us","Savage, MN, USA","OK",-93.3591147,44.7647329
+"joseph, , ut, us","Joseph, UT 84739, USA","OK",-112.2171496,38.6263608
+"ely, , nv, us","Ely, NV 89301, USA","OK",-114.874248,39.2533328
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"windsor , canada, on, ca","Windsor, ON, Canada","OK",-83.0363633,42.3149367
+"dallesport, , wa, us","Dallesport, WA, USA","OK",-121.1795155,45.6173426
+"lebanon, brownsville, or, ","Lebanon Brownsville Rd, Oregon, USA","OK",-122.9612856,44.4703159
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"palos verdes estates, , ca, us","Palos Verdes Estates, CA 90274, USA","OK",-118.3900737,33.8005714
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"vancouver , north of, wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"walnut creek, , ca, us","Walnut Creek, CA, USA","OK",-122.0651819,37.9100783
+"westlake village, , ca, us","Westlake Village, CA, USA","OK",-118.8073729,34.1466467
+"creswell, , or, us","Creswell, OR 97426, USA","OK",-123.0245261,43.9179023
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"redwood valley, , ca, us","Redwood Valley, CA 95470, USA","OK",-123.2041429,39.2652491
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"ivins, , ut, us","Ivins, UT, USA","OK",-113.6794057,37.1685907
+"madras, , or, us","Madras, OR 97741, USA","OK",-121.1294872,44.6334544
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"murphys, , ca, us","Murphys, CA, USA","OK",-120.4596437,38.1374202
+"fall river mills, , ca, us","Fall River Mills, CA 96028, USA","OK",-121.4383139,41.0046076
+"anderson, , ca, us","Anderson, CA 96007, USA","OK",-122.2977815,40.448208
+"cagayan de oro city , philippines, , ","Cagayan de Oro, Misamis Oriental, Philippines","OK",124.6318977,8.4542363
+"goldendale, , wa, us","Goldendale, WA 98620, USA","OK",-120.8217312,45.8206794
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"hollister, , nv, ","1300 W Sunset Rd Space 1350, Henderson, NV 89014, USA","OK",-115.0413632,36.0676019
+"newcastle-upon-tyne , uk, , ","Newcastle upon Tyne, UK","OK",-1.61778,54.978252
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"elmo, , ut, us","Elmo, UT 84521, USA","OK",-110.8151613,39.389691
+"gaysville, , vt, us","Gaysville, VT 05772, USA","OK",-72.7004329,43.7784743
+"clarks summit, , pa, us","Clarks Summit, PA 18411, USA","OK",-75.7085248,41.4886892
+"oshawa , canada, on, ca","Oshawa, ON, Canada","OK",-78.8657912,43.8970929
+"yelm, , wa, us","Yelm, WA, USA","OK",-122.6059582,46.9420431
+"chicoutimi , canada, pq, ca","Chicoutimi, Saguenay, QC, Canada","OK",-71.1385136,48.3516735
+"plains, , pa, us","Plains, PA 18705, USA","OK",-75.8501955,41.2753589
+"san leandro, , ca, us","San Leandro, CA, USA","OK",-122.1568554,37.7257663
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"trego, , wi, us","Trego, WI 54888, USA","OK",-91.8210099,45.8996693
+"needville, , tx, us","Needville, TX 77461, USA","OK",-95.8377297,29.3994101
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"prescott , southwest of, az, us","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"kansas , rural, ks, ","Rural, KS, USA","OK",-95.3311652,39.0951496
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"llanelli , uk, , gb","Llanelli, UK","OK",-4.160248,51.680886
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"lenexa, , ks, us","Lenexa, KS, USA","OK",-94.7335709,38.9536174
+"bonner springs, , ks, us","Bonner Springs, KS, USA","OK",-94.8835754,39.059726
+"lincoln , east of, mt, us","Lincoln, MT 59639, USA","OK",-112.6817071,46.9549402
+"correo, , nm, us","Correo, NM 87026, USA","OK",-107.1847614,34.9550472
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"earp, , ca, us","Earp, CA 92242, USA","OK",-114.213787,34.2128639
+"park rapids, , mn, us","Park Rapids, MN 56470, USA","OK",-95.0586322,46.9221813
+"jaffrey, , nh, us","Jaffrey, NH 03452, USA","OK",-72.0231238,42.8139651
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"yuma, , va, us","Yuma, VA 24251, USA","OK",-82.6123774,36.6150994
+"fairfield, , ct, us","Fairfield, CT, USA","OK",-73.2612615,41.1408363
+"new york city , yonkers, ny, us","Yonkers, NY, USA","OK",-73.8987469,40.9312099
+"argostoli , greece, , ","Argostolion 281 00, Greece","OK",20.4899734,38.1731682
+"provincetown, , ma, us","Provincetown, MA, USA","OK",-70.1786425,42.0584412
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"ogunquit, , me, us","Ogunquit, ME, USA","OK",-70.5986223,43.2468352
+"buchanan, , ga, us","Buchanan, GA, USA","OK",-85.1900624,33.8021734
+"beverly hills, , fl, us","Beverly Hills, FL 34465, USA","OK",-82.4581536,28.9169245
+"westfir, , or, us","Westfir, OR 97492, USA","OK",-122.4964399,43.7573458
+"barquisimeto , venezuela, , ","Barquisimeto 3001, Lara, Venezuela","OK",-69.3473509,10.0677719
+"hyderabad , india, , ","Hyderabad, Telangana, India","OK",78.486671,17.385044
+"rawalpindi , pakistan, , ","Rawalpindi, Punjab, Pakistan","OK",73.0169135,33.5651107
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

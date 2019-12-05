@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"clarendon hills, , il, us","Clarendon Hills, IL 60514, USA","OK",-87.9547835,41.7975307
+"greenville, , ny, us","Greenville, NY 12083, USA","OK",-74.0220769,42.4153596
+"haysville, , ks, us","Haysville, KS, USA","OK",-97.3522675,37.5644615
+"cedar glen, , ca, us","Cedar Glen, Lake Arrowhead, CA 92321, USA","OK",-117.1629416,34.2538547
+"gravette, , ar, us","Gravette, AR 72736, USA","OK",-94.4535484,36.4220207
+"derby, , ct, us","Derby, CT, USA","OK",-73.0889973,41.3206523
+"mountaindale, , ny, ","Mountain Dale, NY 12763, USA","OK",-74.5312702,41.6895375
+"woodland hills, west hills, ca, ","22742 Ventura Blvd, Woodland Hills, CA 91364, USA","OK",-118.6218928,34.1661153
+"valrico, , fl, us","Valrico, FL, USA","OK",-82.2420317,27.9462615
+"swartz creek, , mi, us","Swartz Creek, MI, USA","OK",-83.8305144,42.9572508
+"plant city, , fl, us","Plant City, FL, USA","OK",-82.1128641,28.0186323
+"manahawkin, , nj, us","Manahawkin, Stafford Township, NJ 08050, USA","OK",-74.2587527,39.695397
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"yorba linda, , ca, us","Yorba Linda, CA, USA","OK",-117.8132571,33.8885035
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"arcata, , ca, us","Arcata, CA, USA","OK",-124.0828396,40.8665166
+"annalong , uk, , gb","Annalong, Newry BT34 4TQ, UK","OK",-5.90109,54.10771
+"veneta, , or, us","Veneta, OR 97487, USA","OK",-123.3509294,44.0487342
+"atlantic beach, , fl, us","Atlantic Beach, FL, USA","OK",-81.398696,30.3344077
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"pasadena, , md, us","Pasadena, MD 21122, USA","OK",-76.5710753,39.1073317
+"franklin, , in, us","Franklin, IN 46131, USA","OK",-86.0549863,39.4806055
+"ashland, , oh, us","Ashland, OH 44805, USA","OK",-82.3182178,40.8686675
+"bastrop, , la, us","Bastrop, LA 71220, USA","OK",-91.8723497,32.7562463
+"blue point, , ny, us","Blue Point, NY, USA","OK",-73.0345539,40.7439872
+"golden valley, , az, us","Golden Valley, AZ 86413, USA","OK",-114.2230108,35.2233311
+"white house, , tn, us","White House, TN, USA","OK",-86.6513845,36.4703232
+"sharon, , pa, us","Sharon, PA, USA","OK",-80.4934035,41.2331116
+"sequim, , wa, us","Sequim, WA 98382, USA","OK",-123.1018438,48.0795365
+"yonkers, , ny, us","Yonkers, NY, USA","OK",-73.8987469,40.9312099
+"adelanto, , ca, us","Adelanto, CA, USA","OK",-117.409215,34.5827699
+"macon, , ga, us","Macon, GA, USA","OK",-83.6324022,32.8406946
+"bennington, , vt, us","Bennington, VT 05201, USA","OK",-73.1967741,42.8781345
+"bridgewater, , ma, us","Bridgewater, MA 02324, USA","OK",-70.9750541,41.9903519
+"lysander, , ny, us","Lysander, NY, USA","OK",-76.3868797,43.1855567
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"exeter, , nh, us","Exeter, NH 03833, USA","OK",-70.9477546,42.9814292
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"felt, , id, us","Felt, ID 83424, USA","OK",-111.1846682,43.8729718
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"laurel, , ms, us","Laurel, MS, USA","OK",-89.1306124,31.6940509
+"el cerrito, , ca, us","El Cerrito, CA 94530, USA","OK",-122.310765,37.9161326
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"bucharest , romania, , ","Bucharest, Romania","OK",26.1025384,44.4267674
+"greer, , sc, us","Greer, SC, USA","OK",-82.2270568,34.9387279
+"desert center, , ca, us","Desert Center, CA, USA","OK",-115.4004287,33.7133313
+"blythe, desert center , ca, ","27685 Rice Rd, Desert Center, CA 92239, USA","OK",-115.395816,33.718418
+"salisbury, , md, us","Salisbury, MD, USA","OK",-75.5993692,38.3606736
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"quarryville, , pa, us","Quarryville, PA 17566, USA","OK",-76.1635655,39.897047
+"dover, , nh, us","Dover, NH, USA","OK",-70.8736698,43.1978624
+"milan, , mi, us","Milan, MI 48160, USA","OK",-83.6824384,42.0853204
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"poipu, , hi, us","Poipu, Koloa, HI 96756, USA","OK",-159.4681793,21.8833158
+"woodstock, , il, us","Woodstock, IL 60098, USA","OK",-88.4487021,42.3147436
+"duck lake , canada, sk, ca","Duck Lake, SK S0K 1J0, Canada","OK",-106.2260275,52.8118546
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"farmersburg, , in, us","Farmersburg, IN 47850, USA","OK",-87.3819634,39.2486513
+"mayfield, , ky, us","Mayfield, KY 42066, USA","OK",-88.6367154,36.7417235
+"palmer, , ak, us","Palmer, AK 99645, USA","OK",-149.1146334,61.599415
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"brainerd, , mn, us","Brainerd, MN 56401, USA","OK",-94.2020084,46.3526733
+"bristol, , ct, us","Bristol, CT 06010, USA","OK",-72.9492703,41.6717648
+"bristol, , ct, us","Bristol, CT 06010, USA","OK",-72.9492703,41.6717648
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"east aurora, , ny, us","East Aurora, NY 14052, USA","OK",-78.6133589,42.7678376
+"west haven, , ct, ","West Haven, CT 06516, USA","OK",-72.9469711,41.2705484
+"falmouth, , me, us","Falmouth, ME, USA","OK",-70.2601759,43.7435343
+"falmouth, , me, us","Falmouth, ME, USA","OK",-70.2601759,43.7435343
+"bedminster, , nj, us","Bedminster, NJ, USA","OK",-74.6804,40.669264
+"port saint lucie, , fl, us","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"bristol, , ct, us","Bristol, CT 06010, USA","OK",-72.9492703,41.6717648
+"pacific city, , or, us","Pacific City, OR, USA","OK",-123.9628946,45.2023263
+"foster city, , ca, us","Foster City, CA, USA","OK",-122.2710788,37.5585465
+"north myrtle beach, loris, sc, ","301 Loris Lions Rd, Loris, SC 29569, USA","OK",-78.8610465,34.0416559
+"haymarket, , va, us","Haymarket, VA 20169, USA","OK",-77.6363806,38.8120591
+"haymarket, , va, us","Haymarket, VA 20169, USA","OK",-77.6363806,38.8120591
+"bloomington, , il, us","Bloomington, IL, USA","OK",-88.9936873,40.4842027
+"enola, , pa, us","Enola, PA, USA","OK",-76.9338636,40.2900885
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"fredericton , 20 min. outside, nb, ca","Fredericton, NB, Canada","OK",-66.6431151,45.9635895
+"necedah, , wi, us","Necedah, WI 54646, USA","OK",-90.0740181,44.0260775
+"saskatoon , canada, sk, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"vallejo, , ca, us","Vallejo, CA, USA","OK",-122.2566367,38.1040864
+"boughton&#44 kent , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"trona, , ca, us","Trona, Searles Valley, CA 93562, USA","OK",-117.37309,35.7627371
+"sterling, , ma, us","Sterling, MA 01564, USA","OK",-71.7606293,42.4374156
+"council bluffs, , ia, us","Council Bluffs, IA, USA","OK",-95.8608333,41.2619444
+"stockton , south of, ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"randolph, , nj, ","Randolph, NJ, USA","OK",-74.5747248,40.8478065
+"mukilteo, , wa, us","Mukilteo, WA, USA","OK",-122.3045815,47.9445396
+"lincoln, , nh, us","Lincoln, NH, USA","OK",-71.6725066,44.0380087
+"newberg, , or, us","Newberg, OR 97132, USA","OK",-122.9469463,45.3064258
+"chicago ridge, , il, us","Chicago Ridge, IL, USA","OK",-87.7792196,41.7014217
+"brighton , e. of&#44 n. of south lyon&#44 mi, mi, us",NA,"REQUEST_DENIED",NA,NA
+"brighton , west of detroit, mi, us","2121 W Edsel Ford Service Dr, Detroit, MI 48208, USA","OK",-83.0884565,42.3529082
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

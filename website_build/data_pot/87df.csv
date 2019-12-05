@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"pune , india, , ","Pune, Maharashtra, India","OK",73.8567437,18.5204303
+"seoul, , , ","Seoul, South Korea","OK",126.9779692,37.566535
+"dothan, , al, us","Dothan, AL, USA","OK",-85.3904888,31.2232313
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"van nuys, , ca, us","Van Nuys, Los Angeles, CA, USA","OK",-118.451357,34.1898566
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"wagga wagga , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"rialto, , ca, us","Rialto, CA, USA","OK",-117.3703235,34.1064001
+"west conshohocken, , pa, us","West Conshohocken, PA, USA","OK",-75.3162951,40.0698321
+"perris, white water , ca, ","Perris Reservoir, California, USA","OK",-117.1764723,33.8569506
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"glasgow , uk, , gb","Glasgow, UK","OK",-4.251806,55.864237
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"whangamata , new zealand, , ","Whangamata, New Zealand","OK",175.8711518,-37.2072795
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"adairsville, , ga, us","Adairsville, GA 30103, USA","OK",-84.9341093,34.3687021
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"riorges , france, , ","42153 Riorges, France","OK",4.044545,46.043248
+"pass christian, , ms, us","Pass Christian, MS, USA","OK",-89.2475429,30.3157527
+"sumter, , sc, us","Sumter, SC, USA","OK",-80.3414693,33.9204354
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"east london , south africa, , ","East London, South Africa","OK",27.8545867,-33.0291582
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"stillwater, , ok, us","Stillwater, OK, USA","OK",-97.0583681,36.1156071
+"ka&#39anapali, , hi, ",NA,"REQUEST_DENIED",NA,NA
+"elk grove, , ca, us","Elk Grove, CA, USA","OK",-121.3716178,38.4087993
+"montebello, , ca, us","Montebello, CA, USA","OK",-118.1137535,34.0165053
+"solihull , uk, , gb","Solihull, UK","OK",-1.77761,52.411811
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"bumpass, , va, us","Bumpass, VA, USA","OK",-77.7373582,37.9635374
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"hermosa beach, , ca, us","Hermosa Beach, CA 90254, USA","OK",-118.3995194,33.8622366
+"randolph, , ma, us","Randolph, MA 02368, USA","OK",-71.042551,42.1619739
+"quail valley, , ca, us","Quail Valley, Menifee, CA 92587, USA","OK",-117.2450367,33.7069654
+"york , cape neddick, me, ","Cape Neddick, York, ME, USA","OK",-70.6124482,43.1725233
+"brandon, , ms, us","Brandon, MS, USA","OK",-90.001384,32.2788733
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"st helens&#44 merseyside , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"wallingford, , ct, us","Wallingford, CT 06492, USA","OK",-72.8230736,41.4570108
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"worcester, , ma, us","Worcester, MA, USA","OK",-71.8022934,42.2625932
+"bloomfield hills, , mi, us","Bloomfield Hills, MI 48304, USA","OK",-83.2454883,42.583645
+"warrenton, , mo, us","Warrenton, MO, USA","OK",-91.1391977,38.8211845
+"fulton, , ny, us","Fulton, NY 13069, USA","OK",-76.4171585,43.3228462
+"deatsville, , al, us","Deatsville, AL 36022, USA","OK",-86.3958071,32.6081874
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"mountain grove, , mo, us","Mountain Grove, MO 65711, USA","OK",-92.2634942,37.1306078
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"cold spring, , ky, us","Cold Spring, KY 41076, USA","OK",-84.4399406,39.0217283
+"big sandy, , mt, us","Big Sandy, MT 59520, USA","OK",-110.1135412,48.1788692
+"buda, , tx, us","Buda, TX 78610, USA","OK",-97.8428927,30.0817231
+"denton, , tx, us","Denton, TX, USA","OK",-97.1330683,33.2148412
+"ithaca, , ny, us","Ithaca, NY, USA","OK",-76.5018807,42.4439614
+"galloway, , oh, us","Galloway, OH 43119, USA","OK",-83.162972,39.913345
+"galloway, , oh, us","Galloway, OH 43119, USA","OK",-83.162972,39.913345
+"downingtown, , pa, us","Downingtown, PA 19335, USA","OK",-75.7032742,40.0064958
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"maple grove, , mn, us","Maple Grove, MN, USA","OK",-93.4557877,45.0724642
+"albany, , ga, us","Albany, GA, USA","OK",-84.155741,31.5785074
+"buckeye, , az, us","Buckeye, AZ, USA","OK",-112.5837766,33.3703197
+"harrison, , me, us","Harrison, ME 04040, USA","OK",-70.6792289,44.1103479
+"harrison, , me, us","Harrison, ME 04040, USA","OK",-70.6792289,44.1103479
+"harrison, , me, us","Harrison, ME 04040, USA","OK",-70.6792289,44.1103479
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"tamworth , uk, , gb","Tamworth, UK","OK",-1.691032,52.633584
+"pristina , kosovo, , ","Prishtina","OK",21.1655028,42.6629138
+"north sanford, , ny, us","North Sanford, NY 13730, USA","OK",-75.4524012,42.1548044
+"redbank, , sc, ","Red Bank, SC 29073, USA","OK",-81.2384331,33.9320929
+"dixon, , il, us","Dixon, IL 61021, USA","OK",-89.4795478,41.8389213
+"bethlehem, , pa, us","Bethlehem, PA, USA","OK",-75.3704579,40.6259316
+"limassol , cyprus, , ","Limassol, Cyprus","OK",33.0226174,34.7071301
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"harrisonburg, , va, us","Harrisonburg, VA, USA","OK",-78.8689155,38.4495688
+"milford, , ne, us","Milford, NE 68405, USA","OK",-97.0505887,40.7744509
+"rancho cucamonga, , ca, us","Rancho Cucamonga, CA, USA","OK",-117.5931084,34.1063989
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"hanover, , ma, us","Hanover, MA 02339, USA","OK",-70.8476708,42.1162217
+"uniondale, , ny, us","Uniondale, NY, USA","OK",-73.5929056,40.7003793
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"portsmouth, , nh, us","Portsmouth, NH 03801, USA","OK",-70.7625532,43.0717552
+"whittier , viewed from, ca, us","12417 Philadelphia St, Whittier, CA 90601, USA","OK",-118.0447992,33.9810228
+"canton, , ma, us","Canton, MA, USA","OK",-71.1447732,42.1584324
+"mechanicsburg, , pa, us","Mechanicsburg, PA, USA","OK",-77.0080309,40.2132692
+"troy, , oh, us","Troy, OH 45373, USA","OK",-84.2032767,40.0394982
+"alton , hampshire, , gb","Alton GU34, UK","OK",-0.973177,51.150719
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"shawnee, , ks, us","Shawnee, KS, USA","OK",-94.7151865,39.0228485
+"platte city, , mo, us","Platte City, MO 64079, USA","OK",-94.7824609,39.3702773
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

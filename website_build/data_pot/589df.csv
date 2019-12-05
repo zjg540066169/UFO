@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"peterborough , canada, on, ca","Peterborough, ON, Canada","OK",-78.319747,44.309058
+"lapeer, , mi, us","Lapeer, MI 48446, USA","OK",-83.3188341,43.0514161
+"high ridge, , mo, us","High Ridge, MO 63049, USA","OK",-90.5365126,38.4589432
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"atlantic beach, , nc, us","Atlantic Beach, NC, USA","OK",-76.7402108,34.6990505
+"lawrenceburg, , tn, us","Lawrenceburg, TN, USA","OK",-87.3347389,35.2423023
+"oak island, , nc, us","Oak Island, NC, USA","OK",-78.161106,33.9165623
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"cross, , sc, us","Cross, SC 29436, USA","OK",-80.148419,33.3273879
+"sterling, , il, us","Sterling, IL 61081, USA","OK",-89.6962194,41.788642
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"fairborn, , oh, us","Fairborn, OH 45324, USA","OK",-84.0193789,39.8208925
+"state college, , pa, us","State College, PA, USA","OK",-77.8600012,40.7933949
+"exeter , canada, on, ca","Exeter, ON N0M, Canada","OK",-81.4805653,43.3472758
+"elmira, , ny, us","Elmira, NY, USA","OK",-76.8077338,42.0897965
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"blountsville, , al, us","Blountsville, AL 35031, USA","OK",-86.5911026,34.0814863
+"university place, , wa, us","University Place, WA, USA","OK",-122.5504041,47.2356536
+"naugatuck, , ct, us","Naugatuck, CT 06770, USA","OK",-73.0506972,41.485921
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"abu gosh , israel, , ","Abu Ghosh, Israel","OK",35.109193,31.806293
+"cocoa beach, , fl, us","Cocoa Beach, FL 32931, USA","OK",-80.6075513,28.3200067
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"parachute, , co, us","Parachute, CO 81635, USA","OK",-108.0528529,39.4519225
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"farmington, , nm, us","Farmington, NM, USA","OK",-108.2186856,36.7280583
+"naschitti, , nm, us","Naschitti, NM, USA","OK",-108.6820295,36.0650107
+"owasso, , ok, us","Owasso, OK, USA","OK",-95.8547119,36.2695388
+"okolona, , ms, us","Okolona, MS 38860, USA","OK",-88.7553293,34.001778
+"allendale, , ky, us","Allendale, KY 42782, USA","OK",-85.5830215,37.3711711
+"brainerd, , mn, us","Brainerd, MN 56401, USA","OK",-94.2020084,46.3526733
+"grand blanc, , mi, us","Grand Blanc, MI 48439, USA","OK",-83.6299518,42.9275277
+"stockton, , ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"warm springs, , or, us","Warm Springs, OR, USA","OK",-121.2661625,44.7634519
+"gilmanton, , nh, us","Gilmanton, NH, USA","OK",-71.4138418,43.4248816
+"gulf of mexico , 18 mi. from bay county, fl, ",NA,"ZERO_RESULTS",NA,NA
+"salida, , co, us","Salida, CO 81201, USA","OK",-105.9989022,38.5347193
+"indiana, , pa, us","Indiana, PA, USA","OK",-79.1525349,40.6214551
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"atwater, , ca, us","Atwater, CA 95301, USA","OK",-120.609084,37.3477174
+"ft irin , goldstone tracking station, ca, ","93 Goldstone Rd, Fort Irwin, CA 92310, USA","OK",-116.7845642,35.2823574
+"gulfport, , ms, us","Gulfport, MS, USA","OK",-89.0928155,30.3674198
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"brenham, , tx, us","Brenham, TX 77833, USA","OK",-96.3977442,30.1668828
+"pecos, , nm, us","Pecos, NM 87552, USA","OK",-105.675016,35.5742031
+"berkeley , st. louis suburb&#44 near lambert airport, mo, us",NA,"REQUEST_DENIED",NA,NA
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"lousville, , ky, ","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"cedartown, , ga, us","Cedartown, GA 30125, USA","OK",-85.2565823,34.0112715
+"coaldale , canada, ab, ca","Coaldale, AB, Canada","OK",-112.6227938,49.7280081
+"santa clara, , ca, us","Santa Clara, CA, USA","OK",-121.9552356,37.3541079
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"tequesta, , fl, us","Tequesta, FL 33469, USA","OK",-80.1121493,26.9636401
+"arabela , near roswell, nm, us","Arabela, NM 88351, USA","OK",-105.173318,33.5870308
+"susquehanna, , pa, us","Susquehanna, PA 18847, USA","OK",-75.5991789,41.9436071
+"hart mountain , near lakeview, or, ","Hart Mountain, Oregon 97637, USA","OK",-119.741381,42.459654
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"athens, , al, us","Athens, AL, USA","OK",-86.9716741,34.8028661
+"south shields , uk, , gb","South Shields, UK","OK",-1.427406,54.999424
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"hood river, , or, us","Hood River, OR 97031, USA","OK",-121.528087,45.7067985
+"hamilton , canada, on, ca","Hamilton, ON, Canada","OK",-79.8711024,43.2557206
+"west palm beach, , fl, us","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"bay point,  pittsburg, ca, ","Bay Point, CA, USA","OK",-121.9616274,38.0290872
+"owings mills, , md, us","Owings Mills, MD, USA","OK",-76.7802528,39.4195499
+"ogallala, , ne, us","Ogallala, NE 69153, USA","OK",-101.7203993,41.1282178
+"petrified forest national park, , az, ","Petrified Forest National Park, AZ 86028, USA","OK",-109.78204,35.065931
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"westminster, , co, us","Westminster, CO, USA","OK",-105.0372046,39.8366528
+"lavon, , tx, us","Lavon, TX, USA","OK",-96.4341524,33.0276193
+"la crosse, , wi, us","La Crosse, WI, USA","OK",-91.2519017,43.8137751
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"la pointe, , wi, us","La Pointe, WI 54814, USA","OK",-90.7865412,46.7792664
+"rolling meadows, , il, us","Rolling Meadows, IL, USA","OK",-88.0131275,42.0841936
+"st. marys point, , mn, us","St Marys Point, MN 55043, USA","OK",-92.7715284,44.9144322
+"ellison bay, , wi, us","Ellison Bay, WI 54210, USA","OK",-87.0715033,45.2547094
+"thunder bay , canada, on, ca","Thunder Bay, ON, Canada","OK",-89.2476823,48.3808951
+"wellington county , canada, on, ca","Wellington County, ON, Canada","OK",-80.543845,43.7803323
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"fort walton beach , mary esther, fl, us","301 Hollywood Blvd E, Mary Esther, FL 32569, USA","OK",-86.6573721,30.4140248
+"paris, , ky, us","Paris, KY 40361, USA","OK",-84.2529869,38.2097987
+"lapine, , or, ","La Pine, OR 97739, USA","OK",-121.503636,43.6703995
+"abington, , ma, us","Abington, MA, USA","OK",-70.9453218,42.1048228
+"addlestone , near heathrow airport, , gb","Heathrow Airport (LHR), Longford TW6, UK","OK",-0.4542955,51.4700223
+"fort totten, , nd, us","Fort Totten, ND, USA","OK",-98.9929005,47.9799986
+"camas, , wa, us","Camas, WA, USA","OK",-122.402442,45.5867128
+"clearlake, , ca, us","Clearlake, CA, USA","OK",-122.6263728,38.9582307
+"escalon, , ca, us","Escalon, CA 95320, USA","OK",-120.9966033,37.7974273
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"maugenhard , germany, , de","Maugenhard, 79588 Efringen-Kirchen, Germany","OK",7.631213,47.672582
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

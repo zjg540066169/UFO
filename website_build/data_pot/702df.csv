@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"maple , canada, on, ca","Maple, Vaughan, ON, Canada","OK",-79.5272836,43.8517618
+"eunice, , la, us","Eunice, LA 70535, USA","OK",-92.4176324,30.4943669
+"nastola , finland, , ","15560 Nastola, Finland","OK",25.9337117,60.948103
+"milton, , fl, us","Milton, FL, USA","OK",-87.0396881,30.6324149
+"coldwater, , mi, us","Coldwater, MI 49036, USA","OK",-85.0005215,41.9403263
+"deckers , 4 mi. south of, co, us","Deckers, CO 80135, USA","OK",-105.2269382,39.2547124
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"montebello, , ca, us","Montebello, CA, USA","OK",-118.1137535,34.0165053
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"sandstone, , mn, us","Sandstone, MN 55072, USA","OK",-92.8674231,46.1310598
+"st. laurent , canada, mb, ","Saint Laurent, MB R0C 2J0, Canada","OK",-97.940939,50.4135319
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"hollywood, , ca, us","Hollywood, Los Angeles, CA, USA","OK",-118.3286614,34.0928092
+"piscataquis county, , me, ","Piscataquis County, ME, USA","OK",-69.3375071,45.7049857
+"tacoma, spanway, wa, ","Spanaway, WA, USA","OK",-122.4345661,47.103988
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"fort mcmurray , canada, ab, ca","Fort McMurray, AB, Canada","OK",-111.3790441,56.7266598
+"hinton, , ok, us","Hinton, OK 73047, USA","OK",-98.3556162,35.4714415
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"claude, , tx, us","Claude, TX 79019, USA","OK",-101.3632223,35.1117176
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"so. farmingdale, , ny, ","Farmingdale, NY 11735, USA","OK",-73.4454009,40.7325997
+"wauconda, , wa, us","Wauconda, WA 98859, USA","OK",-119.0136515,48.7257163
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"aydin , turkey, , ","Aydın, Efeler/Aydın, Turkey","OK",27.8455601,37.8380162
+"suffolk, , va, us","Suffolk, VA, USA","OK",-76.5835621,36.7282054
+"mt. st. helens, , wa, ","Mt St Helens, Washington 98616, USA","OK",-122.1955508,46.1914006
+"bobcaygeon , canada, on, ca","Bobcaygeon, Kawartha Lakes, ON, Canada","OK",-78.5463692,44.5404573
+"arizona, , az, ","Arizona, USA","OK",-111.0937311,34.0489281
+"keaau, , hi, us","Keaau, HI 96749, USA","OK",-155.0394139,19.6213287
+"neola, , ut, us","Neola, UT, USA","OK",-110.0298752,40.4332885
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"wallingford, , ky, us","Wallingford, KY 41093, USA","OK",-83.6121366,38.4050777
+"orem, , ut, us","Orem, UT, USA","OK",-111.6946475,40.2968979
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"stafford, , va, us","Stafford Courthouse, VA 22554, USA","OK",-77.4083086,38.4220687
+"yaphank, , ny, us","Yaphank, NY, USA","OK",-72.9170487,40.8367653
+"dinuba, , ca, us","Dinuba, CA, USA","OK",-119.3870656,36.5432837
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"moreno valley, , ca, us","Moreno Valley, CA, USA","OK",-117.2296717,33.9424658
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"claymont, , de, us","Claymont, DE 19703, USA","OK",-75.4596404,39.8006685
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"lansing, , mi, us","Lansing, MI, USA","OK",-84.5555347,42.732535
+"marsing, , id, us","Marsing, ID 83639, USA","OK",-116.8131959,43.5454359
+"wappingers falls, , ny, us","Wappingers Falls, NY 12590, USA","OK",-73.91097,41.5964825
+"glassboro, , nj, us","Glassboro, NJ, USA","OK",-75.1118422,39.7028923
+"moncton , canada, nb, ca","Moncton, NB, Canada","OK",-64.7782313,46.0878165
+"apalachin, , ny, us","Apalachin, NY 13732, USA","OK",-76.1546504,42.0695189
+"beverly hills, , ca, us","Beverly Hills, CA, USA","OK",-118.4003563,34.0736204
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"hanalei, , hi, us","Hanalei, HI, USA","OK",-159.4977455,22.2033221
+"orem, , ut, us","Orem, UT, USA","OK",-111.6946475,40.2968979
+"draper, , ut, us","Draper, UT, USA","OK",-111.8638226,40.5246711
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"leighton, , al, us","Leighton, AL 35646, USA","OK",-87.5289151,34.700923
+"yorkville, , il, us","Yorkville, IL, USA","OK",-88.4472948,41.6411409
+"cape may, , nj, us","Cape May, NJ 08204, USA","OK",-74.9060053,38.9351125
+"trout lake , rural washington, wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"rolling hills, , ca, us","Rolling Hills, CA, USA","OK",-118.3539613,33.7569615
+"westlake village, , ca, us","Westlake Village, CA, USA","OK",-118.8073729,34.1466467
+"gallatin, , tn, us","Gallatin, TN 37066, USA","OK",-86.4466599,36.3883809
+"spokane valley, , wa, us","Spokane Valley, WA, USA","OK",-117.2393748,47.6732281
+"spokane valley, , wa, us","Spokane Valley, WA, USA","OK",-117.2393748,47.6732281
+"ventura, , ia, us","Ventura, IA, USA","OK",-93.4779849,43.1291257
+"kure beach, , nc, us","Kure Beach, NC, USA","OK",-77.9072081,33.9968399
+"north platte, , ne, us","North Platte, NE 69101, USA","OK",-100.7601454,41.1402759
+"trenton, , nj, us","Trenton, NJ, USA","OK",-74.759717,40.2205824
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"altrincham , uk, , gb","Altrincham, UK","OK",-2.3488983,53.3869046
+"salem, , in, us","Salem, IN 47167, USA","OK",-86.101089,38.6056131
+"westford, , ma, us","Westford, MA 01886, USA","OK",-71.4378411,42.5792583
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"seattle , above, wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"ardsley, , ny, us","Ardsley, NY 10502, USA","OK",-73.8437452,41.0106531
+"lathrop, , ca, us","Lathrop, CA, USA","OK",-121.27661,37.8227046
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"el centro, , ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"ardsley, , ny, us","Ardsley, NY 10502, USA","OK",-73.8437452,41.0106531
+"burlingame, , ks, us","Burlingame, KS 66413, USA","OK",-95.8349868,38.7538946
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"beech grove, , in, us","Beech Grove, IN, USA","OK",-86.0899847,39.7219884
+"montclair, , nj, us","Montclair, NJ, USA","OK",-74.2090053,40.8259007
+"washington, , in, us","Washington, IN 47501, USA","OK",-87.172789,38.6592152
+"sherman oaks, , ca, us","Sherman Oaks, Los Angeles, CA, USA","OK",-118.451357,34.1489719
+"valatie, , ny, us","Valatie, NY 12184, USA","OK",-73.6731749,42.4134168
+"battle ground, , wa, us","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"dundalk, , md, us","Dundalk, MD, USA","OK",-76.5205184,39.2506633
+"mason, , oh, us","Mason, OH, USA","OK",-84.309939,39.3600586
+"washington, , dc, us","Washington, DC, USA","OK",-77.0368707,38.9071923
+"mannford, , ok, us","Mannford, OK, USA","OK",-96.3544571,36.1334101
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

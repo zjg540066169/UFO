@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"venice, , ne, us","Venice, NE 68069, USA","OK",-96.3543849,41.2390169
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"maryhill, , wa, us","Maryhill, WA 98620, USA","OK",-120.8136737,45.6870683
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"mooresville, , nc, us","Mooresville, NC, USA","OK",-80.8081413,35.5859146
+"tryon, , nc, us","Tryon, NC 28782, USA","OK",-82.2384479,35.2081694
+"pine bush, , ny, us","Pine Bush, NY 12566, USA","OK",-74.2990401,41.6081492
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"crozet, , va, us","Crozet, VA 22932, USA","OK",-78.700575,38.0695815
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"coatesville, , pa, us","Coatesville, PA 19320, USA","OK",-75.8238355,39.9831616
+"prescott, , az, us","Prescott, AZ, USA","OK",-112.4685025,34.5400242
+"ft. bragg, , ca, us","Fort Bragg, CA 95437, USA","OK",-123.8052935,39.445723
+"shumway, , il, us","Shumway, IL 62461, USA","OK",-88.6522771,39.1850417
+"whitney, , tx, us","Whitney, TX 76692, USA","OK",-97.3214012,31.951823
+"watauga, , tn, us","Watauga, TN 37694, USA","OK",-82.2968034,36.3706613
+"florence, , sc, us","Florence, SC, USA","OK",-79.7625625,34.1954331
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"vlachata&#44 kefalonia , greece, , ",NA,"REQUEST_DENIED",NA,NA
+"southern pines, , nc, us","Southern Pines, NC, USA","OK",-79.3922539,35.1740471
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"belfair, , wa, us","Belfair, WA 98528, USA","OK",-122.826946,47.4514588
+"medical lake, , wa, us","Medical Lake, WA 99022, USA","OK",-117.6821604,47.5729426
+"bertram, , tx, us","Bertram, TX 78605, USA","OK",-98.0555763,30.7437957
+"ulladulla , australia, , au","Ulladulla NSW 2539, Australia","OK",150.4613249,-35.3572426
+"adams, , ny, us","Adams, NY 13605, USA","OK",-76.0240892,43.8092321
+"harlan, , ky, us","Harlan, KY, USA","OK",-83.321848,36.8431441
+"many, , la, us","Many, LA 71449, USA","OK",-93.4840645,31.5687848
+"lithia springs, , ga, us","Lithia Springs, GA, USA","OK",-84.6604899,33.7939953
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"deltona, , fl, us","Deltona, FL, USA","OK",-81.2636738,28.9005446
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"ajo, , az, us","Ajo, AZ 85321, USA","OK",-112.8607099,32.3717248
+"laconia, , nh, us","Laconia, NH, USA","OK",-71.4703509,43.5278546
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"romulus, , ny, us","Romulus, NY 14541, USA","OK",-76.834038,42.7525461
+"burke , north of, sd, us","Burke, SD 57523, USA","OK",-99.2920453,43.1824998
+"decatur, , ga, us","Decatur, GA 30030, USA","OK",-84.2963123,33.7748275
+"moline, , il, us","Moline, IL, USA","OK",-90.5151342,41.5067003
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"dacula, , ga, us","Dacula, GA 30019, USA","OK",-83.8979573,33.9887165
+"junction, , tx, us","Junction, TX 76849, USA","OK",-99.7720109,30.4893555
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"bangor, , me, us","Bangor, ME 04401, USA","OK",-68.7712257,44.8016128
+"warner robins, , ga, us","Warner Robins, GA, USA","OK",-83.624201,32.6130007
+"westmont, , il, us","Westmont, IL, USA","OK",-87.9756175,41.7958639
+"pearl river, , la, us","Pearl River, LA 70452, USA","OK",-89.7483972,30.3760264
+"la motte, , ia, us","La Motte, IA 52054, USA","OK",-90.6209631,42.2958455
+"white city, , or, us","White City, OR, USA","OK",-122.8354426,42.431618
+"cloverly, , md, us","Cloverly, MD, USA","OK",-76.9960332,39.1093189
+"mount sterling, , ky, us","Mt Sterling, KY 40353, USA","OK",-83.9432556,38.0564679
+"bristol, , pa, us","Bristol, PA 19007, USA","OK",-74.8518311,40.1006661
+"savona , canada, bc, ca","Savona, BC V0K 2J0, Canada","OK",-120.843769,50.7527649
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"bridgeport, , ny, us","Bridgeport, NY, USA","OK",-75.9693622,43.1553457
+"westmont, , il, us","Westmont, IL, USA","OK",-87.9756175,41.7958639
+"coos bay, , or, us","Coos Bay, OR, USA","OK",-124.2178903,43.3665007
+"palm harbor, , fl, us","Palm Harbor, FL, USA","OK",-82.7637127,28.0780718
+"kingston, , nm, us","Kingston, NM 88042, USA","OK",-107.7061436,32.917018
+"richmond, , il, us","Richmond, IL 60071, USA","OK",-88.3059251,42.4758522
+"bethlehem, , nh, us","Bethlehem, NH, USA","OK",-71.6875364,44.2803843
+"orting, , wa, us","Orting, WA 98360, USA","OK",-122.2042824,47.0978795
+"mission viejo, trabuco canyon, ca, ","Trabuco Canyon, CA, USA","OK",-117.5869862,33.6655081
+"lebanon, , ky, us","Lebanon, KY 40033, USA","OK",-85.2527381,37.5697868
+"apex, , nc, us","Apex, NC, USA","OK",-78.8502856,35.732652
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"chester, , ny, us","Chester, NY 10918, USA","OK",-74.2712613,41.3625937
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"clearfield, , ut, us","Clearfield, UT, USA","OK",-112.0260538,41.1107771
+"linden, , nj, us","Linden, NJ, USA","OK",-74.2445902,40.6220478
+"timperley , uk, , gb","Timperley, UK","OK",-2.31927,53.396727
+"martin county, , fl, us","Martin County, FL, USA","OK",-80.4103957,27.0804935
+"hillsborough, , nj, us","Hillsborough Township, NJ, USA","OK",-74.6472522,40.5106322
+"san clemente, , ca, us","San Clemente, CA, USA","OK",-117.6126004,33.4273521
+"wadebridge&#44 cornwall , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"capistrano beach, , ca, us","Capistrano Beach, Dana Point, CA 92624, USA","OK",-117.6690208,33.4596667
+"salinas, , ca, us","Salinas, CA, USA","OK",-121.6555013,36.6777372
+"glen allen, , va, us","Glen Allen, VA, USA","OK",-77.5063739,37.665978
+"nantucket, , ma, us","Nantucket, MA, USA","OK",-70.099451,41.2834704
+"palatine, , il, us","Palatine, IL, USA","OK",-88.03424,42.1103041
+"south padre island, , tx, us","South Padre Island, TX 78597, USA","OK",-97.1681257,26.1118401
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"northern quebec , canada, qc, ","Nord-du-Québec, QC, Canada","OK",-73.5491361,52.9399159
+"ansonia, , ct, us","Ansonia, CT, USA","OK",-73.0789969,41.3462078
+"mahanoy city, , pa, us","Mahanoy City, PA 17948, USA","OK",-76.1416033,40.8125881
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"vernon, , ct, us","Vernon, CT 06066, USA","OK",-72.479037,41.8186802
+"hudson, , nh, us","Hudson, NH 03051, USA","OK",-71.4398074,42.7647763
+"san marcos, , tx, us","San Marcos, TX, USA","OK",-97.9413941,29.8832749
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"placitas, , nm, us","Placitas, NM 87043, USA","OK",-106.4247468,35.3069845
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"highland, , ny, us","Highland, NY 12528, USA","OK",-73.9601382,41.7209267
+"plattsmouth, , ne, us","Plattsmouth, NE 68048, USA","OK",-95.8808424,41.0111103
+"deer isle, , me, us","Deer Isle, ME, USA","OK",-68.6777805,44.2245068
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

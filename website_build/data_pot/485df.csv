@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"kensington, , ct, us","Kensington, Berlin, CT, USA","OK",-72.7687083,41.6353769
+"meadville, , pa, us","Meadville, PA 16335, USA","OK",-80.1514484,41.6414438
+"livingston, , mt, us","Livingston, MT 59047, USA","OK",-110.5599556,45.6614105
+"gainesville, , va, us","Gainesville, VA, USA","OK",-77.6138802,38.7956706
+"woodbury, , mn, us","Woodbury, MN, USA","OK",-92.9593797,44.9238552
+"ottawa, , il, us","Ottawa, IL 61350, USA","OK",-88.8425769,41.3455892
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"cleveland, , ut, us","Cleveland, UT 84518, USA","OK",-110.8515521,39.3488582
+"hewitt, , nj, us","Hewitt, West Milford, NJ 07421, USA","OK",-74.3507007,41.1540954
+"monroe, , ny, us","Monroe, NY 10950, USA","OK",-74.1868135,41.3306493
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"winnsboro, , tx, us","Winnsboro, TX 75494, USA","OK",-95.2902224,32.9573449
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"maple , canada, on, ca","Maple, Vaughan, ON, Canada","OK",-79.5272836,43.8517618
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"rapallo , italy, , ","16035 Rapallo, Metropolitan City of Genoa, Italy","OK",9.2338889,44.3498211
+"long lane, , mo, us","Long Lane, MO 65590, USA","OK",-92.9093477,37.6114305
+"pinole, , ca, us","Pinole, CA, USA","OK",-122.2988587,38.0043667
+"frisco, , nc, us","Frisco, NC 27936, USA","OK",-75.6324876,35.2298559
+"mercer island, , wa, us","Mercer Island, WA 98040, USA","OK",-122.2220674,47.5706548
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"astoria, , ny, us","Astoria, Queens, NY, USA","OK",-73.9234619,40.7643574
+"lindon, , ut, us","Lindon, UT, USA","OK",-111.7207608,40.3432857
+"lemont, , il, us","Lemont, IL, USA","OK",-88.0017261,41.673642
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"oxon hill, , md, us","Oxon Hill, MD, USA","OK",-76.9897278,38.8033178
+"huntington station, , ny, us","Huntington Station, NY, USA","OK",-73.4115091,40.8534318
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"westchester, , oh, us","West Chester Township, OH, USA","OK",-84.4172666,39.3321262
+"pawleys island, , sc, us","Pawleys Island, SC, USA","OK",-79.1214313,33.4332236
+"dana point, , ca, us","Dana Point, CA, USA","OK",-117.6981014,33.4672256
+"garden city, , sc, us","Garden City, SC, USA","OK",-79.0086464,33.5929472
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"temiscaming , canada, qc, ca","Temiscaming, QC, Canada","OK",-79.10012,46.718235
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"southfield, , mi, us","Southfield, MI, USA","OK",-83.2218731,42.4733688
+"taylor, , mi, us","Taylor, MI 48180, USA","OK",-83.2696509,42.240872
+"fenton, , mi, us","Fenton, MI, USA","OK",-83.7049498,42.7978061
+"hephzibah, , ga, us","Hephzibah, GA 30815, USA","OK",-82.0967857,33.3140311
+"hopewell, , va, us","Hopewell, VA, USA","OK",-77.2872001,37.3043154
+"mount pleasant, , tx, us","Mt Pleasant, TX 75455, USA","OK",-94.968269,33.1567863
+"norwalk, , ct, us","Norwalk, CT, USA","OK",-73.4081575,41.117744
+"bradenton , northeast area of, fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"newport, , wa, us","Newport, WA 99156, USA","OK",-117.0432583,48.1796277
+"newport, , wa, us","Newport, WA 99156, USA","OK",-117.0432583,48.1796277
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"bow, , wa, us","Bow, WA 98232, USA","OK",-122.3980367,48.5603051
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"whitehall, , mi, us","Whitehall, MI 49461, USA","OK",-86.3486792,43.4100107
+"richmond , fishing bay, va, us","1525 Fishing Bay Rd, Deltaville, VA 23043, USA","OK",-76.3326976,37.5430007
+"cheektowa, , ny, ","Cheektowaga, NY, USA","OK",-78.7542892,42.9071477
+"hampton, , nh, us","Hampton, NH, USA","OK",-70.8389219,42.9375932
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"firebaugh, , ca, us","Firebaugh, CA 93622, USA","OK",-120.4560072,36.8588376
+"buford, , ga, us","Buford, GA, USA","OK",-84.0043513,34.1206564
+"burlington, , ct, us","Burlington, CT, USA","OK",-72.9648388,41.7691235
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"fairborn, , oh, us","Fairborn, OH 45324, USA","OK",-84.0193789,39.8208925
+"fairborn, , oh, us","Fairborn, OH 45324, USA","OK",-84.0193789,39.8208925
+"berlin , germany, , de","Berlin, Germany","OK",13.404954,52.5200066
+"lebanon, , pa, us","Lebanon, PA, USA","OK",-76.4113497,40.3409251
+"bridgeport, , mi, us","Bridgeport Charter Township, MI, USA","OK",-83.8851117,43.3609299
+"hubbard, , or, us","Hubbard, OR, USA","OK",-122.8078717,45.1823423
+"burnaby , canada, bc, ca","Burnaby, BC, Canada","OK",-122.9805104,49.2488091
+"winona , aprox.20 mi.north west of, mn, us","Winona, MN 55987, USA","OK",-91.6663523,44.0553908
+"gackle, , nd, us","Gackle, ND 58442, USA","OK",-99.1420541,46.6258113
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"borger, , tx, us","Borger, TX 79007, USA","OK",-101.3973876,35.6678203
+"grosse pointe park, , mi, us","Grosse Pointe Park, MI, USA","OK",-82.9374159,42.3758708
+"bonifay , near, fl, us","Bonifay, FL 32425, USA","OK",-85.6796533,30.7918559
+"greenville, , ms, us","Greenville, MS, USA","OK",-91.0377029,33.399661
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"maywood, , ca, us","Maywood, CA 90270, USA","OK",-118.185349,33.9866807
+"luke airforce base, , az, ","14185 Falcon St, Luke AFB, AZ 85309, USA","OK",-112.3755018,33.5414884
+"piedra blanka , los padres national forest, ca, ","Piedra Blanca Trailhead, Rose Valley Rd, Ojai, CA 93023, USA","OK",-119.1646555,34.5601645
+"timmins , canada, on, ca","Timmins, ON, Canada","OK",-81.3304953,48.4758208
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"north bend, , wa, us","North Bend, WA 98045, USA","OK",-121.7867775,47.4956579
+"roswell, , nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"claymont, , de, us","Claymont, DE 19703, USA","OK",-75.4596404,39.8006685
+"ellington afb, , tx, ","11210 Blume Ave, Houston, TX 77034, USA","OK",-95.1757448,29.6076709
+"missouri , northwest part, mo, ","800 University Dr, Maryville, MO 64468, USA","OK",-94.8825243,40.3519854
+"youngstown, , pa, us","Youngstown, PA 15650, USA","OK",-79.3655913,40.2797927
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"south st. paul, , mn, ","South St Paul, MN, USA","OK",-93.0275802,44.8759802
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"palo alto, , ca, us","Palo Alto, CA, USA","OK",-122.1430195,37.4418834
+"richfield springs, , ny, us","Richfield Springs, NY 13439, USA","OK",-74.9854335,42.8534057
+"vista, , ca, us","Vista, CA, USA","OK",-117.2425355,33.2000368
+"farragut, , tn, us","Farragut, TN, USA","OK",-84.1711345,35.8778548
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"salem, , nj, us","Salem, NJ, USA","OK",-75.4671423,39.5717796
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"atlantic ocean , bermuda, , ","Bermuda","OK",-64.7505,32.3078
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"binghamton, , ny, us","Binghamton, NY, USA","OK",-75.9179738,42.0986867
+"kent, , oh, us","Kent, OH, USA","OK",-81.3578859,41.1536674
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"rio de janeiro , brazil, , ","Rio de Janeiro, State of Rio de Janeiro, Brazil","OK",-43.1728965,-22.9068467
+"helena, , mt, us","Helena, MT, USA","OK",-112.0391057,46.5891452
+"huntersville, , nc, us","Huntersville, NC 28078, USA","OK",-80.8428504,35.410694
+"marlow, , nh, us","Marlow, NH, USA","OK",-72.1970297,43.1159114
+"mont alto, , pa, us","Mont Alto, PA, USA","OK",-77.5583232,39.8442593
+"lewiston , near, id, us","Lewiston, ID 83501, USA","OK",-117.001189,46.4004089
+"downey, , ca, us","Downey, CA, USA","OK",-118.1331593,33.9401088
+"cannon beach, , or, us","Cannon Beach, OR, USA","OK",-123.9615274,45.8917738
+"oregon city, , or, us","Oregon City, OR 97045, USA","OK",-122.6050422,45.3364465
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"alice springs  , nt&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"mount shasta, , ca, us","Mt Shasta, CA 96067, USA","OK",-122.3105666,41.3098746
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"brentwood, , tn, us","Brentwood, TN, USA","OK",-86.7827772,36.0331164
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"danbury, , ct, us","Danbury, CT, USA","OK",-73.4540111,41.394817
+"laguna niguel, , ca, us","Laguna Niguel, CA, USA","OK",-117.7149438,33.5236744
+"three points , kitt peak observatory, az, us","Tucson, AZ 85634, USA","OK",-111.5997477,31.9598899
+"callicoon, , ny, us","Callicoon, NY 12723, USA","OK",-75.0562785,41.7673105
+"londonderry, , nh, us","Londonderry, NH, USA","OK",-71.3739272,42.8651298
+"troms&oslash; , norway, , ","Troms, Norway","OK",18.7819365,69.8178242
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"north pole, , ak, us","North Pole, AK 99705, USA","OK",-147.3494443,64.7511111
+"chino, , ca, us","Chino, CA, USA","OK",-117.688944,34.0122346
+"lake makokibatan , canada, on, ","Makokibatan Lake, Ontario, Canada","OK",-87.3539005,51.270016
+"san diego , pe&ntilde;asquitos, ca, us","4060 Fourth Ave #310, San Diego, CA 92103, USA","OK",-117.161959,32.75108
+"easthagbourne&#44 oxfordshire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"alturas , se of, fl, us","Alturas, FL 33830, USA","OK",-81.7150798,27.871693
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"zimmerman, , mn, ","Zimmerman, MN 55398, USA","OK",-93.589962,45.4432986
+"selinsgrove, williamsport , pa, ","1565 N Susquehanna Trail, Selinsgrove, PA 17870, USA","OK",-76.840767,40.830843
+"clingman&#39s dome , great smoky mountains national park, tn, ",NA,"REQUEST_DENIED",NA,NA
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"abita springs, , la, us","Abita Springs, LA 70420, USA","OK",-90.0375755,30.4785257
+"tell city, , in, us","Tell City, IN, USA","OK",-86.7677663,37.9514447
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"renkum , netherlands, , ","Renkum, Netherlands","OK",5.739978,51.9829826
+"brinnon, , wa, us","Brinnon, WA 98320, USA","OK",-122.8982142,47.679259
+"grangeville, , id, us","Grangeville, ID 83530, USA","OK",-116.1223654,45.926552
+"madras, , or, us","Madras, OR 97741, USA","OK",-121.1294872,44.6334544
+"mexico beach, , fl, us","US-98, Mexico Beach, FL 32456, USA","OK",-85.3985661,29.9336365
+"duncan , canada, bc, ca","Duncan, BC, Canada","OK",-123.7079417,48.7786908
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"mansfield, , oh, us","Mansfield, OH, USA","OK",-82.5154471,40.75839
+"annapolis, , mo, us","Annapolis, MO 63620, USA","OK",-90.6976197,37.3603272
+"st.helens , uk, , ","St Helens, Saint Helens, UK","OK",-2.737095,53.456307
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"pratt, , ks, us","Pratt, KS, USA","OK",-98.7375911,37.6439071
+"titonka, , ia, us","Titonka, IA 50480, USA","OK",-94.0413443,43.236906
+"new york, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"scranton, dickson, pa, ","Dickson City, PA, USA","OK",-75.6187766,41.467642
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"coalville, , ia, us","Coalville, IA 50501, USA","OK",-94.1257916,42.4452485
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"woodland, , ca, us","Woodland, CA, USA","OK",-121.7732971,38.6785157
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"bellignham, , wa, ","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"waukesha, , wi, us","Waukesha, WI, USA","OK",-88.2314813,43.0116784
+"arbroath , uk, , gb","Arbroath, UK","OK",-2.591543,56.559107
+"brentwood, , tn, us","Brentwood, TN, USA","OK",-86.7827772,36.0331164
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"north hudson, , ny, us","North Hudson, NY 12855, USA","OK",-73.7284641,43.9525575
+"cusseta, , al, us","Cusseta, AL 36852, USA","OK",-85.3057779,32.7848521
+"morgantown, , pa, us","Morgantown, PA 19543, USA","OK",-75.8899408,40.1552847
+"south plainfield, , nj, us","South Plainfield, NJ 07080, USA","OK",-74.4115401,40.5792701
+"lillington, , nc, us","Lillington, NC 27546, USA","OK",-78.8158528,35.399327
+"boynton beach, , fl, us","Boynton Beach, FL, USA","OK",-80.0905465,26.5317866
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"etobicoke , canada, on, ca","Etobicoke, Toronto, ON, Canada","OK",-79.5131983,43.6204946
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"lancaster, freemont, ca, ","Lancaster Ct, Fremont, CA 94536, USA","OK",-121.9971946,37.557164
+"nashville, , in, us","Nashville, IN 47448, USA","OK",-86.2469535,39.2072501
+"parkersburg , outside of, wv, us","200 3rd St, Parkersburg, WV 26106, USA","OK",-81.5639096,39.2646792
+"maidenhead , uk, , gb","Maidenhead SL6, UK","OK",-0.7219,51.522414
+"columbia, , tn, us","Columbia, TN 38401, USA","OK",-87.0352831,35.6150716
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"paris, , tx, us","Paris, TX, USA","OK",-95.555513,33.6609389
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"westfield, , in, us","Westfield, IN, USA","OK",-86.1274888,40.0428151
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

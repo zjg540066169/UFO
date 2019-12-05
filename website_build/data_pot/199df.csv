@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"marion, , in, us","Marion, IN, USA","OK",-85.6591442,40.5583739
+"sterling, , va, us","Sterling, VA, USA","OK",-77.4291298,39.0066993
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"boise , downtown area, id, us","Downtown, Boise, ID, USA","OK",-116.2005834,43.6113797
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"twisp, , wa, us","Twisp, WA 98856, USA","OK",-120.122303,48.3634784
+"padang , indonesia, , ","Padang, Padang City, West Sumatra, Indonesia","OK",100.417181,-0.9470832
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"monroe, , oh, us","Monroe, OH, USA","OK",-84.3621634,39.440336
+"ephrata, , pa, us","Ephrata, PA 17522, USA","OK",-76.1788391,40.1798165
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"hermiston, , or, us","Hermiston, OR, USA","OK",-119.2894604,45.8404101
+"stafford springs, , ct, us","Stafford, CT, USA","OK",-72.3162523,41.984407
+"florence, , sd, us","Florence, SD 57235, USA","OK",-97.3298021,45.0546849
+"stora bl&aring;sj&ouml;n , sweden, , ",NA,"ZERO_RESULTS",NA,NA
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"camp mckall, , nc, ","Mackall Auxiliary Airfield Airport (HFF), Hoffman, NC 28347, USA","OK",-79.4974979,35.036388
+"dayville, , ct, us","Dayville, Killingly, CT 06241, USA","OK",-71.8878447,41.8462044
+"windsor , canada, on, ca","Windsor, ON, Canada","OK",-83.0363633,42.3149367
+"centerville, , mn, us","Centerville, MN 55038, USA","OK",-93.0557757,45.1630223
+"kearney, , ne, us","Kearney, NE, USA","OK",-99.0816784,40.6993303
+"fredon, , nj, us","Fredon Township, NJ 07860, USA","OK",-74.8087781,41.0392638
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"tigard, , or, us","Tigard, OR, USA","OK",-122.7872475,45.4186785
+"yucaipa, , ca, us","Yucaipa, CA, USA","OK",-117.0430865,34.033625
+"charlotte, , mi, us","Charlotte, MI 48813, USA","OK",-84.8358211,42.5636478
+"sanbornton, , nh, us","Sanbornton, NH, USA","OK",-71.5822837,43.4897584
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"mt. pleasant, , mi, us","Mt Pleasant, MI 48858, USA","OK",-84.7675139,43.5978075
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"boca raton, , fl, us","Boca Raton, FL, USA","OK",-80.1289321,26.3683064
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"beavercreek, , oh, us","Beavercreek, OH, USA","OK",-84.0632685,39.7092262
+"pataskala, , oh, us","Pataskala, OH, USA","OK",-82.6743341,39.9956193
+"hialeah, , fl, us","Hialeah, FL, USA","OK",-80.2781057,25.8575963
+"rapid city, , sd, us","Rapid City, SD, USA","OK",-103.2310149,44.0805434
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"ovilla, , tx, us","Ovilla, TX, USA","OK",-96.8863898,32.5265264
+"san rafael, , ca, us","San Rafael, CA, USA","OK",-122.5310874,37.9735346
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"san tan valley, , az, ","San Tan Valley, AZ, USA","OK",-111.5468301,33.177294
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"soldotna, , ak, us","Soldotna, AK 99669, USA","OK",-151.0583332,60.4877778
+"farmington, , nm, us","Farmington, NM, USA","OK",-108.2186856,36.7280583
+"burton, , mi, us","Burton, MI, USA","OK",-83.6163423,42.9994718
+"rathdrum, , id, us","Rathdrum, ID 83858, USA","OK",-116.8965857,47.8124031
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"north palm beach, , fl, us","North Palm Beach, FL, USA","OK",-80.0590804,26.8171165
+"sapulpa, , ok, us","Sapulpa, OK, USA","OK",-96.1141664,35.9987007
+"strathmore, , ab, ","Strathmore, AB, Canada","OK",-113.4004199,51.0378158
+"middletown, , ct, us","Middletown, CT, USA","OK",-72.6506488,41.5623209
+"middletown, , ct, us","Middletown, CT, USA","OK",-72.6506488,41.5623209
+"colorado, oklahoma , co, ","825 N Broadway Ave #320, Oklahoma City, OK 73102, USA","OK",-97.5145707,35.4758019
+"bowie, , az, us","Bowie, AZ 85605, USA","OK",-109.4870642,32.3259301
+"valdosta, , ga, us","Valdosta, GA, USA","OK",-83.2784851,30.8327022
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"cairns , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"ovid, , mi, us","Ovid, MI 48866, USA","OK",-84.3716438,43.0058618
+"hockessin, , de, us","Hockessin, DE, USA","OK",-75.6966001,39.7876112
+"bessmer, , mi, ","Bessemer, MI 49911, USA","OK",-90.0529504,46.4813363
+"pleasanton, , ne, us","Pleasanton, NE 68866, USA","OK",-99.0864775,40.967511
+"castaic junction, , ca, us","Castaic Junction, CA 91355, USA","OK",-118.610512,34.442036
+"sloatsburg, , ny, us","Sloatsburg, NY 10974, USA","OK",-74.192924,41.1545395
+"warren, , ma, us","Warren, MA, USA","OK",-72.191185,42.2125423
+"brewster, , ma, us","Brewster, MA, USA","OK",-70.0827905,41.7600902
+"east woodstock, , ct, us","East Woodstock, Woodstock, CT 06281, USA","OK",-71.9779217,41.984114
+"grand canyon, , az, us","Grand Canyon Village, AZ 86023, USA","OK",-112.1401108,36.0544445
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"manitowoc, , wi, us","Manitowoc, WI 54220, USA","OK",-87.657584,44.0886059
+"moses lake , west of&#44 i-90, wa, us",NA,"REQUEST_DENIED",NA,NA
+"norman, , ok, us","Norman, OK, USA","OK",-97.4394777,35.2225668
+"fulton, , ar, us","Fulton, AR 71838, USA","OK",-93.8135164,33.6145649
+"toomsuba, , ms, us","Toomsuba, MS 39364, USA","OK",-88.5069868,32.4184448
+"three rivers , canada, pq, ca","Trois-Rivières, QC, Canada","OK",-72.5420716,46.342982
+"zumbrota, , mn, us","Zumbrota, MN 55992, USA","OK",-92.6690806,44.294132
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"la madrid , mexico, , ","Lamadrid, Coahuila, Mexico","OK",-101.7932329,27.0505964
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"centreville, , va, us","Centreville, VA, USA","OK",-77.4288769,38.8403909
+"rehoboth beach, , de, us","Rehoboth Beach, DE, USA","OK",-75.0760137,38.7209454
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"rose bud, , ar, us","Rose Bud, AR 72137, USA","OK",-92.0812595,35.3314708
+"cloverdale , north of, ca, us","Cloverdale, CA 95425, USA","OK",-123.0172227,38.8054624
+"costa del este , argentina, , ","Costa del Este, Buenos Aires Province, Argentina","OK",-56.6880228,-36.6087864
+"eureka, , ca, us","Eureka, CA, USA","OK",-124.1636729,40.8020712
+"borger, , tx, us","Borger, TX 79007, USA","OK",-101.3973876,35.6678203
+"gasport, , ny, us","Gasport, NY 14067, USA","OK",-78.5761394,43.1992244
+"pinetop, , az, ","Pinetop-Lakeside, AZ, USA","OK",-109.9603843,34.1425438
+"superior, , co, us","Superior, CO, USA","OK",-105.1685977,39.9527634
+"hayneville, , al, us","Hayneville, AL 36040, USA","OK",-86.5802533,32.1840315
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

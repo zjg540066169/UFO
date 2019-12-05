@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"tishimingo, , ok, ","Tishomingo, OK 73460, USA","OK",-96.6786131,34.2362054
+"hardwick, , vt, us","Hardwick, VT, USA","OK",-72.3486802,44.5416243
+"texarkana , outside city limits, ar, us","Texarkana, AR 71854, USA","OK",-94.0376881,33.4417915
+"covina, , ca, us","Covina, CA, USA","OK",-117.8903397,34.0900091
+"covina, west covina, ca, ","W W Covina Pkwy, West Covina, CA, USA","OK",-117.9347515,34.0688135
+"burlington, , wa, us","Burlington, WA 98233, USA","OK",-122.3254374,48.4756621
+"gadsden, , al, us","Gadsden, AL, USA","OK",-86.0066386,34.014264
+"la mesa, , ca, us","La Mesa, CA, USA","OK",-117.0230839,32.7678287
+"nanakuli, , hi, us","Nānākuli, HI 96792, USA","OK",-158.1610274,21.3875264
+"mentone, , al, us","Mentone, AL, USA","OK",-85.5905204,34.5795282
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"belvedere, , ca, us","Belvedere, CA, USA","OK",-122.4644171,37.8727044
+"palm wells, , ca, us","Palm Wells, CA 92256, USA","OK",-116.5394584,34.0777873
+"monroe, , la, us","Monroe, LA, USA","OK",-92.1193012,32.5093109
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"stevens point, , wi, us","Stevens Point, WI, USA","OK",-89.574563,44.5235792
+"jones, , mi, us","Jones, MI 49061, USA","OK",-85.7988714,41.9042867
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"mediterranean sea, , , ","Mediterranean Sea","OK",18.0480105,34.5531284
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"galt , canada, on, ca","Galt, Cambridge, ON N1R 4L2, Canada","OK",-80.306239,43.360053
+"trier , germany, , de","Trier, Germany","OK",6.6371433,49.749992
+"viet nam, , , ","Vietnam","OK",108.277199,14.058324
+"bicester , uk, , gb","Bicester, UK","OK",-1.1535899,51.899603
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"chugiak, , ak, us","Chugiak, Anchorage, AK 99567, USA","OK",-149.4819445,61.3888889
+"jackson, , ms, us","Jackson, MS, USA","OK",-90.1848103,32.2987573
+"esopus, , ny, us","Esopus, NY 12487, USA","OK",-73.9651379,41.8278707
+"bristow, , ok, us","Bristow, OK 74010, USA","OK",-96.391118,35.8306334
+"howard beach, , ny, us","Howard Beach, Queens, NY, USA","OK",-73.8429989,40.6571222
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"smyrna, , ga, us","Smyrna, GA, USA","OK",-84.5143761,33.8839926
+"aurora, , or, us","Aurora, OR 97002, USA","OK",-122.7559267,45.2309536
+"passaic, , nj, us","Passaic, NJ, USA","OK",-74.1284764,40.8567662
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"denton, , tx, us","Denton, TX, USA","OK",-97.1330683,33.2148412
+"pomeroy, , wa, us","Pomeroy, WA 99347, USA","OK",-117.6026896,46.4748738
+"lithia springs, , ga, us","Lithia Springs, GA, USA","OK",-84.6604899,33.7939953
+"holmen , near brookners pond, wi, us","Holmen, WI, USA","OK",-91.2562539,43.9632962
+"hydes, , md, us","Hydes, MD 21082, USA","OK",-76.4932982,39.4839957
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"kilmarnock , uk, , gb","Kilmarnock, UK","OK",-4.498792,55.614719
+"elmont, , va, us","Elmont, South Anna, VA 23005, USA","OK",-77.4924843,37.711255
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"wordens pond road, , ri, ","Wordens Pond Rd, Rhode Island, USA","OK",-71.5852655,41.4307069
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"sanderville, , ms, ","Sandersville, MS, USA","OK",-89.0322762,31.7865478
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"hat creek, , ca, us","Hat Creek, CA 96040, USA","OK",-121.513592,40.8304382
+"eureka, , ca, us","Eureka, CA, USA","OK",-124.1636729,40.8020712
+"yonkers, , ny, us","Yonkers, NY, USA","OK",-73.8987469,40.9312099
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"st. cloud, , mn, us","St Cloud, MN, USA","OK",-94.1632404,45.5579451
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"tullahoma, , tn, us","Tullahoma, TN, USA","OK",-86.2094342,35.3620235
+"detroit, , mi, us","Detroit, MI, USA","OK",-83.0457538,42.331427
+"pune , india, , ","Pune, Maharashtra, India","OK",73.8567437,18.5204303
+"west reno , out on old hwy 40, nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"roslyn, , ny, us","Roslyn, NY, USA","OK",-73.6509622,40.7998227
+"willits, , ca, us","Willits, CA 95490, USA","OK",-123.3555656,39.4096079
+"cleveland, , ga, us","Cleveland, GA 30528, USA","OK",-83.7632366,34.5970402
+"flower mound, , tx, us","Flower Mound, TX, USA","OK",-97.0969552,33.0145673
+"winchester, , va, us","Winchester, VA 22601, USA","OK",-78.1633341,39.1856597
+"watson lake , canada, yk, ca","Watson Lake, YT Y0A, Canada","OK",-128.710913,60.062806
+"beaver damm, , wi, ","Beaver Dam, WI 53916, USA","OK",-88.837329,43.4577692
+"clarksburg, , wv, us","Clarksburg, WV, USA","OK",-80.3445341,39.2806451
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"midwest city, , ok, us","Midwest City, OK, USA","OK",-97.3967019,35.4495065
+"jefferson, , co, us","Jefferson County, CO, USA","OK",-105.2662931,39.5800298
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"tompkinsville, , ky, us","Tompkinsville, KY 42167, USA","OK",-85.6916396,36.7022797
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"island lake, , il, us","Island Lake, IL, USA","OK",-88.1920272,42.2761341
+"temple, , tx, us","Temple, TX, USA","OK",-97.342782,31.0982344
+"cambridge , canada, on, ca","Cambridge, ON, Canada","OK",-80.3144276,43.3616211
+"allison park, , pa, us","Allison Park, Hampton Township, PA, USA","OK",-79.9592134,40.5594832
+"edgewood, , md, us","Edgewood, MD, USA","OK",-76.2944016,39.4187194
+"kendallville, , in, us","Kendallville, IN 46755, USA","OK",-85.2649754,41.4414384
+"louisiana, , la, ","Louisiana, USA","OK",-91.9623327,30.9842977
+"malvern, , ar, us","Malvern, AR 72104, USA","OK",-92.8129462,34.3623149
+"hooksett, , nh, us","Hooksett, NH, USA","OK",-71.4651283,43.0967213
+"interstate 40, , az, ","I-40, Arizona, USA","OK",-111.8862985,35.2468936
+"barneveld, , ny, us","Barneveld, NY, USA","OK",-75.1893969,43.2760519
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"ridgecrest, , ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"kent, , ct, us","Kent, CT, USA","OK",-73.4769643,41.7247554
+"canton, , oh, us","Canton, OH, USA","OK",-81.378447,40.7989473
+"raymond, epping, nh, ","Epping, NH, USA","OK",-71.0735476,43.0534843
+"sparwood , canada, bc, ","Sparwood, BC, Canada","OK",-114.8796552,49.7344685
+"swanton, , oh, us","Swanton, OH 43558, USA","OK",-83.8910534,41.5886629
+"willow grove, , pa, us","Willow Grove, PA, USA","OK",-75.1157286,40.1439985
+"montrose, , pa, us","Montrose, PA 18801, USA","OK",-75.8771388,41.8339653
+"florence, , ms, us","Florence, MS, USA","OK",-90.1239399,32.1544162
+"branford, , ct, us","Branford, CT, USA","OK",-72.8141185,41.2799027
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"chelan, , wa, us","Chelan, WA 98816, USA","OK",-120.0168079,47.8408323
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"seffner, , fl, us","Seffner, FL 33584, USA","OK",-82.2756468,27.9836329
+"philippines, , , ","Philippines","OK",121.774017,12.879721
+"parkland, , wa, us","Parkland, WA, USA","OK",-122.4340114,47.1553769
+"uk, england , , ","England, UK","OK",-1.1743197,52.3555177
+"hartford, , ct, us","Hartford, CT, USA","OK",-72.6733723,41.7658043
+"schenectady, , ny, us","Schenectady, NY, USA","OK",-73.9395687,42.8142432
+"arnold, , md, us","Arnold, MD, USA","OK",-76.5027395,39.0320554
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"west kelowna , canada, bc, ca","West Kelowna, BC, Canada","OK",-119.5644584,49.863612
+"new hope, , al, us","New Hope, AL 35760, USA","OK",-86.3944307,34.5370339
+"midlothian, , va, us","Midlothian, VA, USA","OK",-77.6490005,37.5061069
+"lake ariel, , pa, us","Lake Ariel, PA 18436, USA","OK",-75.3834512,41.4536638
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"sherman oaks, , ca, us","Sherman Oaks, Los Angeles, CA, USA","OK",-118.451357,34.1489719
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"oklahoma city , near, ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"new hope, , pa, us","New Hope, PA 18938, USA","OK",-74.9512785,40.3642728
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"moore, , ok, us","Moore, OK, USA","OK",-97.4867028,35.3395079
+"new castle, , de, us","New Castle, DE 19720, USA","OK",-75.5668166,39.6620397
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"franklin, , mi, us","Franklin, MI 48025, USA","OK",-83.3060432,42.5222567
+"great falls, , mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"luna, , nm, us","Luna, NM 87824, USA","OK",-108.9545153,33.8189419
+"ducannon, , pa, ","Duncannon, PA 17020, USA","OK",-77.0230334,40.3981415
+"lynnwood, , wa, us","Lynnwood, WA, USA","OK",-122.3151314,47.8209301
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"montana city, , mt, us","Montana City, MT, USA","OK",-111.9327688,46.5377111
+"morrisville, , pa, us","Morrisville, PA 19067, USA","OK",-74.7746182,40.2086471
+"park city, , ut, us","Park City, UT, USA","OK",-111.4979729,40.6460622
+"milo, , mo, us","Milo, MO 64767, USA","OK",-94.3060588,37.7561516
+"dahlonega, , ga, us","Dahlonega, GA 30533, USA","OK",-83.9843953,34.5261465
+"mariposa, , ca, us","Mariposa, CA 95338, USA","OK",-119.9662843,37.4849377
+"oakley, , ca, us","Oakley, CA 94561, USA","OK",-121.7124536,37.9974219
+"richards bay , kwazulu-natal, yt, ","Richards Bay, South Africa","OK",32.0382856,-28.7807276
+"congress, , az, us","Congress, AZ 85332, USA","OK",-112.8507374,34.162526
+"westport, , ma, ","Westport, MA, USA","OK",-71.0735476,41.5700183
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"hampton bays, , ny, us","Hampton Bays, NY, USA","OK",-72.5175893,40.8689892
+"overton, , nv, us","Overton, Moapa Valley, NV 89040, USA","OK",-114.4485235,36.5436338
+"sharpsburg, , md, us","Sharpsburg, MD 21782, USA","OK",-77.748882,39.4575994
+"half moon bay, , ca, us","Half Moon Bay, CA, USA","OK",-122.4285862,37.4635519
+"spartanburg, , sc, us","Spartanburg, SC, USA","OK",-81.9320482,34.9495672
+"logansport, kokomo., in, ","101 Wolf Rd, Logansport, IN 46947, USA","OK",-86.3703753,40.7393804
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"pocahontas, , ar, us","Pocahontas, AR 72455, USA","OK",-90.971233,36.2614554
+"lake ozark, , mo, us","Lake Ozark, MO, USA","OK",-92.6387968,38.1986435
+"douglas island, , ak, ","Douglas Island, Juneau, AK, USA","OK",-134.546078,58.2639859
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"wollongong , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"fonthill , canada, on, ca","Fonthill, Pelham, ON, Canada","OK",-79.2854491,43.0453349
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"glen, , ny, us","Glen, NY 12072, USA","OK",-74.3445781,42.8942407
+"pacific ocean , , , ","Pacific Ocean","OK",-124.508523,-8.783195
+"i-10&#44 marker 174, , nm, ",NA,"REQUEST_DENIED",NA,NA
+"upland, , ca, us","Upland, CA, USA","OK",-117.6483876,34.09751
+"fredericksburg, , tx, us","Fredericksburg, TX 78624, USA","OK",-98.8719843,30.2752011
+"atlanta , e of&#44 near the la border, tx, us",NA,"REQUEST_DENIED",NA,NA
+"bradenton, palmetto, fl, ","Palmetto, FL, USA","OK",-82.5723193,27.5214269
+"la plata, , md, us","La Plata, MD 20646, USA","OK",-76.9752514,38.5292877
+"sunnyside, , wa, us","Sunnyside, WA, USA","OK",-120.0086538,46.3237423
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"cupertino, , ca, us","Cupertino, CA, USA","OK",-122.0321823,37.3229978
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"kittery, , me, us","Kittery, ME, USA","OK",-70.736137,43.0881256
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"madison, , oh, us","Madison, OH 44057, USA","OK",-81.049819,41.7711633
+"north pole, , ak, us","North Pole, AK 99705, USA","OK",-147.3494443,64.7511111
+"concord, , nh, us","Concord, NH, USA","OK",-71.5375718,43.2081366
+"greenville, , nc, us","Greenville, NC, USA","OK",-77.3663538,35.612661
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"carlisle , uk, , gb","Carlisle, UK","OK",-2.932931,54.892473
+"ucaipa, , ca, ","Yucaipa, CA, USA","OK",-117.0430865,34.033625
+"somerset , uk, , gb","Somerset, UK","OK",-2.9262307,51.105097
+"naarden , netherlands, , ","Naarden, Netherlands","OK",5.1604238,52.2952549
+"maidstone , uk, , gb","Maidstone, UK","OK",0.522699,51.270363
+"rockville, , md, us","Rockville, MD, USA","OK",-77.1527578,39.0839973
+"bilbao, , , ","Bilbao, Biscay, Spain","OK",-2.9349852,43.2630126
+"alexandria, , in, us","Alexandria, IN 46001, USA","OK",-85.675809,40.2628184
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"roanoke, , va, us","Roanoke, VA, USA","OK",-79.9414266,37.2709704
+"hillsboro, , oh, us","Hillsboro, OH 45133, USA","OK",-83.611587,39.2022866
+"lodi , near; central ca; we were traveling, ca, us","Lodi, CA, USA","OK",-121.2722194,38.1341477
+"bloomington, , in, us","Bloomington, IN, USA","OK",-86.5263857,39.165325
+"friendswood, , tx, us","Friendswood, TX, USA","OK",-95.2010447,29.5293998
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"sutton cum lound , uk, , ","Sutton cum Lound, Retford DN22, UK","OK",-0.9778329,53.3558931
+"chino hills, , ca, us","Chino Hills, CA, USA","OK",-117.7325848,33.9898188
+"santa clarita, , ca, us","Santa Clarita, CA, USA","OK",-118.542586,34.3916641
+"new river, , az, us","New River, AZ, USA","OK",-112.1359906,33.9158687
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

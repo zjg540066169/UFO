@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"redondo beach, , ca, us","Redondo Beach, CA, USA","OK",-118.3884078,33.8491816
+"barbourville, , ky, us","Barbourville, KY, USA","OK",-83.8888138,36.8664765
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"surprise, , az, us","Surprise, AZ, USA","OK",-112.3679279,33.6292337
+"blairstown, , nj, us","Blairstown, NJ, USA","OK",-74.9589405,40.9831018
+"barstow, , ca, us","Barstow, CA, USA","OK",-117.0172826,34.8957957
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"valparaiso, , in, us","Valparaiso, IN, USA","OK",-87.0611412,41.4730948
+"hemet, , ca, us","Hemet, CA, USA","OK",-116.9719684,33.7475203
+"falls church, , va, us","Falls Church, VA, USA","OK",-77.1710914,38.882334
+"vallejo, , ca, us","Vallejo, CA, USA","OK",-122.2566367,38.1040864
+"narberth, , pa, us","Narberth, PA, USA","OK",-75.26046,40.0084456
+"boonville, , ny, us","Boonville, NY 13309, USA","OK",-75.3365607,43.4836801
+"anderson, , sc, us","Anderson, SC, USA","OK",-82.6501332,34.5034394
+"port st. joe, , fl, ","Port St Joe, FL 32456, USA","OK",-85.302974,29.8118757
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"manteca, , ca, us","Manteca, CA, USA","OK",-121.2160526,37.7974273
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"concord, , ca, us","Concord, CA, USA","OK",-122.0310733,37.9779776
+"avoca, , mi, us","Avoca, MI 48006, USA","OK",-82.6915737,43.0611363
+"syracuse, , ny, us","Syracuse, NY, USA","OK",-76.1474244,43.0481221
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"creswell, , or, us","Creswell, OR 97426, USA","OK",-123.0245261,43.9179023
+"lesser slave lake , canada, ab, ","Lesser Slave Lake, Alberta, Canada","OK",-115.6038964,55.4312556
+"the colony, , tx, us","The Colony, TX, USA","OK",-96.8928309,33.0806083
+"imperial, , mo, us","Imperial, MO, USA","OK",-90.3784525,38.3697763
+"foley, , al, us","Foley, AL, USA","OK",-87.6835974,30.4065868
+"mitchell, , sd, us","Mitchell, SD 57301, USA","OK",-98.0297992,43.7094283
+"ripon, , ca, us","Ripon, CA 95366, USA","OK",-121.1354141,37.7394537
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"tehran , iran, , ","Tehran, Tehran Province, Iran","OK",51.3889736,35.6891975
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"northwich , uk, , gb","Northwich, UK","OK",-2.5181321,53.2586803
+"blackjack , north st. louis co., mo, us","Black Jack, MO 63033, USA","OK",-90.2673346,38.7933833
+"ringgold, , ga, us","Ringgold, GA 30736, USA","OK",-85.1091173,34.9159099
+"oldsmar, , fl, us","Oldsmar, FL, USA","OK",-82.6650992,28.0341847
+"carterville, , mo, us","Carterville, MO 64835, USA","OK",-94.4430032,37.1492253
+"carterville, , mo, us","Carterville, MO 64835, USA","OK",-94.4430032,37.1492253
+"falls twp, , pa, ","Falls Township, PA, USA","OK",-74.7922202,40.1608295
+"whitakers, , nc, us","Whitakers, NC 27891, USA","OK",-77.7127535,36.1054312
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"elmer, , nj, us","Elmer, NJ 08318, USA","OK",-75.1701819,39.5951147
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"sierra vista, , az, us","Sierra Vista, AZ, USA","OK",-110.2772856,31.5455001
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"strawberry, , az, us","Strawberry, AZ 85544, USA","OK",-111.4934754,34.4078063
+"ellisville, , ms, us","Ellisville, MS 39437, USA","OK",-89.1956142,31.6040538
+"golden valley, , az, us","Golden Valley, AZ 86413, USA","OK",-114.2230108,35.2233311
+"golden valley, , az, us","Golden Valley, AZ 86413, USA","OK",-114.2230108,35.2233311
+"clinton township, , mi, ","Clinton Twp, MI, USA","OK",-82.9195514,42.5868882
+"wendover , east of&#44 on i-80, ut, us",NA,"REQUEST_DENIED",NA,NA
+"eufaula, , al, us","Eufaula, AL, USA","OK",-85.1454876,31.8912717
+"holbrook, , az, us","Holbrook, AZ 86025, USA","OK",-110.1581768,34.9022482
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"york, , pa, us","York, PA, USA","OK",-76.727745,39.9625984
+"ft. riley, , ks, ",NA,"ZERO_RESULTS",NA,NA
+"cibecue , west of, az, us","Cibecue, AZ 85911, USA","OK",-110.4853908,34.0447693
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"fort worth, , tx, us","Fort Worth, TX, USA","OK",-97.3307658,32.7554883
+"centralia, , wa, us","Centralia, WA, USA","OK",-122.9542972,46.7162136
+"sierra madre, , ca, us","Sierra Madre, CA 91024, USA","OK",-118.0528456,34.1616729
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"santa barbara, , ca, us","Santa Barbara, CA, USA","OK",-119.6981901,34.4208305
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"santa ana, garden grove, ca, ","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"easton, , pa, us","Easton, PA, USA","OK",-75.2207323,40.688432
+"kabul , afghanistan, , ","Kabul, Afghanistan","OK",69.207486,34.5553494
+"el centro, , ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"newburgh, , in, us","Newburgh, IN 47630, USA","OK",-87.4052865,37.9444882
+"elmore city, , ok, us","Elmore City, OK 73433, USA","OK",-97.3964138,34.6228594
+"canyon lake, , ca, us","Canyon Lake, CA 92587, USA","OK",-117.2730931,33.6850215
+"lakewood, , nj, us","Lakewood Township, NJ 08701, USA","OK",-74.2097014,40.082129
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"lake wales, , fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"lake wales, , fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"nanuet, , ny, us","Nanuet, NY, USA","OK",-74.013473,41.0887073
+"charleston, , sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"forked river, , nj, us","Forked River, Lacey Township, NJ, USA","OK",-74.1901399,39.8398413
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"hampton, , nh, us","Hampton, NH, USA","OK",-70.8389219,42.9375932
+"buckingham, , pa, us","Buckingham Township, PA, USA","OK",-75.0494329,40.3149535
+"hawkesbury , canada, on, ca","Hawkesbury, ON, Canada","OK",-74.604189,45.6071264
+"hawkesbury , canada, on, ca","Hawkesbury, ON, Canada","OK",-74.604189,45.6071264
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"vernon hills, , il, us","Vernon Hills, IL, USA","OK",-87.9653565,42.2393323
+"seaside, , or, us","Seaside, OR 97138, USA","OK",-123.9226385,45.9931636
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"ruston, , la, us","Ruston, LA 71270, USA","OK",-92.637927,32.5232053
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"leland, , mi, us","Leland, MI 49654, USA","OK",-85.7601797,45.0229612
+"holgate, , nj, us","Beach Haven, NJ 08008, USA","OK",-74.2431962,39.5592848
+"salt lake valley, , ut, ","Salt Lake Valley, Utah, USA","OK",-111.9045541,40.6923764
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

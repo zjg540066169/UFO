@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hyderabad , india, , ","Hyderabad, Telangana, India","OK",78.486671,17.385044
+"franklin, , wi, us","Franklin, WI 53132, USA","OK",-88.0384195,42.888627
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"tegucigalpa , honduras, , ","Tegucigalpa, Honduras","OK",-87.1715002,14.065049
+"wellington, , fl, us","Wellington, FL, USA","OK",-80.2683571,26.6617635
+"pine bush, , ny, us","Pine Bush, NY 12566, USA","OK",-74.2990401,41.6081492
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"dubuque, , ia, us","Dubuque, IA, USA","OK",-90.6654675,42.5022661
+"clovis, , nm, us","Clovis, NM 88101, USA","OK",-103.2052272,34.4047987
+"revere, , ma, us","Revere, MA, USA","OK",-71.0119948,42.4084302
+"sunny coast , australia, , ","Sunshine Coast QLD, Australia","OK",153.066667,-26.65
+"falls church, , va, us","Falls Church, VA, USA","OK",-77.1710914,38.882334
+"washington&#44 d.c. , area, dc, ",NA,"REQUEST_DENIED",NA,NA
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"natick, , ma, us","Natick, MA, USA","OK",-71.3468091,42.2775281
+"natick, , ma, us","Natick, MA, USA","OK",-71.3468091,42.2775281
+"natick, , ma, us","Natick, MA, USA","OK",-71.3468091,42.2775281
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"leamington spa , uk, , gb","Royal Leamington Spa, UK","OK",-1.5200789,52.2851905
+"stone ridge, , ny, us","Stone Ridge, NY, USA","OK",-74.1524394,41.8408742
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"brunswick, , me, us","Brunswick, ME 04011, USA","OK",-69.966996,43.9140162
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"hollywood, , fl, us","Hollywood, FL, USA","OK",-80.1494901,26.0112014
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"regina , canada, sk, ca","Regina, SK, Canada","OK",-104.6188943,50.4452112
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"winsted, , ct, us","Winsted, CT 06098, USA","OK",-73.0601078,41.9212066
+"cheyenne, , wy, us","Cheyenne, WY, USA","OK",-104.8202462,41.1399814
+"northern california, , ca, ","Northern California, CA, USA","OK",-120.8958242,38.8375215
+"gardiner, , me, us","Gardiner, ME, USA","OK",-69.7753222,44.2300698
+"aandurah , western australia, , ","Mandurah WA, Australia","OK",115.7424077,-32.5361038
+"bainbridge island, , wa, ","Bainbridge Island, WA, USA","OK",-122.5210007,47.6248791
+"liberty, , mo, us","Liberty, MO, USA","OK",-94.4191177,39.2461138
+"la mirada, , ca, us","La Mirada, CA, USA","OK",-118.0120086,33.9172357
+"eastbourne , uk, , gb","Eastbourne, UK","OK",0.290472,50.768035
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"sedillo hill, , nm, ","Woodland Hills, Tijeras, NM 87059, USA","OK",-106.3014982,35.1081698
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"cumbernauld , uk, , gb","Cumbernauld, Glasgow, UK","OK",-3.992534,55.945668
+"bouse, , az, us","Bouse, AZ 85325, USA","OK",-114.0057748,33.9325235
+"eden prairie, , mn, us","Eden Prairie, MN, USA","OK",-93.470786,44.8546856
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"acme, , pa, us","Acme, PA 15610, USA","OK",-79.4287878,40.1265877
+"saskatoon , canada, sa, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"westville, , in, us","Westville, IN 46391, USA","OK",-86.9005825,41.5414297
+"franklin, , pa, us","Franklin, PA 16323, USA","OK",-79.8314437,41.3978358
+"marianna, , fl, us","Marianna, FL, USA","OK",-85.2268735,30.7743596
+"sinking spring, , pa, us","Sinking Spring, PA 19608, USA","OK",-76.0110489,40.3273146
+"laramie, , wy, us","Laramie, WY, USA","OK",-105.5911007,41.3113669
+"staplefield , uk, , gb","Staplefield, Haywards Heath RH17 6EU, UK","OK",-0.180828,51.037426
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"white bear lake, , mn, us","White Bear Lake, MN, USA","OK",-93.0081479,45.0853814
+"aloha, , or, us","Aloha, OR, USA","OK",-122.8670454,45.4942838
+"london , just west of, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"concord, , ca, us","Concord, CA, USA","OK",-122.0310733,37.9779776
+"concord, , ca, us","Concord, CA, USA","OK",-122.0310733,37.9779776
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"antioch, , ca, us","Antioch, CA, USA","OK",-121.805789,38.0049214
+"champaign, , il, us","Champaign, IL, USA","OK",-88.2433829,40.1164204
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"belleville , canada, on, ca","Belleville, ON, Canada","OK",-77.3832315,44.1627589
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"new philidelphia, , oh, ","New Philadelphia, OH 44663, USA","OK",-81.4456706,40.4897871
+"port ludlow, , wa, us","Port Ludlow, WA, USA","OK",-122.6834914,47.9253693
+"mocksville, , nc, us","Mocksville, NC 27028, USA","OK",-80.5614494,35.8940263
+"new westminster , canada, bc, ca","New Westminster, BC, Canada","OK",-122.910956,49.2057179
+"wentzville, , mo, us","Wentzville, MO, USA","OK",-90.8529107,38.81144
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"morehead city, , nc, us","Morehead City, NC, USA","OK",-76.7260436,34.7229391
+"dayville, , ct, us","Dayville Historic District, Killingly, CT 06241, USA","OK",-71.886358,41.8455651
+"loganville, , ga, us","Loganville, GA 30052, USA","OK",-83.9007382,33.8389977
+"frazier park, , ca, us","Frazier Park, CA 93225, USA","OK",-118.9448219,34.8227556
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"salford , uk, , gb","Salford, UK","OK",-2.2901264,53.4875235
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"leigh , uk, , gb","Leigh, UK","OK",-2.518727,53.496115
+"richmond , canada, bc, ca","Richmond, BC, Canada","OK",-123.133569,49.1665898
+"milton , canada, on, ca","Milton, ON, Canada","OK",-79.8774042,43.5182991
+"rossville, , il, us","Rossville, IL, USA","OK",-87.6686342,40.3792031
+"palo alto, , ca, us","Palo Alto, CA, USA","OK",-122.1430195,37.4418834
+"clearlake, , ca, us","Clearlake, CA, USA","OK",-122.6263728,38.9582307
+"princeton, , wv, us","Princeton, WV 24740, USA","OK",-81.1025918,37.3662293
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"spring valley, , ca, us","Spring Valley, CA, USA","OK",-116.998916,32.744774
+"great lakes, , il, ","530 Farragut Ave B, Great Lakes, IL 60088, USA","OK",-87.8413901,42.3124041
+"queen creek, , az, us","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

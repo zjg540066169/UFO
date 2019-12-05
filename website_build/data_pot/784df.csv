@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"kingsland, , ga, us","Kingsland, GA, USA","OK",-81.6898261,30.7999563
+"rush springs, , ok, us","Rush Springs, OK 73082, USA","OK",-97.9569845,34.7825721
+"elk grove village, , il, us","Elk Grove Village, IL 60007, USA","OK",-87.9703461,42.0039178
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"biloxi, , ms, us","Biloxi, MS, USA","OK",-88.8853078,30.3960318
+"smyrna, , de, us","Smyrna, DE 19977, USA","OK",-75.6046494,39.2998339
+"colchester , uk, , gb","Colchester, UK","OK",0.891874,51.895927
+"holton, , ks, us","Holton, KS 66436, USA","OK",-95.7363723,39.4652724
+"brabant , netherlands, , ","North Brabant, Netherlands","OK",5.2321687,51.4826537
+"dewey beach, , de, us","Dewey Beach, DE 19971, USA","OK",-75.0746249,38.6928899
+"san carlos, , az, us","San Carlos, AZ 85550, USA","OK",-110.4531551,33.3453349
+"verdi, , nv, us","Verdi, NV 89439, USA","OK",-119.9887669,39.5183106
+"arlington, , wa, us","Arlington, WA, USA","OK",-122.1251418,48.1987118
+"glens falls, , ny, us","Glens Falls, NY, USA","OK",-73.6440058,43.3095164
+"palo alto, , ca, us","Palo Alto, CA, USA","OK",-122.1430195,37.4418834
+"mooers, , ny, us","Mooers, NY, USA","OK",-73.6773212,44.9735029
+"tres pinos, , ca, us","Tres Pinos, CA 95023, USA","OK",-121.321043,36.7899573
+"yellowstone national park, , wy, ","Yellowstone National Park, WY 82190, USA","OK",-110.5884542,44.4279684
+"mercer county, , ky, us","Mercer County, KY, USA","OK",-84.8984775,37.8258603
+"kenya, , , ","Kenya","OK",37.906193,-0.023559
+"bucharest , romania, , ","Bucharest, Romania","OK",26.1025384,44.4267674
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"lindsay , canada, on, ca","Lindsay, Kawartha Lakes, ON, Canada","OK",-78.7407542,44.3565742
+"mojave, , ca, us","Mojave, CA 93501, USA","OK",-118.1739645,35.0524699
+"kent , uk, , gb","Kent, UK","OK",0.5217254,51.2787075
+"pickett, , wi, us","Pickett, WI 54964, USA","OK",-88.7289492,43.9115928
+"plover, , wi, us","Plover, WI, USA","OK",-89.5440069,44.4563579
+"wartrace, , tn, us","Wartrace, TN 37183, USA","OK",-86.3336043,35.5272954
+"chaska, , mn, us","Chaska, MN 55318, USA","OK",-93.6018389,44.7893446
+"brighton , uk, , gb","Brighton, UK","OK",-0.137163,50.82253
+"santa rosa ,  novato, ca, ","740 Rowland Blvd, Novato, CA 94947, USA","OK",-122.5737779,38.0835275
+"batesville, , ar, us","Batesville, AR 72501, USA","OK",-91.6409721,35.769799
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"st. michaels, , az, us","St Michaels, AZ 86511, USA","OK",-109.0956492,35.6447402
+"spring valley, , ca, us","Spring Valley, CA, USA","OK",-116.998916,32.744774
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"lake worth, , fl, us","Lake Worth, FL, USA","OK",-80.0684479,26.6167555
+"florida , coastline, fl, ","Henderson Beach State Park, 17000 Emerald Coast Pkwy, Destin, FL 32541, USA","OK",-86.443995,30.3846734
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"east meadow, , ny, us","East Meadow, NY, USA","OK",-73.5590157,40.7139898
+"port richey, , fl, us","Port Richey, FL, USA","OK",-82.7195451,28.2716755
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"media, , pa, us","Media, PA 19063, USA","OK",-75.387693,39.9167783
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"fayetteville, , ar, us","Fayetteville, AR, USA","OK",-94.1718542,36.082156
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"motherwell , uk, , gb","Motherwell, UK","OK",-3.9810968,55.7832092
+"motherwell , uk, , gb","Motherwell, UK","OK",-3.9810968,55.7832092
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"spirit lake, , ia, us","Spirit Lake, IA 51360, USA","OK",-95.1022313,43.4226192
+"lihue, , hi, us","Lihue, HI 96766, USA","OK",-159.3711111,21.9811111
+"west yellowstone, , mt, ","West Yellowstone, MT 59758, USA","OK",-111.1041092,44.6621493
+"leaky, , tx, ","Leakey, TX 78873, USA","OK",-99.761448,29.7288351
+"byhalia, , ms, us","Byhalia, MS 38611, USA","OK",-89.6906396,34.8723179
+"moore, , ok, us","Moore, OK, USA","OK",-97.4867028,35.3395079
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"cherry spring, , pa, ","Cherry Springs State Park, 4639 Cherry Springs Rd, Coudersport, PA 16915, USA","OK",-77.8234031,41.6632215
+"odenton, , md, us","Odenton, MD, USA","OK",-76.7002462,39.0839981
+"walton, , ky, us","Walton, KY 41094, USA","OK",-84.6102213,38.8756194
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"paramount, , ca, us","Paramount, CA, USA","OK",-118.1597911,33.8894598
+"longmont, , co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"felton, , ca, us","Felton, CA, USA","OK",-122.0732973,37.0513374
+"meridian, , ms, us","Meridian, MS, USA","OK",-88.703656,32.3643098
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"okmulgee, , ok, us","Okmulgee, OK 74447, USA","OK",-95.9515399,35.6266957
+"healdton, , ok, us","Healdton, OK, USA","OK",-97.4878023,34.2331475
+"brentwood, , mo, us","Brentwood, MO, USA","OK",-90.3492829,38.6175522
+"woodside, , ca, us","Woodside, CA, USA","OK",-122.2538557,37.4299388
+"felton, , de, us","Felton, DE 19943, USA","OK",-75.5779807,39.0084463
+"barnsley , uk, , gb","Barnsley, UK","OK",-1.479726,53.55263
+"huffman, , tx, us","Huffman, TX 77336, USA","OK",-95.084261,30.0260425
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"nacogdoches, , tx, us","Nacogdoches, TX, USA","OK",-94.6554874,31.6035129
+"winston-salem, , nc, us","Winston-Salem, NC, USA","OK",-80.244216,36.0998596
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"kennesaw, , ga, us","Kennesaw, GA, USA","OK",-84.6154897,34.0234337
+"brookfield, , wi, us","Brookfield, WI, USA","OK",-88.1064787,43.0605671
+"shingle springs, , ca, us","Shingle Springs, CA 95682, USA","OK",-120.9359987,38.6691362
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"san mateo, , ca, us","San Mateo, CA, USA","OK",-122.3255254,37.5629917
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"krum, , tx, us","Krum, TX 76249, USA","OK",-97.2380725,33.2615068
+"sioux city, , ia, us","Sioux City, IA, USA","OK",-96.4049408,42.4963416
+"pomona, , ca, us","Pomona, CA, USA","OK",-117.7499909,34.055103
+"sherwood park , canada, ab, ca","Sherwood Park, AB, Canada","OK",-113.2957355,53.5411916
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"duluth, , ga, us","Duluth, GA, USA","OK",-84.1446376,34.0028786
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"bellevue, , pa, us","Bellevue, PA 15202, USA","OK",-80.0517215,40.4939576
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

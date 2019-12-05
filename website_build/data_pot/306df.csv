@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"norman, , ok, us","Norman, OK, USA","OK",-97.4394777,35.2225668
+"byron, , ny, us","Byron, NY 14422, USA","OK",-78.0644168,43.0796266
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"seatac, , wa, us","SeaTac, WA, USA","OK",-122.2960726,47.4435903
+"bath, , il, us","Bath, IL 62617, USA","OK",-90.1409523,40.1933784
+"clinton, , ut, us","Clinton, UT 84015, USA","OK",-112.0504983,41.139666
+"commerce city, , co, us","Commerce City, CO, USA","OK",-104.9338675,39.8083196
+"lockerley , uk, , ","Lockerley, UK","OK",-1.5760968,51.0278104
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"lodi, , wi, us","Lodi, WI 53555, USA","OK",-89.5265093,43.313878
+"leesburg, , ga, us","Leesburg, GA 31763, USA","OK",-84.1707423,31.7321156
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"windham, , ny, us","Windham, NY 12496, USA","OK",-74.2520875,42.3073065
+"cebu city , philippines, , ","Cebu City, Cebu, Philippines","OK",123.8854366,10.3156992
+"new albany, , in, us","New Albany, IN 47150, USA","OK",-85.8241312,38.2856247
+"chicago , irving park road, il, us","IL-19, Chicago, IL, USA","OK",-87.7918662,41.9528339
+"piney , lawrence county , tn, us","Lawrenceburg, TN 38464, USA","OK",-87.5191861,35.2653571
+"lumberton, , ms, us","Lumberton, MS 39455, USA","OK",-89.452287,31.0012942
+"butte, , mt, us","Butte, MT, USA","OK",-112.5347775,46.0038232
+"eagle mountain, , tx, us","Eagle Mountain, TX 76179, USA","OK",-97.444273,32.893442
+"toronto national forest, , az, ","Tonto National Forest, US 188, Payson, AZ 85541, USA","OK",-111.2750244,33.9319665
+"hawthorne, , nv, us","Hawthorne, NV 89415, USA","OK",-118.624578,38.5246441
+"pineville , pinnacle strip mine, wv, us","Co Hwy 12/3, Pineville, WV 24874, USA","OK",-81.4963272,37.547142
+"coram, , ny, us","Coram, NY, USA","OK",-73.0014946,40.8687096
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"fountain valley, , ca, us","Fountain Valley, CA 92708, USA","OK",-117.9544069,33.7090212
+"sterling, , co, us","Sterling, CO 80751, USA","OK",-103.207709,40.6255415
+"venice, , fl, us","Venice, FL, USA","OK",-82.4542632,27.0997775
+"isabela , puerto rico, pr, ","Isabela, Puerto Rico","OK",-67.0242062,18.4703856
+"lake pontchartrain, , la, ","Lake Pontchartrain, Louisiana, USA","OK",-90.1120696,30.205062
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"oskaloosa, , ia, us","Oskaloosa, IA 52577, USA","OK",-92.6493595,41.2916728
+"chiloquin, , or, us","Chiloquin, OR 97624, USA","OK",-121.8661258,42.5776364
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"gates, , or, us","Gates, OR, USA","OK",-122.4167483,44.7562329
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"indialantic, , fl, us","Indialantic, FL 32903, USA","OK",-80.5656079,28.0894599
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"henderson , las vegas, nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"clarion, , pa, us","Clarion, PA 16214, USA","OK",-79.3853218,41.2147851
+"madison, , al, us","Madison, AL, USA","OK",-86.7483318,34.6992579
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"keller, , tx, us","Keller, TX, USA","OK",-97.229298,32.9341893
+"oceanside, , ny, us","Oceanside, NY, USA","OK",-73.6401296,40.6387141
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"palmetto, , ga, us","Palmetto, GA, USA","OK",-84.6696548,33.5178907
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"harpswell, , me, ","Harpswell, ME, USA","OK",-69.9598343,43.7864342
+"reykjavik , iceland, , ","Reykjavík, Iceland","OK",-21.9426354,64.146582
+"moosup, , ct, us","Moosup, Plainfield, CT 06354, USA","OK",-71.8809054,41.7128767
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"burley, , id, us","Burley, ID, USA","OK",-113.7927948,42.5357428
+"bellmore, , ny, us","Bellmore, NY, USA","OK",-73.5270709,40.6687125
+"bangor submarine base, , wa, ","Bangor Trident Base, WA, USA","OK",-122.7181033,47.72215
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"lowell, , ma, us","Lowell, MA, USA","OK",-71.3161718,42.6334247
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"king of prussia , 5 miles from, pa, us",NA,"ZERO_RESULTS",NA,NA
+"avalon, , ca, us","Avalon, CA 90704, USA","OK",-118.3282279,33.3428193
+"shahrekord , iran, , ","Shahrekord, Chaharmahal and Bakhtiari Province, Iran","OK",50.8768541,32.3282386
+"north port, , fl, us","North Port, FL, USA","OK",-82.2359254,27.044224
+"plymouth, , vt, us","Plymouth, VT, USA","OK",-72.7219581,43.5354332
+"garrettsville, , oh, us","Garrettsville, OH 44231, USA","OK",-81.0964856,41.2842224
+"newbury , canada, on, ","Newbury, ON N0L, Canada","OK",-81.797839,42.6844699
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"newport beach,  laguna beach, ca, ","31972 Coast Hwy, Laguna Beach, CA 92651, USA","OK",-117.740907,33.4977878
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"chennai , india, , ","Chennai, Tamil Nadu, India","OK",80.2707184,13.0826802
+"palatka, , fl, us","Palatka, FL 32177, USA","OK",-81.6375819,29.6485801
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"dewitt, , ia, ","DeWitt, IA 52742, USA","OK",-90.5389662,41.8239952
+"weston, , fl, us","Weston, FL, USA","OK",-80.3997748,26.1003654
+"marked tree, , ar, us","Marked Tree, AR 72365, USA","OK",-90.4206578,35.5328594
+"sumner, , wa, us","Sumner, WA, USA","OK",-122.2403966,47.2031566
+"amarillo, , tx, us","Amarillo, TX, USA","OK",-101.8312969,35.2219971
+"rockford, , mi, us","Rockford, MI, USA","OK",-85.5600316,43.1200272
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"wayne, , nj, us","Wayne, NJ 07470, USA","OK",-74.2765441,40.9253725
+"carlsbad, , nm, us","Carlsbad, NM 88220, USA","OK",-104.2288375,32.4206736
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"st. john&#39s , canada, nf, ca",NA,"REQUEST_DENIED",NA,NA
+"egg harbor city, , nj, us","Egg Harbor City, NJ 08215, USA","OK",-74.6479364,39.5287282
+"ontario, , ca, us","Ontario, CA, USA","OK",-117.6508876,34.0633443
+"garden grove, , ca, us","Garden Grove, CA, USA","OK",-117.9379952,33.7742692
+"gold canyon, , az, ","Gold Canyon, AZ, USA","OK",-111.4500302,33.3593407
+"macon, , ms, us","Macon, MS 39341, USA","OK",-88.5608767,33.1054039
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"cardiff , uk, , gb","Cardiff, UK","OK",-3.17909,51.481581
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

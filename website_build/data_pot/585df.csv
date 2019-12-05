@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"warren, , mi, us","Warren, MI, USA","OK",-83.0146526,42.5144566
+"brevard, , nc, us","Brevard, NC, USA","OK",-82.7342919,35.2334472
+"stockholm , sweden, , ","Stockholm, Sweden","OK",18.0685808,59.3293235
+"exeter, , ca, us","Exeter, CA 93221, USA","OK",-119.1420517,36.2960613
+"exeter, , ca, us","Exeter, CA 93221, USA","OK",-119.1420517,36.2960613
+"concord, , ca, us","Concord, CA, USA","OK",-122.0310733,37.9779776
+"gypsum, , co, us","1115 Armour Rd, North Kansas City, MO 64116, USA","OK",-94.5670647,39.1435353
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"xenia, , oh, us","Xenia, OH 45385, USA","OK",-83.9296526,39.6847822
+"hot springs, , sd, us","Hot Springs, SD 57747, USA","OK",-103.4743625,43.431646
+"goshen, , oh, us","Goshen, OH 45122, USA","OK",-84.1613239,39.2333935
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"newtown&#44 tas , australia, , ",NA,"REQUEST_DENIED",NA,NA
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"nun&#39s island , canada, pq, ",NA,"REQUEST_DENIED",NA,NA
+"mohrsville, centerport, pa, ","Centerport, PA 19541, USA","OK",-76.0074362,40.4862045
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"napoleon, , oh, us","Napoleon, OH 43545, USA","OK",-84.1252243,41.3922726
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"nothridge, , ca, ","Northridge, Los Angeles, CA, USA","OK",-118.530123,34.2381251
+"sheffield , near, , gb","Sheffield, UK","OK",-1.470085,53.381129
+"chula vista, , ca, us","Chula Vista, CA, USA","OK",-117.0841955,32.6400541
+"na, , nc, ","North Carolina, USA","OK",-79.0192997,35.7595731
+"north judson, , in, us","North Judson, IN 46366, USA","OK",-86.7758501,41.2150403
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"riggins, , id, us","Riggins, ID 83549, USA","OK",-116.3154109,45.4221105
+"bossier city, , la, us","Bossier City, LA, USA","OK",-93.7321228,32.5159852
+"barview, , or, us","Barview, OR 97136, USA","OK",-123.94222,45.57
+"palm bay, , fl, us","Palm Bay, FL, USA","OK",-80.5886646,28.0344621
+"oshkosh, , wi, us","Oshkosh, WI, USA","OK",-88.5426136,44.0247062
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"dale, , wi, us","Dale, WI 54931, USA","OK",-88.6784423,44.2730379
+"pismo beach, , ca, us","Pismo Beach, CA, USA","OK",-120.6412827,35.1427533
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"dundee, , wi, us","Dundee, WI 53011, USA","OK",-88.16444,43.65528
+"dundee, , wi, us","Dundee, WI 53011, USA","OK",-88.16444,43.65528
+"dundee, , wi, us","Dundee, WI 53011, USA","OK",-88.16444,43.65528
+"dundee, , wi, us","Dundee, WI 53011, USA","OK",-88.16444,43.65528
+"dundee, , wi, us","Dundee, WI 53011, USA","OK",-88.16444,43.65528
+"osceola , town of&#44 near long lake, wi, us",NA,"REQUEST_DENIED",NA,NA
+"osceola , town of&#44 near long lake, wi, us",NA,"REQUEST_DENIED",NA,NA
+"groton, , ct, us","Groton, CT, USA","OK",-72.0790717,41.3497456
+"dundee, , wi, us","Dundee, WI 53011, USA","OK",-88.16444,43.65528
+"barvaux , belgium, , ","6940 Barvaux-sur-Ourthe, Belgium","OK",5.49306,50.35064
+"kitimat , canada, bc, ca","Kitimat, BC, Canada","OK",-128.6283529,54.049366
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"blacksburg, , va, us","Blacksburg, VA, USA","OK",-80.4139393,37.2295733
+"deer lodge, , mt, us","Deer Lodge, MT 59722, USA","OK",-112.7383721,46.3990941
+"san gwann , malta, , ","San Gwann, Malta","OK",14.4752416,35.9077365
+"mormon lake, , az, us","Mormon Lake, AZ 86038, USA","OK",-111.4632051,34.9083543
+"bamberg , germany, , de","Bamberg, Germany","OK",10.9027636,49.8988135
+"elsmore, , ks, us","Elsmore, KS 66732, USA","OK",-95.1502554,37.7944857
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"shreveport, , la, us","Shreveport, LA, USA","OK",-93.7501789,32.5251516
+"shasta lake city, , ca, ","Shasta Lake, CA 96019, USA","OK",-122.3708419,40.6804279
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"shasta lake, , ca, us","Shasta Lake, CA 96019, USA","OK",-122.3708419,40.6804279
+"lake shasta resort, , ca, ","1000 Siskiyou Lake Blvd, Mt Shasta, CA 96067, USA","OK",-122.317914,41.286352
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"fort pierce, , fl, us","Fort Pierce, FL, USA","OK",-80.3256056,27.4467056
+"vienna, , mo, us","Vienna, MO 65582, USA","OK",-91.947112,38.1867085
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"wheeling, , wv, us","Wheeling, WV 26003, USA","OK",-80.7209149,40.0639616
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"breezy point, , mn, us","Breezy Point, MN, USA","OK",-94.2175088,46.5897331
+"kenmore, , wa, us","Kenmore, WA, USA","OK",-122.2496863,47.7583576
+"boucherville , montreal, qc, ca","Boucherville, QC, Canada","OK",-73.4364097,45.5913698
+"new zealand, , , ","New Zealand","OK",174.885971,-40.900557
+"st. joseph, , mi, us","St Joseph, MI, USA","OK",-86.4895463,42.0938577
+"banbridge , northern ireland, , ","Banbridge BT32, UK","OK",-6.2704803,54.348729
+"unknown, , , ","1327 S Mint St, Charlotte, NC 28203, USA","OK",-80.8575394,35.2205059
+"san bernadino county, , ca, ","San Bernardino County, CA, USA","OK",-116.419389,34.9592083
+"loris, , sc, us","Loris, SC 29569, USA","OK",-78.8903044,34.0562812
+"rotorua , new zealand, , ","Rotorua, New Zealand","OK",176.2497461,-38.1368478
+"willow springs, , mo, us","Willow Springs, MO 65793, USA","OK",-91.9698742,36.9922768
+"willow springs, , mo, us","Willow Springs, MO 65793, USA","OK",-91.9698742,36.9922768
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"tehran , iran, , ","Tehran, Tehran Province, Iran","OK",51.3889736,35.6891975
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"new delhi , india, , ","New Delhi, Delhi, India","OK",77.2090212,28.6139391
+"three rocks, , ca, us","Three Rocks, CA 93608, USA","OK",-120.391548,36.5024507
+"adelaide  , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"florence, queen creek, az, ","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"medford, , or, us","Medford, OR, USA","OK",-122.8755949,42.3265152
+"ibague , colombia, , ","Ibagué, Ibague, Tolima, Colombia","OK",-75.242438,4.444676
+"eildon weir , victoria, , au","Lake Eildon, Victoria, Australia","OK",145.8968867,-37.1200442
+"middletown, , oh, us","Middletown, OH, USA","OK",-84.3982763,39.5150576
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"sonoma, , ca, us","Sonoma, CA 95476, USA","OK",-122.4580356,38.291859
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"novato, , ca, us","Novato, CA, USA","OK",-122.5697032,38.1074198
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

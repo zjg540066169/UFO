@@ -1,0 +1,31 @@
+name: "What?!! You said there was an UFO???"
+output_dir: "."
+navbar:
+  left:
+    - text: "Overview & Report"
+      href: index.html
+    - text: "Screencast"
+      href: https://youtu.be/aHnN84ynnXk
+  right:
+    - text: "Tidy Data"
+      href: data_tidy.html
+    - text: "EDA"
+      href: EDA.html
+    - text: "UFO in USA"
+      href: UFO_in_USA.html
+    - text: "Map of City"
+      href: https://ljf123-final.shinyapps.io/shiny_dashboard_jl/
+    - text: "Map of State"
+      href: map_of_state.html
+    - text: "Models"
+      href: UFO_prediction.html
+    - icon: fa-github fa-lg
+      href: https://zjg540066169.github.io
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: true
+    toc_float: true
+    include:
+      after_body: footer.html

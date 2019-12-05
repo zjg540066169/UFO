@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"belmont, , ca, us","Belmont, CA, USA","OK",-122.2758008,37.5202145
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"wauwatosa, , wi, us","Wauwatosa, WI, USA","OK",-88.0075875,43.0494572
+"clarksville, , va, us","Clarksville, VA 23927, USA","OK",-78.5569449,36.6240297
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"pete&#39s hole , near&#44 a small lake in the manti lasal forest, ut, ",NA,"REQUEST_DENIED",NA,NA
+"bristol, , va, us","Bristol, VA, USA","OK",-82.1887368,36.595142
+"wayzata, , mn, us","Wayzata, MN 55391, USA","OK",-93.5066217,44.97413
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"bristol, , va, us","Bristol, VA, USA","OK",-82.1887368,36.595142
+"tulare , close to&#44 on i-5, ca, us",NA,"REQUEST_DENIED",NA,NA
+"winlock, , wa, us","Winlock, WA 98596, USA","OK",-122.9378983,46.4912176
+"lebanon, , or, us","Lebanon, OR 97355, USA","OK",-122.9070339,44.5365119
+"dayton, , oh, us","Dayton, OH, USA","OK",-84.1916069,39.7589478
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"ponca city, , ok, us","Ponca City, OK, USA","OK",-97.0855948,36.706981
+"twin falls, , id, us","Twin Falls, ID, USA","OK",-114.4700518,42.5558381
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"dolgeville, , ny, us","Dolgeville, NY 13329, USA","OK",-74.772927,43.1009037
+"tonopah, , az, us","Tonopah, AZ 85354, USA","OK",-112.9370802,33.4934778
+"two guns , mm 316, az, us","Two Guns, AZ 86047, USA","OK",-111.0934765,35.1177914
+"tyler, , tx, us","Tyler, TX, USA","OK",-95.3010624,32.3512601
+"seyssins , france, , ","Seyssins, France","OK",5.686729,45.162241
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"bendigo , australia, , au","Bendigo VIC 3550, Australia","OK",144.2793906,-36.7570157
+"sandy, , ut, ","Sandy, UT, USA","OK",-111.8389726,40.5649781
+"temechula, , ca, ","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"wichita falls, , tx, us","Wichita Falls, TX, USA","OK",-98.4933873,33.9137085
+"cabot strait , near dingwall&#44 on fishing boat, ns, ",NA,"REQUEST_DENIED",NA,NA
+"chatsworth, , ca, us","Chatsworth, Los Angeles, CA, USA","OK",-118.61481,34.2506356
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"garden city, , ks, us","Garden City, KS 67846, USA","OK",-100.8726618,37.9716898
+"iron mountain, , mi, us","Iron Mountain, MI, USA","OK",-88.0659603,45.8202334
+"new ulm, , mn, us","New Ulm, MN 56073, USA","OK",-94.4593018,44.3144394
+"port alberni , canada, bc, ca","Port Alberni, BC, Canada","OK",-124.8055494,49.2338882
+"las vegas, henderson, nv, ","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"cheektowaga, , ny, us","Cheektowaga, NY, USA","OK",-78.7542892,42.9071477
+"pocahontas, , ar, us","Pocahontas, AR 72455, USA","OK",-90.971233,36.2614554
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"truth or consequences, , nm, us","Truth or Consequences, NM, USA","OK",-107.2528069,33.1284047
+"inglewood, , ca, us","Inglewood, CA, USA","OK",-118.3531311,33.9616801
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"amman , jordan, , ","Amman, Jordan","OK",35.910635,31.9539494
+"coutit, , ma, ","Cotuit, Barnstable, MA 02635, USA","OK",-70.4367642,41.6172921
+"rapid city, , sd, us","Rapid City, SD, USA","OK",-103.2310149,44.0805434
+"worcestershire , uk, , gb","Worcestershire, UK","OK",-2.2668382,52.2545225
+"thornton, , co, us","Thornton, CO, USA","OK",-104.9719243,39.8680412
+"zagreb , croatia, , ","Zagreb, Croatia","OK",15.9819189,45.8150108
+"goleta, , ca, us","Goleta, CA, USA","OK",-119.8276389,34.4358294
+"kirton lindsey , uk, , ","Kirton in Lindsey, Gainsborough DN21, UK","OK",-0.5935156,53.4772178
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"vernon , canada, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"kamloops to kimberley , canada, bc, ",NA,"ZERO_RESULTS",NA,NA
+"granite falls, , wa, us","Granite Falls, WA 98252, USA","OK",-121.968742,48.0839895
+"canada , various locations, bc, ","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"pinebush, , ny, ","Pine Bush, NY 12566, USA","OK",-74.2990401,41.6081492
+"oklahoma city , near, ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"tomball, , tx, us","Tomball, TX, USA","OK",-95.6160549,30.0971621
+"nacogdoches, , tx, us","Nacogdoches, TX, USA","OK",-94.6554874,31.6035129
+"windsor, , ca, us","Windsor, CA, USA","OK",-122.8163802,38.5471327
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"woodstock , canada, nb, ca","Woodstock, NB, Canada","OK",-67.6033952,46.150266
+"woodstock, , il, us","Woodstock, IL 60098, USA","OK",-88.4487021,42.3147436
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"helendale, , ca, us","Helendale, CA 92342, USA","OK",-117.3257169,34.7402853
+"garden city beach, , sc, us","Garden City, SC, USA","OK",-79.0086464,33.5929472
+"lexington, , mi, us","Lexington, MI 48450, USA","OK",-82.5307575,43.268082
+"panoche, , ca, us","Panoche, CA 95043, USA","OK",-120.8337116,36.5969274
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"mt. prospect, , il, us","Mt Prospect, IL, USA","OK",-87.9372908,42.0664167
+"oshkosh, , wi, us","Oshkosh, WI, USA","OK",-88.5426136,44.0247062
+"kingsville, , tx, us","Kingsville, TX 78363, USA","OK",-97.856109,27.5158689
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"corner brook , canada, nf, ca","Corner Brook, NL, Canada","OK",-57.9502726,48.9489967
+"cape may court house, , nj, us","Cape May Court House, Middle Township, NJ 08210, USA","OK",-74.8237786,39.0826135
+"edwardsport, , in, us","Edwardsport, IN, USA","OK",-87.2522367,38.811991
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"methuen, , ma, us","Methuen, MA 01844, USA","OK",-71.1908924,42.7262016
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"canyon country, , ca, us","Canyon Country, Santa Clarita, CA 91351, USA","OK",-118.4720633,34.4235425
+"ephrata, , wa, us","Ephrata, WA 98823, USA","OK",-119.5536491,47.3176385
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"harrington , canada, qc, ","Harrington, QC, Canada","OK",-74.6135489,45.8390306
+"mayer, , az, us","Mayer, AZ 86333, USA","OK",-112.2362734,34.3978054
+"mayer, , az, us","Mayer, AZ 86333, USA","OK",-112.2362734,34.3978054
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

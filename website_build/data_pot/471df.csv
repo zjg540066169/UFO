@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"bardstown, , ky, us","Bardstown, KY 40004, USA","OK",-85.4669025,37.8092279
+"east liverpool, , oh, us","East Liverpool, OH 43920, USA","OK",-80.5772928,40.6186756
+"garrison, , ny, us","Garrison, Philipstown, NY 10524, USA","OK",-73.9404737,41.3804881
+"marquette, , mi, us","Marquette, MI, USA","OK",-87.3953713,46.5436199
+"peebles, , oh, us","Peebles, OH 45660, USA","OK",-83.4057458,38.9489593
+"japan, , , ","Japan","OK",138.252924,36.204824
+"le pegue , france, , ","26770 Le Pègue, France","OK",5.049088,44.428607
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"ymuiden , netherlands, , ","IJmuiden, Netherlands","OK",4.6060138,52.4569544
+"cebu city , philippines, , ","Cebu City, Cebu, Philippines","OK",123.8854366,10.3156992
+"lakeside to north bend, , or, ",NA,"ZERO_RESULTS",NA,NA
+"ore city, , tx, us","Ore City, TX 75683, USA","OK",-94.7207634,32.8001354
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"oakville , canada, on, ca","Oakville, ON, Canada","OK",-79.6876659,43.467517
+"terrytown, , la, us","Terrytown, LA, USA","OK",-90.0325709,29.910205
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"boulder  creek, , ca, us","Boulder Creek, CA 95006, USA","OK",-122.1221869,37.1260578
+"davidson county, , nc, us","Davidson County, NC, USA","OK",-80.1875065,35.7748479
+"n. miami, , fl, ","North Miami, FL, USA","OK",-80.1867138,25.8900949
+"okinawa, , , ","Okinawa, Japan","OK",127.7025012,26.1201911
+"douglasville, , ga, us","Douglasville, GA, USA","OK",-84.7477136,33.7514966
+"ovid, , co, us","Ovid, CO 80744, USA","OK",-102.3877422,40.9608219
+"placerville, , ca, us","Placerville, CA 95667, USA","OK",-120.798546,38.7296252
+"madison, , ct, us","Madison, CT 06443, USA","OK",-72.5754149,41.2959908
+"manistee, , mi, us","Manistee, MI 49660, USA","OK",-86.324253,44.2444473
+"milo, , mo, us","Milo, MO 64767, USA","OK",-94.3060588,37.7561516
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"douglas, , az, us","Douglas, AZ 85607, USA","OK",-109.5453447,31.3445471
+"benton harbor, , mi, us","Benton Harbor, MI, USA","OK",-86.4541894,42.1167065
+"iowa city, , ia, us","Iowa City, IA, USA","OK",-91.5301683,41.6611277
+"cerritos, , ca, us","Cerritos, CA, USA","OK",-118.0647871,33.8583483
+"daleville, , in, us","Daleville, IN 47334, USA","OK",-85.5580301,40.1211545
+"lakewood, , ca, us","Lakewood, CA, USA","OK",-118.1339563,33.8536269
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"cold spring, , ny, us","Cold Spring, NY 10516, USA","OK",-73.954583,41.4200937
+"youngstown, , oh, us","Youngstown, OH, USA","OK",-80.6495194,41.0997803
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"malasiqui pangasinan , philippines, , ","Malasiqui, Pangasinan, Philippines","OK",120.4588059,15.9195445
+"milford, , ma, us","Milford, MA, USA","OK",-71.5163049,42.1398577
+"scott afb, centralia , il, ","South Dr, Scott AFB, IL 62225, USA","OK",-89.8550095,38.5415911
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"half moon bay, , ca, us","Half Moon Bay, CA, USA","OK",-122.4285862,37.4635519
+"silver spring, , pa, us","Silver Spring, PA 17512, USA","OK",-76.4371856,40.0642635
+"surrey , canada, bc, ca","Surrey, BC, Canada","OK",-122.8490125,49.1913466
+"williams, , ca, us","Williams, CA 95987, USA","OK",-122.1494187,39.1546137
+"kenmore, , ny, us","Kenmore, NY 14217, USA","OK",-78.870036,42.9658907
+"kenmore, , ny, us","Kenmore, NY 14217, USA","OK",-78.870036,42.9658907
+"carthage, , tx, us","Carthage, TX 75633, USA","OK",-94.3374199,32.1573841
+"newnan, , ga, us","Newnan, GA, USA","OK",-84.7996573,33.3806716
+"grand island, , ny, ","Grand Island, NY, USA","OK",-78.9657302,43.0216283
+"robstown, , tx, us","Robstown, TX 78380, USA","OK",-97.6688843,27.7903032
+"clovis, , nm, us","Clovis, NM 88101, USA","OK",-103.2052272,34.4047987
+"kennett square, , pa, us","Kennett Square, PA 19348, USA","OK",-75.7116032,39.8467767
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"sciotoville, , oh, us","Sciotoville, Portsmouth, OH 45662, USA","OK",-82.8929968,38.7580701
+"escazu , costa rica, , ","San José Province, Escazu, Costa Rica","OK",-84.1461519,9.920695
+"longview, , tx, us","Longview, TX, USA","OK",-94.7404891,32.5007037
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"clovis , cannon afb, nm, us","Cannon AFB, NM, USA","OK",-103.3183038,34.3897838
+"rhondda valley  , uk, , ","Rhondda, Tonypandy CF40 2UH, UK","OK",-3.4250598,51.6160411
+"washington, , il, us","Washington, IL, USA","OK",-89.4073123,40.7036482
+"midvale, , ut, us","Midvale, UT, USA","OK",-111.8999353,40.6110589
+"scottsville, , ky, us","Scottsville, KY 42164, USA","OK",-86.1905424,36.7533781
+"howell, , mi, us","Howell, MI, USA","OK",-83.9293952,42.6072552
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"syracuse, , ny, us","Syracuse, NY, USA","OK",-76.1474244,43.0481221
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"meridien, , ct, ","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"gulf of mexico, , fl, ","Gulf of Mexico, Florida, USA","OK",-80.5592017,25.211967
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"raceland, , la, us","Raceland, LA 70394, USA","OK",-90.5989759,29.7274331
+"pacific palisades, , ca, us","Pacific Palisades, Los Angeles, CA, USA","OK",-118.5155901,34.0356331
+"barberton, , oh, us","Barberton, OH 44203, USA","OK",-81.6051221,41.012833
+"fayetteville, , il, us","Fayetteville, IL 62258, USA","OK",-89.7953771,38.3775489
+"upper saddle river, , nj, us","Upper Saddle River, NJ 07458, USA","OK",-74.0984756,41.0584299
+"chunky, , ms, us","Chunky, MS 39323, USA","OK",-88.9281082,32.3256996
+"glennville, , ga, us","Glennville, GA 30427, USA","OK",-81.9284501,31.9365917
+"santa paula, , ca, us","Santa Paula, CA 93060, USA","OK",-119.0592705,34.3541659
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"covington, , ky, us","Covington, KY, USA","OK",-84.5085536,39.0836712
+"niagara falls, , ny, us","Niagara Falls, NY, USA","OK",-79.0377388,43.0962143
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"alexandria, , la, us","Alexandria, LA, USA","OK",-92.4451371,31.3112936
+"covington, , ky, us","Covington, KY, USA","OK",-84.5085536,39.0836712
+"point pleasent, , nj, ","Point Pleasant, NJ 08742, USA","OK",-74.0681931,40.0831714
+"canterbury , uk, , gb","Canterbury, UK","OK",1.0789089,51.280233
+"cascais , portugal, , ","Cascais, Portugal","OK",-9.4207438,38.6967571
+"cossayuna, , ny, us","Cossayuna, NY, USA","OK",-73.4263306,43.1837905
+"gresham, , or, us","Gresham, OR, USA","OK",-122.4347608,45.5098502
+"kannapolis, , nc, us","Kannapolis, NC, USA","OK",-80.6217341,35.4873613
+"newark, , oh, us","Newark, OH, USA","OK",-82.4012642,40.0581205
+"rutherfordton, outer gilkey, nc, ","286 Industrial Park Rd, Rutherfordton, NC 28139, USA","OK",-81.95376,35.357846
+"waco, , tx, us","Waco, TX, USA","OK",-97.1466695,31.549333
+"haines city, , fl, us","Haines City, FL, USA","OK",-81.6178536,28.1141841
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"kiawah island, , sc, us","Kiawah Island, SC, USA","OK",-80.0848166,32.6082373
+"harriman state park, , ny, ","Dater Mountain Nature County Park, 54 Seven Lakes Dr, Sloatsburg, NY 10974, USA","OK",-74.1803434,41.1747346
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"south  chicago  heights, , il, us","South Chicago Heights, IL, USA","OK",-87.6378211,41.4808681
+"madison, , ct, us","Madison, CT 06443, USA","OK",-72.5754149,41.2959908
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"indiana, , pa, us","Indiana, PA, USA","OK",-79.1525349,40.6214551
+"algodones, , nm, us","Algodones, NM 87001, USA","OK",-106.4791925,35.3805931
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"hampstead, , nh, us","Hampstead, NH, USA","OK",-71.1809803,42.8744882
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"crossville, , tn, us","Crossville, TN, USA","OK",-85.0269014,35.9489566
+"gloversville, , ny, us","Gloversville, NY, USA","OK",-74.3437467,43.0528506
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"saint george, , ut, us","St. George, UT, USA","OK",-113.5684164,37.0965278
+"cumming, , ga, us","Cumming, GA, USA","OK",-84.1401926,34.2073196
+"hagerstown, , md, us","Hagerstown, MD, USA","OK",-77.7199932,39.6417629
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"sylmar, , ca, us","Sylmar, Los Angeles, CA, USA","OK",-118.4571974,34.3058279
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"oshawa , canada, on, ca","Oshawa, ON, Canada","OK",-78.8657912,43.8970929
+"buford, , ga, us","Buford, GA, USA","OK",-84.0043513,34.1206564
+"alpine, , ut, us","Alpine, UT 84004, USA","OK",-111.7779865,40.4532833
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"ithaca, , ny, us","Ithaca, NY, USA","OK",-76.5018807,42.4439614
+"salida, , co, us","Salida, CO 81201, USA","OK",-105.9989022,38.5347193
+"leavenworth, , ks, us","Leavenworth, KS, USA","OK",-94.9224637,39.3111112
+"vincennes, , in, us","Vincennes, IN 47591, USA","OK",-87.5286325,38.677269
+"weaverville, , nc, us","Weaverville, NC 28787, USA","OK",-82.5606851,35.6970547
+"niles, , mi, us","Niles, MI 49120, USA","OK",-86.2541768,41.8297694
+"decatur, , al, us","Decatur, AL, USA","OK",-86.9833417,34.6059253
+"chance, , md, us","Chance, MD 21821, USA","OK",-75.9410445,38.1720674
+"valley station, , ky, us","Valley Station, Louisville, KY 40272, USA","OK",-85.871012,38.1024697
+"adjuntas , puerto rico, , ","Adjuntas, Puerto Rico","OK",-66.723158,18.1634848
+"adjuntas , puerto rico, , ","Adjuntas, Puerto Rico","OK",-66.723158,18.1634848
+"adjuntas , puerto rico, , ","Adjuntas, Puerto Rico","OK",-66.723158,18.1634848
+"jerseyville, , il, us","Jerseyville, IL 62052, USA","OK",-90.3284479,39.1200471
+"madison heights, , mi, us","Madison Heights, MI 48071, USA","OK",-83.1052028,42.4858692
+"galveston, , tx, us","Galveston, TX, USA","OK",-94.7976958,29.3013479
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"show low , rural, az, us","1801 W Deuce of Clubs # 120, Show Low, AZ 85901, USA","OK",-110.0612528,34.2377613
+"havelock, , nc, us","Havelock, NC, USA","OK",-76.9013301,34.8790492
+"white plains, , ny, us","White Plains, NY, USA","OK",-73.7629097,41.0339862
+"ocotillo, , ca, us","Ocotillo, CA 92259, USA","OK",-115.99418,32.7386713
+"chicago , downtown, il, us","Downtown Chicago, IL, USA","OK",-87.6243469,41.8756719
+"panama city beach, , fl, us","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"nasa space shuttle, , , ","NASA Shuttle Landing Facility, Space Center, Orlando, FL 32815, USA","OK",-80.694108,28.6144578
+"phoenix , approx. 35 miles south of, az, us","N 35th Dr, Phoenix, AZ, USA","OK",-112.135258,33.5578719
+"lake conroe, , tx, ","Lake Conroe, Texas, USA","OK",-95.5984925,30.4368954
+"trail , canada, bc, ca","Trail, BC, Canada","OK",-117.71173,49.0965676
+"somerville, , nj, us","Somerville, NJ 08876, USA","OK",-74.60988,40.5742696
+"florida panhandle , 100-200 mi. e of, fl, ","Florida Panhandle, FL, USA","OK",-87.2168913,30.4212643
+"milwaukee , south, wi, us","South Milwaukee, WI 53172, USA","OK",-87.8606367,42.9105722
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"steilacoom, , wa, us","Steilacoom, WA, USA","OK",-122.6026274,47.1698197
+"onalaska, , wi, us","Onalaska, WI 54650, USA","OK",-91.2351393,43.8844092
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"moapa, , nv, us","Moapa, NV, USA","OK",-114.594155,36.682194
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"cluj-napoca , romania, , ","Cluj-Napoca, Romania","OK",23.6236353,46.7712101
+"byblos , lebanon, , ","Byblos, Lebanon","OK",35.6519282,34.1230021
+"hayward, castro valley, ca, ","Castro Valley, CA, USA","OK",-122.0738678,37.6955029
+"lewniowa , poland, , ","32-864 Lewniowa, Poland","OK",20.6430599,49.8805491
+"evelyn , north of, la, us","Evelyn, 6, LA 71052, USA","OK",-93.4432309,31.9879401
+"magna, , ut, us","Magna, UT, USA","OK",-112.1016088,40.7091121
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"yuma , outside of, az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"lancaster, , pa, us","Lancaster, PA, USA","OK",-76.3055144,40.0378755
+"aloha, , or, us","Aloha, OR, USA","OK",-122.8670454,45.4942838
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"dennisport, , ma, ","Dennis Port, Dennis, MA, USA","OK",-70.1286293,41.658445
+"otterville , canada, on, ","Otterville, ON N0J 1R0, Canada","OK",-80.6033821,42.9264829
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"monterey, , ca, us","Monterey, CA, USA","OK",-121.8946761,36.6002378
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"eagle, , co, us","Eagle, CO 81631, USA","OK",-106.8286507,39.6552634
+"adrian, , mi, us","Adrian, MI 49221, USA","OK",-84.0371659,41.8975471
+"galena, , il, us","Galena, IL 61036, USA","OK",-90.4290168,42.4166744
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"trout lake, , wa, us","Trout Lake, WA 98650, USA","OK",-121.5281369,45.9973427
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"creston, , nc, us","Creston, NC 28615, USA","OK",-81.6242341,36.428152
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"crystal lake, , il, us","Crystal Lake, IL, USA","OK",-88.3161965,42.2411344
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"denver near aurora, , co, ","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"ahmecgarh , india, , ","Ahmedgarh, Punjab, India","OK",75.8243427,30.6795612
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

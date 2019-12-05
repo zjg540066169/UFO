@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"longview, , wa, us","Longview, WA, USA","OK",-122.9381672,46.1381676
+"priest river, , id, us","Priest River, ID 83856, USA","OK",-116.909365,48.1807415
+"ravenna, , oh, us","Ravenna, OH 44266, USA","OK",-81.2420473,41.1575566
+"koeklare , belgium, , ","8680 Koekelare, Belgium","OK",2.9795835,51.0929033
+"lakin, , ks, us","Lakin, KS 67860, USA","OK",-101.254892,37.9405752
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"hilongos , leyte, , ","Hilongos, Leyte, Philippines","OK",124.7533672,10.3708121
+"west bloomfield, , mi, us","West Bloomfield Township, MI, USA","OK",-83.373339,42.5678534
+"plymouth , 1, wi, us","Plymouth, WI 53073, USA","OK",-87.9770379,43.7486054
+"crown point, , in, us","Crown Point, IN 46307, USA","OK",-87.3653135,41.4169806
+"pottstown, , pa, us","Pottstown, PA 19464, USA","OK",-75.6496302,40.2453741
+"sheridan, , in, us","Sheridan, IN 46069, USA","OK",-86.2205487,40.1350375
+"salem , nw part of town, or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"healdsburg, , ca, us","Healdsburg, CA 95448, USA","OK",-122.8691609,38.6104658
+"colonial heights, , va, us","Colonial Heights, VA 23834, USA","OK",-77.4102607,37.244039
+"north san francisco, , ca, ","North Beach, San Francisco, CA, USA","OK",-122.4103311,37.8060532
+"ceres, , ca, us","Ceres, CA, USA","OK",-120.9577098,37.5949316
+"poway, , ca, us","Poway, CA, USA","OK",-117.0358646,32.9628232
+"stanwood - i-5 corridor, , wa, ","I-5, United States","OK",-122.2878514,48.2837856
+"santa rosa, forestville, ca, ","Forestville, CA 95436, USA","OK",-122.8902721,38.4735237
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"steubenville, , oh, us","Steubenville, OH, USA","OK",-80.6339638,40.3697905
+"paint lick, , ky, us","Paint Lick, KY 40461, USA","OK",-84.4093797,37.6167483
+"rawtenstall , uk, , gb","Rawtenstall, Rossendale BB4, UK","OK",-2.3014596,53.7004862
+"gardena, , ca, us","Gardena, CA, USA","OK",-118.3089624,33.8883487
+"celo, , nc, us","Celo Community, Burnsville, NC 28714, USA","OK",-82.3147582,35.893386
+"fergus , canada, on, ca","Fergus, ON, Canada","OK",-80.3778336,43.7059522
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"edisto island, , sc, us","Edisto Island, SC 29438, USA","OK",-80.2971369,32.5503474
+"pembroke pines, , fl, us","Pembroke Pines, FL, USA","OK",-80.2962555,26.007765
+"chilliwack , canada, bc, ca","Chilliwack, BC, Canada","OK",-121.9514666,49.1579401
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"chihuahua , mexico, , ","Chihuahua, Mexico","OK",-106.0691004,28.6329957
+"grand junction, , co, us","Grand Junction, CO, USA","OK",-108.5506486,39.0638705
+"hamden, , ct, us","Hamden, CT, USA","OK",-72.9026064,41.3838782
+"seminole, , fl, us","Seminole, FL, USA","OK",-82.7912134,27.8397466
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"london, , ky, us","London, KY, USA","OK",-84.0832646,37.1289771
+"longview, , tx, us","Longview, TX, USA","OK",-94.7404891,32.5007037
+"clermont, , in, us","Clermont, IN 46234, USA","OK",-86.3224925,39.8097656
+"lafayette, , co, us","Lafayette, CO, USA","OK",-105.0897058,39.9935959
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"greece, , , ","Greece","OK",21.824312,39.074208
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"porum, , ok, us","Porum, OK 74455, USA","OK",-95.2655231,35.3562083
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"nanaimo , canada, bc, ca","Nanaimo, BC, Canada","OK",-123.9400648,49.1658836
+"arizona , rural, az, ","47681 AZ-288, Young, AZ 85554, USA","OK",-110.9508417,34.1014306
+"petrified forest , near; on i-40, az, ","I40 and Hwy 191 Exit 333, Chambers, AZ 86502, United States","OK",-109.4325661,35.1906673
+"mazarron, , , ","Mazarrón, Murcia, Spain","OK",-1.3147688,37.5958308
+"englewood, , co, us","Englewood, CO, USA","OK",-104.9877597,39.6477653
+"palm beach, , fl, us","Palm Beach, FL, USA","OK",-80.0364297,26.7056206
+"trumbull, , ct, us","Trumbull, CT 06611, USA","OK",-73.2006639,41.2428563
+"arvada, , co, us","Arvada, CO, USA","OK",-105.0874842,39.8027644
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"lindale, , tx, us","Lindale, TX, USA","OK",-95.4093998,32.5156971
+"prievidza , slovak republic, , ","971 01 Prievidza, Slovakia","OK",18.6245384,48.7745206
+"otis, , or, us","Otis, OR 97368, USA","OK",-123.9465021,45.0242748
+"inglewood, , ca, us","Inglewood, CA, USA","OK",-118.3531311,33.9616801
+"meridian, , id, us","Meridian, ID, USA","OK",-116.3915131,43.6121087
+"meridian, , id, us","Meridian, ID, USA","OK",-116.3915131,43.6121087
+"chicago heights, , il, us","Chicago Heights, IL, USA","OK",-87.6355995,41.506146
+"fargo, , nd, us","Fargo, ND, USA","OK",-96.7898034,46.8771863
+"killeen, , tx, us","Killeen, TX, USA","OK",-97.7277959,31.1171194
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"tuscaloosa, , al, us","Tuscaloosa, AL, USA","OK",-87.5691735,33.2098407
+"owatonna, , mn, us","Owatonna, MN 55060, USA","OK",-93.2259349,44.0855572
+"edinburgh , south of, , gb","Edinburgh South, Edinburgh EH16 6JQ, UK","OK",-3.158611,55.913889
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"concord, , ga, us","Concord, GA 30206, USA","OK",-84.4374232,33.0912359
+"mansfield, , tx, us","Mansfield, TX, USA","OK",-97.1416768,32.5631924
+"singapore, , , ","Singapore","OK",103.819836,1.352083
+"waverly, , oh, us","Waverly, OH 45690, USA","OK",-82.9854553,39.1267349
+"whitstable , uk, , gb","Whitstable, UK","OK",1.024256,51.361047
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"green valley, , az, us","Green Valley, AZ, USA","OK",-110.9937019,31.8542511
+"nj parkway , mm60, nj, ","Garden State Pkwy, New Jersey, USA","OK",-74.2135065,39.9829871
+"watford , uk, , gb","Watford, UK","OK",-0.39032,51.656489
+"ljubljana , slovenia, , ","Ljubljana, Slovenia","OK",14.5057515,46.0569465
+"pine valley, , ca, us","Pine Valley, CA 91962, USA","OK",-116.5291841,32.8214402
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"jeffersonville, , in, us","Jeffersonville, IN, USA","OK",-85.7371847,38.2775702
+"damariscotta, , me, us","Damariscotta, ME, USA","OK",-69.5188885,44.0328765
+"kurnool , india, , ","Kurnool, Andhra Pradesh, India","OK",78.0372792,15.8281257
+"karnal , india, , ","Karnal, Haryana, India","OK",76.9904825,29.6856929
+"peoria, , az, us","Peoria, AZ, USA","OK",-112.2373779,33.5805955
+"portland, , ct, us","Portland, CT, USA","OK",-72.6408139,41.5726229
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"sebago, , me, ","Sebago, ME, USA","OK",-70.677518,43.8872801
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"st. peters, , mo, us","St Peters, MO, USA","OK",-90.6298922,38.7874699
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

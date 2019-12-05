@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"pearland, , tx, us","Pearland, TX, USA","OK",-95.2860474,29.5635666
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"bois d&#39arc, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"kalimna , australia, , au","Kalimna VIC 3909, Australia","OK",147.9673981,-37.866369
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"lake jocassee, , nc, ","Lake Jocassee, United States","OK",-82.9232635,34.9812854
+"welwyn garden city , uk, , gb","Welwyn Garden City, UK","OK",-0.208661,51.8031689
+"ellisville ballwin wildwood, , mo, ","Ellisville, MO, USA","OK",-90.5870686,38.5925532
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"westwood, , nj, us","Westwood, NJ 07675, USA","OK",-74.0326395,40.9912087
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"cagayan de oro , philippines, , ","Cagayan de Oro, Misamis Oriental, Philippines","OK",124.6318977,8.4542363
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"hernando, , ms, us","Hernando, MS, USA","OK",-89.9937018,34.823987
+"portsmouth, , oh, us","Portsmouth, OH 45662, USA","OK",-82.9976742,38.7317431
+"river oaks, , tx, us","River Oaks, TX 76114, USA","OK",-97.394463,32.7770737
+"mt.olive, , ms, ","Mt Olive, MS 39119, USA","OK",-89.6550716,31.761274
+"scarborough, , me, us","Scarborough, ME, USA","OK",-70.3344921,43.5901974
+"morris, , il, us","Morris, IL 60450, USA","OK",-88.4211785,41.357254
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"colebrook, , nh, us","Colebrook, NH 03576, USA","OK",-71.496296,44.894313
+"long beach, , ms, us","Long Beach, MS 39560, USA","OK",-89.1528176,30.3504751
+"nantwich , uk, , gb","Nantwich CW5, UK","OK",-2.524102,53.067185
+"hull , hull, , gb","Kingston upon Hull, Hull, UK","OK",-0.33657,53.7452888
+"napavine , outside of, wa, us","Chehalis, WA 98532, USA","OK",-122.9698002,46.6652443
+"bedlington , uk, , gb","Bedlington, UK","OK",-1.599454,55.131664
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"st. joseph, , mo, us","St Joseph, MO, USA","OK",-94.846681,39.7674578
+"palo cedro, , ca, us","Palo Cedro, CA 96073, USA","OK",-122.2388916,40.5637631
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"keokuk, , ia, us","Keokuk, IA 52632, USA","OK",-91.3963966,40.4044731
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"walpole island , canada, on, ","Walpole Island, Ontario N0P, Canada","OK",-82.5077593,42.5701997
+"hood river, , or, us","Hood River, OR 97031, USA","OK",-121.528087,45.7067985
+"ballinger, , tx, us","Ballinger, TX 76821, USA","OK",-99.9473077,31.7382062
+"riverview , canada, nb, ca","Riverview, NB, Canada","OK",-64.8052183,46.0612537
+"amherst, , va, us","Amherst, VA 24521, USA","OK",-79.0514134,37.5851412
+"lakewood , village of, il, us","Village of Lakewood, IL, USA","OK",-88.3780162,42.2224439
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"perryville, , mo, us","Perryville, MO 63775, USA","OK",-89.8612196,37.7242202
+"courtenay , canada, bc, ca","Courtenay, BC, Canada","OK",-124.9904494,49.6841391
+"east dundee, , il, us","East Dundee, IL, USA","OK",-88.2714689,42.0989145
+"lake  bluff, , il, us","Lake Bluff, IL 60044, USA","OK",-87.8443151,42.2791365
+"bemidji, , mn, us","Bemidji, MN 56601, USA","OK",-94.8826861,47.471573
+"regina , canada, sk, ca","Regina, SK, Canada","OK",-104.6188943,50.4452112
+"kingston, , ri, us","Kingston, South Kingstown, RI, USA","OK",-71.5225598,41.4803791
+"devine, , tx, us","Devine, TX 78016, USA","OK",-98.905306,29.1399633
+"vienna, , va, us","Vienna, VA 22180, USA","OK",-77.2652604,38.9012225
+"raynham, , ma, us","Raynham, MA, USA","OK",-71.0731162,41.9487077
+"riverside, , ri, us","Riverside, East Providence, RI 02915, USA","OK",-71.3646694,41.767455
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"cerritos, , ca, us","Cerritos, CA, USA","OK",-118.0647871,33.8583483
+"tokyo , japan, , ","Tokyo, Japan","OK",139.6503106,35.6761919
+"blaine, , mn, us","Blaine, MN, USA","OK",-93.2349489,45.1607987
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"caledonia, , wi, us","Caledonia, WI, USA","OK",-87.924248,42.8077958
+"yorktown heights, , ny, us","Yorktown Heights, NY 10598, USA","OK",-73.7776336,41.2709274
+"battle ground, , wa, us","Battle Ground, WA, USA","OK",-122.5477298,45.7807959
+"missoula, , mt, us","Missoula, MT, USA","OK",-113.9940314,46.8721284
+"tustin, , ca, us","Tustin, CA, USA","OK",-117.8236391,33.7420005
+"north sioux city, , sd, us","North Sioux City, SD 57049, USA","OK",-96.4830864,42.5272168
+"eden prairie, , mn, us","Eden Prairie, MN, USA","OK",-93.470786,44.8546856
+"highland village, , tx, us","Highland Village, TX, USA","OK",-97.0466759,33.091788
+"lebanon, , pa, us","Lebanon, PA, USA","OK",-76.4113497,40.3409251
+"pearland, , tx, us","Pearland, TX, USA","OK",-95.2860474,29.5635666
+"pass christian, , ms, us","Pass Christian, MS, USA","OK",-89.2475429,30.3157527
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"bay minette, , al, us","Bay Minette, AL 36507, USA","OK",-87.7730474,30.8829628
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"hastings, , mi, us","Hastings, MI 49058, USA","OK",-85.2908403,42.6458682
+"edmond , northeast of, ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"bourmouth , uk, , ","Bournemouth, UK","OK",-1.880769,50.719164
+"chatham, , nj, us","Chatham, NJ, USA","OK",-74.3837624,40.740934
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"victoria , colwood, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"waasis , canada, nb, ","Rusagonis, NB E3B, Canada","OK",-66.6198531,45.8029949
+"vienna, , il, us","Vienna, IL 62995, USA","OK",-88.8978434,37.4153295
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"joliet, , il, us","Joliet, IL, USA","OK",-88.0817251,41.525031
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"dedham, , ma, us","Dedham, MA, USA","OK",-71.1676536,42.2436085
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"brunswick, , oh, us","Brunswick, OH 44212, USA","OK",-81.8418006,41.2381096
+"greenville, , sc, us","Greenville, SC, USA","OK",-82.3940104,34.8526176
+"arches national park, , ut, ","Arches National Park, Utah, USA","OK",-109.5925139,38.733081
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

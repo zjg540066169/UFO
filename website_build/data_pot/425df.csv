@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"kalamazoo, , mi, us","Kalamazoo, MI, USA","OK",-85.5872286,42.2917069
+"forty fort, , pa, us","Forty Fort, PA, USA","OK",-75.8782519,41.2789699
+"ford island, , hi, ","Ford Island, Joint Base Pearl Harbor-Hickam, HI 96818, USA","OK",-157.959815,21.3642518
+"ballston lake, malta, ny, ","Ballston Lake, NY 12019, USA","OK",-73.8680872,42.9117377
+"glen head, , ny, us","Glen Head, NY, USA","OK",-73.6237388,40.8353776
+"burlington, , wv, us","Burlington, WV 26710, USA","OK",-78.9180799,39.3375992
+"longview, , tx, us","Longview, TX, USA","OK",-94.7404891,32.5007037
+"franconia notch , i-93 southbound, nh, ","Franconia Notch State Park, Flume Gorge, Daniel Webster Hwy, Lincoln, NH 03251, USA","OK",-71.686127,44.1482539
+"kimberley , canada, bc, ca","Kimberley, BC, Canada","OK",-115.9967207,49.6651567
+"stanwood, , wa, us","Stanwood, WA 98292, USA","OK",-122.3706837,48.2410895
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"sacaton, , az, us","Sacaton, AZ, USA","OK",-111.7392993,33.0767225
+"highway 64, , az, ","AZ-64, Arizona, USA","OK",-111.7567691,35.9229237
+"jersey city, , nj, us","Jersey City, NJ, USA","OK",-74.0431435,40.7177545
+"okeene, , ok, us","Okeene, OK 73763, USA","OK",-98.3170164,36.116148
+"council bluffs, , ia, us","Council Bluffs, IA, USA","OK",-95.8608333,41.2619444
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"portsmouth , uk, , gb","Portsmouth, UK","OK",-1.0879769,50.8197675
+"manitowoc, , wi, us","Manitowoc, WI 54220, USA","OK",-87.657584,44.0886059
+"northallerton , uk, , gb","Northallerton, UK","OK",-1.429959,54.337961
+"orange park, , fl, us","Orange Park, FL 32073, USA","OK",-81.706484,30.1660736
+"aurburn , canada, ns, ","Auburn, NS B0P 1P0, Canada","OK",-64.863031,45.017355
+"auriol, provence , , ","13390 Auriol, France","OK",5.631363,43.369174
+"fort walton beach, , fl, us","Fort Walton Beach, FL, USA","OK",-86.6170308,30.4200708
+"mansfield , uk, , gb","Mansfield, UK","OK",-1.198674,53.147195
+"mansfield , uk, , gb","Mansfield, UK","OK",-1.198674,53.147195
+"dollard des ormeaux , canada, pq, ","Dollard-Des Ormeaux, QC, Canada","OK",-73.8205567,45.4895636
+"d.d.o , canada, pq, ","Dollard-Des Ormeaux, QC, Canada","OK",-73.8205567,45.4895636
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"buenos aires , argentina, , ","Buenos Aires, Argentina","OK",-58.3815591,-34.6036844
+"victor, , ny, us","Victor, NY 14564, USA","OK",-77.4088794,42.9825633
+"towson, , md, us","Towson, MD, USA","OK",-76.6019125,39.4014955
+"valley center, , ks, us","Valley Center, KS, USA","OK",-97.3733759,37.8347342
+"utrecht , netherlands, , ","Utrecht, Netherlands","OK",5.1214201,52.0907374
+"hanna city, , il, us","Hanna City, IL 61536, USA","OK",-89.7951061,40.6917043
+"lake charles, , la, us","Lake Charles, LA, USA","OK",-93.2173758,30.2265949
+"canton, , il, us","Illinois, USA","OK",-89.3985283,40.6331249
+"ypsilanti, , mi, us","Ypsilanti, MI, USA","OK",-83.6129939,42.2411499
+"castro valley, , ca, us","Castro Valley, CA, USA","OK",-122.0738678,37.6955029
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"satara , india, , ","Satara, Maharashtra, India","OK",74.018261,17.6804639
+"jackson, , nj, us","Jackson Township, NJ, USA","OK",-74.3587473,40.0918895
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"cuijk , netherlands, , ","Cuijk, Netherlands","OK",5.879209,51.7289266
+"slidell, , la, us","Slidell, LA, USA","OK",-89.7811745,30.2751945
+"earp, , ca, us","Earp, CA 92242, USA","OK",-114.213787,34.2128639
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"troy, , mi, us","Troy, MI, USA","OK",-83.1497751,42.6064095
+"clovis, , nm, us","Clovis, NM 88101, USA","OK",-103.2052272,34.4047987
+"peferlaw , canada, on, ","Pefferlaw, Georgina, ON L0E 1N0, Canada","OK",-79.202733,44.314686
+"mebane, , nc, us","Mebane, NC 27302, USA","OK",-79.2669619,36.0959715
+"parkersburg, , wv, us","Parkersburg, WV, USA","OK",-81.5615135,39.2667418
+"surrey , uk, , gb","Surrey, UK","OK",-0.5599501,51.3147593
+"hounslow , middlesex, , gb","Hounslow, UK","OK",-0.373149,51.4609218
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"aviano , italy, , ","33081 Aviano, Province of Pordenone, Italy","OK",12.5881394,46.0695445
+"grays , essex, , gb","Grays, UK","OK",0.3230151,51.4784037
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"coventry , uk, , gb","Coventry, UK","OK",-1.519693,52.406822
+"bedford , uk, , gb","Bedford, UK","OK",-0.4667782,52.1386394
+"eagan, , mn, us","Eagan, MN, USA","OK",-93.1668858,44.8041322
+"basak gate lapu-lapu city&#44cebu , philippines, , ",NA,"REQUEST_DENIED",NA,NA
+"dana point, , ca, us","Dana Point, CA, USA","OK",-117.6981014,33.4672256
+"whittemore, , mi, us","Whittemore, MI 48770, USA","OK",-83.8030424,44.2336298
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"lodge, , sc, us","Lodge, SC 29082, USA","OK",-80.9537124,33.0679387
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"debary , central fl, fl, us","DeBary, FL 32713, USA","OK",-81.3289397,28.8713443
+"chicago &quot;highway&quot;, , il, ","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"tustin, , ca, us","Tustin, CA, USA","OK",-117.8236391,33.7420005
+"faber, , va, us","Faber, VA 22938, USA","OK",-78.7376223,37.8309592
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"saline, , mi, us","Saline, MI 48176, USA","OK",-83.7816075,42.1667072
+"darwin , australia, , au","Darwin NT, Australia","OK",130.8456418,-12.4634403
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"benton , aurora, ky, us","16593 US-68, Benton, KY 42025, USA","OK",-88.14673,36.777367
+"esparto, , ca, us","Esparto, CA 95627, USA","OK",-122.0171925,38.6921258
+"east haven, , ct, us","East Haven, CT, USA","OK",-72.8684565,41.2841687
+"bay d&#39espoir , canada, nf, ",NA,"REQUEST_DENIED",NA,NA
+"moscow, , id, us","Moscow, ID, USA","OK",-117.000165,46.7323875
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"goodyear, , az, us","Goodyear, AZ, USA","OK",-112.3576567,33.4353394
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"zirconia, , nc, us","Zirconia, NC 28790, USA","OK",-82.4162298,35.2417832
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"winter haven, , fl, us","Winter Haven, FL, USA","OK",-81.7328567,28.0222435
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"new jersey graden state parkway, , nj, ","Garden State Pkwy, New Jersey, USA","OK",-74.2135065,39.9829871
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

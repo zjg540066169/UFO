@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"oxen hill, , md, ","Oxon Hill, MD, USA","OK",-76.9897278,38.8033178
+"east hartford, , ct, us","East Hartford, CT, USA","OK",-72.6128339,41.7634219
+"jefferson city, , mo, us","Jefferson City, MO, USA","OK",-92.1735164,38.5767017
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"bentonia, , ms, us","Bentonia, MS 39040, USA","OK",-90.3648139,32.6409711
+"north royalton, , oh, us","North Royalton, OH 44133, USA","OK",-81.7245739,41.3136644
+"gulf of mexico, , la, ","Rutherford Beach, Gulf of Mexico, Creole, LA 70632, United States","OK",-93.1241328,29.7587705
+"walpole, , ma, us","Walpole, MA, USA","OK",-71.2495096,42.1417442
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"freeway by air force base, , ca, ","363 Graeber St, March Air Reserve Base, CA 92518, USA","OK",-117.2714862,33.9093976
+"humboldt, , ia, us","Humboldt, IA 50548, USA","OK",-94.2152402,42.7208047
+"dexter, , me, us","Dexter, ME 04930, USA","OK",-69.2898156,45.023918
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"orono, , me, us","Orono, ME, USA","OK",-68.6719411,44.8831125
+"forest grove, , mi, us","Forest Grove, Jamestown, MI 49426, USA","OK",-85.8617002,42.7966937
+"onawa, , ia, us","Onawa, IA 51040, USA","OK",-96.0972376,42.0266548
+"lago vista, , tx, us","Lago Vista, TX 78645, USA","OK",-97.9883477,30.4601975
+"loveland, , oh, us","Loveland, OH, USA","OK",-84.263826,39.2689476
+"robbins afb, , ga, ","Robins AFB, GA 31098, USA","OK",-83.591719,32.6400014
+"elmira , canada, on, ca","Elmira, ON N3B, Canada","OK",-80.5629846,43.6004074
+"cumberland, , md, us","Cumberland, MD 21502, USA","OK",-78.7625185,39.6528654
+"auburn, montgomery , al, ","7430 East Dr, Montgomery, AL 36117, USA","OK",-86.1766584,32.3697457
+"bremen, , in, us","Bremen, IN 46506, USA","OK",-86.148058,41.446436
+"sitka , north of&#44 st. john bay, ak, us",NA,"REQUEST_DENIED",NA,NA
+"fullerton , north of anaheim...i.e.disneyland, ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"independence, , mo, us","Independence, MO, USA","OK",-94.4155068,39.0911161
+"valencia, , ca, us","Valencia, Santa Clarita, CA 91354, USA","OK",-118.5713823,34.456151
+"canon city, , co, us","Cañon City, CO 81212, USA","OK",-105.2253316,38.4494063
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"st. agatha, , me, us","St Agatha, ME, USA","OK",-68.3136517,47.2430959
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"lighthouse point, , fl, us","Lighthouse Point, FL, USA","OK",-80.0872654,26.275636
+"washougal, , wa, us","Washougal, WA, USA","OK",-122.3538327,45.5811463
+"belzoni, , ms, us","Belzoni, MS 39038, USA","OK",-90.4892562,33.1842911
+"ahwahnee, , ca, us","Ahwahnee, CA, USA","OK",-119.726218,37.3651749
+"bourbonnais, , il, us","Bourbonnais, IL 60914, USA","OK",-87.879523,41.1760108
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"arlington, , vt, us","Arlington, VT 05250, USA","OK",-73.1539734,43.0747858
+"diamond bar, , ca, us","Diamond Bar, CA, USA","OK",-117.8103367,34.0286226
+"middletown, , pa, us","Middletown, PA 17057, USA","OK",-76.7310806,40.199814
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"keene valley, , ny, us","Keene Valley, NY, USA","OK",-73.7866135,44.1899178
+"tahlequah, , ok, us","Tahlequah, OK 74464, USA","OK",-94.969956,35.91537
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"sioux city , ia, ia, us","Sioux City, IA, USA","OK",-96.4049408,42.4963416
+"memphis, , tn, us","Memphis, TN, USA","OK",-90.0489801,35.1495343
+"sunnyside, , wa, us","Sunnyside, WA, USA","OK",-120.0086538,46.3237423
+"greenfield, , in, us","Greenfield, IN 46140, USA","OK",-85.7694226,39.785043
+"bartlett, , il, us","Bartlett, IL, USA","OK",-88.1856301,41.9950276
+"rockford, belvedere , il, ","Belvidere, IL 61008, USA","OK",-88.8442674,42.2639098
+"crowley, , la, us","Crowley, LA 70526, USA","OK",-92.3745761,30.2140928
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"commack, , ny, us","Commack, NY, USA","OK",-73.2928943,40.8428759
+"farmville, , va, us","Farmville, VA 23901, USA","OK",-78.3919401,37.3020965
+"greenville , near the greenville airport, pa, us","Greenville Municipal Airport, 511 E Jamestown Rd, Greenville, PA 16125, USA","OK",-80.3913402,41.4467557
+"kenna, , wv, us","Kenna, WV 25248, USA","OK",-81.6601279,38.6764777
+"spotsylvania, , va, us","Spotsylvania County, VA, USA","OK",-77.6077865,38.204165
+"carrollton, , mo, us","Carrollton, MO 64633, USA","OK",-93.4957675,39.3583539
+"rockford, , il, us","Rockford, IL, USA","OK",-89.0939952,42.2711311
+"sickles, , ok, us","Sickles, OK 73053, USA","OK",-98.447839,35.3628326
+"lake conroe, , tx, ","Lake Conroe, Texas, USA","OK",-95.5984925,30.4368954
+"concordia, , mo, us","Concordia, MO 64020, USA","OK",-93.5685464,38.9833489
+"hansville, , wa, us","Hansville, WA, USA","OK",-122.5542458,47.9186216
+"jacksonveil, , nc, ","Jacksonville, NC, USA","OK",-77.4302414,34.7540524
+"diamond, , mo, us","Diamond, MO 64840, USA","OK",-94.3160526,36.9953411
+"fairburn, , ga, us","Fairburn, GA, USA","OK",-84.5810418,33.5670562
+"port jervis, , ny, us","Port Jervis, NY 12771, USA","OK",-74.692663,41.3750937
+"crestwood, , ky, us","Crestwood, KY 40014, USA","OK",-85.4724593,38.3242355
+"north las vegas, , nv, us","North Las Vegas, NV, USA","OK",-115.1175013,36.1988592
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"rosedale&#44 queensland  , australia, , ",NA,"REQUEST_DENIED",NA,NA
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"pacific beach, , ca, us","Pacific Beach, San Diego, CA, USA","OK",-117.2355851,32.8024577
+"medanales, , nm, us","Medanales, NM 87548, USA","OK",-106.1833584,36.175576
+"river rouge, , mi, us","River Rouge, MI, USA","OK",-83.1343677,42.2733718
+"manor , in or just outside of, tx, us","903 US-69, Leonard, TX 75452, USA","OK",-96.2395788,33.3888198
+"rockland, westchester counties, ny, ","Rockland Ave, Yonkers, NY 10705, USA","OK",-73.8877187,40.9235292
+"pendleton, , or, us","Pendleton, OR 97801, USA","OK",-118.7885967,45.672075
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"maysville, , ga, us","Maysville, GA 30558, USA","OK",-83.5615548,34.2528839
+"oak harbor, , wa, us","Oak Harbor, WA 98277, USA","OK",-122.6484205,48.2882947
+"santiago, , , ","Santiago, Santiago Metropolitan Region, Chile","OK",-70.6692655,-33.4488897
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"panorama city, , ca, us","Panorama City, Los Angeles, CA, USA","OK",-118.442425,34.227617
+"hewlett, , ny, us","Hewlett, NY, USA","OK",-73.6956864,40.6431591
+"carlsberg, , wa, ","Carlsborg, WA 98382, USA","OK",-123.1721233,48.0906477
+"roswell , west side, nm, us","Roswell, NM, USA","OK",-104.5230242,33.3942655
+"yukon, , ok, us","Yukon, OK, USA","OK",-97.7625441,35.5067215
+"cluj , romania, , ","Cluj-Napoca, Romania","OK",23.6236353,46.7712101
+"roswell, , ga, us","Roswell, GA, USA","OK",-84.3615555,34.0232431
+"franklin, , nc, us","Franklin, NC 28734, USA","OK",-83.3815429,35.1823171
+"hiddenite, , nc, us","Hiddenite, NC 28636, USA","OK",-81.0905569,35.9038065
+"dover, , de, us","Dover, DE, USA","OK",-75.5243682,39.158168
+"marion, , va, us","Marion, VA 24354, USA","OK",-81.5148368,36.8348383
+"roscoe, , il, us","Roscoe, IL, USA","OK",-89.0092741,42.4133505
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

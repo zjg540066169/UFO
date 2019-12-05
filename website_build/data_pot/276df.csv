@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"williston, , vt, us","Williston, VT, USA","OK",-73.099194,44.4454432
+"lexington, , nc, us","Lexington, NC, USA","OK",-80.2533838,35.8240265
+"west barnstable, , ma, us","West Barnstable, Barnstable, MA 02668, USA","OK",-70.3740112,41.7064404
+"eudora, , ar, us","Eudora, AR 71640, USA","OK",-91.2620567,33.109566
+"pasco, , wa, us","Pasco, WA 99301, USA","OK",-119.0922316,46.2305049
+"morrison, , co, us","Morrison, CO, USA","OK",-105.1910996,39.6535988
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"oak hill, , wv, us",NA,"ZERO_RESULTS",NA,NA
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"north york , canada, on, ","North York, Toronto, ON, Canada","OK",-79.4110794,43.7615377
+"anderson, , sc, us","Anderson, SC, USA","OK",-82.6501332,34.5034394
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"marathon, , fl, us","Marathon, FL 33050, USA","OK",-81.0446262,24.726026
+"hercules, , ca, us","Hercules, CA, USA","OK",-122.2885808,38.0171441
+"lyme, , ct, ","Lyme, CT, USA","OK",-72.3429525,41.400812
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"huber heights, , oh, us","Huber Heights, OH, USA","OK",-84.1246608,39.843947
+"fredericksburg, , va, us","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"maricopa, , az, us","Maricopa, AZ, USA","OK",-112.0476423,33.0581063
+"savannah, , ga, us","Savannah, GA, USA","OK",-81.091203,32.0808989
+"wilmington, , de, us","Wilmington, DE, USA","OK",-75.5483909,39.744655
+"riverbank, , ca, us","Riverbank, CA, USA","OK",-120.9354895,37.7360396
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"fountain, , co, us","Fountain, CO, USA","OK",-104.7008056,38.682219
+"broomall, , pa, us","Broomall, PA 19008, USA","OK",-75.347048,39.967933
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"queretaro , mexico, , ","Santiago de Querétaro, Qro., Mexico","OK",-100.3898881,20.5887932
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"gila bend, , az, us","Gila Bend, AZ, USA","OK",-112.7168305,32.9478236
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"tehama, , ca, us","Tehama, CA, USA","OK",-122.1233228,40.0271015
+"saint cloud, , fl, us","St Cloud, FL, USA","OK",-81.2811801,28.2489016
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"venice, , ca, us","Venice, Los Angeles, CA, USA","OK",-118.4694832,33.9850469
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"cape may court house, , nj, us","Cape May Court House, Middle Township, NJ 08210, USA","OK",-74.8237786,39.0826135
+"bloomington, , in, us","Bloomington, IN, USA","OK",-86.5263857,39.165325
+"soccoro , outside of, nm, ","1012 N California St, Socorro, NM 87801, USA","OK",-106.8925766,34.0700433
+"new mexico, , nm, ","New Mexico, USA","OK",-105.8700901,34.5199402
+"lake tahuyeh, , wa, ","Lake Tahuyeh Rd NW, Washington 98312, USA","OK",-122.8379645,47.5842174
+"council bluffs, , ia, us",NA,"ZERO_RESULTS",NA,NA
+"lynnwood, , wa, us",NA,"ZERO_RESULTS",NA,NA
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"north vancouver , canada, bc, ca","North Vancouver, BC, Canada","OK",-123.0724139,49.3199816
+"nokomis, , fl, us",NA,"ZERO_RESULTS",NA,NA
+"tappahannock, , va, us","Tappahannock, VA 22560, USA","OK",-76.8591301,37.9254135
+"north america&#44 bermuda, , , ",NA,"REQUEST_DENIED",NA,NA
+"halifax, , nc, us","Halifax, NC 27839, USA","OK",-77.5894199,36.328486
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"weyers cave, , va, us","Weyers Cave, VA, USA","OK",-78.9130826,38.288462
+"fairbanks , 20m miles south of, ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"auburn, , ma, us",NA,"ZERO_RESULTS",NA,NA
+"lodi, , ca, us","Lodi, CA, USA","OK",-121.2722194,38.1341477
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"klamath falls, , or, us","Klamath Falls, OR, USA","OK",-121.7816704,42.224867
+"orland park, , il, us","Orland Park, IL, USA","OK",-87.8539425,41.6303103
+"tupelo, , ms, us","Tupelo, MS, USA","OK",-88.7033859,34.2576066
+"los altos hills, , ca, us",NA,"ZERO_RESULTS",NA,NA
+"pennien hills , uk, , ","Pennines, Penrith CA9 3HF, UK","OK",-2.486667,54.702778
+"cottage grove, , or, us","Cottage Grove, OR 97424, USA","OK",-123.0595246,43.797623
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"surrey , uk, , gb","Surrey, UK","OK",-0.5599501,51.3147593
+"norwich, , ct, us","Norwich, CT, USA","OK",-72.0759105,41.5242649
+"fishkill, , ny, us","Fishkill, NY 12524, USA","OK",-73.8990252,41.5356492
+"rogue river, , or, us","Rogue River, OR, USA","OK",-123.1719976,42.435954
+"rogue river, , or, us","Rogue River, OR, USA","OK",-123.1719976,42.435954
+"leesburg, , va, us","Leesburg, VA, USA","OK",-77.5636015,39.1156615
+"saltsburg, , pa, us","Saltsburg, PA 15681, USA","OK",-79.4514298,40.4864553
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"datil, magdalena , nm, ","Datil, NM 87821, USA","OK",-107.8429625,34.1449543
+"copiague, , ny, us","Copiague, NY, USA","OK",-73.3998445,40.6814892
+"tulelake, , ca, us","Tulelake, CA 96134, USA","OK",-121.4774916,41.9559884
+"uk, scotland, , ","Scotland, UK","OK",-4.2026458,56.4906712
+"wellington , canada, pe, ca","Wellington, PE, Canada","OK",-63.9995297,46.4538293
+"valley junction, , or, us","Valley Junction, OR 97396, USA","OK",-123.57083,45.06222
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"nyack, , ny, us","Nyack, NY 10960, USA","OK",-73.9179146,41.0906519
+"matauri bay , near kerikeri, , ","Matauri Bay Road, Kerikeri 0478, New Zealand","OK",173.8744695,-35.0617676
+"grande prairie , canada, ab, ca","Grande Prairie, AB, Canada","OK",-118.7884464,55.1707126
+"woodward, , ok, us","Woodward, OK 73801, USA","OK",-99.3903862,36.4336481
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"southfield, , mi, us","Southfield, MI, USA","OK",-83.2218731,42.4733688
+"new bern, , nc, us","New Bern, NC, USA","OK",-77.0441143,35.108493
+"north richland hills, , tx, us","North Richland Hills, TX, USA","OK",-97.2289029,32.8342952
+"embu , brazil, , ","Embu das Artes - Jardim Branca Flor, Embu - State of São Paulo, Brazil","OK",-46.8521864,-23.6515085
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"sheffield , uk, , gb","Sheffield, UK","OK",-1.470085,53.381129
+"longmont, , co, us",NA,"ZERO_RESULTS",NA,NA
+"north kingstown, , ri, us","North Kingstown, RI, USA","OK",-71.4536835,41.5568315
+"queen creek, , az, us","Queen Creek, AZ, USA","OK",-111.6345554,33.2486083
+"chico, , ca, us","Chico, CA, USA","OK",-121.8374777,39.7284944
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

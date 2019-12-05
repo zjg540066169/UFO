@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"brick, , nj, ","Brick Township, NJ, USA","OK",-74.1371832,40.0578384
+"woodhall spa , uk, , gb","Woodhall Spa LN10, UK","OK",-0.218147,53.151585
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"oscoda, , mi, us","Oscoda, MI, USA","OK",-83.3307974,44.4202888
+"branson, , mo, us","Branson, MO 65616, USA","OK",-93.2185144,36.6436731
+"reading, , mi, us","Reading, MI 49274, USA","OK",-84.7480134,41.8394928
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"elizabethton, , tn, us","Elizabethton, TN, USA","OK",-82.2106876,36.3487196
+"toledo, , oh, us","Toledo, OH, USA","OK",-83.5378674,41.6528052
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"smithsburg, , md, us","Smithsburg, MD 21783, USA","OK",-77.5727681,39.6548186
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"providence village, , tx, ","Providence Village, TX 76227, USA","OK",-96.962438,33.2333857
+"santa clarita, , ca, us","Santa Clarita, CA, USA","OK",-118.542586,34.3916641
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"springboro, , oh, us","Springboro, OH, USA","OK",-84.2332718,39.5522815
+"sterling hts., , mi, ","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"imperial, , ca, us","Imperial, CA, USA","OK",-115.5694391,32.8475528
+"clarence, , ny, us","Clarence, NY, USA","OK",-78.5770812,42.982216
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"danielson, , ct, us","Danielson, Killingly, CT, USA","OK",-71.8859054,41.8025986
+"simpsonville, , sc, us","Simpsonville, SC, USA","OK",-82.2542834,34.7370639
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"waterloo , canada, on, ca","Waterloo, ON, Canada","OK",-80.5204096,43.4642578
+"twin lake, , mi, us","Twin Lake, MI 49457, USA","OK",-86.164783,43.3627922
+"lees summit, , mo, us","Lee's Summit, MO, USA","OK",-94.3821724,38.9108408
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"torrance, , ca, us","Torrance, CA, USA","OK",-118.3406288,33.8358492
+"kingswinford , uk, , gb","Kingswinford, UK","OK",-2.169995,52.4981719
+"newark, , de, us","Newark, DE, USA","OK",-75.7496572,39.6837226
+"gatineau , canada, qc, ca","Gatineau, QC, Canada","OK",-75.7012723,45.4765446
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"captiva, , fl, us","Captiva, FL 33924, USA","OK",-82.1892614,26.5220227
+"lexington, , sc, us","Lexington, SC, USA","OK",-81.2362107,33.9815369
+"port saint lucie, , fl, us","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"big bend, , wi, us","Big Bend, WI 53103, USA","OK",-88.2067573,42.8814034
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"bristol, , tn, us","Bristol, TN, USA","OK",-82.1887444,36.5951059
+"evendale, , oh, us","Evendale, OH, USA","OK",-84.417997,39.2561691
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"lansing, , ks, us","Lansing, KS, USA","OK",-94.9002413,39.2486126
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"white bird, , id, us","White Bird, ID 83554, USA","OK",-116.3006974,45.7615508
+"white bird, , id, us","White Bird, ID 83554, USA","OK",-116.3006974,45.7615508
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"avon, , ct, us","Avon, CT, USA","OK",-72.8305154,41.8096201
+"bristol , uk, , gb","Bristol, UK","OK",-2.58791,51.454513
+"france , rural; northern , , ",NA,"ZERO_RESULTS",NA,NA
+"rush city, , mn, us","Rush City, MN 55069, USA","OK",-92.9654903,45.6855144
+"llandudno , uk, ns, gb","Llandudno, UK","OK",-3.827609,53.324061
+"maquoketa, , ia, us","Maquoketa, IA, USA","OK",-90.6656914,42.0689088
+"sadieville, , ky, us","Sadieville, KY 40370, USA","OK",-84.5374424,38.3892392
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"key west, , fl, us","Key West, FL 33040, USA","OK",-81.7799871,24.5550593
+"lakewood, , nj, us","Lakewood Township, NJ 08701, USA","OK",-74.2097014,40.082129
+"rock valley, , ia, us","Rock Valley, IA 51247, USA","OK",-96.2950263,43.2052594
+"blacksburg, , va, us","Blacksburg, VA, USA","OK",-80.4139393,37.2295733
+"pierrefonds , canada, pq, ca","Pierrefonds, Montreal, QC, Canada","OK",-73.8755827,45.4688309
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"ocracoke, , nc, us","Ocracoke, NC, USA","OK",-75.8766333,35.1485426
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"okinawa , japan, , ","Okinawa, Japan","OK",127.7025012,26.1201911
+"raquette lake&#44 adirondack mts., , ny, ",NA,"REQUEST_DENIED",NA,NA
+"raquette lake  , golden beach campground, ny, us","Golden Beach Campground, RR 28, Raquette Lake, NY 13436, USA","OK",-74.5953885,43.8161871
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"southampton , uk, , gb","Southampton, UK","OK",-1.4043509,50.9097004
+"shropham norfolk , uk, , ","Shropham, Attleborough NR17 1EJ, UK","OK",0.918423,52.497193
+"abbotsford , canada, bc, ca","Abbotsford, BC, Canada","OK",-122.3044697,49.0504377
+"troy, , oh, us","Troy, OH 45373, USA","OK",-84.2032767,40.0394982
+"minden , canada, on, ca","Minden, ON K0M, Canada","OK",-78.725375,44.9271767
+"belleville, , wi, us","Belleville, WI 53508, USA","OK",-89.5381766,42.8597241
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"north hreo, , vt, ","North Hero, VT 05474, USA","OK",-73.273505,44.8311432
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"the dalles, , or, us","The Dalles, OR 97058, USA","OK",-121.1786823,45.5945645
+"airway heights, , wa, us","Airway Heights, WA, USA","OK",-117.5932727,47.644611
+"rapid city, , sd, us","Rapid City, SD, USA","OK",-103.2310149,44.0805434
+"tidworth , uk, , ","Tidworth, UK","OK",-1.6644823,51.2414489
+"owatonna, , mn, us","Owatonna, MN 55060, USA","OK",-93.2259349,44.0855572
+"grove city, , pa, us","Grove City, PA 16127, USA","OK",-80.0886703,41.1578377
+"ebensburg , canada, pq, ","Ebensburg, PA 15931, USA","OK",-78.7247426,40.4850717
+"kerry , republic of ireland, , ","Kerry, Co. Kerry, Ireland","OK",-9.5668633,52.1544607
+"lafayette, , la, us","Lafayette, LA, USA","OK",-92.0198427,30.2240897
+"bradley, , il, us","Bradley, IL, USA","OK",-87.8611535,41.1419768
+"dover, , de, us","Dover, DE, USA","OK",-75.5243682,39.158168
+"hebron, , me, us","Hebron, ME, USA","OK",-70.4064465,44.1981261
+"somerset, , ma, us","Somerset, MA, USA","OK",-71.1286194,41.7695425
+"holland, , ny, us","Holland, NY 14080, USA","OK",-78.5416891,42.6411723
+"sarnia , canada, on, ca","Sarnia, ON, Canada","OK",-82.4065901,42.974536
+"dickinson, , nd, us","Dickinson, ND 58601, USA","OK",-102.7896242,46.8791756
+"st. george island, , ak, ","St George, AK, USA","OK",-169.5416667,56.6
+"rome, , oh, us","Rome, OH 45684, USA","OK",-83.3802744,38.6661196
+"merrick, , ny, us","Merrick, NY, USA","OK",-73.551516,40.6628795
+"san benito, , tx, us","San Benito, TX 78586, USA","OK",-97.6311006,26.132576
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

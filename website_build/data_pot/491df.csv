@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"helsinki , finland, , ","Helsinki, Finland","OK",24.9383791,60.1698557
+"swanville, , me, us","Swanville, ME, USA","OK",-68.9978129,44.5211855
+"blaine, , mn, us","Blaine, MN, USA","OK",-93.2349489,45.1607987
+"medford, , ny, us","Medford, NY, USA","OK",-73.0001068,40.8175985
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"eagle butte, , sd, us","Eagle Butte, SD 57625, USA","OK",-101.2224805,44.9886537
+"olive hill, , ky, us","Olive Hill, KY 41164, USA","OK",-83.1740654,38.3000809
+"ponte vedra, , fl, us","Ponte Vedra Beach, FL 32082, USA","OK",-81.3852595,30.2400058
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"silver city, , nm, us","Silver City, NM 88061, USA","OK",-108.280326,32.770075
+"sun city, menifee, ca, ","Sun City, Menifee, CA, USA","OK",-117.1972566,33.7091878
+"unknown lake, , il, ","1225 W Lake St, Melrose Park, IL 60160, USA","OK",-87.848683,41.8928987
+"cartago, , ca, us","Cartago, CA 93549, USA","OK",-118.0264725,36.3207709
+"boy scout camp royenea, , ca, ","4600 Scanlon Rd, Cazadero, CA 95421, USA","OK",-123.0658225,38.5201342
+"ca , interstate 40, ca, ","Needles Fwy, California, USA","OK",-115.7538015,34.7169656
+"glide, , or, us","Glide, OR, USA","OK",-123.1011754,43.3015069
+"port perry , canada, on, ca","Port Perry, ON, Canada","OK",-78.944148,44.1050454
+"irwindale, , ca, us","Irwindale, CA, USA","OK",-117.9353413,34.1069527
+"stockton , east of, ca, us","Stockton, CA, USA","OK",-121.2907796,37.9577016
+"groningen , winschoten - groningen highway, , ","Winschoten, Netherlands","OK",7.0367877,53.1424984
+"kingsville, , tx, us","Kingsville, TX 78363, USA","OK",-97.856109,27.5158689
+"beavercreek, , oh, us","Beavercreek, OH, USA","OK",-84.0632685,39.7092262
+"kalkaska, , mi, us","Kalkaska, MI 49646, USA","OK",-85.1842227,44.7352042
+"navajo lake, , nm, ","Navajo Lake, New Mexico 87419, USA","OK",-107.613,36.8
+"florissant, , co, us","Florissant, CO 80816, USA","OK",-105.2893555,38.946154
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"pontoto, thaxton , ms, ","Thaxton, MS, USA","OK",-89.1781251,34.3076058
+"stoddard valley, , ca, ","Stoddard Valley Rd, California, USA","OK",-117.0546868,34.7282493
+"rochester, , in, us","Rochester, IN 46975, USA","OK",-86.2158331,41.0647645
+"bensalem, , pa, us","Bensalem Township, PA, USA","OK",-74.9325683,40.0994425
+"campwood, , tx, ","Camp Wood, TX 78833, USA","OK",-100.0122911,29.6693924
+"new haven, , ky, us","New Haven, KY 40051, USA","OK",-85.5910728,37.6578396
+"bryan, , tx, us","Bryan, TX, USA","OK",-96.3699632,30.6743643
+"healdsburg , due s of, ca, us","131 North St, Healdsburg, CA 95448, USA","OK",-122.8696579,38.6123333
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"sherwood park , canada, ab, ca","Sherwood Park, AB, Canada","OK",-113.2957355,53.5411916
+"heyworth, , il, us","Heyworth, IL 61745, USA","OK",-88.9736901,40.3133697
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"salt lake city , west of, ut, us","West Valley City, UT, USA","OK",-112.0010501,40.6916132
+"johor bahru , malaysia, , ","Johor Bahru, Johor, Malaysia","OK",103.7413591,1.492659
+"ontario, , ca, us","Ontario, CA, USA","OK",-117.6508876,34.0633443
+"inglis, , fl, us","Inglis, FL 34449, USA","OK",-82.6687161,29.0302514
+"st. charles, , mo, us","St Charles, MO, USA","OK",-90.4974359,38.7881062
+"chihuahua , mexico, , ","Chihuahua, Mexico","OK",-106.0691004,28.6329957
+"tamaqua, , pa, us","Tamaqua, PA, USA","OK",-75.9693707,40.7973112
+"noblesville, , in, us","Noblesville, IN, USA","OK",-86.0085955,40.0455917
+"martinez, , ca, us","Martinez, CA 94553, USA","OK",-122.1341321,38.0193657
+"rome, , ga, us","Rome, GA, USA","OK",-85.1646726,34.257038
+"sheffield , uk, , gb","Sheffield, UK","OK",-1.470085,53.381129
+"silverton, , tx, us","Silverton, TX 79257, USA","OK",-101.3046051,34.4742306
+"ipswitch , australia, , au","Ipswich QLD 4305, Australia","OK",152.76,-27.623
+"northern oglala, , sd, ","Oglala, SD, USA","OK",-102.739621,43.1885942
+"great river, , ny, us","Great River, NY, USA","OK",-73.1576139,40.7212097
+"ridgewood, , nj, us","Ridgewood, NJ 07450, USA","OK",-74.1165313,40.9792645
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"oldsmar, , fl, us","Oldsmar, FL, USA","OK",-82.6650992,28.0341847
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"new haven, , wv, us","New Haven, WV, USA","OK",-81.9734718,38.986468
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"coventry , uk, , gb","Coventry, UK","OK",-1.519693,52.406822
+"point pleasant, , wv, us","Point Pleasant, WV, USA","OK",-82.1370889,38.8445251
+"acworth, , ga, us","Acworth, GA, USA","OK",-84.6768796,34.0659329
+"ashville , 5 miles south of, oh, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"tauton , uk, , ","Taunton, UK","OK",-3.106849,51.015344
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"dayton , wright-patterson afb, oh, us","Wright-Patterson AFB, OH, USA","OK",-84.0537448,39.8137298
+"lincoln park, , mi, us","Lincoln Park, MI 48146, USA","OK",-83.1785361,42.2505943
+"mexico city , mexico, , ","Mexico City, CDMX, Mexico","OK",-99.133208,19.4326077
+"unsure, , ny, ","New York, NY, USA","OK",-74.0059728,40.7127753
+"caarthage, , ms, ","Carthage, MS 39051, USA","OK",-89.5361825,32.7326356
+"chanhassen, , mn, us","Chanhassen, MN, USA","OK",-93.5323103,44.8619645
+"brumunddal , norway, , ","Brumunddal, Norway","OK",10.9394781,60.8809476
+"findlay, , oh, us","Findlay, OH 45840, USA","OK",-83.6499321,41.04422
+"stratford, , tx, us","Stratford, TX 79084, USA","OK",-102.0721191,36.3361402
+"darwin , nt&#44 australia, nt, au",NA,"REQUEST_DENIED",NA,NA
+"cape may court house, , nj, us","Cape May Court House, Middle Township, NJ 08210, USA","OK",-74.8237786,39.0826135
+"solon, , oh, us","Solon, OH 44139, USA","OK",-81.4412259,41.3897764
+"millville, , nj, us","Millville, NJ 08332, USA","OK",-75.0393438,39.4020596
+"romania, , , ","Romania","OK",24.96676,45.943161
+"sparks, , nv, us","Sparks, NV, USA","OK",-119.7526886,39.5349112
+"verl&#44 paderborn&#44 kaunitz , germany, , ",NA,"REQUEST_DENIED",NA,NA
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"ringwood, , il, us","Ringwood, IL, USA","OK",-88.2970335,42.3922427
+"klaipeda&#44 silute , lithuania, , ",NA,"REQUEST_DENIED",NA,NA
+"longmont , near, co, us","Longmont, CO, USA","OK",-105.1019275,40.1672068
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"beaver lake, , ar, ","Beaver Lake, Arkansas, USA","OK",-93.9241021,36.3478621
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"naperville, , il, us","Naperville, IL, USA","OK",-88.1535352,41.7508391
+"toronto , 15km south of, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"spring mills, , wv, us","Spring Mills, WV 25427, USA","OK",-77.952293,39.558826
+"linden, , nj, us","Linden, NJ, USA","OK",-74.2445902,40.6220478
+"glenview, , il, us","Glenview, IL, USA","OK",-87.8223368,42.0778065
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"kenosha, , wi, us","Kenosha, WI, USA","OK",-87.8211854,42.5847425
+"allison park , hampton twp., pa, us","Hampton Township, PA, USA","OK",-79.9475287,40.5913143
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"phoenix , ouside of&#44 at lake pleasant, az, us",NA,"REQUEST_DENIED",NA,NA
+"medina county, , oh, us","Medina County, OH, USA","OK",-81.9534815,41.080133
+"lincoln, , ma, us","Lincoln, MA, USA","OK",-71.3039469,42.4259283
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"franklin park , 60131, il, us","Franklin Park, IL 60131, USA","OK",-87.879523,41.9348537
+"baileys cross roads , just outside wash dc, va, ","Bailey's Crossroads, VA, USA","OK",-77.1310789,38.8502289
+"sayreville, , nj, us","Sayreville, NJ, USA","OK",-74.360846,40.4594021
+"manassas, , va, us","City of Manassas, VA, USA","OK",-77.4752667,38.7509488
+"grandview, , wa, us","Grandview, WA, USA","OK",-119.9017049,46.2509653
+"nicholasville, , ky, us","Nicholasville, KY 40356, USA","OK",-84.5729961,37.8806341
+"nicholasville, , ky, us","Nicholasville, KY 40356, USA","OK",-84.5729961,37.8806341
+"salem , approx. 30 miles north of, or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"shohola falls, , pa, us","Shohola Falls, Shohola Township, PA 18458, USA","OK",-74.9660026,41.3909244
+"bridgewater, , ct, us","Bridgewater, CT 06752, USA","OK",-73.3662305,41.5350949
+"torrington, , ct, us","Torrington, CT, USA","OK",-73.1211715,41.8003049
+"helena, , mt, us","Helena, MT, USA","OK",-112.0391057,46.5891452
+"elkton, , md, us","Elkton, MD 21921, USA","OK",-75.8332718,39.6067789
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"hanover, , ma, us","Hanover, MA 02339, USA","OK",-70.8476708,42.1162217
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"orange, , ca, us","Orange, CA, USA","OK",-117.8531007,33.7879139
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"grants pass , murphy area, or, us","Murphy, OR 97527, USA","OK",-123.332335,42.3475232
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"cold lake , canada, ab, ca","Cold Lake, AB, Canada","OK",-110.1732522,54.4642591
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"sandy, , ut, ","Sandy, UT, USA","OK",-111.8389726,40.5649781
+"vaughan , north of toronto, on, ","North Toronto, Toronto, ON, Canada","OK",-79.398322,43.7067707
+"baltimore, , md, us","Baltimore, MD, USA","OK",-76.6121893,39.2903848
+"easton, , mi, us","Easton Township, MI, USA","OK",-85.1375645,43.0038138
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"newark, , oh, us","Newark, OH, USA","OK",-82.4012642,40.0581205
+"seymour, , ct, us","Seymour, CT, USA","OK",-73.0747534,41.397146
+"west chester, , oh, us","West Chester Township, OH, USA","OK",-84.4172666,39.3321262
+"forestill, , mo, ","Foristell, MO, USA","OK",-90.955972,38.8150501
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"ramsgate , uk, , gb","Ramsgate, UK","OK",1.419895,51.335545
+"hacienda heights, , ca, us","Hacienda Heights, CA, USA","OK",-117.9686755,33.9930677
+"madill, , ok, us","Madill, OK 73446, USA","OK",-96.7716691,34.0903751
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"littleton, , co, us","Littleton, CO, USA","OK",-105.0166498,39.613321
+"spring hill, , tn, us","Spring Hill, TN, USA","OK",-86.9300023,35.751179
+"golden, , co, us","Golden, CO, USA","OK",-105.2210997,39.755543
+"bay shore, , ny, us","Bay Shore, NY, USA","OK",-73.2453946,40.7250986
+"heber city, , ut, us","Heber City, UT 84032, USA","OK",-111.4133234,40.5070087
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"lake cowichan , canada, bc, ca","Lake Cowichan, BC, Canada","OK",-124.054167,48.8258118
+"lelystad, , , ","Lelystad, Netherlands","OK",5.471422,52.518537
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"kahului, , hi, us","Kahului, HI, USA","OK",-156.4729469,20.8893351
+"gosport , uk, , gb","Gosport, UK","OK",-1.117547,50.794995
+"tarpon springs, , fl, us","Tarpon Springs, FL, USA","OK",-82.7567679,28.1461248
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"brule, , ne, us","Brule, NE 69127, USA","OK",-101.8880234,41.092927
+"blowing rock, , nc, us","Blowing Rock, NC, USA","OK",-81.6776059,36.135129
+"blowing rock, , nc, us","Blowing Rock, NC, USA","OK",-81.6776059,36.135129
+"middleburg hts., , oh, ","Middleburg Heights, OH, USA","OK",-81.812912,41.3614401
+"kalama, , wa, us","Kalama, WA 98625, USA","OK",-122.8445508,46.0084472
+"saint johnsville, , ny, us","St Johnsville, NY 13452, USA","OK",-74.6781003,43.0012346
+"valley springs, , ca, us","Valley Springs, CA 95252, USA","OK",-120.8291033,38.1915856
+"wilson, , nc, us","Wilson, NC, USA","OK",-77.9155395,35.7212689
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"island pond-seymour lake, , vt, ","Seymour Lake, Morgan, VT 05853, USA","OK",-71.9886537,44.8971221
+"new preston, , ct, us","New Preston, Washington, CT, USA","OK",-73.3517858,41.6750953
+"waldwick, , nj, us","Waldwick, NJ 07463, USA","OK",-74.1179203,41.0106528
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"challis, , id, us","Challis, ID 83226, USA","OK",-114.2317308,44.5046445
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"ayr , uk, , gb","Ayr, UK","OK",-4.629179,55.458564
+"indiana, , pa, us","Indiana, PA, USA","OK",-79.1525349,40.6214551
+"oak harbor, , wa, us","Oak Harbor, WA 98277, USA","OK",-122.6484205,48.2882947
+"gila indian reservation &amp; s. chandler&#44 ocotillo area, , az, ",NA,"REQUEST_DENIED",NA,NA
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"ridgewood, , nj, us","Ridgewood, NJ 07450, USA","OK",-74.1165313,40.9792645
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"grande prairie , canada, ab, ca","Grande Prairie, AB, Canada","OK",-118.7884464,55.1707126
+"twinning, , mi, ","Twining, MI 48766, USA","OK",-83.8074873,44.1130749
+"salisbury, , nh, us","Salisbury, NH, USA","OK",-71.7170222,43.3800768
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"grand rapids, , mi, us","Grand Rapids, MI, USA","OK",-85.6680863,42.9633599
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"oconomowoc, , wi, us","Oconomowoc, WI 53066, USA","OK",-88.4992659,43.1116731
+"maple shade, , nj, us","Maple Shade Township, NJ, USA","OK",-74.9923915,39.9526127
+"st. louis park, , mn, us","St Louis Park, MN, USA","OK",-93.3702186,44.9597376
+"ramona, , ca, us","Ramona, CA 92065, USA","OK",-116.8792553,33.0413604
+"venice, , fl, us","Venice, FL, USA","OK",-82.4542632,27.0997775
+"lemont, , il, us","Lemont, IL, USA","OK",-88.0017261,41.673642
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"lincoln, , mt, us","Lincoln, MT 59639, USA","OK",-112.6817071,46.9549402
+"elizabethtown, , ky, us","Elizabethtown, KY, USA","OK",-85.8649408,37.7030646
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

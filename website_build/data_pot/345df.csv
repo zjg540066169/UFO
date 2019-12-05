@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"campinas, sao paulo , , ","Campinas, State of São Paulo, Brazil","OK",-47.0626332,-22.9099384
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"st. louis , chesterfield valley, mo, us","Chesterfield, MO, USA","OK",-90.5770675,38.6631083
+"parma, , oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"canberra , australia, , au","Canberra ACT 2601, Australia","OK",149.1300092,-35.2809368
+"charlevoix, , mi, us","Charlevoix, MI 49720, USA","OK",-85.2584004,45.3180632
+"fayetteville, , ar, us","Fayetteville, AR, USA","OK",-94.1718542,36.082156
+"dunkirk, , md, us","Dunkirk, MD, USA","OK",-76.6605187,38.7217837
+"mcminnville, , tn, us","McMinnville, TN 37110, USA","OK",-85.7801453,35.6865889
+"carriere, , ms, us","Carriere, MS 39426, USA","OK",-89.6521016,30.6166573
+"beachwood, , oh, us","Beachwood, OH 44122, USA","OK",-81.5087322,41.4644979
+"ironton, , mo, us","Ironton, MO 63650, USA","OK",-90.6273444,37.5972724
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"bognor regis , uk, , gb","Bognor Regis, UK","OK",-0.673061,50.782998
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"milford, , ct, us","Milford, CT, USA","OK",-73.064036,41.2306979
+"oglala, , sd, us","Oglala, SD, USA","OK",-102.739621,43.1885942
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"garden grove, , ca, us","Garden Grove, CA, USA","OK",-117.9379952,33.7742692
+"boynton beach, , fl, us","Boynton Beach, FL, USA","OK",-80.0905465,26.5317866
+"mdison, , me, ","Madison, ME 04950, USA","OK",-69.8797486,44.7975466
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"oakwood, , ga, us","Oakwood, GA, USA","OK",-83.8843455,34.227602
+"redwood city, , ca, us","Redwood City, CA, USA","OK",-122.2363548,37.4852152
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"gallatin, , tn, us","Gallatin, TN 37066, USA","OK",-86.4466599,36.3883809
+"moreton morrell , uk, , ","Moreton Morrell, Warwick CV35, UK","OK",-1.5457407,52.2011754
+"cincinnati, , ky, ","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"millersville, , pa, us","Millersville, PA, USA","OK",-76.3541274,39.9978764
+"bloomingdale, , ga, us","Bloomingdale, GA 31302, USA","OK",-81.2990018,32.1324248
+"caney, , ks, us","Caney, KS 67333, USA","OK",-95.9352584,37.0114608
+"cream ridge, , nj, us","Cream Ridge, Upper Freehold, NJ 08514, USA","OK",-74.5236865,40.1340316
+"gulf breeze, , fl, us","Gulf Breeze, FL, USA","OK",-87.1638574,30.3571438
+"columbus, , ga, us","Columbus, GA, USA","OK",-84.9877094,32.4609764
+"gurnee, , il, us","Gurnee, IL, USA","OK",-87.9020186,42.3702996
+"aleppo , syria, , ","Aleppo, Syria","OK",37.1342603,36.2021047
+"rio rancho, , nm, us","Rio Rancho, NM, USA","OK",-106.6630437,35.2327544
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"crete, , il, us","Crete, IL 60417, USA","OK",-87.6314312,41.4444791
+"alma, , ar, us","Alma, AR 72921, USA","OK",-94.2218752,35.4778653
+"cape town , south africa, , ","Cape Town, South Africa","OK",18.4240553,-33.9248685
+"knoxvile, , tn, ","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"bluffton, , in, ","Bluffton, IN 46714, USA","OK",-85.1716368,40.7386579
+"uintah, , ut, us","Uintah, UT, USA","OK",-111.9232738,41.1441104
+"gloucester, , va, us","Gloucester County, VA, USA","OK",-76.5025742,37.4128281
+"west hartford, , ct, us","West Hartford, CT, USA","OK",-72.7420151,41.7620842
+"honea path, , sc, us","Honea Path, SC 29654, USA","OK",-82.3915121,34.4465018
+"north dartmouth, , ma, us","North Dartmouth, Dartmouth, MA 02747, USA","OK",-70.9694555,41.640396
+"fishers, , in, us","Fishers, IN, USA","OK",-86.01335,39.9567548
+"rising sun, , md, us","Rising Sun, MD 21911, USA","OK",-76.0627266,39.6978871
+"fort bragg, , ca, us","Fort Bragg, CA 95437, USA","OK",-123.8052935,39.445723
+"blanchester, , oh, us","Blanchester, OH 45107, USA","OK",-83.9888205,39.2931174
+"blue ridge, , ga, us","Blue Ridge, GA 30513, USA","OK",-84.324087,34.8639719
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"pollock pines, , ca, us","Pollock Pines, CA 95726, USA","OK",-120.5865935,38.7612923
+"alto, , tn, us","Alto, TN 37324, USA","OK",-85.953036,35.2706368
+"cary, , nc, us","Cary, NC, USA","OK",-78.7811169,35.79154
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"st. charles, , il, us","St. Charles, IL, USA","OK",-88.3086867,41.9141945
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"zion, , il, us","Zion, IL 60099, USA","OK",-87.8328505,42.4461322
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"norwich , norfolk, , gb","Norwich, UK","OK",1.297355,52.6308859
+"ontario, , ca, us","Ontario, CA, USA","OK",-117.6508876,34.0633443
+"vernal, , ut, us","Vernal, UT 84078, USA","OK",-109.5287479,40.4555157
+"palm bay, , fl, us","Palm Bay, FL, USA","OK",-80.5886646,28.0344621
+"silver spring, , md, us","Silver Spring, MD, USA","OK",-77.026088,38.9906657
+"bethel, , ak, us","Bethel, AK, USA","OK",-161.7558334,60.7922222
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"maidens, , va, us","Maidens, VA 23102, USA","OK",-77.8819408,37.6690354
+"st. john , canada, nb, ca","Saint John, NB, Canada","OK",-66.063308,45.2733153
+"lavergne, , tn, ","La Vergne, TN, USA","OK",-86.5819394,36.0156178
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"sarasota county, , fl, us","Sarasota County, FL, USA","OK",-82.345189,27.1995986
+"culpeper, , va, us","Culpeper, VA 22701, USA","OK",-77.9962512,38.4729632
+"medford, , ma, us","Medford, MA, USA","OK",-71.1061639,42.4184296
+"bethel, , ak, us","Bethel, AK, USA","OK",-161.7558334,60.7922222
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"hillsboro, , or, us","Hillsboro, OR, USA","OK",-122.9360842,45.5178398
+"malibu, , ca, us","Malibu, CA, USA","OK",-118.7797571,34.0259216
+"san pedro, , ca, us","San Pedro, Los Angeles, CA, USA","OK",-118.2922461,33.7360619
+"zion, , il, us","Zion, IL 60099, USA","OK",-87.8328505,42.4461322
+"whately, , ma, us","Whately, MA, USA","OK",-72.6348118,42.4398101
+"cranston, , ri, us","Cranston, RI, USA","OK",-71.4372796,41.7798226
+"san leandro, , ca, us","San Leandro, CA, USA","OK",-122.1568554,37.7257663
+"bullhead city, , az, us","Bullhead City, AZ, USA","OK",-114.5285981,35.1359386
+"sunset, , ut, us","Sunset, UT, USA","OK",-112.0308126,41.1398658
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"ward cove, , ak, us","Ward Cove, AK 99901, USA","OK",-131.7227777,55.4119444
+"wellington, , fl, us","Wellington, FL, USA","OK",-80.2683571,26.6617635
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"topping, , va, us","Topping, VA 23169, USA","OK",-76.4743934,37.5881938
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"greenwich, , ct, us","Greenwich, CT, USA","OK",-73.6281964,41.0262417
+"beaver , in outskirts of, ut, us","Beaver, UT 84713, USA","OK",-112.6410518,38.2769149
+"bowland&#44 lancashire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"accrington&#44 lancashire , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"bucharest , romania, , ","Bucharest, Romania","OK",26.1025384,44.4267674
+"torrance, , ca, us","Torrance, CA, USA","OK",-118.3406288,33.8358492
+"grayson, , ky, us","Grayson, KY 41143, USA","OK",-82.9485023,38.3325812
+"azle, , tx, us","Azle, TX 76020, USA","OK",-97.5458565,32.8951262
+"oakwood, , oh, us","Oakwood, OH, USA","OK",-84.1741059,39.7253369
+"spring hill, , fl, us","Spring Hill, FL, USA","OK",-82.5369872,28.4831682
+"perth amboy, , nj, us","Perth Amboy, NJ, USA","OK",-74.2654234,40.5067723
+"beecher, , il, us","Beecher, IL 60401, USA","OK",-87.6214286,41.34059
+"lehigh acres, , fl, us","Lehigh Acres, FL, USA","OK",-81.6248026,26.6253497
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"aylmer , canada, qc, ca","Aylmer, Gatineau, QC, Canada","OK",-75.8439603,45.3945087
+"san rafael, , ca, us","San Rafael, CA, USA","OK",-122.5310874,37.9735346
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"weymouth, , ma, us","Weymouth, MA, USA","OK",-70.9410356,42.2180724
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"tama, , ia, us","Tama, IA, USA","OK",-92.576753,41.9627392
+"seguin, , tx, us","Seguin, TX 78155, USA","OK",-97.9647269,29.5688411
+"lee, , nh, us","Lee, NH, USA","OK",-71.0120127,43.122244
+"wellsboro, , pa, us","Wellsboro, PA 16901, USA","OK",-77.3005304,41.7486838
+"hueston woods state park, , oh, ","Hueston Woods State Park, College Corner, OH 45003, USA","OK",-84.7459169,39.5764977
+"syracuse , elbridge, ny, us","Elbridge, NY 13060, USA","OK",-76.4479914,43.0345105
+"highgate, , vt, ","Highgate, VT, USA","OK",-73.0511203,44.9565227
+"sharon, , pa, us","Sharon, PA, USA","OK",-80.4934035,41.2331116
+"christmas valley, , or, us","Christmas Valley, OR, USA","OK",-120.6708853,43.237797
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"asheville, , nc, us","Asheville, NC, USA","OK",-82.5514869,35.5950581
+"new brighton, , mn, us","New Brighton, MN 55112, USA","OK",-93.2018908,45.0655212
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"lockport, , il, us","Lockport, IL, USA","OK",-88.057837,41.5894752
+"lisbon, , me, us","Lisbon, ME, USA","OK",-70.1043704,44.0316013
+"allegheny state park, , ny, ","Allegany State Park, 2373 ASP Route 1, Salamanca, NY 14779, USA","OK",-78.7601342,42.0625762
+"harpersfield, , ny, us","Harpersfield, NY 13786, USA","OK",-74.6873749,42.4384124
+"pinkney, , mi, ","Pinckney, MI 48169, USA","OK",-83.9463358,42.4567013
+"chino, , ca, us","Chino, CA, USA","OK",-117.688944,34.0122346
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"south kingstown, , ri, ","South Kingstown, RI, USA","OK",-71.524667,41.4475686
+"assateague island, , md, ","Assateague Island, United States","OK",-75.2070644,38.0932834
+"beverly hills, , mi, us","Beverly Hills, MI 48025, USA","OK",-83.2625577,42.516131
+"aransas pass, , tx, us","Aransas Pass, TX, USA","OK",-97.1505561,27.909532
+"ashton, , id, us","Ashton, ID 83420, USA","OK",-111.4482884,44.0715807
+"tolland, , ct, us","Tolland, CT 06084, USA","OK",-72.3686931,41.8714865
+"springfield, , nj, us","Springfield Township, NJ, USA","OK",-74.3222146,40.7016937
+"boonsboro, , md, us","Boonsboro, MD 21713, USA","OK",-77.6524907,39.5062108
+"port hawkesbury , canada, ns, ca","Port Hawkesbury, NS, Canada","OK",-61.3585543,45.6276473
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"longview, , tx, us","Longview, TX, USA","OK",-94.7404891,32.5007037
+"ferizaj , kosovo, , ","Uroshevac","OK",21.1483281,42.3701844
+"mussel shoals, , al, ","Muscle Shoals, AL, USA","OK",-87.6675292,34.7448112
+"lincoln, , ca, us","Lincoln, CA, USA","OK",-121.2930079,38.891565
+"woodland hills, , ca, us","Woodland Hills, Los Angeles, CA, USA","OK",-118.6089752,34.165357
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"sherrill, , ia, us","Sherrill, IA 52073, USA","OK",-90.7845716,42.6038868
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"east sandwich, , ma, us","East Sandwich, Sandwich, MA, USA","OK",-70.4516929,41.7417739
+"east sandwich, , ma, us","East Sandwich, Sandwich, MA, USA","OK",-70.4516929,41.7417739
+"milwaukee, , wi, us","Milwaukee, WI, USA","OK",-87.9064736,43.0389025
+"portsmouth, , va, us","Portsmouth, VA, USA","OK",-76.2982742,36.8354258
+"murray, , ut, us","Murray, UT, USA","OK",-111.8879909,40.6668916
+"lenoir, , nc, us","Lenoir, NC, USA","OK",-81.5389849,35.9140196
+"waiparous , canada, ab, ","Waiparous Village, AB T0L, Canada","OK",-114.8389065,51.283263
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"holden beach, , nc, us","Holden Beach, NC 28462, USA","OK",-78.3038892,33.9135061
+"fond du lac, , wi, us","Fond du Lac, WI, USA","OK",-88.4470508,43.7730448
+"moffett field, , ca, ","Moffett Federal Airfield, Mountain View, CA 94043, USA","OK",-122.0510589,37.4094963
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"stouffville , canada, on, ca","Stouffville, Whitchurch-Stouffville, ON, Canada","OK",-79.2479342,43.9699335
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"suwanee, , ga, us","Suwanee, GA 30024, USA","OK",-84.0712997,34.0514898
+"albir , spain, , ","03581 L'Albir, Alicante, Spain","OK",-0.070135,38.5706814
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"cedar city, , ut, us","Cedar City, UT, USA","OK",-113.0618931,37.6774769
+"dunnville , canada, on, ca","Dunnville, Haldimand, ON, Canada","OK",-79.6170044,42.9035374
+"greensburg, , pa, us","Greensburg, PA 15601, USA","OK",-79.5389289,40.3014581
+"st. catharines , canada, on, ca","St. Catharines, ON, Canada","OK",-79.2468626,43.1593745
+"port dover , canada, on, ca","Port Dover, ON, Canada","OK",-80.2032779,42.7865225
+"mississauga , canada, on, ca","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"south jordan, , ut, us","South Jordan, UT, USA","OK",-111.929658,40.5621704
+"moore, , ok, us","Moore, OK, USA","OK",-97.4867028,35.3395079
+"gulf breeze, , fl, us","Gulf Breeze, FL, USA","OK",-87.1638574,30.3571438
+"union, , me, us","Union, ME, USA","OK",-69.293927,44.2296917
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"fall river mills, , ca, us","Fall River Mills, CA 96028, USA","OK",-121.4383139,41.0046076
+"oceanside, , ca, us","Oceanside, CA, USA","OK",-117.3794834,33.1958696
+"delray beach, , fl, us","Delray Beach, FL, USA","OK",-80.0728201,26.4614625
+"athens, , al, us","Athens, AL, USA","OK",-86.9716741,34.8028661
+"corunna , canada, on, ","Corunna, ON, Canada","OK",-82.450903,42.8847497
+"oshawa , canada, on, ca","Oshawa, ON, Canada","OK",-78.8657912,43.8970929
+"port washington, , ny, us","Port Washington, NY, USA","OK",-73.6981858,40.8256561
+"lynbrook , long island, ny, us","Lynbrook, NY 11563, USA","OK",-73.6717969,40.6548253
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

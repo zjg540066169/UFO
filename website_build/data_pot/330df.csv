@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"highway i-70, , mo, ","I-70, Missouri, USA","OK",-92.4312547,38.9716461
+"joan&oacute;polis , brasil, , ","1201 N 4th St, Independence, KS 67301, USA","OK",-95.7024342,37.2351881
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"hopewell, , nj, us","Hopewell, NJ 08525, USA","OK",-74.7618284,40.3892726
+"salida, , co, us","Salida, CO 81201, USA","OK",-105.9989022,38.5347193
+"greenville, , tn, us","Greeneville, TN, USA","OK",-82.8309861,36.1631574
+"fairfield, , pa, us","Fairfield, PA 17320, USA","OK",-77.3685984,39.7873173
+"motherwell , n. lanarkshire co., , gb","Motherwell, UK","OK",-3.9810968,55.7832092
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"brick, lakewood, nj, ","Lakewood Township, NJ 08701, USA","OK",-74.2097014,40.082129
+"tartu , estonia, , ","Tartu, Estonia","OK",26.7290383,58.377983
+"brooklyn , lake columbia area, mi, us","Brooklyn, MI 49230, USA","OK",-84.2482819,42.105874
+"burnaby , canada, bc, ca","Burnaby, BC, Canada","OK",-122.9805104,49.2488091
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"rankin, , tx, us","Rankin, TX 79778, USA","OK",-101.9379085,31.2226477
+"contoocook, , nh, us","Contoocook, Hopkinton, NH 03229, USA","OK",-71.7139655,43.2220234
+"port el kantoui , tunisia, , ","Port El Kantaoui, Hammam Sousse, Tunisia","OK",10.5998394,35.8924975
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"kokomo, , in, us","Kokomo, IN, USA","OK",-86.1336033,40.486427
+"patung beach , phuket islan&#44 thailand, , ",NA,"REQUEST_DENIED",NA,NA
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"show low, , az, us","Show Low, AZ 85901, USA","OK",-110.0298327,34.2542084
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"paso robles, , ca, us","Paso Robles, CA 93446, USA","OK",-120.6545022,35.6368759
+"kohila , estonia, , ","Kohila, Rapla County, Estonia","OK",24.7601652,59.1718351
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"richmond hill , canada, on, ca","Richmond Hill, ON, Canada","OK",-79.4402808,43.8828401
+"corvallis, , or, us","Corvallis, OR, USA","OK",-123.2620435,44.5645659
+"griffin, , ga, us","Griffin, GA, USA","OK",-84.2640904,33.2467807
+"nampa, , id, us","Nampa, ID, USA","OK",-116.55978,43.5788175
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"gallup, , nm, us","Gallup, NM, USA","OK",-108.7425843,35.5280783
+"covington, , la, us","Covington, LA, USA","OK",-90.1009108,30.4754702
+"mccomb, , oh, us","McComb, OH 45858, USA","OK",-83.7927147,41.1075523
+"center, , tx, us","Center, TX 75935, USA","OK",-94.1790862,31.7954512
+"lanett, , al, us","Lanett, AL 36863, USA","OK",-85.1904971,32.8687391
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"graton, , ca, us","Graton, CA, USA","OK",-122.8697158,38.4363022
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"gold coast , australia, , au","Gold Coast QLD, Australia","OK",153.4,-28.016667
+"copperas cove, , tx, us","Copperas Cove, TX, USA","OK",-97.9030785,31.124062
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"harpenden , uk, , gb","Harpenden AL5, UK","OK",-0.358953,51.81846
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"vestal, , ny, us","Vestal, NY 13850, USA","OK",-76.053575,42.0855898
+"londonderry, , nh, us","Londonderry, NH, USA","OK",-71.3739272,42.8651298
+"sault ste. marie, , mi, ","Sault Ste. Marie, MI 49783, USA","OK",-84.3475876,46.4977115
+"snetterton , small village near norwich, , ","Snetterton, Norwich NR16 2LG, UK","OK",0.931012,52.4756799
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"sintra , portugal, , ","Sintra, Portugal","OK",-9.3816495,38.8029127
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"fountain inn, , sc, us","Fountain Inn, SC, USA","OK",-82.1956679,34.6890095
+"dublin, , tx, us","Dublin, TX 76446, USA","OK",-98.3419882,32.085143
+"portage, , mi, us","Portage, MI, USA","OK",-85.5800022,42.2011538
+"biloxi, , ms, us","Biloxi, MS, USA","OK",-88.8853078,30.3960318
+"knappa, , or, us","Knappa, OR 97103, USA","OK",-123.5847221,46.1852779
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"faribault, , mn, us","Faribault, MN 55021, USA","OK",-93.268827,44.2949636
+"shaver lake, , ca, us","Shaver Lake, CA, USA","OK",-119.3176258,37.104114
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"dillon, , sc, us","Dillon, SC 29536, USA","OK",-79.3711579,34.4165505
+"holden beach, , nc, us","Holden Beach, NC 28462, USA","OK",-78.3038892,33.9135061
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"shady spring, , wv, us","Shady Spring, WV, USA","OK",-81.0984293,37.7056722
+"university place, , wa, us","University Place, WA, USA","OK",-122.5504041,47.2356536
+"palm coast, , fl, us","Palm Coast, FL, USA","OK",-81.2078699,29.5844524
+"presque isle, , me, us","Presque Isle, ME, USA","OK",-68.0158614,46.681153
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"new iberia, , la, us","New Iberia, LA, USA","OK",-91.8187285,30.0035365
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"negril , jamaica, , ","Negril, Jamaica","OK",-78.3472424,18.2683058
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"new brighton, , pa, us","New Brighton, PA, USA","OK",-80.3100627,40.7303434
+"hamilton mountain , canada, on, ","284 Concession St, Hamilton, ON L9A 1B3, Canada","OK",-79.8634728,43.2435599
+"alhambra, , ca, us","Alhambra, CA, USA","OK",-118.1270146,34.095287
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"watervliet, , mi, us","Watervliet, MI 49098, USA","OK",-86.2605776,42.1867052
+"xenia , west of, oh, us","Xenia, OH 45385, USA","OK",-83.9296526,39.6847822
+"solon, , me, us","Solon, ME, USA","OK",-69.858391,44.949502
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"staten island, , ny, ","Staten Island, NY, USA","OK",-74.1502007,40.5795317
+"millsboro, , de, us","Millsboro, DE 19966, USA","OK",-75.2913018,38.5915023
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"groton, , ma, us","Groton, MA, USA","OK",-71.5745152,42.6112018
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"belair, , md, ","Bel Air, MD 21014, USA","OK",-76.3482931,39.5359406
+"dayton, , nj, us","Dayton, South Brunswick Township, NJ, USA","OK",-74.5101536,40.372607
+"duxbury, , ma, us","Duxbury, MA, USA","OK",-70.6722767,42.0417525
+"windsor, , ca, us","Windsor, CA, USA","OK",-122.8163802,38.5471327
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

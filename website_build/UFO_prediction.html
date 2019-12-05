@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>UFO Prediction</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 61px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h2 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h3 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h4 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h5 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Overview &amp; Report</a>
+</li>
+<li>
+  <a href="https://youtu.be/aHnN84ynnXk">Screencast</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="data_tidy.html">Tidy Data</a>
+</li>
+<li>
+  <a href="EDA.html">EDA</a>
+</li>
+<li>
+  <a href="UFO_in_USA.html">UFO in USA</a>
+</li>
+<li>
+  <a href="https://ljf123-final.shinyapps.io/shiny_dashboard_jl/">Map of City</a>
+</li>
+<li>
+  <a href="map_of_state.html">Map of State</a>
+</li>
+<li>
+  <a href="UFO_prediction.html">Models</a>
+</li>
+<li>
+  <a href="https://zjg540066169.github.io">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
+
+
+<h1 class="title toc-ignore">UFO Prediction</h1>
+
+</div>
+
+
+<div id="the-prediction-visualization-on-map" class="section level1">
+<h1><em>The prediction visualization on map</em></h1>
+<p>The appearance of UFO in the U.S can be predicted by …….. if you have interets, <a href="https://ljf123-final.shinyapps.io/shiny_prediction/">please click here</a></p>
+</div>
+<div id="outlier-detection-for-ufo-prediction" class="section level1">
+<h1><em>Outlier Detection for UFO Prediction</em></h1>
+<p>By the analysis we did before, we found that association does exist in UFO appearance time and location. To enhance prediction accuracy, we adapted the powerful tool of Machine Learning in assistance of our prediction. Unfortunately, we only have the “positive” samples in the dataset, which means only the UFO appearance data are availiable to us and the data about UFO not appearing are missing. Under this situation, we view prediction of whether UFO is appearing or not as a problem of one class classification, aka outlier detection. Here we take advantage of a popular method that combats this adversity, One Class Support Vector Machine. In this process. we fabricated “negative” samples that would be included in test data of the cross validation procedure.</p>
+<pre class="r"><code># read data
+ufo_data = read_csv(file = &quot;./data/tidied_data_final.csv&quot;)
+
+
+
+# data tidy for prediction
+ufo =
+  ufo_data %&gt;%  
+  filter(country == &quot;USA&quot;) %&gt;% 
+  separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
+  separate(time, into = c(&quot;hour&quot;,&quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
+  select(year, month, day, hour, minute,state, city) %&gt;%
+  na.omit(ufo_data) %&gt;% 
+  mutate(add = paste(state, city)) %&gt;% 
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day))</code></pre>
+<pre class="r"><code># keep the city that the ufo appears with more than 100 times, and delete others
+ufo_city = 
+  ufo %&gt;% 
+  dplyr::group_by(add) %&gt;% 
+  mutate(count = dplyr::n()) %&gt;% 
+  filter(count &gt;= 100) %&gt;% 
+  ungroup() %&gt;% 
+  select(-count) %&gt;% 
+  select(-state, -city) %&gt;% 
+  mutate(add = as.factor(add))</code></pre>
+<p>Since we are predicting by city, which is a categorical data, each city will be treated as a dummy variable in the SVM model. Hence, we limited the city terms down to the cities that have more than 100 times of UFO sightings.</p>
+<p>Usually, SVM model will provide analysts kernel methods to choose. RBF kernel and linear kernel are the most frequently used methods. Given that RBF is usually effective and good for non-linear data, the training of RBF are time-consuming and the hyperparameters are needed to be tuned for achieveing the best result. We here used an easier-to-train and only one parameter (nu), in contrast with RBF which contains more than two parameters. To elaborate on the parameter nu is that the statistical meaning of this parameter is an upper bound on the fraction of outliers. Because the fraction in population is unknown, we need to estimate the hyperparameter by cross validation.</p>
+</div>
+<div id="cross-validation-preparation" class="section level1">
+<h1><em>Cross Validation Preparation</em></h1>
+<pre class="r"><code># set up the result of cross validation table
+nu_cv = tibble(
+  nu = numeric(),
+  f1_svm = list()
+)
+
+# transform each levels in factors to new variables to form the input of SVM
+factor_variable_cope = function(df){
+  if (is.tibble(df)) {
+    df = as.data.frame(df)
+  }
+  for (i in colnames(df[, sapply(df, is.factor)])) {
+    for (level in unique(df[, i])) {
+        df[paste(i, level, sep = &quot;_&quot;)] = 
+            as.integer(ifelse(df[, i] == level, 1, -1))
+    }
+  }
+  df
+}</code></pre>
+</div>
+<div id="cross-validation-to-tune-the-nu-parameters-for-one-class-support-vector-machine" class="section level1">
+<h1>Cross Validation to tune the “nu” parameters for One Class Support Vector Machine</h1>
+<p>We here used tenfold cross validation and the sample size of the fabricated data is same sample size of the positive dataset. Hence, during the cross validation, sample size of the test set and training set are the same.</p>
+<p>Use F1_score to evaluate the prediction result. F1_score can use to balance the result of unbalanced data.</p>
+<p>Here is the link to some background about F1 score: <a href="https://en.wikipedia.org/wiki/F1_score" class="uri">https://en.wikipedia.org/wiki/F1_score</a></p>
+<pre class="r"><code># tune the parameter for nu in OC-SVM
+for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7)) {
+  true_n = nrow(ufo_city)  #numbers of true samples
+  false_samples = true_n   # numbers of false samples
+
+  false_data = tibble( # false samples randomly generating
+    year = sample(1900:2100, false_samples, replace = T),
+    month = sample(ufo_city$month, false_samples, replace = T),
+    day = sample(1:30, false_samples, replace = T),
+    hour = sample(0:24, false_samples, replace = T),
+    minute = sample(ufo_city$minute, false_samples, replace = T),
+    add = sample(ufo_city$add, false_samples, replace = T)
+  ) %&gt;% 
+    anti_join(ufo_city, by = c(&quot;year&quot;, &quot;month&quot;, &quot;day&quot;, &quot;hour&quot;, &quot;minute&quot;, &quot;add&quot;)) # delete the samples of true in false dataset
+  
+  
+  false_n = nrow(false_data) #numbers of false samples
+  
+  
+  
+  # here we bind rows of true and false dataset to deal with the factor variables
+  train_df = 
+    ufo_city %&gt;% 
+    bind_rows(false_data) %&gt;% 
+    factor_variable_cope() %&gt;% 
+    select(-month, -add) %&gt;% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %&gt;% 
+    sample_frac(1)
+  
+  
+  # seperate the false and true samples from transformed data
+  false_df = 
+    train_df %&gt;% 
+    slice((true_n + 1):(true_n + false_n)) %&gt;% 
+    mutate(y = FALSE) %&gt;% 
+    as_tibble() 
+  
+  true_df = 
+    train_df %&gt;% 
+    slice(1:true_n) %&gt;% 
+    #mutate(y = TRUE) %&gt;% 
+    as_tibble() 
+  
+  
+  # construct the cross validation dataset from true samples datasets
+  cv_df = 
+    crossv_mc(true_df, 10) %&gt;% 
+    mutate(
+      train = map(train, as_tibble),
+      test = map(test, as_tibble)
+      )
+  
+  # add false samples to test dataset and construct the true labels 
+  for (i in 1:nrow(cv_df)) {
+    cv_df$test[[i]] = mutate(cv_df$test[[i]], y = TRUE)
+    cv_df$test[[i]] = rbind(cv_df$test[[i]], false_df)
+    cv_df$label[[i]] = cv_df$test[[i]]$y
+    cv_df$test[[i]] = select(cv_df$test[[i]], -y)
+  }
+   
+  # use OC-SVM to predict
+  cv_model = 
+    cv_df %&gt;% 
+    mutate(svm_mod = map(train, ~svm(.x , y = NULL,
+             type = &#39;one-classification&#39;,
+             nu = nu_, # tune the parameters by cross validation
+             scale = TRUE, 
+             kernel = &quot;linear&quot;))) %&gt;% 
+    mutate(pred_label = map2(svm_mod, test, ~predict(.x, .y)))
+  
+  # calculate the f1-score for each prediction
+  cv_f1 =
+    cv_model %&gt;% 
+    mutate(f1_svm = map2_dbl(.x = label, .y = pred_label, ~F1_Score(y_true = .x, y_pred = .y))) 
+  
+  # save the result 
+  nu_cv = 
+    tibble(
+      nu = nu_,
+      f1_svm = mean(pull(cv_f1, f1_svm))
+    ) %&gt;% 
+    rbind(nu_cv, .)
+  
+}</code></pre>
+<p>One Class Cross Valiadation is not an exact copy from what we have done in class, but the specific method we used here were included and explained more in-depth in the paper cited in the end of this page.</p>
+</div>
+<div id="draw-the-graph-of-f1_score-for-each-nu" class="section level1">
+<h1><em>Draw the graph of f1_score for each nu</em></h1>
+<pre class="r"><code># change the scale of data for graph
+cvp = 
+  nu_cv %&gt;% 
+  mutate(nu = case_when(
+    nu &lt;= 0.3 ~ log10(nu),
+    nu &gt; 0.3 ~ exp(nu)
+  ))
+
+# draw the graph
+cvp %&gt;% 
+  ggplot(aes(x = nu, y = f1_svm, color = nu)) +
+  geom_point() +
+  geom_line() +
+  scale_x_continuous(
+    breaks = pull(cvp, nu),
+    labels = c(&quot;0.001&quot;, &quot;0.005&quot;, &quot;0.01&quot;, &quot;0.05&quot;, &quot;0.1&quot;, &quot;0.3&quot;, &quot;0.5&quot;, &quot;0.7&quot;)
+  ) +
+  labs(
+    title = &quot;Average F1 Score for nu in SVM by 10 folds CV&quot;,
+    x = &quot;nu&quot;,
+    y = &quot;Average F1 Score&quot;) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))</code></pre>
+<p><img src="UFO_prediction_files/figure-html/unnamed-chunk-5-1.png" width="90%" /></p>
+<p>According the graph, we find nu = 0.5 is best parameter for OC-SVM.</p>
+<p>After geting the best nu, we use it to train OC-SVM again.</p>
+</div>
+<div id="train-the-final-best-model-with-best-nu-0.5" class="section level1">
+<h1><em>Train the Final Best Model with Best nu = 0.5</em></h1>
+<pre class="r"><code>nu_ = 0.5
+
+# train svm models
+svm_model = 
+    ufo_city %&gt;% 
+    factor_variable_cope() %&gt;% 
+    select(-month, -add) %&gt;% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %&gt;% 
+    #sample_frac(1) %&gt;% 
+    svm(y = NULL,
+        type = &#39;one-classification&#39;,
+        nu = nu_,
+        scale = TRUE, 
+        kernel = &quot;linear&quot;
+        )
+  
+# display the models
+svm_model</code></pre>
+<pre><code>## 
+## Call:
+## svm.default(x = ., y = NULL, scale = TRUE, type = &quot;one-classification&quot;, 
+##     kernel = &quot;linear&quot;, nu = nu_)
+## 
+## 
+## Parameters:
+##    SVM-Type:  one-classification 
+##  SVM-Kernel:  linear 
+##       gamma:  0.01587302 
+##          nu:  0.5 
+## 
+## Number of Support Vectors:  4571</code></pre>
+<pre class="r"><code># save models
+#saveRDS(svm_model, &quot;SVM.rds&quot;)</code></pre>
+</div>
+<div id="work-cited" class="section level1">
+<h1><em>Work Cited</em></h1>
+<p>Manevitz, L. M., &amp; Yousef, M. (2001). One-class SVMs for document classification. Journal of machine Learning research, 2(Dec), 139-154.</p>
+<p>Hempstalk, K., &amp; Frank, E. (2008, December). Discriminating against new classes: One-class versus multi-class classification. In Australasian Joint Conference on Artificial Intelligence (pp. 325-336). Springer, Berlin, Heidelberg.</p>
+</div>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.1">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 6.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"><b>Copyright © 2019 UFO Analysis Group All rights reserved.</b></span></p>
+</body>
+</html>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

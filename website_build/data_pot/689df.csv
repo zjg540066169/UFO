@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"muncie, , in, us","Muncie, IN, USA","OK",-85.3863599,40.1933767
+"livingston, , mt, us","Livingston, MT 59047, USA","OK",-110.5599556,45.6614105
+"highland springs, , va, us","Highland Springs, VA, USA","OK",-77.3277568,37.545979
+"mashpee, , ma, us","Mashpee, MA, USA","OK",-70.4819674,41.647872
+"whittier, , ca, us","Whittier, CA, USA","OK",-118.032844,33.9791793
+"boynton beach, wellington, fl, ","Boynton Beach, FL, USA","OK",-80.0905465,26.5317866
+"eddyville, , ky, us","Eddyville, KY, USA","OK",-88.080301,37.0944971
+"hugo, , ok, us","Hugo, OK 74743, USA","OK",-95.5096821,34.01066
+"salem, , oh, us","Salem, OH 44460, USA","OK",-80.8567501,40.9008923
+"whitefish, , mt, us","Whitefish, MT 59937, USA","OK",-114.3352652,48.4106373
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"warrenton, , va, us","Warrenton, VA, USA","OK",-77.7952712,38.7134516
+"conway, , ar, us","Conway, AR, USA","OK",-92.4421011,35.0886963
+"hondo , canada, ab, ca","Hondo, AB T0G, Canada","OK",-114.0280388,55.0695524
+"greenfield, , in, us","Greenfield, IN 46140, USA","OK",-85.7694226,39.785043
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"morristown, , tn, us","Morristown, TN, USA","OK",-83.2948922,36.2139814
+"madison, , al, us","Madison, AL, USA","OK",-86.7483318,34.6992579
+"merrick, , ny, us","Merrick, NY, USA","OK",-73.551516,40.6628795
+"hoover, , al, us","Hoover, AL, USA","OK",-86.8113781,33.4053867
+"san jose del cabo , mexico, , ","San José del Cabo, Baja California Sur, Mexico","OK",-109.7024376,23.0636562
+"new york city , fresh meadows; queens, ny, us","Fresh Meadows, Queens, NY, USA","OK",-73.7801447,40.7335179
+"yucaipa, , ca, us","Yucaipa, CA, USA","OK",-117.0430865,34.033625
+"lincoln city, , or, us","Lincoln City, OR, USA","OK",-124.0178914,44.9581644
+"fort mill, , sc, us","Fort Mill, SC, USA","OK",-80.9450759,35.0073697
+"rock springs, , wy, us","Rock Springs, WY 82901, USA","OK",-109.2029043,41.5874644
+"orr, , mn, us","Orr, MN 55771, USA","OK",-92.8310021,48.0535266
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"hilliard, , oh, us","Hilliard, OH, USA","OK",-83.1582451,40.0333961
+"block island, , ri, ","Block Island, New Shoreham, RI 02807, USA","OK",-71.5842643,41.1616556
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"hinesville, , ga, us","Hinesville, GA 31313, USA","OK",-81.6141099,31.8315028
+"slingerlands, , ny, us","Slingerlands, NY 12159, USA","OK",-73.8645685,42.6292455
+"fort dodge, , ia, us","Fort Dodge, IA 50501, USA","OK",-94.1680158,42.4974694
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"winston-salem, , nc, us","Winston-Salem, NC, USA","OK",-80.244216,36.0998596
+"richmond, , mn, us","Richmond, MN 56368, USA","OK",-94.5199894,45.454111
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"pemberton, fort dix, nj, ","Fort Dix, NJ, USA","OK",-74.61849,40.0298354
+"isanti, , mn, us","Isanti, MN 55040, USA","OK",-93.2476091,45.4894008
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"madison, , wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"azle, , tx, us","Azle, TX 76020, USA","OK",-97.5458565,32.8951262
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"deepwater, , mo, us","Deepwater, MO 64740, USA","OK",-93.7729902,38.26058
+"barrie , canada, on, ca","Barrie, ON, Canada","OK",-79.6903316,44.3893556
+"ocean city, , md, us","Ocean City, MD, USA","OK",-75.0849058,38.3365032
+"petersburg, , va, us","Petersburg, VA, USA","OK",-77.4019267,37.2279279
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"lehi, , ut, us","Lehi, UT, USA","OK",-111.8507662,40.3916172
+"lyndon, , wi, ","Lyndon, WI, USA","OK",-87.9824758,43.6677484
+"massey , canada, on, ca","Massey, ON P0P, Canada","OK",-82.077616,46.212565
+"broadalbin, , ny, us","Broadalbin, NY 12025, USA","OK",-74.1965206,43.0586846
+"north windham, , me, us","North Windham, Windham, ME 04062, USA","OK",-70.4383871,43.8342433
+"bridgeport , pond flowing out of remington arms compound, ct, us","Bridgeport, CT, USA","OK",-73.1894384,41.1792258
+"bluepoint, , ny, ","Blue Point, NY, USA","OK",-73.0345539,40.7439872
+"leeds&#44 west yorks , uk, , ",NA,"REQUEST_DENIED",NA,NA
+"saratoga, , ny, ","Saratoga, NY, USA","OK",-73.6300729,43.0448483
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"laramie , east of, wy, us","Laramie, WY, USA","OK",-105.5911007,41.3113669
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"carlisle , canada, on, ","Carlisle, Hamilton, ON L0R, Canada","OK",-79.9804642,43.3941952
+"cantoma, , fl, ","Florida, USA","OK",-81.5157535,27.6648274
+"dale ville, , in, ","Daleville, IN 47334, USA","OK",-85.5580301,40.1211545
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"victoria , saxe point, bc, ca","Saxe Point Park, Victoria, BC V9A 6G5, Canada","OK",-123.4189443,48.4214922
+"surrey , canada, bc, ca","Surrey, BC, Canada","OK",-122.8490125,49.1913466
+"hermosillo&#44 sonora , mexico, , ",NA,"REQUEST_DENIED",NA,NA
+"sherman oaks, , ca, us","Sherman Oaks, Los Angeles, CA, USA","OK",-118.451357,34.1489719
+"east hartford, , ct, us","East Hartford, CT, USA","OK",-72.6128339,41.7634219
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"ashcroft , canada, bc, ca","Ashcroft, BC, Canada","OK",-121.2804736,50.7259246
+"steelville, , mo, us","Steelville, MO 65565, USA","OK",-91.354868,37.9680999
+"ozark, , mo, us","Ozark, MO, USA","OK",-93.2060163,37.0208865
+"milford, , ct, us","Milford, CT, USA","OK",-73.064036,41.2306979
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"vail, , az, us","Vail, AZ 85641, USA","OK",-110.7009206,32.0005283
+"saskatoon , canada, sa, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"kuala lumpur , malaysia, , ","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","OK",101.686855,3.139003
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"bouse, , az, us","Bouse, AZ 85325, USA","OK",-114.0057748,33.9325235
+"istanbul , turkey, , ","İstanbul, Turkey","OK",28.9783589,41.0082376
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"burgess hill , uk, , gb","Burgess Hill, UK","OK",-0.128701,50.954469
+"rotterdam , netherlands, , ","Rotterdam, Netherlands","OK",4.4777326,51.9244201
+"galena, , mo, us","Galena, MO 65656, USA","OK",-93.466579,36.8053375
+"glastonbury, , ct, us","Glastonbury, CT, USA","OK",-72.5450779,41.6861794
+"garden city, , ks, us","Garden City, KS 67846, USA","OK",-100.8726618,37.9716898
+"ogden , near, ia, us","Ogden, IA 50212, USA","OK",-94.0320167,42.0395595
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"bowleys quarters, , md, us","Bowleys Quarters, MD, USA","OK",-76.3942732,39.3256518
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"odessa, , tx, us","Odessa, TX, USA","OK",-102.3676431,31.8456816
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

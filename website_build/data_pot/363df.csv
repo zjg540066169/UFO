@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"charlottesville, , va, us","Charlottesville, VA, USA","OK",-78.4766781,38.0293059
+"payson, , az, us","Payson, AZ 85541, USA","OK",-111.3251355,34.2308684
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"ricmond, , ca, ","Richmond, CA, USA","OK",-122.3477486,37.9357576
+"santa monica, , ca, us","Santa Monica, CA, USA","OK",-118.4911912,34.0194543
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"dorion , canada, qc, ca","Vaudreuil-Dorion, QC, Canada","OK",-74.0379599,45.404236
+"loveland, , co, us","Loveland, CO, USA","OK",-105.0749801,40.3977612
+"lake forest, , ca, us","Lake Forest, CA, USA","OK",-117.6861023,33.6469437
+"ewing, , mo, us","Ewing, MO 63440, USA","OK",-91.7137737,40.0061552
+"hollywood, , ca, us","Hollywood, Los Angeles, CA, USA","OK",-118.3286614,34.0928092
+"malaga , spain, , ","Málaga, Spain","OK",-4.4259962,36.7167456
+"golden,  boulder , co, ","500 Mohawk Dr # 209, Boulder, CO 80303, USA","OK",-105.2360246,39.9968335
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"arlington, dallas, tx, ","Arlington, TX, USA","OK",-97.1080656,32.735687
+"east preston , uk, , gb","East Preston, UK","OK",-0.48458,50.811152
+"huntington park, , ca, us","Huntington Park, CA, USA","OK",-118.2250725,33.9816812
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"stayton, , or, us","Stayton, OR 97383, USA","OK",-122.7945333,44.8006775
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"castro valley, , ca, us","Castro Valley, CA, USA","OK",-122.0738678,37.6955029
+"madison, , al, us","Madison, AL, USA","OK",-86.7483318,34.6992579
+"wheelersburg, , oh, us","Wheelersburg, OH, USA","OK",-82.8554477,38.7303549
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"herculaneum, , mo, us","Herculaneum, MO, USA","OK",-90.3801201,38.2683879
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"sonora, , ca, us","Sonora, CA 95370, USA","OK",-120.3821724,37.9829496
+"lucerne, , ca, us","Lucerne, CA, USA","OK",-122.7963806,39.0901708
+"spring, , tx, us","Spring, TX 77373, USA","OK",-95.4171601,30.0799405
+"stafford , uk, , gb","Stafford, UK","OK",-2.12066,52.806693
+"commack, , ny, us","Commack, NY, USA","OK",-73.2928943,40.8428759
+"pismo, , ca, ","Pismo Beach, CA, USA","OK",-120.6412827,35.1427533
+"seaton , uk, , gb","Seaton, UK","OK",-3.0718734,50.7053134
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"waterford, , mi, us","Waterford Twp, MI, USA","OK",-83.4066132,42.6907443
+"chesterfield , uk, , gb","Chesterfield, UK","OK",-1.421629,53.235048
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"porter ranch, , ca, us","Los Angeles, CA 91326, USA","OK",-118.5506158,34.2822134
+"middlesbrough , uk, , gb","Middlesbrough, UK","OK",-1.234956,54.574227
+"middlesbrough , uk, , gb","Middlesbrough, UK","OK",-1.234956,54.574227
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"arcadia, , ca, us","Arcadia, CA, USA","OK",-118.0353449,34.1397292
+"beijing , china, , ","Beijing, China","OK",116.4073963,39.9041999
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"camillus, , ny, us","Camillus, NY 13031, USA","OK",-76.3040965,43.039233
+"waxahachie, , tx, us","Waxahachie, TX, USA","OK",-96.8483311,32.3865312
+"sunset beach, , nc, us","Sunset Beach, NC 28468, USA","OK",-78.512231,33.880728
+"rutland, , vt, us","Rutland, VT 05701, USA","OK",-72.9726065,43.6106237
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"carrollton, , tx, us","Carrollton, TX, USA","OK",-96.8899636,32.9756415
+"montgomery, oswego, il, ","Montgomery, IL, USA","OK",-88.3459048,41.730585
+"new boston, , tx, us","New Boston, TX 75570, USA","OK",-94.4154787,33.4598415
+"ruther glen, , va, us","Ruther Glen, VA 22546, USA","OK",-77.4558151,37.9287494
+"minot, , nd, us","Minot, ND, USA","OK",-101.2922906,48.2329668
+"brazil, , in, us","Brazil, IN 47834, USA","OK",-87.1250154,39.523652
+"rosamond, , ca, us","Rosamond, CA, USA","OK",-118.1634075,34.8641446
+"brazil, , in, us","Brazil, IN 47834, USA","OK",-87.1250154,39.523652
+"kennesaw, , ga, us","Kennesaw, GA, USA","OK",-84.6154897,34.0234337
+"owensboro, , ky, us","Owensboro, KY, USA","OK",-87.1111676,37.7719074
+"covina, , ca, us","Covina, CA, USA","OK",-117.8903397,34.0900091
+"holmes beach, , fl, us","Holmes Beach, FL 34217, USA","OK",-82.7109329,27.4953156
+"st. cloud, , mn, us","St Cloud, MN, USA","OK",-94.1632404,45.5579451
+"buffalo, , ny, us","Buffalo, NY, USA","OK",-78.8783689,42.8864468
+"marion, , oh, us","Marion, OH 43302, USA","OK",-83.1285242,40.5886699
+"lakewood, , nj, us","Lakewood Township, NJ 08701, USA","OK",-74.2097014,40.082129
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"norfolk, , va, us","Norfolk, VA, USA","OK",-76.2858726,36.8507689
+"dayton, , pa, us","Dayton, PA, USA","OK",-79.241983,40.8803431
+"palm springs, , ca, us","Palm Springs, CA, USA","OK",-116.5452921,33.8302961
+"seal cove, , me, us","Seal Cove, Tremont, ME 04674, USA","OK",-68.4038241,44.313966
+"james island, , sc, ","James Island, Charleston, SC 29412, USA","OK",-79.9528451,32.7534721
+"coulee city, , wa, us","Coulee City, WA 99115, USA","OK",-119.29225,47.6112561
+"lynchburg, , tn, us","Lynchburg, TN, USA","OK",-86.3740205,35.2830242
+"parma, , oh, us","Parma, OH, USA","OK",-81.7229086,41.4047742
+"cardiff , vale of glamorgan, , gb","Cardiff, UK","OK",-3.17909,51.481581
+"augusta, , ga, us","Augusta, GA, USA","OK",-82.0105148,33.4734978
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"front royal, , va, us","Front Royal, VA 22630, USA","OK",-78.1944446,38.9181671
+"newcastle , australia, , au","Newcastle NSW, Australia","OK",151.7816802,-32.9282712
+"fernley, , nv, us","Fernley, NV, USA","OK",-119.2518349,39.6079683
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"ruskin, , fl, us","Ruskin, FL, USA","OK",-82.4331495,27.7208633
+"provo, , ut, us","Provo, UT, USA","OK",-111.6585337,40.2338438
+"warr acres, , ok, us","Warr Acres, OK, USA","OK",-97.6189809,35.5223057
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"livermore, , ca, us","Livermore, CA, USA","OK",-121.7684732,37.6818688
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"keonjhar , india, oh, ","Keonjhar, Odisha, India","OK",85.5816847,21.628933
+"riverbank, , ca, us","Riverbank, CA, USA","OK",-120.9354895,37.7360396
+"kamloops , canada, bc, ca","Kamloops, BC, Canada","OK",-120.3272675,50.674522
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

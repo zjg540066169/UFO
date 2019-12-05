@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"worden, , mt, us","Worden, MT, USA","OK",-108.1609536,45.959962
+"la quinta, , ca, us","La Quinta, CA, USA","OK",-116.3100095,33.6633573
+"white hall, , md, us","White Hall, MD 21161, USA","OK",-76.6290149,39.6198067
+"star lake, , ny, us","Star Lake, NY 13690, USA","OK",-75.0315825,44.159785
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"big bear, , ca, ","Big Bear Lake, CA, USA","OK",-116.9114215,34.2438963
+"endicott, , ny, us","Endicott, NY 13760, USA","OK",-76.0493684,42.098408
+"wimberley, , tx, us","Wimberley, TX, USA","OK",-98.0986204,29.9974362
+"little rock, , ar, us","Little Rock, AR, USA","OK",-92.2895948,34.7464809
+"bigelow, , ar, us","Bigelow, AR 72016, USA","OK",-92.6298847,35.0011986
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"foothill ranch, , ca, us","Foothill Ranch, Lake Forest, CA 92610, USA","OK",-117.6664308,33.6831832
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"fort myers, , fl, us","Fort Myers, FL, USA","OK",-81.8723084,26.640628
+"london , hamstead heath, , gb","Hampstead Heath, London, UK","OK",-0.1631376,51.5608421
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"westlake village, , ar, ","Westlake Village, CA, USA","OK",-118.8073729,34.1466467
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"st. john&#39s , canada, nf, ca",NA,"REQUEST_DENIED",NA,NA
+"ruther glen, , va, us","Ruther Glen, VA 22546, USA","OK",-77.4558151,37.9287494
+"fort wayne, , in, us","Fort Wayne, IN, USA","OK",-85.1393513,41.079273
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"chimacum, , wa, us","Chimacum, WA, USA","OK",-122.7687353,48.0106006
+"j&otilde;geva , estonia, , ","16029 E 37th Ter, Independence, KS 67301, USA","OK",-95.7083133,37.2242178
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"smithfield, , va, us","Smithfield, VA 23430, USA","OK",-76.6310662,36.9823709
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"arbroath , uk, , gb","Arbroath, UK","OK",-2.591543,56.559107
+"laurie, , mo, us","Laurie, MO 65037, USA","OK",-92.8335237,38.1991971
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"port st. lucie, , fl, ","Port St. Lucie, FL, USA","OK",-80.3582261,27.2730492
+"olean, , ny, us","Olean, NY 14760, USA","OK",-78.429927,42.083639
+"maurertown, , va, us","Maurertown, VA 22644, USA","OK",-78.463796,38.9296951
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"village of oak creek, , az, ","Village of Oak Creek, AZ 86351, USA","OK",-111.7626535,34.780297
+"fargo, , nd, us","Fargo, ND, USA","OK",-96.7898034,46.8771863
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"westminster, , md, us","Westminster, MD, USA","OK",-76.9958149,39.5753791
+"vacaville, , ca, us","Vacaville, CA, USA","OK",-121.9877444,38.3565773
+"russels point, , oh, ","Russells Point, OH, USA","OK",-83.8927162,40.4711612
+"west bridgewater, , ma, us","West Bridgewater, MA, USA","OK",-71.0078215,42.0189894
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"lava hot springs, , id, us","Lava Hot Springs, ID 83246, USA","OK",-112.0110712,42.6193625
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"murrieta, , ca, us","Murrieta, CA, USA","OK",-117.2139232,33.5539143
+"daytona beach, , fl, us","Daytona Beach, FL, USA","OK",-81.0228331,29.2108147
+"priest lake, , id, ","Priest Lake, Idaho, USA","OK",-116.8668585,48.5879853
+"snohomish, , wa, us","Snohomish, WA, USA","OK",-122.0981847,47.9128756
+"evansville, , mn, us","Evansville, MN 56326, USA","OK",-95.682824,46.0041275
+"graham, , wa, us","Graham, WA 98338, USA","OK",-122.2942839,47.0528789
+"port charlotte, , fl, us","Port Charlotte, FL, USA","OK",-82.0906448,26.9761707
+"oak island, , nc, us","Oak Island, NC, USA","OK",-78.161106,33.9165623
+"valdosta, , ga, us","Valdosta, GA, USA","OK",-83.2784851,30.8327022
+"venice, , la, us","Venice, Boothville-Venice, LA 70091, USA","OK",-89.3594449,29.2784888
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"lincoln, , ca, us","Lincoln, CA, USA","OK",-121.2930079,38.891565
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"santa ana, , ca, us","Santa Ana, CA, USA","OK",-117.867653,33.7454725
+"claremont, , ca, us","Claremont, CA, USA","OK",-117.7197785,34.0966764
+"johnstown, , pa, us","Johnstown, PA, USA","OK",-78.9219698,40.3267407
+"west memphis, , ar, ","West Memphis, AR, USA","OK",-90.1845388,35.1464797
+"torquay , devonshire, , gb","Torquay, UK","OK",-3.525315,50.4619209
+"morristown, , tn, us","Morristown, TN, USA","OK",-83.2948922,36.2139814
+"norwalk, , ca, us","Norwalk, CA, USA","OK",-118.081733,33.9022367
+"arlington, , tx, us","Arlington, TX, USA","OK",-97.1080656,32.735687
+"augusta, , mt, us","Augusta, MT 59410, USA","OK",-112.3922459,47.4927251
+"gamewell, , nc, us","Gamewell, NC 28645, USA","OK",-81.5962082,35.8692971
+"timnath, , co, us","Timnath, CO, USA","OK",-104.9852533,40.5291491
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"mason city, , ia, us","Mason City, IA 50401, USA","OK",-93.2010367,43.1535728
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"lebanon, , mo, us","Lebanon, MO 65536, USA","OK",-92.6637865,37.6805967
+"new port richey, , fl, us","New Port Richey, FL, USA","OK",-82.7192671,28.2441768
+"zebulon, , ga, us","Zebulon, GA, USA","OK",-84.3426997,33.1023454
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"norwalk, , ct, us","Norwalk, CT, USA","OK",-73.4081575,41.117744
+"cambridge, , ny, us","Cambridge, NY 12816, USA","OK",-73.3812231,43.0281329
+"mokena, , il, us","Mokena, IL, USA","OK",-87.8892189,41.5261437
+"lake village, , ar, us","Lake Village, AR 71653, USA","OK",-91.2842212,33.3314091
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"deep creek , punta gorda, fl, us","Deep Creek, FL 33983, USA","OK",-82.0150875,27.0170022
+"macedon, , ny, us","Macedon, NY, USA","OK",-77.3094674,43.064272
+"south lake tahoe, , ca, us","South Lake Tahoe, CA 96150, USA","OK",-119.9771868,38.939926
+"whitby , canada, on, ca","Whitby, ON, Canada","OK",-78.9429329,43.8975446
+"belle glade, , fl, us","Belle Glade, FL, USA","OK",-80.6675577,26.6845104
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"collville , canada, bc, ","Colville Rd, Esquimalt, BC V9A, Canada","OK",-123.4183502,48.4377194
+"springfield, , oh, us","Springfield, OH, USA","OK",-83.8088171,39.9242266
+"apopka, , fl, us","Apopka, FL, USA","OK",-81.5322149,28.6934076
+"perham, , mn, us","Perham, MN 56573, USA","OK",-95.5730088,46.5953437
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

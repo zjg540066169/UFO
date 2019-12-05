@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"oak ridge, , tn, us","Oak Ridge, TN, USA","OK",-84.2696449,36.0103561
+"ammon, , id, us","Ammon, ID, USA","OK",-111.9666355,43.4696366
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"mukwonago, , wi, us","Mukwonago, WI, USA","OK",-88.3334274,42.8666803
+"plano, , tx, us","Plano, TX, USA","OK",-96.6988856,33.0198431
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"nineveh, , in, us","Nineveh, IN 46164, USA","OK",-86.0847136,39.3622722
+"cedar city, , ut, us","Cedar City, UT, USA","OK",-113.0618931,37.6774769
+"merced, , ca, us","Merced, CA, USA","OK",-120.4829677,37.3021632
+"fairbanks, , ak, us","Fairbanks, AK, USA","OK",-147.7163888,64.8377778
+"st. paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"hartwell, , ga, us","Hartwell, GA 30643, USA","OK",-82.932087,34.3528825
+"randolph, , oh, us","Randolph Township, OH, USA","OK",-81.2739073,41.0104923
+"fort bliss, , tx, ","Fort Bliss, TX 79906, USA","OK",-106.4213208,31.812438
+"waverly hall, , ga, us","Waverly Hall, GA 31831, USA","OK",-84.7382609,32.683469
+"gorham, , nh, us","Gorham, NH 03581, USA","OK",-71.1727881,44.3879504
+"pacific ocean, , , ","Pacific Ocean","OK",-124.508523,-8.783195
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"port sulphur, , la, us","Port Sulphur, LA, USA","OK",-89.6939531,29.4804947
+"perth , western australia, , au","Perth WA, Australia","OK",115.8604572,-31.9505269
+"dublin, , nh, us","Dublin, NH, USA","OK",-72.0625817,42.9075823
+"detroit , metro area, mi, us","Detroit Metropolitan Area, MI, USA","OK",-83.0790865,42.8105356
+"lake arrowhead, , ca, us","Lake Arrowhead, CA, USA","OK",-117.1892078,34.2483396
+"cape hatteras, , nc, ","Cape Hatteras, Hatteras, NC, USA","OK",-75.5393155,35.24804
+"mt. palomar, , ca, ","Palomar Mountain, CA 92060, USA","OK",-116.8355789,33.3633675
+"columbia, denmark , sc, ","5573 Carolina Hwy, Denmark, SC 29042, USA","OK",-81.1421307,33.3237528
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"lucas, , tx, us","Lucas, TX, USA","OK",-96.5766577,33.0842854
+"waldorf, , md, us","Waldorf, MD, USA","OK",-76.9105483,38.6265124
+"brigantine, , nj, us","Brigantine, NJ 08203, USA","OK",-74.3645906,39.4101171
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"laffolette, , tn, ","LaFollette, TN, USA","OK",-84.1199472,36.3828852
+"randolph, , nj, ","Randolph, NJ, USA","OK",-74.5747248,40.8478065
+"illinois , rural, il, ","217 E Monroe St, Springfield, IL 62701, USA","OK",-89.6525575,39.7997008
+"savoonga&#44 st. lawrence island, , ak, ",NA,"REQUEST_DENIED",NA,NA
+"bolivar - 170th &amp; 326th road junction, , mo, ","S 170th Rd, Missouri, USA","OK",-93.324501,37.537064
+"woodinville, , wa, us","Woodinville, WA, USA","OK",-122.1634581,47.7542651
+"doyline, , la, us","Doyline, LA 71023, USA","OK",-93.4110049,32.5357073
+"big pine, , ca, us","Big Pine, CA, USA","OK",-118.289546,37.1649307
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"platteville, , wi, us","Platteville, WI 53818, USA","OK",-90.4784621,42.73416
+"alto, , mi, us","Alto, MI 49302, USA","OK",-85.3804695,42.8564917
+"yucca valley, morongo valley, ca, ","Morongo Valley, CA 92256, USA","OK",-116.5808472,34.0469549
+"unincorporated, , az, ","411 N Central Ave, Phoenix, AZ 85004, USA","OK",-112.0734511,33.452957
+"sunderland , uk, , gb","Sunderland, UK","OK",-1.383801,54.906869
+"winter springs, , fl, us","Winter Springs, FL, USA","OK",-81.3081226,28.6988853
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"elizabeth, , nj, us","Elizabeth, NJ, USA","OK",-74.2107006,40.6639916
+"newbury park, , ca, us","Newbury Park, Thousand Oaks, CA, USA","OK",-118.9070887,34.1805403
+"east los angeles, , ca, us","East Los Angeles, CA, USA","OK",-118.1669736,34.0224417
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"lutz, , fl, us","Lutz, FL, USA","OK",-82.4614831,28.1511243
+"molalla, , or, us","Molalla, OR 97038, USA","OK",-122.5770888,45.1475308
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"arvada, , co, us","Arvada, CO, USA","OK",-105.0874842,39.8027644
+"lynn, , al, us","Lynn, AL, USA","OK",-87.54974,34.0470483
+"cottage grove, , or, us","Cottage Grove, OR 97424, USA","OK",-123.0595246,43.797623
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"babbitt, , mn, us","Babbitt, MN, USA","OK",-91.9446025,47.7085278
+"paraparaumu, , , ","Paraparaumu, New Zealand","OK",175.0083802,-40.9142336
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"exeter, , ca, us","Exeter, CA 93221, USA","OK",-119.1420517,36.2960613
+"bellevue, , wa, us","Bellevue, WA, USA","OK",-122.2015159,47.6101497
+"salem, , nh, us","Salem, NH 03079, USA","OK",-71.2008912,42.7885553
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"amsterdam, , mo, us","Amsterdam, MO 64723, USA","OK",-94.5891216,38.3497423
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"avila beach , diablo canyon nucular power plant, ca, us","Diablo Canyon Rd, Avila Beach, CA 93424, USA","OK",-120.8550423,35.2116914
+"ripon, , ca, us","Ripon, CA 95366, USA","OK",-121.1354141,37.7394537
+"elkton, , md, us","Elkton, MD 21921, USA","OK",-75.8332718,39.6067789
+"fitchville, , ct, us","Fitchville, Bozrah, CT 06334, USA","OK",-72.1539671,41.5648205
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"penang , malaysia, , ","Penang, Malaysia","OK",100.3326786,5.4163935
+"raub&#44 pahang , malaysia, , ",NA,"REQUEST_DENIED",NA,NA
+"monument, , co, us","Monument, CO, USA","OK",-104.872758,39.0916586
+"eldridge, , ca, us","Eldridge, CA, USA","OK",-122.5120463,38.3428366
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"dallas , near??, tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"delaware, , oh, us","Delaware, OH 43015, USA","OK",-83.067965,40.2986724
+"crown point, , in, us","Crown Point, IN 46307, USA","OK",-87.3653135,41.4169806
+"n., a, tx, ","10261 Technology Blvd E, Dallas, TX 75220, USA","OK",-96.8960588,32.8608294
+"doncaster , uk, , gb","Doncaster, UK","OK",-1.128462,53.52282
+"skudai , malaysia, , ","Skudai, Johor, Malaysia","OK",103.6594267,1.5343616
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"mountain view, , ca, us","Mountain View, CA, USA","OK",-122.0838511,37.3860517
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"melbourne , australia, , au","Melbourne VIC, Australia","OK",144.9630576,-37.8136276
+"cohutta, , ga, us","Cohutta, GA 30710, USA","OK",-84.9527235,34.9595209
+"hawthorne, , ca, us","Hawthorne, CA, USA","OK",-118.3525748,33.9164032
+"clifton, , nj, ","Clifton, NJ, USA","OK",-74.1637553,40.8584328
+"murfreesboro, , tn, us","Murfreesboro, TN, USA","OK",-86.39027,35.8456213
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"vernon , canada, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"phoenixville, , pa, us","Phoenixville, PA 19460, USA","OK",-75.5149128,40.1303822
+"austell, , ga, us","Austell, GA, USA","OK",-84.6343783,33.8126059
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"caracas , venezuela, , ","Caracas, Capital District, Venezuela","OK",-66.9036063,10.4805937
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"cambridge, , ma, us","Cambridge, MA, USA","OK",-71.1097335,42.3736158
+"berberton, , oh, ","Barberton, OH 44203, USA","OK",-81.6051221,41.012833
+"bozeman, , mt, us","Bozeman, MT, USA","OK",-111.0429339,45.6769979
+"wooster, , oh, us","Wooster, OH 44691, USA","OK",-81.935143,40.8050565
+"riverton, , ut, us","Riverton, UT, USA","OK",-111.9391023,40.521893
+"lumberton, , nj, us","Lumberton, NJ, USA","OK",-74.8003877,39.9676482
+"corpus christi, , tx, us","Corpus Christi, TX, USA","OK",-97.396381,27.8005828
+"norwalk, , ca, us","Norwalk, CA, USA","OK",-118.081733,33.9022367
+"new haven, , ct, us","New Haven, CT, USA","OK",-72.9278835,41.308274
+"winston, , or, us","Winston, OR 97496, USA","OK",-123.4125724,43.1223383
+"des moines, , ia, us","Des Moines, IA, USA","OK",-93.6249593,41.5868353
+"st. george , northwest of, ut, us","St. George, UT, USA","OK",-113.5684164,37.0965278
+"appleton, , wi, us","Appleton, WI, USA","OK",-88.4153847,44.2619309
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"stamford, , ct, us","Stamford, CT, USA","OK",-73.5387341,41.0534302
+"east liverpool, , oh, us","East Liverpool, OH 43920, USA","OK",-80.5772928,40.6186756
+"warminster , uk, , gb","Warminster BA12, UK","OK",-2.181078,51.204629
+"piscataway, , nj, us","Piscataway, NJ 08854, USA","OK",-74.4642861,40.554887
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"norwood, , pa, us","Norwood, PA, USA","OK",-75.2996309,39.8917793
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"porter, , tx, us","Porter, TX 77365, USA","OK",-95.2364276,30.1044506
+"greenwich, , ct, us","Greenwich, CT, USA","OK",-73.6281964,41.0262417
+"south holland, , il, us","South Holland, IL, USA","OK",-87.6069894,41.6008681
+"marietta, , ga, us","Marietta, GA, USA","OK",-84.5499327,33.952602
+"cold lake , canada, ab, ca","Cold Lake, AB, Canada","OK",-110.1732522,54.4642591
+"corcoran, , ca, us","Corcoran, CA 93212, USA","OK",-119.5604015,36.098007
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"monroe, , la, us","Monroe, LA, USA","OK",-92.1193012,32.5093109
+"anna paulowna , netherlands, , ","1761 Anna Paulowna, Netherlands","OK",4.8238091,52.8616158
+"scarborough , uk, , gb","Scarborough, UK","OK",-0.399752,54.283113
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"newbury park, , ca, us","Newbury Park, Thousand Oaks, CA, USA","OK",-118.9070887,34.1805403
+"horn island, , ms, ","Horn Island, Mississippi, USA","OK",-88.669948,30.2359011
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"willits , west of, ca, us","Willits, CA 95490, USA","OK",-123.3555656,39.4096079
+"roseberg, , pa, ","2501 Hollywood Blvd Suite 110, Hollywood, FL 33020, USA","OK",-80.1571111,26.0115169
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"oxnard, , ca, us","Oxnard, CA, USA","OK",-119.1770516,34.1975048
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"dallas, , or, us","Dallas, OR 97338, USA","OK",-123.3170472,44.9192844
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"longwood, winter springs, fl, ","Longwood, FL 32750, USA","OK",-81.3384011,28.7030519
+"goleta, , ca, us","Goleta, CA, USA","OK",-119.8276389,34.4358294
+"laguna niguel, , ca, us","Laguna Niguel, CA, USA","OK",-117.7149438,33.5236744
+"halsted , denmark, , ","4900 Halsted, Denmark","OK",11.2258401,54.847715
+"eureka springs, , ar, us","Eureka Springs, AR, USA","OK",-93.7379711,36.4011825
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"wilmette, , il, us","Wilmette, IL, USA","OK",-87.7228384,42.0722513
+"sheffield , uk, il, us","Sheffield, UK","OK",-1.470085,53.381129
+"deweese, , ne, us","Deweese, NE, USA","OK",-98.1386573,40.3547334
+"pico rivera, , ca, us","Pico Rivera, CA, USA","OK",-118.096735,33.9830688
+"pico rivera, , ca, us","Pico Rivera, CA, USA","OK",-118.096735,33.9830688
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"val caron , canada, on, ","Val Caron, Greater Sudbury, ON, Canada","OK",-81.0073828,46.6104547
+"haines city, , fl, us","Haines City, FL, USA","OK",-81.6178536,28.1141841
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"hopkinsville, , ky, us","Hopkinsville, KY, USA","OK",-87.4886186,36.8656008
+"bowling green, , fl, us","Bowling Green, FL 33834, USA","OK",-81.8239717,27.6383673
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"utica , ~20 miles north of, ny, us","Utica, NY, USA","OK",-75.232664,43.100903
+"winter haven, , fl, us","Winter Haven, FL, USA","OK",-81.7328567,28.0222435
+"kissimmee, , fl, us","Kissimmee, FL, USA","OK",-81.407571,28.2919557
+"ithaca, , ny, us","Ithaca, NY, USA","OK",-76.5018807,42.4439614
+"georgia strait , over, bc, ","Strait of Georgia","OK",-123.8727568,49.3568568
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"wakefield , uk, , gb","Wakefield, UK","OK",-1.505924,53.683298
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"petaluma, , ca, us","Petaluma, CA, USA","OK",-122.6366524,38.232417
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"montcalm, , nh, us","Montcalm, NH 03748, USA","OK",-72.17083,43.6
+"falkirk , uk, , gb","Falkirk, UK","OK",-3.7839131,56.0018775
+"northbridge, , ma, us","Northbridge, MA, USA","OK",-71.6494407,42.1516323
+"san anselmo, , ca, us","San Anselmo, CA 94960, USA","OK",-122.5616448,37.9746458
+"wilmington, , de, us","Wilmington, DE, USA","OK",-75.5483909,39.744655
+"selinsgrove, , pa, us","Selinsgrove, PA 17870, USA","OK",-76.8621935,40.7989735
+"pilot mound , canada, mb, ca","Pilot Mound, MB R0G 1P0, Canada","OK",-98.8931669,49.2022693
+"long beach, , wa, us","Long Beach, WA 98631, USA","OK",-124.0543234,46.3523219
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"buckhead ridge, , fl, us","Buckhead Ridge, FL 34974, USA","OK",-80.8936735,27.1303277
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"carlsbad, , nm, us","Carlsbad, NM 88220, USA","OK",-104.2288375,32.4206736
+"carlsbad, , nm, us","Carlsbad, NM 88220, USA","OK",-104.2288375,32.4206736
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

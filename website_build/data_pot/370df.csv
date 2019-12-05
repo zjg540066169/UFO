@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"crystal lake, , il, us","Crystal Lake, IL, USA","OK",-88.3161965,42.2411344
+"rome, , ga, us","Rome, GA, USA","OK",-85.1646726,34.257038
+"mays landing, , nj, us","Mays Landing, Hamilton Township, NJ 08330, USA","OK",-74.7276626,39.4523385
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"wilmington , suburbs, de, us","Wilmington, DE, USA","OK",-75.5483909,39.744655
+"vermilion, , oh, us","Vermilion, OH, USA","OK",-82.3646068,41.4219889
+"hutchinson, , ks, us","Hutchinson, KS, USA","OK",-97.9297743,38.0608445
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"reading, , pa, us","Reading, PA, USA","OK",-75.9268747,40.3356483
+"kirtland, , nm, us","Kirtland, NM, USA","OK",-108.3598009,36.7341684
+"cedarville , 4 to 5 miles east of&#44 on u. s. 42, oh, us",NA,"REQUEST_DENIED",NA,NA
+"couburg , canada, on, ","Cobourg, ON, Canada","OK",-78.1677363,43.9593373
+"malaga , spain, , ","Málaga, Spain","OK",-4.4259962,36.7167456
+"camp albert pike, , ar, ","Albert Pike Recreation Area, Nfw 106, Umpire, AR 71971, USA","OK",-93.878383,34.3750293
+"round rock, , tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"marbella&#44 costa del sol , spain, , ",NA,"REQUEST_DENIED",NA,NA
+"summerville, , sc, us","Summerville, SC, USA","OK",-80.1756481,33.0185039
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"pendergrass, , ga, us","Pendergrass, GA, USA","OK",-83.6779473,34.1623292
+"limassol , cyprus, , ","Limassol, Cyprus","OK",33.0226174,34.7071301
+"gunnison, , co, us","Gunnison, CO 81230, USA","OK",-106.9253207,38.5458246
+"iraq , classified; military position, , ",NA,"ZERO_RESULTS",NA,NA
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"mccomb, , ms, us","McComb, MS, USA","OK",-90.4531535,31.2437872
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"talent, , or, us","Talent, OR 97540, USA","OK",-122.7886462,42.2456844
+"park city, , mt, us","Park City, MT 59063, USA","OK",-108.9162361,45.6297222
+"karachi , pakistan, , ","Karachi, Karachi City, Sindh, Pakistan","OK",67.0011364,24.8607343
+"buckhead, , ga, us","Buckhead, Atlanta, GA, USA","OK",-84.406761,33.8372663
+"buckhead, , ga, us","Buckhead, Atlanta, GA, USA","OK",-84.406761,33.8372663
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"moravian falls, , nc, us","Moravian Falls, NC, USA","OK",-81.1823072,36.0967982
+"crestwood, , il, us","Crestwood, IL, USA","OK",-87.7525511,41.6611444
+"rowland heights, , ca, us","Rowland Heights, CA, USA","OK",-117.9053395,33.9761238
+"holbrook, , az, us","Holbrook, AZ 86025, USA","OK",-110.1581768,34.9022482
+"newark, , ca, us","Newark, CA 94560, USA","OK",-122.0383968,37.5299765
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"st. albans, , vt, us","St Albans City, VT, USA","OK",-73.0835582,44.8107132
+"cary, , nc, us","Cary, NC, USA","OK",-78.7811169,35.79154
+"unsure exact name , was driving to ny from fl, ga, ","New York, NY, USA","OK",-74.0059728,40.7127753
+"chandler, , az, us","Chandler, AZ, USA","OK",-111.8412502,33.3061605
+"mchenry, , il, us","McHenry, IL, USA","OK",-88.2667534,42.333355
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"montpelier, , id, us","Montpelier, ID 83254, USA","OK",-111.2977044,42.3221498
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"jefferson, , ga, us","Jefferson, GA, USA","OK",-83.5723876,34.1170537
+"leesport, , pa, us","Leesport, PA 19533, USA","OK",-75.9663221,40.4470377
+"encinitas, , ca, us","Encinitas, CA, USA","OK",-117.2919818,33.0369867
+"eaugalle, , wi, ","Eau Galle, WI, USA","OK",-92.0118262,44.6942087
+"eaugalle, , wi, ","Eau Galle, WI, USA","OK",-92.0118262,44.6942087
+"newark, , ca, us","Newark, CA 94560, USA","OK",-122.0383968,37.5299765
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"pitlochry , uk, , gb","Pitlochry PH16, UK","OK",-3.729711,56.704361
+"kabul , afghanistan, , ","Kabul, Afghanistan","OK",69.207486,34.5553494
+"dearborn heights, , mi, us","Dearborn Heights, MI, USA","OK",-83.2732627,42.3369816
+"kingman, , az, us","Kingman, AZ, USA","OK",-114.0530065,35.189443
+"st. helens , merseyside, , gb","St Helens, Saint Helens, UK","OK",-2.737095,53.456307
+"east hazel crest, , il, us","East Hazel Crest, IL, USA","OK",-87.6461965,41.5754519
+"sydney , australia, , au","Sydney NSW, Australia","OK",151.2092955,-33.8688197
+"ventura, , ca, us","Ventura, CA, USA","OK",-119.2945199,34.2804923
+"buxton, , nc, us","Buxton, NC 27920, USA","OK",-75.5394136,35.2688839
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"nederland, , tx, us","Nederland, TX, USA","OK",-93.9923965,29.9743803
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"campville, , ny, us","Campville, NY 13760, USA","OK",-76.1488169,42.0875745
+"vandergrift, , pa, ","Vandergrift, PA, USA","OK",-79.5647667,40.6028434
+"belfast, , me, us","Belfast, ME 04915, USA","OK",-69.0064234,44.4259092
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"north augusta, , sc, us","North Augusta, SC, USA","OK",-81.9651152,33.5018026
+"austin, florence, tx, ","Florence, TX 76527, USA","OK",-97.7936268,30.8412954
+"merritt island, , fl, us","Merritt Island, FL, USA","OK",-80.6659842,28.3180688
+"bemidji, , mn, us","Bemidji, MN 56601, USA","OK",-94.8826861,47.471573
+"doncaster , uk, , gb","Doncaster, UK","OK",-1.128462,53.52282
+"bohemia, , ny, us","Bohemia, NY 11716, USA","OK",-73.1151117,40.7692649
+"west valley city, , ut, ","West Valley City, UT, USA","OK",-112.0010501,40.6916132
+"johnson city, , tn, us","Johnson City, TN, USA","OK",-82.3534727,36.3134397
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"las cruces, , nm, us","Las Cruces, NM, USA","OK",-106.7636538,32.3199396
+"bradenton, , fl, us","Bradenton, FL, USA","OK",-82.5748194,27.4989278
+"bethpage, , ny, us","Bethpage, NY, USA","OK",-73.4820687,40.7442664
+"corbin, , ky, us","Corbin, KY 40701, USA","OK",-84.0968761,36.9486986
+"jal, , nm, us","Jal, NM 88252, USA","OK",-103.1935127,32.1131814
+"mecapalapa , mexico, , ","Mecapalapa, Pue., Mexico","OK",-97.8559676,20.5261104
+"joinville , brazil, , ","Joinville - State of Santa Catarina, Brazil","OK",-48.8452269,-26.2834213
+"gastonia, , nc, us","Gastonia, NC, USA","OK",-81.1873005,35.262082
+"thomasville, , nc, us","Thomasville, NC 27360, USA","OK",-80.0819879,35.8826369
+"boksburg , south africa, , ","Boksburg, South Africa","OK",28.2409671,-26.2325897
+"greenwood , canada, ns, ca","Greenwood, NS B0P, Canada","OK",-64.9341295,44.9717246
+"buffalo, , mn, us","Buffalo, MN 55313, USA","OK",-93.8747929,45.1717846
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"albion, , in, us","Albion, IN 46701, USA","OK",-85.4244241,41.3956043
+"munich , near, , de","Munich, Germany","OK",11.5819805,48.1351253
+"glendora, , ca, us","Glendora, CA, USA","OK",-117.865339,34.1361187
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

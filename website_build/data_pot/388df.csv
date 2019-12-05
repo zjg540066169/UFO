@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"coeur d&#39alene, , id, us",NA,"REQUEST_DENIED",NA,NA
+"leslie, , ar, us","Leslie, AR 72645, USA","OK",-92.5579397,35.8303543
+"meriden, wallingford, ct, ","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"bellflower, , ca, us","Bellflower, CA, USA","OK",-118.1170117,33.8816818
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"conyers, , ga, us","Conyers, GA, USA","OK",-84.0176904,33.6676103
+"newark, , ca, us","Newark, CA 94560, USA","OK",-122.0383968,37.5299765
+"plover, , wi, us","Plover, WI, USA","OK",-89.5440069,44.4563579
+"guelph , canada, on, ca","Guelph, ON, Canada","OK",-80.2481666,43.5448048
+"hammond, , ny, us","Hammond, NY 13646, USA","OK",-75.6941225,44.4489478
+"kitchener , canada, on, ca","Kitchener, ON, Canada","OK",-80.4925337,43.4516395
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"san gabriel, , ca, us","San Gabriel, CA, USA","OK",-118.1058333,34.0961111
+"marietta, , ga, us","Marietta, GA, USA","OK",-84.5499327,33.952602
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"desert center, , ca, us","Desert Center, CA, USA","OK",-115.4004287,33.7133313
+"acton , canada, on, ca","Acton Regional County Municipality, QC, Canada","OK",-72.5239499,45.5893025
+"davie, , fl, us","Davie, FL, USA","OK",-80.2521157,26.0764783
+"franklin, , tn, us","Franklin, TN, USA","OK",-86.8688899,35.9250637
+"willits, , ca, us","Willits, CA 95490, USA","OK",-123.3555656,39.4096079
+"hyde park, , ny, us","Hyde Park, NY, USA","OK",-73.9015246,41.7667602
+"pawtucket, , ri, us","Pawtucket, RI, USA","OK",-71.3825558,41.878711
+"mattituck, , ny, us","Mattituck, NY, USA","OK",-72.5342547,40.9912115
+"newport, , or, us","Newport, OR, USA","OK",-124.0534505,44.6367836
+"mechanicsville, aylett, va, ","Mechanicsville, VA, USA","OK",-77.3733139,37.6087561
+"superior, , wi, us","Superior, WI, USA","OK",-92.1040796,46.7207737
+"manteno, , il, us","Manteno, IL 60950, USA","OK",-87.8314324,41.2505881
+"dallesport, , wa, us","Dallesport, WA, USA","OK",-121.1795155,45.6173426
+"sterling heights, , mi, us","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"loman, , mn, us","Loman, MN 56654, USA","OK",-93.8032556,48.512803
+"the pas , canada, mb, ca","The Pas, MB, Canada","OK",-101.2476129,53.8255265
+"yakima, , wa, us","Yakima, WA, USA","OK",-120.5058987,46.6020711
+"tallinn , estonia, , ","Tallinn, Estonia","OK",24.7535747,59.4369608
+"loveland, , oh, us","Loveland, OH, USA","OK",-84.263826,39.2689476
+"homer, , ak, us","Homer, AK, USA","OK",-151.5483333,59.6425
+"new albany, , pa, us","New Albany, PA 18833, USA","OK",-76.4418868,41.6000752
+"converse, , in, us","Converse, IN 46919, USA","OK",-85.8733179,40.5775397
+"brentwood, , ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"south kingston, , nh, us","South Kingston, Kingston, NH 03848, USA","OK",-71.0814472,42.8806442
+"walton, , ky, us","Walton, KY 41094, USA","OK",-84.6102213,38.8756194
+"coalinga, , ca, us","Coalinga, CA 93210, USA","OK",-120.3601496,36.139678
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"lakeville, , ma, us","Lakeville, MA, USA","OK",-70.9495226,41.8459169
+"melbourne, , fl, us","Melbourne, FL, USA","OK",-80.6081089,28.0836269
+"stanwood, , wa, us","Stanwood, WA 98292, USA","OK",-122.3706837,48.2410895
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"acton, , ca, us","Acton, CA 93510, USA","OK",-118.1967418,34.469994
+"lake charles, , la, us","Lake Charles, LA, USA","OK",-93.2173758,30.2265949
+"thornwood, , ny, us","Thornwood, NY, USA","OK",-73.7710893,41.1174121
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"spring creek, , nv, us","Spring Creek, NV 89815, USA","OK",-115.5858953,40.7265927
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"hernando, , fl, us","Hernando County, FL, USA","OK",-82.4752757,28.5578826
+"eldersburg, randallstown, md, ","Randallstown, MD, USA","OK",-76.7952525,39.3673278
+"richmond, , vt, us","Richmond, VT, USA","OK",-72.9924128,44.4053135
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"portland, , me, us","Portland, ME, USA","OK",-70.2568189,43.6590993
+"hartwell, , ga, us","Hartwell, GA 30643, USA","OK",-82.932087,34.3528825
+"fox river grove, , il, us","Fox River Grove, IL, USA","OK",-88.2145259,42.2008575
+"huntsville , canada, on, ca","Huntsville, ON P0B, Canada","OK",-79.2167539,45.3269323
+"arlington, , va, us","Arlington, VA, USA","OK",-77.1067698,38.8799697
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"ottawa , canada, on, ca","Ottawa, ON, Canada","OK",-75.6971931,45.4215296
+"wading river, , ny, us","Wading River, NY, USA","OK",-72.8426016,40.9503762
+"mirabel , canada, qc, ca","Mirabel, QC, Canada","OK",-74.0901696,45.6518959
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"dubuque, , ia, us","Dubuque, IA, USA","OK",-90.6654675,42.5022661
+"baker, , ca, us","Baker, CA, USA","OK",-116.0739073,35.2675155
+"brescia , italy, , ","Brescia, Province of Brescia, Italy","OK",10.2118019,45.5415526
+"haverhill, , ma, us","Haverhill, MA, USA","OK",-71.0772796,42.7762015
+"east islip, , ny, us","East Islip, NY, USA","OK",-73.1856703,40.7320429
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"west covina, , ca, us","West Covina, CA, USA","OK",-117.9389526,34.0686208
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"lake elsinore, , ca, us","Lake Elsinore, CA, USA","OK",-117.3272615,33.6680772
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"czech republic, , , ","Czechia","OK",15.472962,49.817492
+"cranford, , nj, us","Cranford, NJ, USA","OK",-74.2995928,40.6584212
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"round rock, , tx, us","Round Rock, TX, USA","OK",-97.678896,30.5082551
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"tinley park, , il, us","Tinley Park, IL, USA","OK",-87.7932939,41.5731442
+"applachian mountains, , nc, ","940 Ski Mountain Rd, Blowing Rock, NC 28605, USA","OK",-81.6625573,36.1744099
+"harrogate , uk, , gb","Harrogate, UK","OK",-1.541812,53.99212
+"vinita park, , mo, us","Vinita Park, MO, USA","OK",-90.3426154,38.6900515
+"omega, , ga, us","Omega, GA 31775, USA","OK",-83.5935011,31.3410184
+"stuart, , fl, us","Stuart, FL, USA","OK",-80.2528257,27.197548
+"l&#39anse, , mi, us",NA,"REQUEST_DENIED",NA,NA
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"bow-edison, , wa, ","Edison, WA 98232, USA","OK",-122.4437767,48.5623293
+"glendora, , ca, us","Glendora, CA, USA","OK",-117.865339,34.1361187
+"shingletown, , ca, us","Shingletown, CA 96088, USA","OK",-121.8891586,40.4923784
+"oak harbor, , wa, us","Oak Harbor, WA 98277, USA","OK",-122.6484205,48.2882947
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"cascade, , id, us","Cascade, ID 83611, USA","OK",-116.0417983,44.5162821
+"tijuana , mexico, , ","Tijuana, Baja California, Mexico","OK",-117.0382471,32.5149469
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"el paso , over juarez&#44 mexico, tx, us",NA,"REQUEST_DENIED",NA,NA
+"richardson, , tx, us","Richardson, TX, USA","OK",-96.7298519,32.9483335
+"belleville , canada, on, ca","Belleville, ON, Canada","OK",-77.3832315,44.1627589
+"sirhind-ambala , india, , ","Sirhind, Punjab 140406, India","OK",76.3863018,30.6245124
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"grass valley, , ca, us","Grass Valley, CA, USA","OK",-121.0610606,39.2190608
+"south daytona beach, , fl, ","South Daytona, FL, USA","OK",-81.0044995,29.1658158
+"sunbury, , oh, us","Sunbury, OH 43074, USA","OK",-82.8590673,40.2425623
+"coventry , uk, , gb","Coventry, UK","OK",-1.519693,52.406822
+"lompoc, , ca, us","Lompoc, CA, USA","OK",-120.4579409,34.6391501
+"wiltshire-stonehenge , uk, , ","Salisbury SP4 7DE, UK","OK",-1.826215,51.178882
+"palm desert, , ca, us","Palm Desert, CA, USA","OK",-116.3744556,33.7222445
+"southampton , uk, , gb","Southampton, UK","OK",-1.4043509,50.9097004
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"roseville, , ca, us","Roseville, CA, USA","OK",-121.2880059,38.7521235
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"lagos , nigeria, , ","Lagos, Nigeria","OK",3.3792057,6.5243793
+"midland, , tx, us","Midland, TX, USA","OK",-102.0779146,31.9973456
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"haltom city, , tx, us","Haltom City, TX, USA","OK",-97.2691817,32.7995738
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"madison, , ct, us","Madison, CT 06443, USA","OK",-72.5754149,41.2959908
+"luling, , la, us","Luling, LA, USA","OK",-90.3664694,29.9321498
+"social hill, , ar, us","Social Hill, AR 72104, USA","OK",-92.9132276,34.3320363
+"haltom city, , tx, us","Haltom City, TX, USA","OK",-97.2691817,32.7995738
+"vienna, , mo, us","Vienna, MO 65582, USA","OK",-91.947112,38.1867085
+"st. catharines , canada, on, ca","St. Catharines, ON, Canada","OK",-79.2468626,43.1593745
+"georgetown, , ky, us","Georgetown, KY 40324, USA","OK",-84.5588311,38.2097967
+"atlantic city, , nj, us","Atlantic City, NJ, USA","OK",-74.4229266,39.3642834
+"rumford, , me, us","Rumford, ME 04276, USA","OK",-70.5508829,44.5536606
+"henderson, , nv, us","Henderson, NV, USA","OK",-114.9817213,36.0395247
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"potosi, , mo, us","Potosi, MO, USA","OK",-90.7879086,37.936438
+"nazareth, , pa, us","Nazareth, PA 18064, USA","OK",-75.3096237,40.740375
+"brookhaven, , ny, us","Brookhaven, NY, USA","OK",-72.995048,40.8273786
+"wernhout , netherlands, , ","4884 Wernhout, Netherlands","OK",4.6431964,51.4558841
+"cardiff , uk, , gb","Cardiff, UK","OK",-3.17909,51.481581
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"bel air, , md, us","Bel Air, MD 21014, USA","OK",-76.3482931,39.5359406
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"maui, , hi, ","Maui, Hawaii, USA","OK",-156.3319253,20.7983626
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"gray summit, , mo, us","Gray Summit, MO, USA","OK",-90.8176346,38.4892372
+"croswell, , mi, us","Croswell, MI 48422, USA","OK",-82.621038,43.2755809
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"willis, , tx, us","Willis, TX, USA","OK",-95.4799418,30.4249276
+"davis, , ok, us","Davis, OK 73030, USA","OK",-97.1194637,34.5045317
+"gilmer, , tx, us","Gilmer, TX, USA","OK",-94.9424379,32.7287472
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"waterloo, , ia, us","Waterloo, IA, USA","OK",-92.3425775,42.492786
+"halifax , canada, ns, ca","Halifax Regional Municipality, NS, Canada","OK",-63.5752387,44.6487635
+"tonbridge , uk, , gb","Tonbridge, UK","OK",0.27568,51.195043
+"baldwin, , mi, us","Baldwin, MI 49304, USA","OK",-85.8517287,43.9011229
+"madison , north of, wi, us","Madison, WI, USA","OK",-89.4012302,43.0730517
+"west bend, , wi, ","West Bend, WI, USA","OK",-88.1834277,43.4252776
+"toppenish , 15 mi south of, wa, us","Toppenish, WA 98948, USA","OK",-120.3086667,46.3773509
+"aurora, , co, us","Aurora, CO, USA","OK",-104.8319195,39.7294319
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"new york city , bronx, ny, us","The Bronx, NY, USA","OK",-73.8648268,40.8447819
+"guelph , canada, on, ca","Guelph, ON, Canada","OK",-80.2481666,43.5448048
+"johnson city, , ny, us","Johnson City, NY 13790, USA","OK",-75.9588092,42.1156308
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"athens, , tx, us","Athens, TX, USA","OK",-95.8555207,32.2048735
+"penticton , canada, bc, ca","Penticton, BC, Canada","OK",-119.5937077,49.4991381
+"athens, , ny, us","Athens, NY, USA","OK",-73.8654295,42.2780372
+"connersville, , in, us","Connersville, IN 47331, USA","OK",-85.1410748,39.6411589
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"sarnia , canada, on, ca","Sarnia, ON, Canada","OK",-82.4065901,42.974536
+"saskatoon , canada, sk, ca","Saskatoon, SK, Canada","OK",-106.6700458,52.1332144
+"concord, , ca, us","Concord, CA, USA","OK",-122.0310733,37.9779776
+"beverly beach, , fl, us","Beverly Beach, FL 32136, USA","OK",-81.1445045,29.5146969
+"amesbury , past, ma, us","Amesbury, MA, USA","OK",-70.9300376,42.8583925
+"amesbury , past, ma, us","Amesbury, MA, USA","OK",-70.9300376,42.8583925
+"show low, , az, us","Show Low, AZ 85901, USA","OK",-110.0298327,34.2542084
+"cannon falls, , mn, us","Cannon Falls, MN 55009, USA","OK",-92.905484,44.5069113
+"adachi , japan, , ","Adachi City, Tokyo, Japan","OK",139.8044129,35.775017
+"kilauea, , hi, us","Kilauea, HI 96754, USA","OK",-159.4122222,22.2119444
+"regina , canada, sk, ca","Regina, SK, Canada","OK",-104.6188943,50.4452112
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"aliso viejo, , ca, us","Aliso Viejo, CA, USA","OK",-117.7262981,33.5684605
+"beatty, , nv, us","Beatty, NV, USA","OK",-116.7592265,36.9085566
+"corona, , ca, us","Corona, CA, USA","OK",-117.5664384,33.8752935
+"delle, , ut, us","Delle, UT 84029, USA","OK",-112.7776312,40.7599343
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"saint paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"atlantic city, , nj, us","Atlantic City, NJ, USA","OK",-74.4229266,39.3642834
+"montrose, , co, us","Montrose, CO, USA","OK",-107.8761738,38.4783198
+"signal mountain, , tn, us","Signal Mountain, TN 37377, USA","OK",-85.3438488,35.1225727
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

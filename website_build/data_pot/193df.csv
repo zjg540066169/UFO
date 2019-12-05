@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"corydon, , in, us","Corydon, IN 47112, USA","OK",-86.1219155,38.2120121
+"summerville, , sc, us","Summerville, SC, USA","OK",-80.1756481,33.0185039
+"pahoa, , hi, us","Pāhoa, HI 96778, USA","OK",-154.9508104,19.4975033
+"cancun , mexico, , ","Cancún, Quintana Roo, Mexico","OK",-86.8515279,21.161908
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"stockport , uk, , gb","Metropolitan Borough of Stockport, UK","OK",-2.1266343,53.3933086
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"rigby, , id, us","Rigby, ID 83442, USA","OK",-111.914968,43.6724119
+"miami, , ok, us","Miami, OK 74354, USA","OK",-94.8774554,36.8745146
+"beirut&#44 tabariss , lebanon, , ",NA,"REQUEST_DENIED",NA,NA
+"st. petersburg, , fl, us","St. Petersburg, FL, USA","OK",-82.6402915,27.7676008
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"frankfort, , il, us","Frankfort, IL, USA","OK",-87.8486613,41.4958665
+"portland, , tx, us","Portland, TX, USA","OK",-97.3238805,27.8772463
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"paris, , tx, us","Paris, TX, USA","OK",-95.555513,33.6609389
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"west los angeles, , ca, us","West Los Angeles, Los Angeles, CA, USA","OK",-118.442596,34.0412085
+"iowa city, , ia, us","Iowa City, IA, USA","OK",-91.5301683,41.6611277
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"le mans , france, , ","Le Mans, France","OK",0.199556,48.00611
+"cedar park, , tx, us","Cedar Park, TX, USA","OK",-97.8202888,30.505198
+"haywards heath , uk, , gb","Haywards Heath, UK","OK",-0.106333,50.999041
+"south africa, , , ","South Africa","OK",22.937506,-30.559482
+"sartell, , mn, us","Sartell, MN, USA","OK",-94.2069365,45.6216318
+"hollister ,  lone tree road, ca, us","Lone Tree Rd, California 95023, USA","OK",-121.2908845,36.8965509
+"carlsbad, , ca, us","Carlsbad, CA, USA","OK",-117.3505939,33.1580933
+"glen allen, , va, us","Glen Allen, VA, USA","OK",-77.5063739,37.665978
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"chula vista, , ca, us","Chula Vista, CA, USA","OK",-117.0841955,32.6400541
+"salinas, , ca, us","Salinas, CA, USA","OK",-121.6555013,36.6777372
+"nelson , canada, bc, ca","Nelson, BC, Canada","OK",-117.2948343,49.4928119
+"fullerton, , ca, us","Fullerton, CA, USA","OK",-117.9242123,33.8703645
+"independence, , mo, us","Independence, MO, USA","OK",-94.4155068,39.0911161
+"kahului, , hi, us","Kahului, HI, USA","OK",-156.4729469,20.8893351
+"newark, , nj, us","Newark, NJ, USA","OK",-74.1723667,40.735657
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"grand lake, , co, us","Grand Lake, CO 80447, USA","OK",-105.8230671,40.2522073
+"shorewood, , il, us","Shorewood, IL, USA","OK",-88.2017293,41.5200305
+"stanwood, , wa, us","Stanwood, WA 98292, USA","OK",-122.3706837,48.2410895
+"nashua, , nh, us","Nashua, NH, USA","OK",-71.467566,42.7653662
+"unknown, , pa, ","427 1st Ave, Bethlehem, PA 18018, USA","OK",-75.3854021,40.6206753
+"napanee , canada, on, ca","Greater Napanee, ON, Canada","OK",-76.964306,44.2148382
+"crooked river ranch, , or, us","Crooked River Ranch, OR 97760, USA","OK",-121.2383729,44.4245638
+"neiva - huila , colombia, , ",NA,"ZERO_RESULTS",NA,NA
+"friday harbor, , wa, us","Friday Harbor, WA 98250, USA","OK",-123.0171242,48.5342662
+"mayville, , nd, us","Mayville, ND 58257, USA","OK",-97.3245354,47.4980408
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"norfolk, , va, us","Norfolk, VA, USA","OK",-76.2858726,36.8507689
+"gastonia, , nc, us","Gastonia, NC, USA","OK",-81.1873005,35.262082
+"moore, , ok, us","Moore, OK, USA","OK",-97.4867028,35.3395079
+"stagecoach, , tx, us","Stagecoach, TX 77355, USA","OK",-95.713558,30.1454934
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"conneaut, , oh, us","Conneaut, OH 44030, USA","OK",-80.5542409,41.9475551
+"cochin , india, , ","Kochi, Kerala, India","OK",76.2673041,9.9312328
+"flowery branch, , ga, us","Flowery Branch, GA, USA","OK",-83.9251809,34.1851017
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"lagrange, , oh, us","Lagrange, OH 44050, USA","OK",-82.119872,41.2372753
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"legrand, , ia, ","Le Grand, IA, USA","OK",-92.7754761,42.0069336
+"athens, , oh, us","Athens, OH 45701, USA","OK",-82.1012554,39.3292396
+"great mills, , md, us","Great Mills, MD, USA","OK",-76.4967919,38.2616086
+"safford, , az, us","Safford, AZ, USA","OK",-109.70758,32.8339546
+"lisbon falls, , me, us","Lisbon Falls, Lisbon, ME, USA","OK",-70.0579129,44.0141255
+"lisbon falls, , me, us","Lisbon Falls, Lisbon, ME, USA","OK",-70.0579129,44.0141255
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"columbia, , sc, us","Columbia, SC, USA","OK",-81.0348144,34.0007104
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"tumacacori, , az, us","Tumacacori-Carmen, AZ, USA","OK",-111.052002,31.5732603
+"annapolis, , md, us","Annapolis, MD, USA","OK",-76.4921829,38.9784453
+"luther, , ok, us","Luther, OK 73054, USA","OK",-97.195588,35.6617259
+"tehran , iran, , ","Tehran, Tehran Province, Iran","OK",51.3889736,35.6891975
+"greenville, , al, us","Greenville, AL 36037, USA","OK",-86.6177517,31.8295972
+"yelm, , wa, us","Yelm, WA, USA","OK",-122.6059582,46.9420431
+"pompano beach, , fl, us","Pompano Beach, FL, USA","OK",-80.1247667,26.2378597
+"clarksburg, , wv, us","Clarksburg, WV, USA","OK",-80.3445341,39.2806451
+"pittsburgh, robinson, pa, ","Robinson Township, PA, USA","OK",-80.1316927,40.4657924
+"hollywood beach, , fl, us","Hollywood Beach, Hollywood, FL 33019, USA","OK",-80.1170355,26.0086787
+"cameron , near&#44 on highway, tx, us",NA,"REQUEST_DENIED",NA,NA
+"cameron, , tx, us","Cameron, TX 76520, USA","OK",-96.9769304,30.8532454
+"alabaster, , al, us","Alabaster, AL, USA","OK",-86.8163773,33.2442813
+"lakewood ranch, , fl, ","Lakewood Ranch, FL 34202, USA","OK",-82.4285151,27.4117037
+"north port, , fl, us","North Port, FL, USA","OK",-82.2359254,27.044224
+"hudsonville, , mi, us","Hudsonville, MI 49426, USA","OK",-85.8650358,42.870859
+"san tan valley, , az, ","San Tan Valley, AZ, USA","OK",-111.5468301,33.177294
+"jeffreys bay , south africa, , ","Jeffreys Bay, South Africa","OK",24.9101544,-34.0506714
+"bushkill, , pa, us","Bushkill, PA 18302, USA","OK",-75.0018401,41.093429
+"feeding hills, , ma, us","Feeding Hills, Agawam, MA 01030, USA","OK",-72.6777225,42.067082
+"west jordan, , ut, us","West Jordan, UT, USA","OK",-111.9391031,40.6096698
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"la serena , chile, , ","La Serena, Coquimbo Region, Chile","OK",-71.2519374,-29.9026691
+"lake  wales, , fl, us","Lake Wales, FL, USA","OK",-81.5859099,27.9014133
+"north attleboro, , ma, us","North Attleborough, MA, USA","OK",-71.3565439,41.9695516
+"harrisonburg, , va, us","Harrisonburg, VA, USA","OK",-78.8689155,38.4495688
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"mansfield, , oh, us","Mansfield, OH, USA","OK",-82.5154471,40.75839
+"rupert , 5 miles north of, id, us","Rupert, ID 83350, USA","OK",-113.6772348,42.6190756
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

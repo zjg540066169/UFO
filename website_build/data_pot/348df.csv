@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"stryker , near, oh, us","Stryker, OH 43557, USA","OK",-84.4141164,41.5036623
+"waupaca, , wi, us","Waupaca, WI 54981, USA","OK",-89.0859464,44.3580348
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"des plaines, , il, us","Des Plaines, IL, USA","OK",-87.8833991,42.0333623
+"mcallen, , tx, us","McAllen, TX, USA","OK",-98.2300124,26.2034071
+"hoquiam, , wa, us","Hoquiam, WA, USA","OK",-123.8839028,46.977043
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"san diego , carmel mountain, ca, us","Carmel Mountain Ranch, San Diego, CA 92128, USA","OK",-117.0735241,32.9805356
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"silver city, , nm, us","Silver City, NM 88061, USA","OK",-108.280326,32.770075
+"st. joseph, , mi, us","St Joseph, MI, USA","OK",-86.4895463,42.0938577
+"redmond, , or, us","Redmond, OR 97756, USA","OK",-121.1739212,44.2726203
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"bowling green, , oh, us","Bowling Green, OH, USA","OK",-83.6513229,41.3747744
+"new mexico , above; in flight, az, ","New Mexico, USA","OK",-105.8700901,34.5199402
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"woodbridge, , va, us","Woodbridge, VA 22191, USA","OK",-77.2497049,38.6581722
+"southport, , nc, us","Southport, NC 28461, USA","OK",-78.0202677,33.921563
+"mardela springs, , md, us","Mardela Springs, MD 21837, USA","OK",-75.7590991,38.4598391
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"brentwood, , tn, us","Brentwood, TN, USA","OK",-86.7827772,36.0331164
+"bridgeville, , de, us","Bridgeville, DE 19933, USA","OK",-75.6043714,38.7426137
+"goldthwaite, , tx, us","Goldthwaite, TX 76844, USA","OK",-98.5708763,31.4498855
+"summerland , canada, bc, ca","Summerland, BC V0H, Canada","OK",-119.6768815,49.6073297
+"shannon, , nc, us","Shannon, NC 28386, USA","OK",-79.1369782,34.8479415
+"winsted, , ct, us","Winsted, CT 06098, USA","OK",-73.0601078,41.9212066
+"durango, pagosa springs , co, ","Durango St, Pagosa Springs, CO 81147, USA","OK",-107.0164988,37.2647156
+"plant city, , fl, us","Plant City, FL, USA","OK",-82.1128641,28.0186323
+"centerville, , oh, us","Centerville, OH, USA","OK",-84.1593818,39.6283928
+"virgie, , ky, us","Virgie, KY 41572, USA","OK",-82.5795988,37.3351043
+"quito, , , ","Quito, Ecuador","OK",-78.4678382,-0.1806532
+"west valley city, , ut, ","West Valley City, UT, USA","OK",-112.0010501,40.6916132
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"lacey, , wa, us","Lacey, WA, USA","OK",-122.8232553,47.0358969
+"tavistock , uk, , gb","Tavistock PL19, UK","OK",-4.141654,50.5511229
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"proctor, , ar, us","Proctor, AR 72376, USA","OK",-90.3734326,35.0950918
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"springboro, , oh, us","Springboro, OH, USA","OK",-84.2332718,39.5522815
+"hicksville, , ny, us","Hicksville, NY, USA","OK",-73.5240738,40.7580684
+"new hartford, , ct, us","New Hartford, CT, USA","OK",-72.9751693,41.8793214
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"bath, , nh, us","Bath, NH, USA","OK",-71.9662009,44.1670079
+"port townsend, , wa, us","Port Townsend, WA 98368, USA","OK",-122.7604471,48.1170387
+"buffalo , near, tx, us","Buffalo, TX 75831, USA","OK",-96.0580197,31.4637866
+"kihei, , hi, us","Kihei, HI 96753, USA","OK",-156.4450063,20.7644275
+"kihei, , hi, us","Kihei, HI 96753, USA","OK",-156.4450063,20.7644275
+"plattsmouth, , ne, us","Plattsmouth, NE 68048, USA","OK",-95.8808424,41.0111103
+"hansville, , wa, us","Hansville, WA, USA","OK",-122.5542458,47.9186216
+"west chester, , pa, us","West Chester, PA, USA","OK",-75.6054882,39.9606643
+"romeo, , mi, us","Romeo, MI 48065, USA","OK",-83.0129874,42.802808
+"olympia, , wa, us","Olympia, WA, USA","OK",-122.9006951,47.0378741
+"lockport, , il, us","Lockport, IL, USA","OK",-88.057837,41.5894752
+"downey, , ca, us","Downey, CA, USA","OK",-118.1331593,33.9401088
+"north atlantic , inflight sighting, , ","Atlantic Ocean","OK",-28.6731465,-14.5994134
+"islamorada, , fl, us","Islamorada, FL, USA","OK",-80.6278364,24.9242943
+"charlotte amalie , u. s. virgin islands, , ","Charlotte Amalie, St Thomas 00802, USVI","OK",-64.9307007,18.3419004
+"delmar, , md, us","Delmar, MD 21875, USA","OK",-75.5774249,38.4559495
+"vegas, , nv, ","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"vista, , ca, us","Vista, CA, USA","OK",-117.2425355,33.2000368
+"jackson, , ga, us","Jackson, GA 30233, USA","OK",-83.9660209,33.2945651
+"nogales, , az, us","Nogales, AZ 85621, USA","OK",-110.9342532,31.3403775
+"davenport, , ia, us","Davenport, IA, USA","OK",-90.5776367,41.5236437
+"blackwood, , nj, us","Blackwood, Gloucester Township, NJ 08012, USA","OK",-75.0640602,39.8023363
+"hummelstown, , pa, us","Hummelstown, PA 17036, USA","OK",-76.7083033,40.2653681
+"jordan , sr mt200&#44 westbound, mt, us",NA,"REQUEST_DENIED",NA,NA
+"kurtistown, , hi, us","Kurtistown, HI, USA","OK",-155.0572222,19.603611
+"middletown, , ny, us","Middletown, NY 10940, USA","OK",-74.4229341,41.4459271
+"leesburg, , va, us","Leesburg, VA, USA","OK",-77.5636015,39.1156615
+"rockaway, , nj, us","Rockaway, NJ 07866, USA","OK",-74.5143232,40.9012101
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"rutland, , vt, us","Rutland, VT 05701, USA","OK",-72.9726065,43.6106237
+"ainsworth, , ne, us","Ainsworth, NE 69210, USA","OK",-99.8615126,42.5449992
+"mccaysville, , ga, us","McCaysville, GA, USA","OK",-84.3713117,34.9861914
+"yerevan , armenia, , ","Yerevan, Armenia","OK",44.515209,40.1872023
+"las vegas , outside of, nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"guelph , canada, on, ca","Guelph, ON, Canada","OK",-80.2481666,43.5448048
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"bakersfield, , ca, us","Bakersfield, CA, USA","OK",-119.0187125,35.3732921
+"berkley, , nj, ","Berkeley Township, NJ, USA","OK",-74.1827119,39.8971996
+"normal, , il, us","Normal, IL, USA","OK",-88.9906312,40.5142026
+"normal, , il, us","Normal, IL, USA","OK",-88.9906312,40.5142026
+"san jose del cabo , mexico, , ","San José del Cabo, Baja California Sur, Mexico","OK",-109.7024376,23.0636562
+"walworth, , ny, us","Walworth, NY 14568, USA","OK",-77.2724329,43.1390165
+"mesquite, , nv, us","Mesquite, NV, USA","OK",-114.06719,36.805531
+"milton , canada, on, ca","Milton, ON, Canada","OK",-79.8774042,43.5182991
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"ipswich , uk, , gb","Ipswich, UK","OK",1.14822,52.056736
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

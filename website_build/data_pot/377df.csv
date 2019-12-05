@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"middletown, , in, us","Middletown, IN 47356, USA","OK",-85.537197,40.0572668
+"croswell, , mi, us","Croswell, MI 48422, USA","OK",-82.621038,43.2755809
+"cadiz, , oh, us","Cadiz, OH 43907, USA","OK",-80.9967628,40.2728452
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"bloomingburgh, , ny, ","Bloomingburg, NY 12721, USA","OK",-74.4396014,41.5542603
+"melbourne beach, , fl, us","Melbourne Beach, FL, USA","OK",-80.5603303,28.0683496
+"carterville, , il, us","Carterville, IL 62918, USA","OK",-89.0772991,37.7600501
+"hemel hempstead , uk, , gb","Hemel Hempstead, UK","OK",-0.448632,51.753241
+"lakeside, , ca, us","Lakeside, CA, USA","OK",-116.9222488,32.8572718
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"anchorage, , ak, us","Anchorage, AK, USA","OK",-149.9002778,61.2180556
+"lafayette, , ky, us","Lafayette, KY, USA","OK",-87.6583851,36.6593025
+"humboldt , canada, sk, ca","Humboldt, SK S0K 2A1, Canada","OK",-105.1228655,52.2019792
+"fenton, , mi, us","Fenton, MI, USA","OK",-83.7049498,42.7978061
+"richmond , canada, bc, ca","Richmond, BC, Canada","OK",-123.133569,49.1665898
+"tustin, , ca, us","Tustin, CA, USA","OK",-117.8236391,33.7420005
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"grand canyon, , az, us","Grand Canyon Village, AZ 86023, USA","OK",-112.1401108,36.0544445
+"ithaca, , ny, us","Ithaca, NY, USA","OK",-76.5018807,42.4439614
+"red springs, , nc, us","Red Springs, NC 28377, USA","OK",-79.183091,34.8151633
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"orlando, lake buena vista, fl, ","Lake Buena Vista, FL 32830, USA","OK",-81.5261474,28.3695351
+"berkshire county , uk, , gb","Berkshire, UK","OK",-1.1853677,51.4669939
+"montgomery, , al, us","Montgomery, AL, USA","OK",-86.3077368,32.3792233
+"vancouver , near&#44 camas, wa, us",NA,"REQUEST_DENIED",NA,NA
+"north hills, , ca, ","North Hills, Los Angeles, CA, USA","OK",-118.4849365,34.235822
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"san pedro town&#44 ambergris caye&#44 belize, , , ",NA,"REQUEST_DENIED",NA,NA
+"palmetto, , ga, us","Palmetto, GA, USA","OK",-84.6696548,33.5178907
+"wilmington, , de, us","Wilmington, DE, USA","OK",-75.5483909,39.744655
+"glennville, , ga, us","Glennville, GA 30427, USA","OK",-81.9284501,31.9365917
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"mogollon rim, , az, ","Mogollon Rim, Arizona 85541, USA","OK",-110.9659578,34.3236344
+"ottawa, , il, us","Ottawa, IL 61350, USA","OK",-88.8425769,41.3455892
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"rawalpindi , pakistan, , ","Rawalpindi, Punjab, Pakistan","OK",73.0169135,33.5651107
+"maysville, , nc, us","Maysville, NC, USA","OK",-77.2313436,34.9048814
+"morrison, , tn, us","Morrison, TN 37357, USA","OK",-85.9197071,35.602851
+"washington court house, , oh, us","Washington Court House, OH 43160, USA","OK",-83.437579,39.5373688
+"washington court house, , oh, us","Washington Court House, OH 43160, USA","OK",-83.437579,39.5373688
+"newton, , ks, us","Newton, KS, USA","OK",-97.3450365,38.0466779
+"kansas city, , mo, us","Kansas City, MO, USA","OK",-94.5785667,39.0997265
+"claremore, , ok, us","Claremore, OK, USA","OK",-95.61609,36.3125963
+"peru, , in, us","Peru, IN 46970, USA","OK",-86.0688811,40.7536528
+"fort mcmurray , canada, ab, ca","Fort McMurray, AB, Canada","OK",-111.3790441,56.7266598
+"morinville , canada, ab, ca","Morinville, AB, Canada","OK",-113.6492935,53.8017789
+"sainte-therese , canada, qc, ca","Sainte-Thérèse, QC, Canada","OK",-73.8439099,45.6397183
+"allentown, , pa, us","Allentown, PA, USA","OK",-75.4714098,40.6022939
+"kingston, , wa, us","Kingston, WA, USA","OK",-122.4981921,47.7987072
+"stony brook, , ny, us","Stony Brook, NY, USA","OK",-73.1409429,40.9256538
+"st. clair shores, , mi, ","St Clair Shores, MI, USA","OK",-82.8963604,42.4974085
+"sidcup , uk, , gb","Sidcup, UK","OK",0.1009392,51.4264863
+"greenville, , mi, us","Greenville, MI 48838, USA","OK",-85.2527987,43.1775314
+"camden point, , mo, us","Camden Point, MO, USA","OK",-94.7416267,39.4527758
+"kalispell, , mt, us","Kalispell, MT 59901, USA","OK",-114.316813,48.1919889
+"panama city beach, , fl, us","Panama City Beach, FL, USA","OK",-85.8054879,30.1765914
+"lake park, , fl, us","Lake Park, FL, USA","OK",-80.0664305,26.8003398
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"wallingford, , ct, us","Wallingford, CT 06492, USA","OK",-72.8230736,41.4570108
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"paulina, , la, us","Paulina, LA, USA","OK",-90.7134113,30.0260591
+"st. augustine, , fl, us","St. Augustine, FL, USA","OK",-81.3124341,29.9012437
+"lunenburg, , ma, us","Lunenburg, MA 01462, USA","OK",-71.7245035,42.5945273
+"new brighton, , pa, us","New Brighton, PA, USA","OK",-80.3100627,40.7303434
+"midland, , tx, us","Midland, TX, USA","OK",-102.0779146,31.9973456
+"silk hope , near, nc, us","Silk Hope, NC 27344, USA","OK",-79.3700185,35.780974
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"east lansing, , mi, us","East Lansing, MI, USA","OK",-84.4838654,42.7369792
+"dover, , de, us","Dover, DE, USA","OK",-75.5243682,39.158168
+"sulphur springs, , tx, us","Sulphur Springs, TX 75482, USA","OK",-95.6010668,33.1384479
+"manhasset, , ny, us","Manhasset, NY, USA","OK",-73.6995749,40.7978787
+"stavanger , norway, , ","Stavanger, Norway","OK",5.7331074,58.9699756
+"zagreb , croatia, , ","Zagreb, Croatia","OK",15.9819189,45.8150108
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"methuen, , ma, us","Methuen, MA 01844, USA","OK",-71.1908924,42.7262016
+"sun valley, , ca, us","Sun Valley, Los Angeles, CA, USA","OK",-118.3812562,34.2279298
+"east derry, , nh, us","East Derry, Derry, NH 03038, USA","OK",-71.2958822,42.8952241
+"salamanca, , ny, us","Salamanca, NY 14779, USA","OK",-78.7150311,42.1578412
+"hartlepool , uk, , gb","Hartlepool, UK","OK",-1.212926,54.691745
+"cambridge , uk, , gb","Cambridge, UK","OK",0.121817,52.205337
+"ontario, , ca, us","Ontario, CA, USA","OK",-117.6508876,34.0633443
+"oak harbor, , wa, us","Oak Harbor, WA 98277, USA","OK",-122.6484205,48.2882947
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"tempe, , az, us","Tempe, AZ, USA","OK",-111.9400054,33.4255104
+"progresso , yucatan, , ","Progreso, Yucatan, Mexico","OK",-89.6651628,21.2811908
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"cocoa, , fl, us","Cocoa, FL, USA","OK",-80.7419984,28.3861159
+"porterville, , ca, us","Porterville, CA 93257, USA","OK",-119.0167679,36.06523
+"westfir, , or, us","Westfir, OR 97492, USA","OK",-122.4964399,43.7573458
+"sea cliff, , ny, us","Sea Cliff, NY, USA","OK",-73.6448505,40.8489887
+"singapore, , , ","Singapore","OK",103.819836,1.352083
+"dhaka , bangladesh, , ","Dhaka, Bangladesh","OK",90.4125181,23.810332
+"leeds , uk, , gb","Leeds, UK","OK",-1.5490774,53.8007554
+"clermont , near, fl, us","Clermont, FL, USA","OK",-81.7728543,28.5494447
+"wilmington, , nc, us","Wilmington, NC, USA","OK",-77.8868117,34.2103894
+"hood river, , or, us","Hood River, OR 97031, USA","OK",-121.528087,45.7067985
+"perkasie, , pa, us","Perkasie, PA 18944, USA","OK",-75.292676,40.372048
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"hughson, , ca, us","Hughson, CA 95326, USA","OK",-120.8664811,37.6027244
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"wigan , uk, , gb","Wigan, UK","OK",-2.6325074,53.5450645
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"weddington, , nc, us","Weddington, NC, USA","OK",-80.7609035,35.0223708
+"mercer island, , wa, us","Mercer Island, WA 98040, USA","OK",-122.2220674,47.5706548
+"new london, , ct, us","New London, CT, USA","OK",-72.0995209,41.3556539
+"bloomington, , il, us","Bloomington, IL, USA","OK",-88.9936873,40.4842027
+"rockland county, , ny, us","Rockland County, NY, USA","OK",-73.9830029,41.1489458
+"east hanover, , nj, us","East Hanover, NJ, USA","OK",-74.3647247,40.8200623
+"parsippany, , nj, us","Parsippany-Troy Hills, NJ, USA","OK",-74.4173877,40.8652865
+"boonton town, , nj, ","Boonton, NJ 07005, USA","OK",-74.4087405,40.904019
+"morris plains, , nj, us","Morris Plains, NJ 07950, USA","OK",-74.4818698,40.8395922
+"madison, , nj, us","Madison, NJ 07940, USA","OK",-74.417097,40.7598227
+"wrightsville, , pa, us","Wrightsville, PA 17368, USA","OK",-76.5299655,40.0256531
+"thousand oaks, , ca, us","Thousand Oaks, CA, USA","OK",-118.8375937,34.1705609
+"mountain view, , ca, us","Mountain View, CA, USA","OK",-122.0838511,37.3860517
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"concord, , nh, us","Concord, NH, USA","OK",-71.5375718,43.2081366
+"east london , south africa, , ","East London, South Africa","OK",27.8545867,-33.0291582
+"covington, , la, us","Covington, LA, USA","OK",-90.1009108,30.4754702
+"houma, , la, us","Houma, LA, USA","OK",-90.7195348,29.5957696
+"franconia, , az, us","Franconia, AZ 86436, USA","OK",-114.2682879,34.7394521
+"washougal, , wa, us","Washougal, WA, USA","OK",-122.3538327,45.5811463
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"dwarf, , ky, us","Dwarf, KY, USA","OK",-83.1292265,37.335299
+"robersonville, , nc, us","Robersonville, NC 27871, USA","OK",-77.2491298,35.8251589
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"anacortes, , wa, us","Anacortes, WA 98221, USA","OK",-122.6126718,48.5126045
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"simsbury, , ct, us","Simsbury, CT, USA","OK",-72.827915,41.8540094
+"tonawanda , town of, ny, us","Tonawanda, NY, USA","OK",-78.8722341,42.989131
+"manville, , nj, us","Manville, NJ 08835, USA","OK",-74.5876569,40.5409367
+"mounds view, , mn, us","Mounds View, MN 55112, USA","OK",-93.2085582,45.1049656
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"golden valley, , az, us","Golden Valley, AZ 86413, USA","OK",-114.2230108,35.2233311
+"streamwood, , il, us","Streamwood, IL, USA","OK",-88.1784085,42.0255827
+"statham, , ga, us","Statham, GA, USA","OK",-83.596555,33.9651127
+"port charlotte, , fl, us","Port Charlotte, FL, USA","OK",-82.0906448,26.9761707
+"colleyville, , tx, us",NA,"ZERO_RESULTS",NA,NA
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"newburgh, , ny, us","Newburgh, NY 12550, USA","OK",-74.0104178,41.5034271
+"corydon, , in, us","Corydon, IN 47112, USA","OK",-86.1219155,38.2120121
+"forest grove, , or, us","Forest Grove, OR 97116, USA","OK",-123.1211134,45.526998
+"chester, , tx, us","Chester, TX 75936, USA","OK",-94.5965927,30.9263062
+"crestview hills, , ky, us","Crestview Hills, KY 41017, USA","OK",-84.5724665,39.0224036
+"rialto, , ca, us","Rialto, CA, USA","OK",-117.3703235,34.1064001
+"cusseta &amp; fairfax, , al, ","Cusseta, GA, USA","OK",-84.7770485,32.3061354
+"atwater, , ca, us","Atwater, CA 95301, USA","OK",-120.609084,37.3477174
+"winter park, , fl, us","Winter Park, FL, USA","OK",-81.3392352,28.5999998
+"bowie, , md, us","Bowie, MD, USA","OK",-76.7791365,39.0067768
+"keaton beach, , fl, us","Keaton Beach, FL 32348, USA","OK",-83.5948677,29.8243861
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"milwaukie, , or, us","Milwaukie, OR, USA","OK",-122.6322812,45.4465305
+"beaverbank , canada, ns, ","Beaver Bank, NS, Canada","OK",-63.7071839,44.86793
+"collegeville, , pa, us","Collegeville, PA 19426, USA","OK",-75.451571,40.1856597
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"hopewell, , va, us","217 E City Point Rd, Hopewell, VA 23860, USA","OK",-77.283827,37.30412
+"pembroke, , ma, us","Pembroke, MA, USA","OK",-70.8092,42.0714925
+"winston-salem, , nc, us","Winston-Salem, NC, USA","OK",-80.244216,36.0998596
+"akin, , il, us","Akin, IL 62890, USA","OK",-88.7475606,37.9881043
+"andover, , ma, us","Andover, MA, USA","OK",-71.1367953,42.6583356
+"warren, , il, us","Warren, IL 61087, USA","OK",-89.9895681,42.4963957
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"story, , ar, us","Story, AR 71970, USA","OK",-93.5176917,34.6931505
+"portage county, , oh, us","Portage County, OH, USA","OK",-81.2518833,41.1887572
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"prescott valley, , az, us","Prescott Valley, AZ, USA","OK",-112.315721,34.6100243
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"glendale, , ar, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"cabazon, , ca, us","Cabazon, CA 92230, USA","OK",-116.7872399,33.9175154
+"irvington, , al, us","Irvington, AL 36544, USA","OK",-88.2242084,30.5072344
+"mead valley , to riverside to ontario, ca, us","Mead Valley, CA 92570, USA","OK",-117.2876058,33.8372196
+"redlands, , ca, us","Redlands, CA, USA","OK",-117.1825381,34.0555693
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"colorado springs, , co, us","Colorado Springs, CO, USA","OK",-104.8213634,38.8338816
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"sioux falls, , sd, us","Sioux Falls, SD, USA","OK",-96.728333,43.5473028
+"burnsville, , mn, us","Burnsville, MN, USA","OK",-93.2777226,44.7677424
+"naples, , fl, us","Naples, FL, USA","OK",-81.7948103,26.1420358
+"orange county, , ca, us","Orange County, CA, USA","OK",-117.8311428,33.7174708
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"anaheim, , ca, us","Anaheim, CA, USA","OK",-117.9143012,33.8365932
+"hingurakgoda , sri lanka, , ","Hingurakgoda, Sri Lanka","OK",80.9532359,8.0415888
+"billings, , mt, us","Billings, MT, USA","OK",-108.5006904,45.7832856
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"newland, , nc, us","Newland, NC 28657, USA","OK",-81.9273362,36.0873484
+"lantana, , fl, us","Lantana, FL, USA","OK",-80.0519859,26.5867358
+"muskegon, , mi, us","Muskegon, MI, USA","OK",-86.2483921,43.2341813
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

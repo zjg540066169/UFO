@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"gig harbor, , wa, us","Gig Harbor, WA, USA","OK",-122.5801293,47.329264
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"puget sound , aboard ferry boat, wa, ","860 Terry Ave N, Seattle, WA 98109, USA","OK",-122.3371236,47.6278959
+"emmett, , id, us","Emmett, ID 83617, USA","OK",-116.4993012,43.8734978
+"collins, prentis, ms, ","1115 Columbia Ave, Prentiss, MS 39474, USA","OK",-89.8742021,31.5909118
+"brampton , canada, on, ca","Brampton, ON, Canada","OK",-79.7624177,43.7315479
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"el centro, , ca, us","El Centro, CA, USA","OK",-115.5630514,32.792
+"new castle, , nh, us","New Castle, NH, USA","OK",-70.7160762,43.0724613
+"wernersville, , pa, us","Wernersville, PA 19565, USA","OK",-76.0804972,40.3300924
+"westport, , ma, ","Westport, MA, USA","OK",-71.0735476,41.5700183
+"twenty nine palms, , ca, ","Twentynine Palms, CA 92277, USA","OK",-116.0541689,34.1355582
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"encinitas, , ca, us","Encinitas, CA, USA","OK",-117.2919818,33.0369867
+"galveston, , tx, us","Galveston, TX, USA","OK",-94.7976958,29.3013479
+"long island, , ny, ","Long Island, New York, USA","OK",-73.134961,40.789142
+"moses lake, , wa, us","Moses Lake, WA 98837, USA","OK",-119.2780771,47.1301417
+"owensboro, , ky, us","Owensboro, KY, USA","OK",-87.1111676,37.7719074
+"york, , me, ","York, ME, USA","OK",-70.6482581,43.1617483
+"rhodhiss, , nc, us","Rhodhiss, NC, USA","OK",-81.431201,35.7740206
+"stonelick park, , oh, ","Stonelick State Park, 2895 Lake Dr, Pleasant Plain, OH 45162, USA","OK",-84.0778648,39.2168099
+"chillicothe, , il, us","Chillicothe, IL 61523, USA","OK",-89.4862025,40.9222589
+"paris landing, , tn, ","Paris Landing State Park, 16055 US-79, Buchanan, TN 38222, USA","OK",-88.084444,36.4346453
+"whitefish, , mt, us","Whitefish, MT 59937, USA","OK",-114.3352652,48.4106373
+"forked river, , nj, us","Forked River, Lacey Township, NJ, USA","OK",-74.1901399,39.8398413
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"cheektowaga , buffalo, ny, us","Cheektowaga, NY, USA","OK",-78.7542892,42.9071477
+"muskegon, , mi, us","Muskegon, MI, USA","OK",-86.2483921,43.2341813
+"yonkers, , ny, us","Yonkers, NY, USA","OK",-73.8987469,40.9312099
+"mandeville, , la, us","Mandeville, LA, USA","OK",-90.0656311,30.3582506
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"peoria, , il, us","Peoria, IL, USA","OK",-89.5889864,40.6936488
+"barron, , wi, us","Barron, WI 54812, USA","OK",-91.8490626,45.4013471
+"brodheadsville, , pa, us","Brodheadsville, PA, USA","OK",-75.3937949,40.924537
+"bird in hand, , pa, us","Bird in Hand, PA 17505, USA","OK",-76.1821771,40.0387098
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"mississuaga , canada, on, ","Mississauga, ON, Canada","OK",-79.6441198,43.5890452
+"big bear, , ca, ","Big Bear Lake, CA, USA","OK",-116.9114215,34.2438963
+"niagara falls , canada, on, ca","Niagara Falls, ON, Canada","OK",-79.0849436,43.0895577
+"dorchester, , sc, us","Dorchester County, SC, USA","OK",-80.543845,33.1680383
+"west hollywood, , ca, us","West Hollywood, CA, USA","OK",-118.3617443,34.0900091
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"thaxton, , ms, us","Thaxton, MS, USA","OK",-89.1781251,34.3076058
+"niland, , ca, us","Niland, CA, USA","OK",-115.5188756,33.2400366
+"north myrtle beach, , sc, us","North Myrtle Beach, SC, USA","OK",-78.680016,33.8160058
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"sun city summerlin, , nv, ","Sun City Summerlin, Las Vegas, NV 89134, USA","OK",-115.2981813,36.2107623
+"edison, , nj, us","Edison, NJ, USA","OK",-74.4120953,40.5187154
+"hebron, lebanon, ct, ","E Hebron Turnpike, Lebanon, CT 06249, USA","OK",-72.2249862,41.6017534
+"old tappan, , nj, us","Old Tappan, NJ 07675, USA","OK",-73.9912493,41.010653
+"babylon, , ny, us","Babylon, NY, USA","OK",-73.3673169,40.7107127
+"louisville, , oh, us","Louisville, OH 44641, USA","OK",-81.2595519,40.8372809
+"bardstown, , ky, us","Bardstown, KY 40004, USA","OK",-85.4669025,37.8092279
+"jonesboro, , il, us","Jonesboro, IL 62952, USA","OK",-89.2681402,37.4517163
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"keansburg, , nj, us","Keansburg, NJ, USA","OK",-74.1298643,40.4417743
+"oak island, , nc, us","Oak Island, NC, USA","OK",-78.161106,33.9165623
+"red bay , canada, on, ca","Red Bay, NL, Canada","OK",-56.4221669,51.7334821
+"defiance, , oh, us","Defiance, OH 43512, USA","OK",-84.3557802,41.2844933
+"maple valley, , wa, us","Maple Valley, WA 98038, USA","OK",-122.0453589,47.3903403
+"great falls, , mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"sanibel, , fl, us","Sanibel, FL, USA","OK",-82.0223137,26.4489695
+"walla walla, , wa, us","Walla Walla, WA 99362, USA","OK",-118.3430208,46.0645809
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"woodville, , tx, us","Woodville, TX 75979, USA","OK",-94.4154758,30.7752011
+"thornton, , co, us","Thornton, CO, USA","OK",-104.9719243,39.8680412
+"luton , uk, , gb","Luton, UK","OK",-0.4200255,51.8786707
+"dallas, , nc, us","Dallas, NC, USA","OK",-81.1761895,35.3165257
+"oxford, , oh, us","Oxford, OH 45056, USA","OK",-84.745231,39.5069974
+"utica, , ny, us","Utica, NY, USA","OK",-75.232664,43.100903
+"portales, , nm, us","Portales, NM 88130, USA","OK",-103.3343978,34.1861922
+"jericho, , vt, us","Jericho, VT 05465, USA","OK",-72.9976266,44.5039395
+"yucaipa, , ca, us","Yucaipa, CA, USA","OK",-117.0430865,34.033625
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"greensboro, , nc, us","Greensboro, NC, USA","OK",-79.7919754,36.0726354
+"vicksburg, , mi, us","Vicksburg, MI 49097, USA","OK",-85.532775,42.1200456
+"western, , ma, ","Western Massachusetts, MA, USA","OK",-72.8988069,42.3453584
+"zeigler, , il, us","Zeigler, IL, USA","OK",-89.0520194,37.8994945
+"salinas , ~1 hour past; on hwy 101, ca, us","US-101, California, USA","OK",-121.6494206,36.6852314
+"rochester, , wa, us","Rochester, WA 98579, USA","OK",-123.0755296,46.8280636
+"devils tower, , wy, us","Devils Tower, WY 82714, USA","OK",-104.6985456,44.5886461
+"jefferson, , oh, us","Jefferson, OH 44047, USA","OK",-80.7698066,41.7386662
+"lincoln, , ca, us","Lincoln, CA, USA","OK",-121.2930079,38.891565
+"massena, , ny, us","Massena, NY 13662, USA","OK",-74.891865,44.9281049
+"franklin, , in, us","Franklin, IN 46131, USA","OK",-86.0549863,39.4806055
+"hanford, , ca, us","Hanford, CA 93230, USA","OK",-119.6456844,36.3274502
+"stevensville, , mi, us","Stevensville, MI 49127, USA","OK",-86.5194654,42.014487
+"fort nelson , canada, bc, ca","Fort Nelson, BC V0C, Canada","OK",-122.697236,58.8050174
+"menomonee falls, , wi, us","Menomonee Falls, WI 53051, USA","OK",-88.1173132,43.1788967
+"menomonee  falls, , wi, us","Menomonee Falls, WI 53051, USA","OK",-88.1173132,43.1788967
+"federal way, , wa, us","Federal Way, WA, USA","OK",-122.3126222,47.3223221
+"fence, , wi, us","Fence, WI 54121, USA","OK",-88.4251475,45.7445979
+"portsmouth , uk, , gb","Portsmouth, UK","OK",-1.0879769,50.8197675
+"troy, , ny, us","Troy, NY, USA","OK",-73.6917851,42.7284117
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

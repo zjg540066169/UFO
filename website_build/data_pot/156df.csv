@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"burnaby , canada, bc, ca","Burnaby, BC, Canada","OK",-122.9805104,49.2488091
+"pineville, , la, us","Pineville, LA, USA","OK",-92.4343035,31.3224044
+"stevens point, , wi, us","Stevens Point, WI, USA","OK",-89.574563,44.5235792
+"barrie , canada, on, ca","Barrie, ON, Canada","OK",-79.6903316,44.3893556
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"lasalle, , il, ","Lasalle, IL, USA","OK",-89.0418249,41.3621503
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"mukilteo, , wa, us","Mukilteo, WA, USA","OK",-122.3045815,47.9445396
+"newport, , or, us","Newport, OR, USA","OK",-124.0534505,44.6367836
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"accrington , uk, , gb","Accrington, UK","OK",-2.37218,53.753609
+"cypress, , tx, us","Cypress, TX, USA","OK",-95.6937856,29.9716905
+"skudai , malaysia, , ","Skudai, Johor, Malaysia","OK",103.6594267,1.5343616
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"tulsa, , ok, us","Tulsa, OK, USA","OK",-95.992775,36.1539816
+"calistoga, , ca, us","Calistoga, CA 94515, USA","OK",-122.5797054,38.5787965
+"panorama city, , ca, us","Panorama City, Los Angeles, CA, USA","OK",-118.442425,34.227617
+"burbank, los angeles, ca, ","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"national city, , ca, us","National City, CA, USA","OK",-117.0991967,32.6781085
+"jacksonville, , ar, us","Jacksonville, AR, USA","OK",-92.1101458,34.8662005
+"north charleston, , sc, us","North Charleston, SC, USA","OK",-80.0130514,32.8771106
+"whitesboro, , tx, us","Whitesboro, TX 76273, USA","OK",-96.906948,33.6562183
+"lafayette, , in, us","Lafayette, IN, USA","OK",-86.8752869,40.4167022
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"shropshire , uk, , gb","Shropshire, UK","OK",-2.7417849,52.7063657
+"ashburn, , va, us","Ashburn, VA, USA","OK",-77.4874416,39.0437567
+"laurel, , md, us","Laurel, MD, USA","OK",-76.8483061,39.0992752
+"monroe, , la, us","Monroe, LA, USA","OK",-92.1193012,32.5093109
+"batesville, , ar, us","Batesville, AR 72501, USA","OK",-91.6409721,35.769799
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"hesperia, , ca, us","Hesperia, CA, USA","OK",-117.3008784,34.4263886
+"tijuana b.c. , mexico, , ","Tijuana, Baja California, Mexico","OK",-117.0382471,32.5149469
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"minneapolis, , mn, us","Minneapolis, MN, USA","OK",-93.2650108,44.977753
+"swiss, , mo, us","Swiss, Boeuf Township, MO 65041, USA","OK",-91.4712729,38.5628247
+"swiss, , mo, us","Swiss, Boeuf Township, MO 65041, USA","OK",-91.4712729,38.5628247
+"east patchogue, , ny, us","East Patchogue, NY 11772, USA","OK",-72.9962189,40.7670427
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"fort belvoir, , va, ","Fort Belvoir, VA, USA","OK",-77.1542684,38.7188716
+"union city, , ca, us","Union City, CA, USA","OK",-122.0438609,37.5933562
+"browning, , mt, us","Browning, MT 59417, USA","OK",-113.0134175,48.5569174
+"lake havasu city, , az, us","Lake Havasu City, AZ, USA","OK",-114.3224548,34.483901
+"lavina , near, mt, us","Lavina, MT 59046, USA","OK",-108.9379351,46.2946805
+"drenthe , on highway in, , ","Drenthe, Netherlands","OK",6.6230586,52.9476012
+"eugene, , or, us","Eugene, OR, USA","OK",-123.0867536,44.0520691
+"shakopee, , mn, us","Shakopee, MN, USA","OK",-93.5272861,44.7973962
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"helsinki , finland, , ","Helsinki, Finland","OK",24.9383791,60.1698557
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"urbandale, , ia, us","Urbandale, IA, USA","OK",-93.7121656,41.6266555
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"bastrop, , tx, us","Bastrop, TX 78602, USA","OK",-97.3152701,30.1104947
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"brighton, , tn, us","Brighton, TN, USA","OK",-89.7392515,35.4835154
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"olathe, , ks, us","Olathe, KS, USA","OK",-94.8191285,38.8813958
+"fort walton beach, , fl, us","Fort Walton Beach, FL, USA","OK",-86.6170308,30.4200708
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"maple grove, , mn, us","Maple Grove, MN, USA","OK",-93.4557877,45.0724642
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"bridgewater, , nj, ","Bridgewater Township, NJ, USA","OK",-74.6049061,40.5939636
+"navarre, , fl, us","Navarre, FL 32566, USA","OK",-86.9123217,30.4109342
+"sylvania, , ga, us","Sylvania, GA 30467, USA","OK",-81.636776,32.7504441
+"texarkana, , tx, us","Texarkana, TX, USA","OK",-94.0476882,33.425125
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"hemingway, , sc, us","Hemingway, SC 29554, USA","OK",-79.4475566,33.7537774
+"schellsburg, , pa, us","Schellsburg, PA 15559, USA","OK",-78.6441857,40.048969
+"denham springs, , la, us","Denham Springs, LA, USA","OK",-90.9562125,30.4868564
+"branford, , ct, us","Branford, CT, USA","OK",-72.8141185,41.2799027
+"schellsburg, , pa, us","Schellsburg, PA 15559, USA","OK",-78.6441857,40.048969
+"minnetonka, , mn, us","Minnetonka, MN, USA","OK",-93.4687489,44.9211836
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"granton, , wi, us","Granton, WI 54436, USA","OK",-90.4612469,44.5888512
+"hollister , southeast of, ca, us","Hollister, CA 95023, USA","OK",-121.4016021,36.8524545
+"martinez, , ca, us","Martinez, CA 94553, USA","OK",-122.1341321,38.0193657
+"orange grove, , tx, us","Orange Grove, TX 78372, USA","OK",-97.9369447,27.9566843
+"estonia, , , ","Estonia","OK",25.0136071,58.595272
+"wood dale, , il, us","Wood Dale, IL, USA","OK",-87.9789562,41.9633625
+"merrillville, schererville, in, ","Schererville, IN, USA","OK",-87.4547605,41.4789246
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"chicago o&#39hare airport, , il, ",NA,"REQUEST_DENIED",NA,NA
+"chicago o&#39hare airport, , il, ",NA,"REQUEST_DENIED",NA,NA
+"aurora, , il, us","Aurora, IL, USA","OK",-88.3200715,41.7605849
+"fredericton , canada, nb, ca","Fredericton, NB, Canada","OK",-66.6431151,45.9635895
+"folsom, , ca, us","Folsom, CA, USA","OK",-121.1760583,38.6779591
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"victoria, , mn, us","Victoria, MN, USA","OK",-93.6615338,44.8587227
+"fort collins, , co, us","Fort Collins, CO, USA","OK",-105.084423,40.5852602
+"stratford, , ia, us","Stratford, IA 50249, USA","OK",-93.9271721,42.2713655
+"laramie, , wy, us","Laramie, WY, USA","OK",-105.5911007,41.3113669
+"king of prussia, , pa, us","King of Prussia, PA, USA","OK",-75.3835525,40.1012856
+"goleta, , ca, us","Goleta, CA, USA","OK",-119.8276389,34.4358294
+"winston-salem , s of; around tyro?, nc, us","Tyro, NC 27295, USA","OK",-80.3728322,35.809027
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"seattle , west, wa, us","West Seattle, Seattle, WA, USA","OK",-122.3867537,47.5666668
+"port orchard, , wa, us","Port Orchard, WA, USA","OK",-122.6362492,47.5403732
+"rockwell city, , ia, us","Rockwell City, IA 50579, USA","OK",-94.6338671,42.3952576
+"sydney , nsw&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"vancouver , canada, bc, ca","Vancouver, BC, Canada","OK",-123.1207375,49.2827291
+"hayward, , ca, us","Hayward, CA, USA","OK",-122.0809964,37.6687665
+"ottumwa, , ia, us","Ottumwa, IA 52501, USA","OK",-92.4083022,41.0160293
+"fresno, , ca, us","Fresno, CA, USA","OK",-119.7871247,36.7377981
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"hayward, , wi, us","Hayward, WI 54843, USA","OK",-91.4846208,46.0130065
+"philomath, , or, us","Philomath, OR 97370, USA","OK",-123.3676014,44.540121
+"adelaide , pt. wakefield, , au","Port Wakefield SA 5550, Australia","OK",138.15,-34.183333
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"new buffulo, , mi, ","New Buffalo, MI 49117, USA","OK",-86.7439154,41.7939302
+"alhambra, , ca, us","Alhambra, CA, USA","OK",-118.1270146,34.095287
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"centreville, , va, us","Centreville, VA, USA","OK",-77.4288769,38.8403909
+"grand view, , id, us","Grand View, ID 83624, USA","OK",-116.0934306,42.9896139
+"temperance, , mi, us","Temperance, MI 48182, USA","OK",-83.5688244,41.7792144
+"crescent beach, , sc, us","Crescent Beach, North Myrtle Beach, SC 29582, USA","OK",-78.7008502,33.8076725
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"bickerton , near wetherby, , ","Bickerton, Wetherby LS22 5NF, UK","OK",-1.313062,53.950483
+"gleason, , wi, us","Gleason, WI 54435, USA","OK",-89.4965979,45.3090511
+"mahwah, , nj, us","Mahwah, NJ 07430, USA","OK",-74.1435843,41.0886216
+"worthington st. forest, , nj, ","Worthington State Forest, 2 Old Mine Rd, Columbia, NJ 07832, USA","OK",-75.0836631,40.9974724
+"portage la prairie , canada, mb, ca","Portage la Prairie, MB, Canada","OK",-98.2903251,49.9723205
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"nobel , canada, on, ca","Nobel, ON P0G, Canada","OK",-80.085481,45.411675
+"morgantown, , wv, us","Morgantown, WV, USA","OK",-79.9558968,39.629526
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"rock island, , il, us","Rock Island, IL, USA","OK",-90.5787476,41.5094771
+"kedainiai , lithuania, , ","Kėdainiai, Lithuania","OK",23.9577279,55.2881309
+"chateauqua, , ny, ","Chautauqua, NY 14757, USA","OK",-79.4668445,42.209774
+"ripley, , ny, us","Ripley, NY 14775, USA","OK",-79.7106019,42.2670023
+"faribault, , mn, us","Faribault, MN 55021, USA","OK",-93.268827,44.2949636
+"mansfield, , oh, us","Mansfield, OH, USA","OK",-82.5154471,40.75839
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"gleason, , wi, us","Gleason, WI 54435, USA","OK",-89.4965979,45.3090511
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"apache junction, , az, us","Apache Junction, AZ, USA","OK",-111.5495777,33.4150485
+"north miami beach, , fl, us","North Miami Beach, FL, USA","OK",-80.1625463,25.9331488
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"loretto, , pa, us","Loretto, PA 15940, USA","OK",-78.630296,40.5031263
+"newtown , uk, , gb","Newtown, UK","OK",-3.313106,52.512112
+"lewisburg, , tn, us","Lewisburg, TN 37091, USA","OK",-86.7888887,35.4492404
+"north miami beach, , fl, us","North Miami Beach, FL, USA","OK",-80.1625463,25.9331488
+"east wenatchee, , wa, us","East Wenatchee, WA 98802, USA","OK",-120.2931263,47.4156824
+"hendersonville, , nc, us","Hendersonville, NC, USA","OK",-82.4609528,35.3187279
+"brainerd, , mn, us","Brainerd, MN 56401, USA","OK",-94.2020084,46.3526733
+"pennington, , tx, us","Pennington, TX 75845, USA","OK",-95.2354937,31.1912941
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"blairsville, , ga, us","Blairsville, GA 30512, USA","OK",-83.9582412,34.8761989
+"savannah, , tn, us","Savannah, TN 38372, USA","OK",-88.2492037,35.2248034
+"waynesboro, , va, us","Waynesboro, VA 22980, USA","OK",-78.8894682,38.0684692
+"unsure, , ar, ","Arkansas, USA","OK",-91.8318334,35.20105
+"bray, , ok, us","Bray, OK 73055, USA","OK",-97.8175347,34.6378551
+"plymouth , devonshire, , gb","Plymouth, UK","OK",-4.1426565,50.3754565
+"waycross, , ga, us","Waycross, GA, USA","OK",-82.3540178,31.2135511
+"wolfforth, , tx, us","Wolfforth, TX 79382, USA","OK",-102.0090575,33.5059189
+"lyndhurst, , oh, us","Lyndhurst, OH 44124, USA","OK",-81.4887315,41.5200523
+"lebanon, , or, us","Lebanon, OR 97355, USA","OK",-122.9070339,44.5365119
+"stockbridge, , ga, us","Stockbridge, GA, USA","OK",-84.2338093,33.5442781
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"indio, , ca, us","Indio, CA, USA","OK",-116.2155619,33.7205771
+"owego, , ny, us","Owego, NY 13827, USA","OK",-76.2621549,42.1034075
+"downingtown, , pa, us","Downingtown, PA 19335, USA","OK",-75.7032742,40.0064958
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"starrsville , covington, ga, us","Starrsville Rd, Georgia 30014, USA","OK",-83.8075767,33.5438502
+"west palm beach florida, , fl, ","West Palm Beach, FL, USA","OK",-80.0533746,26.7153424
+"conyers, , ga, us","Conyers, GA, USA","OK",-84.0176904,33.6676103
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"jensen beach, , fl, us","Jensen Beach, FL 34957, USA","OK",-80.2297697,27.2544906
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"duluth, , mn, us","Duluth, MN, USA","OK",-92.1004852,46.7866719
+"fleming, , co, us","Fleming, CO 80728, USA","OK",-102.8393627,40.6799914
+"grove city, , pa, us","Grove City, PA 16127, USA","OK",-80.0886703,41.1578377
+"van alstyne, , tx, us","Van Alstyne, TX, USA","OK",-96.5772109,33.4214995
+"northglenn, , co, us","Northglenn, CO, USA","OK",-104.9811468,39.8961821
+"stord , norway, , ","Stord Municipality, Norway","OK",5.5079412,59.7952153
+"london , canada, on, ca","London, ON, Canada","OK",-81.2452768,42.9849233
+"north branch, , mn, us","North Branch, MN, USA","OK",-92.9931054,45.5102135
+"slingerlands, , ny, us","Slingerlands, NY 12159, USA","OK",-73.8645685,42.6292455
+"carlin, , nv, us","Carlin, NV 89822, USA","OK",-116.1039663,40.7138067
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"albany, , ny, us","Albany, NY, USA","OK",-73.7562317,42.6525793
+"fremont, , ca, us","Fremont, CA, USA","OK",-121.988583,37.5485396
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"south bend, , in, us","South Bend, IN, USA","OK",-86.2519898,41.6763545
+"la crescent, , mn, us","La Crescent, MN, USA","OK",-91.3035514,43.8264695
+"moon township, , pa, ","Moon, PA, USA","OK",-80.2213477,40.5169767
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"cincinnati, , oh, us","Cincinnati, OH, USA","OK",-84.5120196,39.1031182
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

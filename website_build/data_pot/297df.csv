@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"middleton, , wi, us","Middleton, WI, USA","OK",-89.5042876,43.0972174
+"borrego springs, , ca, us","Borrego Springs, CA 92004, USA","OK",-116.375012,33.2558717
+"new paltz, , ny, us","New Paltz, NY 12561, USA","OK",-74.0868095,41.7475933
+"clarksburg, , md, us","Clarksburg, MD, USA","OK",-77.2794288,39.2387164
+"hope mills, , nc, us","Hope Mills, NC, USA","OK",-78.9453056,34.9704419
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"mexico city , mexico, , ","Mexico City, CDMX, Mexico","OK",-99.133208,19.4326077
+"york , uk, , gb","York, UK","OK",-1.0872979,53.9599651
+"quilcene, , wa, us","Quilcene, WA 98376, USA","OK",-122.8757198,47.8223137
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"shawnee, , ok, us","Shawnee, OK, USA","OK",-96.9253004,35.3272928
+"twenty nine palms, , ca, ","Twentynine Palms, CA 92277, USA","OK",-116.0541689,34.1355582
+"paraparaumu , kapiti island, , ","Kapiti Island, Wellington 5032, New Zealand","OK",174.9141012,-40.8518753
+"natchez, , ms, us","Natchez, MS 39120, USA","OK",-91.403171,31.5604442
+"quartzite, , az, ","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"alton, , il, us","Alton, IL, USA","OK",-90.1842764,38.8906038
+"shepparton , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"bullhead city, , az, us","Bullhead City, AZ, USA","OK",-114.5285981,35.1359386
+"sebring, , fl, us","Sebring, FL, USA","OK",-81.440907,27.495592
+"pima, , az, us","Pima, AZ 85543, USA","OK",-109.8275815,32.8961755
+"ionia, , mi, us","Ionia, MI 48846, USA","OK",-85.0711174,42.9872547
+"bowling green, , ky, us","Bowling Green, KY, USA","OK",-86.4808043,36.9685219
+"linthicum , bwi airport, md, us","1743 W Nursery Rd, Linthicum Heights, MD 21090, USA","OK",-76.6828286,39.1964348
+"old hickory, , tn, us","Old Hickory, Nashville, TN 37138, USA","OK",-86.6477748,36.2574941
+"wheaton, kensington, md, ","Kensington, MD 20895, USA","OK",-77.0763669,39.0256651
+"south egremont, , ma, us","South Egremont, Egremont, MA, USA","OK",-73.4154169,42.1605679
+"raleigh, , nc, us","Raleigh, NC, USA","OK",-78.6381787,35.7795897
+"boston, , ma, us","Boston, MA, USA","OK",-71.0588801,42.3600825
+"manchester , uk, , gb","Manchester, UK","OK",-2.2426305,53.4807593
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"pandamaran&#44 port klang , malaysia, , ",NA,"REQUEST_DENIED",NA,NA
+"abilene, , tx, us","Abilene, TX, USA","OK",-99.7331439,32.4487364
+"racine, , wi, us","Racine, WI, USA","OK",-87.7828523,42.7261309
+"fountain, , co, us","Fountain, CO, USA","OK",-104.7008056,38.682219
+"burna, , ky, us","Burna, KY 42028, USA","OK",-88.360591,37.2456099
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"garrett, , in, us","Garrett, IN, USA","OK",-85.1355267,41.3494939
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"hanson, , ky, us","Hanson, KY, USA","OK",-87.4808336,37.417267
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"lone pine, , ca, us","Lone Pine, CA, USA","OK",-118.0628654,36.6060444
+"pottsville, , ar, us","Pottsville, AR, USA","OK",-93.049061,35.2481394
+"tehran , iran, , ","Tehran, Tehran Province, Iran","OK",51.3889736,35.6891975
+"renton, , wa, us","Renton, WA, USA","OK",-122.2079218,47.4796927
+"kelowna , canada, bc, ca","Kelowna, BC, Canada","OK",-119.4960106,49.8879519
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"redmond, , or, us","Redmond, OR 97756, USA","OK",-121.1739212,44.2726203
+"artesia, , ca, us","Artesia, CA, USA","OK",-118.0831212,33.8658484
+"branchville, , sc, us","Branchville, SC 29432, USA","OK",-80.8156518,33.251271
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"tujunga, , ca, us","Sunland-Tujunga, Los Angeles, CA 91040, USA","OK",-118.3082747,34.2596475
+"issaquah, , wa, us","Issaquah, WA, USA","OK",-122.0326191,47.5301011
+"biggs, , ca, us","Biggs, CA 95917, USA","OK",-121.7127513,39.4123876
+"hanworth , middlesex, , gb","Hanworth, Hampton TW12 3UX, UK","OK",-0.386533,51.427886
+"nottingham , uk, , gb","Nottingham, UK","OK",-1.1581086,52.9547832
+"tel aviv , israel, , ","Tel Aviv-Yafo, Israel","OK",34.7817676,32.0852999
+"meadville, , ms, us","Meadville, MS 39653, USA","OK",-90.8967682,31.4723928
+"channahon, , il, us","Channahon, IL, USA","OK",-88.2286735,41.4294753
+"manilla, , ia, us","Manilla, IA 51454, USA","OK",-95.233605,41.8896933
+"pittsfield, , ma, us","Pittsfield, MA 01201, USA","OK",-73.2453824,42.4500845
+"johnstown, , pa, us","Johnstown, PA, USA","OK",-78.9219698,40.3267407
+"leicester, , ma, us","Leicester, MA, USA","OK",-71.9086843,42.245926
+"charleston, , sc, us","Charleston, SC, USA","OK",-79.9310512,32.7764749
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"peyton, , co, us","Peyton, CO 80831, USA","OK",-104.4841284,39.0284685
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"st. joseph, , mi, us","St Joseph, MI, USA","OK",-86.4895463,42.0938577
+"shinnston, , wv, us","Shinnston, WV 26431, USA","OK",-80.3000866,39.3956423
+"sugarloaf mtn., , md, ","Sugarloaf Mountain, Urbana, MD 20842, USA","OK",-77.395247,39.269208
+"iroquois falls , canada, on, ca","Iroquois Falls, ON, Canada","OK",-80.6731665,48.7679814
+"manhattan beach, , ca, us","Manhattan Beach, CA 90266, USA","OK",-118.4109089,33.8847361
+"west memphis, , ar, ","West Memphis, AR, USA","OK",-90.1845388,35.1464797
+"new york city , manhattan, ny, us","Manhattan, New York, NY, USA","OK",-73.9712488,40.7830603
+"new york city, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"hampton, , fl, us","Hampton, FL 32044, USA","OK",-82.1309371,29.8644091
+"bolton , uk, , gb","Bolton, UK","OK",-2.4282192,53.5768647
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"lehigh acres, , fl, us","Lehigh Acres, FL, USA","OK",-81.6248026,26.6253497
+"lehigh acres, , fl, us","Lehigh Acres, FL, USA","OK",-81.6248026,26.6253497
+"palmyra , near hershey, pa, us","Palmyra, PA 17078, USA","OK",-76.5933012,40.3089798
+"harrisburg, , pa, us","Harrisburg, PA, USA","OK",-76.8867008,40.2731911
+"parkesburg, , pa, us","Parkesburg, PA 19365, USA","OK",-75.9168482,39.9594013
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"greenwood, , sc, us","Greenwood, SC, USA","OK",-82.1617883,34.1954001
+"berkeley, , ca, us","Berkeley, CA, USA","OK",-122.273042,37.8715226
+"belmar and wall twp., , nj, ","Belmar, NJ, USA","OK",-74.0218037,40.1784471
+"morton , near norwich, nc, gb","Norwich, CT, USA","OK",-72.0759105,41.5242649
+"parsippany, , nj, us","Parsippany-Troy Hills, NJ, USA","OK",-74.4173877,40.8652865
+"leicestershire , uk, , gb","Leicestershire, UK","OK",-1.2052126,52.772571
+"canby, , mn, us","Canby, MN 56220, USA","OK",-96.2764335,44.7088525
+"melbourne , australia, , au","Melbourne VIC, Australia","OK",144.9630576,-37.8136276
+"cando , canada, sk, ca","Cando, SK S0K 0V0, Canada","OK",-108.213075,52.373152
+"cicero, , il, us","Cicero, IL, USA","OK",-87.7539448,41.8455877
+"knutsford , uk, , gb","Knutsford WA16, UK","OK",-2.371833,53.3005939
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"sun city, , az, us","Sun City, AZ, USA","OK",-112.2718239,33.5975393
+"melton  , australia, , au","Melton VIC, Australia","OK",144.5779508,-37.6835831
+"frontenac, , mn, us","Frontenac, MN, USA","OK",-92.3568219,44.5109913
+"atwood, , il, us","Atwood, IL 61913, USA","OK",-88.4622789,39.7994772
+"melbourne , vic&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"aberdare , uk, , gb","Aberdare CF44, UK","OK",-3.451816,51.716154
+"bokeelia, , fl, us","Bokeelia, FL 33922, USA","OK",-82.1589815,26.7056266
+"ponca city, , ok, us","Ponca City, OK, USA","OK",-97.0855948,36.706981
+"la quinta, , ca, us","La Quinta, CA, USA","OK",-116.3100095,33.6633573
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"prescott , near; hwy 89, az, us","AZ-89, Prescott, AZ, USA","OK",-112.4701457,34.5400299
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"grand canyon , unsure&#44 on route 66 heading to the, az, us",NA,"REQUEST_DENIED",NA,NA
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"kingman , outside of, az, us","1770 Beverly Ave, Kingman, AZ 86401, USA","OK",-114.036939,35.218252
+"lehi, , ut, us","Lehi, UT, USA","OK",-111.8507662,40.3916172
+"glendale, , az, us","Glendale, AZ, USA","OK",-112.1859866,33.5386523
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"clayton, , nj, us","Clayton, NJ, USA","OK",-75.0921197,39.6601148
+"gallup, , nm, us","Gallup, NM, USA","OK",-108.7425843,35.5280783
+"midland, , tx, us","Midland, TX, USA","OK",-102.0779146,31.9973456
+"old hickory, , tn, us","Old Hickory, Nashville, TN 37138, USA","OK",-86.6477748,36.2574941
+"manchester, york counties, pa, ","Manchester Township, PA, USA","OK",-76.745195,40.003043
+"cape coral, , fl, us","Cape Coral, FL, USA","OK",-81.9495331,26.5628537
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"caney, , ks, us","Caney, KS 67333, USA","OK",-95.9352584,37.0114608
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"holmdel, , nj, us","Holmdel, NJ, USA","OK",-74.1840322,40.3451095
+"stanton, , ca, us","Stanton, CA, USA","OK",-117.9931203,33.8028875
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"arvada, , co, us","Arvada, CO, USA","OK",-105.0874842,39.8027644
+"faisalabad , pakistan, , ","Faisalabad, Punjab, Pakistan","OK",73.1349605,31.4503662
+"piqua, , oh, us","Piqua, OH 45356, USA","OK",-84.2424449,40.1447732
+"ellesmere port , uk, , gb","Ellesmere Port, UK","OK",-2.897404,53.279812
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"desert center , near, ca, us","Desert Center, CA, USA","OK",-115.4004287,33.7133313
+"siem reap , cambodia, , ","Krong Siem Reap, Cambodia","OK",103.8540484,13.3573405
+"smyrna, , tn, us","Smyrna, TN, USA","OK",-86.5186045,35.9828412
+"sanford, , mi, us","Sanford, MI 48657, USA","OK",-84.3805544,43.6728053
+"barbourville, , ky, us","Barbourville, KY, USA","OK",-83.8888138,36.8664765
+"front royal, , va, us","Front Royal, VA 22630, USA","OK",-78.1944446,38.9181671
+"cold spring, , ny, us","Cold Spring, NY 10516, USA","OK",-73.954583,41.4200937
+"mansfield, , tx, us","Mansfield, TX, USA","OK",-97.1416768,32.5631924
+"breckenridge, , mo, us","Breckenridge, MO 64625, USA","OK",-93.8043822,39.7622337
+"burlingame, , ca, us","Burlingame, CA, USA","OK",-122.34809,37.5778696
+"faben , 50 mi east of el paso, tx, ","Fabens, TX, USA","OK",-106.1585867,31.50234
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"rapid city, , sd, us","Rapid City, SD, USA","OK",-103.2310149,44.0805434
+"oklahoma city, , ok, us","Oklahoma City, OK, USA","OK",-97.5164276,35.4675602
+"willington, , ct, ","Willington, CT, USA","OK",-72.2600655,41.8809434
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"new castle, , de, us","New Castle, DE 19720, USA","OK",-75.5668166,39.6620397
+"west warwick, , ri, us","West Warwick, RI 02893, USA","OK",-71.5215024,41.7036711
+"harrisville, , ri, us","Harrisville, Burrillville, RI 02830, USA","OK",-71.6745112,41.9656539
+"lancaster, , pa, us","Lancaster County, PA, USA","OK",-76.1783739,40.0466571
+"adelaide  , south australia, , au","Adelaide SA, Australia","OK",138.6007456,-34.9284989
+"jackson, , nj, us","Jackson Township, NJ, USA","OK",-74.3587473,40.0918895
+"parsippany, , nj, us","Parsippany-Troy Hills, NJ, USA","OK",-74.4173877,40.8652865
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"kennebec, , me, us","Kennebec County, ME, USA","OK",-69.7038278,44.4499153
+"springfield, , mo, us","Springfield, MO, USA","OK",-93.2922989,37.2089572
+"mayfield, , ny, us","Mayfield, NY, USA","OK",-74.2648563,43.1045171
+"sherrodsville, , oh, us","Sherrodsville, OH 44675, USA","OK",-81.2428843,40.4947869
+"garden grove, , ca, us","Garden Grove, CA, USA","OK",-117.9379952,33.7742692
+"san marcos, , tx, us","San Marcos, TX, USA","OK",-97.9413941,29.8832749
+"paradise, , ca, us","Paradise, CA 95969, USA","OK",-121.6219177,39.7596061
+"grand junction, , co, us","Grand Junction, CO, USA","OK",-108.5506486,39.0638705
+"yucca valley, , ca, us","Yucca Valley, CA 92284, USA","OK",-116.432235,34.1141743
+"fresno, , ga, ","748 N Blackstone Ave, Fresno, CA 93701, USA","OK",-119.7902817,36.7533299
+"hanceville, , al, us","Hanceville, AL 35077, USA","OK",-86.767498,34.0606545
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"beaver dam, , wi, us","Beaver Dam, WI 53916, USA","OK",-88.837329,43.4577692
+"grantville, , pa, us","Grantville, PA, USA","OK",-76.64444,40.3771826
+"haciendo de cabanas&#44 guerrero, , , ",NA,"REQUEST_DENIED",NA,NA
+"westfield, , nj, us","Westfield, NJ 07090, USA","OK",-74.3473717,40.6589912
+"hope mills, , nc, us","Hope Mills, NC, USA","OK",-78.9453056,34.9704419
+"grand ledge, , mi, us","Grand Ledge, MI 48837, USA","OK",-84.7463757,42.7533685
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"oakland, , nj, us","Oakland, NJ 07436, USA","OK",-74.2643143,41.0131529
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"rinard, , il, us","Rinard, IL 62839, USA","OK",-88.4656042,38.5706035
+"new britain, , ct, us","New Britain, CT, USA","OK",-72.7795419,41.6612104
+"normal, , il, us","Normal, IL, USA","OK",-88.9906312,40.5142026
+"arlington, , va, us","Arlington, VA, USA","OK",-77.1067698,38.8799697
+"columbus, , oh, us","Columbus, OH, USA","OK",-82.9987942,39.9611755
+"lenexa, , ks, us","Lenexa, KS, USA","OK",-94.7335709,38.9536174
+"massillon, , oh, us","Massillon, OH, USA","OK",-81.5215093,40.7967244
+"shirley basin road, , wy, ","Leo Shirley Basin Rd, Wyoming, USA","OK",-106.6155957,42.2524019
+"american canyon, , ca, us","American Canyon, CA 94503, USA","OK",-122.2608044,38.1749178
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"st. bernardin , canada, on, ","St-Bernardin, ON K0B 1R0, Canada","OK",-74.800049,45.458217
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

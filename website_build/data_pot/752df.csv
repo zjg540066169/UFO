@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"provincetown, , ma, us","Provincetown, MA, USA","OK",-70.1786425,42.0584412
+"wildomar, , ca, us","Wildomar, CA, USA","OK",-117.2800372,33.5989126
+"fountain valley, , ca, us","Fountain Valley, CA 92708, USA","OK",-117.9544069,33.7090212
+"sebago, , me, ","Sebago, ME, USA","OK",-70.677518,43.8872801
+"liberty, , oh, us","Liberty Township, OH, USA","OK",-84.4094359,39.401514
+"reno, , nv, us","Reno, NV, USA","OK",-119.8138027,39.5296329
+"carlsbad, , nm, us","Carlsbad, NM 88220, USA","OK",-104.2288375,32.4206736
+"san jose, , ca, us","San Jose, CA, USA","OK",-121.8863286,37.3382082
+"milford, , ct, us","Milford, CT, USA","OK",-73.064036,41.2306979
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"rockland , canada, on, ca","Rockland, Clarence-Rockland, ON, Canada","OK",-75.2916118,45.5483729
+"lincoln city, , or, us","Lincoln City, OR, USA","OK",-124.0178914,44.9581644
+"windsor , canada, on, ca","Windsor, ON, Canada","OK",-83.0363633,42.3149367
+"lincoln city, , or, us","Lincoln City, OR, USA","OK",-124.0178914,44.9581644
+"michigan , upper, mi, ","Upper Peninsula of Michigan, MI, USA","OK",-87.3952109,46.5374764
+"oakland, , ca, us","Oakland, CA, USA","OK",-122.2711639,37.8043514
+"charleston, , wv, us","Charleston, WV, USA","OK",-81.6326234,38.3498195
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"idaho falls, , id, us","Idaho Falls, ID, USA","OK",-112.0407584,43.4926607
+"cromwell, , ct, us","Cromwell, CT, USA","OK",-72.6453705,41.5950989
+"st. albert , canada, ab, ca","St. Albert, AB, Canada","OK",-113.6554658,53.6469545
+"vernon , outside of, bc, ca","Vernon, BC, Canada","OK",-119.2720107,50.2670137
+"goodyear, , az, us","Goodyear, AZ, USA","OK",-112.3576567,33.4353394
+"windsor, , ca, us","Windsor, CA, USA","OK",-122.8163802,38.5471327
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"fergus falls, , mn, us","Fergus Falls, MN 56537, USA","OK",-96.0777887,46.2835212
+"salt lake city, , ut, us","Salt Lake City, UT, USA","OK",-111.8910474,40.7607793
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"mobile, , al, us","Mobile, AL, USA","OK",-88.0398912,30.6953657
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"grandview, , mo, us","Grandview, MO, USA","OK",-94.5330096,38.8858407
+"show low, , az, us","Show Low, AZ 85901, USA","OK",-110.0298327,34.2542084
+"quito, , , ","Quito, Ecuador","OK",-78.4678382,-0.1806532
+"spirit lake highway , approx. milepost 27, wa, ","Spirit Lake Hwy, Washington, USA","OK",-122.5193455,46.3441277
+"bloemfontein, ofs, , ","Oos-Einde, Bloemfontein, 9301, South Africa","OK",26.2586,-29.1309
+"red deer , canada, ab, ca","Red Deer, AB, Canada","OK",-113.8115599,52.268975
+"elizabeth, , nj, us","Elizabeth, NJ, USA","OK",-74.2107006,40.6639916
+"richardson, , tx, us","Richardson, TX, USA","OK",-96.7298519,32.9483335
+"lee&#39s summit, , mo, ",NA,"REQUEST_DENIED",NA,NA
+"williamstown, , ma, us","Williamstown, MA 01267, USA","OK",-73.2036898,42.7120196
+"delilah lookout , sequoia n f, ca, ","Delilah Lookout, US Frst Service Rd 12519, Dunlap, CA 93621, USA","OK",-119.1174734,36.8042329
+"ramona, , ca, us","Ramona, CA 92065, USA","OK",-116.8792553,33.0413604
+"mokena, , il, us","Mokena, IL, USA","OK",-87.8892189,41.5261437
+"stoner , canada, bc, ","Stoner, BC V0J, Canada","OK",-122.663428,53.630507
+"belle river , canada, on, ca","Belle River, Lakeshore, ON, Canada","OK",-82.7117164,42.2932234
+"hinsdale , unincorporated area, il, us","Hinsdale, IL, USA","OK",-87.9370052,41.8008642
+"todos santos&#44 bcs , mexico, , ",NA,"REQUEST_DENIED",NA,NA
+"western north carolina mountains, , nc, ","Grandfather Mountain, Linville, NC 28646, USA","OK",-81.811389,36.111111
+"white rock, , sc, us","White Rock, SC 29036, USA","OK",-81.2756526,34.1451481
+"payson, , ut, us","Payson, UT, USA","OK",-111.7321518,40.0443989
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"boring, , or, us","Boring, OR, USA","OK",-122.3734641,45.4313662
+"anacoco, , la, us","Anacoco, LA 71403, USA","OK",-93.3412795,31.2521279
+"canby, , or, us","Canby, OR 97013, USA","OK",-122.6921253,45.262316
+"cheyenne, , wy, us","Cheyenne, WY, USA","OK",-104.8202462,41.1399814
+"hazelwood, , mo, us","Hazelwood, MO, USA","OK",-90.3709489,38.7714396
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"council bluffs, , ia, us","Council Bluffs, IA, USA","OK",-95.8608333,41.2619444
+"dandridge, , tn, us","Dandridge, TN, USA","OK",-83.4148895,36.0153693
+"virginia beach, , va, us","Virginia Beach, VA, USA","OK",-75.977985,36.8529263
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"nottinghamshire , uk, , gb","Nottinghamshire, UK","OK",-0.9936306,53.100319
+"kennewick, , wa, us","Kennewick, WA, USA","OK",-119.119948,46.2086683
+"opelousas, , la, us","Opelousas, LA 70570, USA","OK",-92.081509,30.5335302
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"mountain view, , ca, us","Mountain View, CA, USA","OK",-122.0838511,37.3860517
+"florence, , ky, us","Florence, KY, USA","OK",-84.6266111,38.9989499
+"edgewater, , fl, us","Edgewater, FL, USA","OK",-80.9022758,28.9888754
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"columbiana, , oh, us","Columbiana, OH 44408, USA","OK",-80.6939643,40.8883931
+"augusta, , ga, us","Augusta, GA, USA","OK",-82.0105148,33.4734978
+"swindon , uk, , gb","Swindon, UK","OK",-1.7797176,51.5557739
+"chowchilla, , ca, us","Chowchilla, CA 93610, USA","OK",-120.2601754,37.1229997
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"elk grove, , ca, us","Elk Grove, CA, USA","OK",-121.3716178,38.4087993
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"charlotte, , nc, us","Charlotte, NC, USA","OK",-80.8431267,35.2270869
+"montgomeryville, , pa, us","Montgomeryville, PA, USA","OK",-75.2437853,40.2473291
+"milton, , fl, us","Milton, FL, USA","OK",-87.0396881,30.6324149
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"big spring, , tx, us","Big Spring, TX 79720, USA","OK",-101.4787355,32.2503979
+"corbin, , ky, us","Corbin, KY 40701, USA","OK",-84.0968761,36.9486986
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"saratoga springs, , ny, us","Saratoga Springs, NY, USA","OK",-73.7845651,43.0831301
+"bristol, , nh, us","Bristol, NH 03222, USA","OK",-71.7367162,43.5911499
+"kodak, , tn, us","Kodak, TN 37764, USA","OK",-83.6270896,35.9745743
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"honolulu, , hi, us","Honolulu, HI, USA","OK",-157.8583333,21.3069444
+"gatesville, , nc, us","Gatesville, NC 27938, USA","OK",-76.7530098,36.4034878
+"china lake, , ca, us","China Lake, Ridgecrest, CA 93555, USA","OK",-117.66173,35.6507888
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"grand junction, , co, us","Grand Junction, CO, USA","OK",-108.5506486,39.0638705
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

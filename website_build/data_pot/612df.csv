@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"waddy, , ky, us","Waddy, KY 40076, USA","OK",-85.0743978,38.1370153
+"dillonvale, , oh, us","Dillonvale, OH, USA","OK",-80.7750839,40.1964595
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"lumberton, , tx, us","Lumberton, TX 77657, USA","OK",-94.1996286,30.2657655
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"lawrence, , ks, us","Lawrence, KS, USA","OK",-95.2352501,38.9716689
+"belleville, , ks, us","Belleville, KS 66935, USA","OK",-97.6325415,39.8244501
+"cape girardeau, , mo, us","Cape Girardeau, MO, USA","OK",-89.5181476,37.3058839
+"lake tahoe, , ca, ","Lake Tahoe, United States","OK",-120.0323507,39.0968493
+"north miami beach, , fl, us","North Miami Beach, FL, USA","OK",-80.1625463,25.9331488
+"pembroke pines, , fl, us","Pembroke Pines, FL, USA","OK",-80.2962555,26.007765
+"manhatten beach, , ca, ","Manhattan Beach, CA 90266, USA","OK",-118.4109089,33.8847361
+"erie , over, pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"inspiration pt., , ca, ","Inspiration Point, West Covina, CA 91791, USA","OK",-117.8847682,34.0465502
+"penticton , canada, bc, ca","Penticton, BC, Canada","OK",-119.5937077,49.4991381
+"stoughton, , wi, us","Stoughton, WI 53589, USA","OK",-89.2178937,42.9169462
+"union city, , pa, us","Union City, PA 16438, USA","OK",-79.8453298,41.8995001
+"hoh rain forest, , wa, ","18113 Upper Hoh Rd, Forks, WA 98331, USA","OK",-123.9348027,47.8608705
+"university place, , wa, us","University Place, WA, USA","OK",-122.5504041,47.2356536
+"salmon river, , id, ","Salmon River, Idaho, USA","OK",-115.5087986,45.3753049
+"pullman, , wa, us","Pullman, WA 99163, USA","OK",-117.1817377,46.7297771
+"brentwood, , tn, us","Brentwood, TN, USA","OK",-86.7827772,36.0331164
+"vanleer, , tn, us","Vanleer, TN 37181, USA","OK",-87.4439002,36.2350562
+"fennville, , mi, us","Fennville, MI 49408, USA","OK",-86.1017009,42.5939168
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"bochum , germany, , de","Bochum, Germany","OK",7.2162363,51.4818445
+"harbor springs, , mi, us","Harbor Springs, MI 49740, USA","OK",-84.9919992,45.4316759
+"campbell river , vancouver island, bc, ca","Campbell River, BC, Canada","OK",-125.2733353,50.0331226
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"bedford, carlise, ma, ","Bedford Rd, Carlisle, MA, USA","OK",-71.329,42.5196782
+"alamosa, , co, us","Alamosa, CO 81101, USA","OK",-105.8700214,37.4694491
+"medicine bow national mountains&#44 medicine bow national fores, , wy, ",NA,"REQUEST_DENIED",NA,NA
+"kewaunee, , wi, us","Kewaunee, WI 54216, USA","OK",-87.5031397,44.4583321
+"dedham, , ma, us","Dedham, MA, USA","OK",-71.1676536,42.2436085
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"cottage grove, , wa, ","Cottage Grove Park, 5206 26th Ave SW, Seattle, WA 98106, USA","OK",-122.3651822,47.5543129
+"meridian, , id, us","Meridian, ID, USA","OK",-116.3915131,43.6121087
+"anderson, redding, ca, ","Anderson, CA 96007, USA","OK",-122.2977815,40.448208
+"colebrook, , nh, us","Colebrook, NH 03576, USA","OK",-71.496296,44.894313
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"auckland , new zealand, , ","Auckland, New Zealand","OK",174.7633315,-36.8484597
+"manchester, , ct, us","Manchester, CT, USA","OK",-72.5215009,41.7759301
+"collegeville, , pa, us","Collegeville, PA 19426, USA","OK",-75.451571,40.1856597
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"san diego, , ca, us","San Diego, CA, USA","OK",-117.1610838,32.715738
+"akron, , oh, us","Akron, OH, USA","OK",-81.5190053,41.0814447
+"las cruces, , nm, us","Las Cruces, NM, USA","OK",-106.7636538,32.3199396
+"scituate, , ma, us","Scituate, MA, USA","OK",-70.7258633,42.195929
+"wall, , nj, ","Wall Township, NJ, USA","OK",-74.0679753,40.1606666
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"greensburg, , pa, us","Greensburg, PA 15601, USA","OK",-79.5389289,40.3014581
+"montreal , canada, pq, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"fresno , merced&#44 more than one, ca, us",NA,"REQUEST_DENIED",NA,NA
+"cumberland, , wi, us","Cumberland, WI 54829, USA","OK",-92.019346,45.5321764
+"longueuil , canada, pq, ca","Longueuil, QC, Canada","OK",-73.5107131,45.5369442
+"pocatello, , id, us","Pocatello, ID, USA","OK",-112.4506191,42.8621042
+"liverpool , uk, , gb","Liverpool, UK","OK",-2.9915726,53.4083714
+"manlius, , ny, us","Manlius, NY, USA","OK",-75.9692855,43.0575765
+"manlius, , ny, us","Manlius, NY, USA","OK",-75.9692855,43.0575765
+"tottenham , canada, on, ca","Tottenham, New Tecumseth, ON L0G 1W0, Canada","OK",-79.8055946,44.0224843
+"benton, , tn, us","Benton, TN 37307, USA","OK",-84.6535468,35.1742411
+"fort smith, , ar, us","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"george, , wa, us","George, WA, USA","OK",-119.8558822,47.0790224
+"lewisville, , tx, us","Lewisville, TX, USA","OK",-96.994174,33.046233
+"boulder, , co, us","Boulder, CO, USA","OK",-105.2705456,40.0149856
+"south kingstown, , ri, ","South Kingstown, RI, USA","OK",-71.524667,41.4475686
+"sedona, , az, us","Sedona, AZ 86336, USA","OK",-111.7609896,34.8697395
+"lakeside, , ca, us","Lakeside, CA, USA","OK",-116.9222488,32.8572718
+"madison, , in, us","Madison, IN, USA","OK",-85.3799577,38.7358933
+"el cajon, , ca, us","El Cajon, CA, USA","OK",-116.9625269,32.7947731
+"salem, , or, us","Salem, OR, USA","OK",-123.0350963,44.9428975
+"hudson, , ny, us","Hudson, NY 12534, USA","OK",-73.790959,42.2528649
+"auburn, , wa, us","Auburn, WA, USA","OK",-122.2284532,47.3073228
+"destin, , fl, us","Destin, FL 32541, USA","OK",-86.4957833,30.3935337
+"sunnyvale, , ca, us","Sunnyvale, CA, USA","OK",-122.0363496,37.36883
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"springfield, , or, us","Springfield, OR, USA","OK",-123.0220289,44.0462362
+"malaga, , wa, us","Malaga, WA 98828, USA","OK",-120.2011769,47.3723503
+"palo alto, , ca, us","Palo Alto, CA, USA","OK",-122.1430195,37.4418834
+"clearwater, , fl, us","Clearwater, FL, USA","OK",-82.8001026,27.9658533
+"lake waco, , tx, ","Lake Waco, Waco, TX, USA","OK",-97.2248378,31.5525597
+"sultan, , wa, us","Sultan, WA, USA","OK",-121.8165095,47.8626013
+"casa grande, , az, us","Casa Grande, AZ, USA","OK",-111.7733902,32.9110027
+"richlands, , va, us","Richlands, VA 24641, USA","OK",-81.7937271,37.0931692
+"westbrook, , me, us","Westbrook, ME 04092, USA","OK",-70.3711617,43.6770252
+"howell, , mi, us","Howell, MI, USA","OK",-83.9293952,42.6072552
+"tacoma area, , wa, ","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"diamond lake, , wa, us","Diamond Lake, WA 99156, USA","OK",-117.1990998,48.1218456
+"modesto, , ca, us","Modesto, CA, USA","OK",-120.9968782,37.6390972
+"underwood, , nd, us","Underwood, ND 58576, USA","OK",-101.137096,47.4563859
+"woodburn, , or, us","Woodburn, OR 97071, USA","OK",-122.8553724,45.143731
+"flintstone, , md, us","Flintstone, MD 21530, USA","OK",-78.5698598,39.7035249
+"bartlesville, , ok, us","Bartlesville, OK, USA","OK",-95.9808179,36.7473114
+"gladstone, , mi, us","Gladstone, MI 49837, USA","OK",-87.0218049,45.8527435
+"merriville and gary, , in, ","Merrillville, IN, USA","OK",-87.3328139,41.4828144
+"champaign, , il, us","Champaign, IL, USA","OK",-88.2433829,40.1164204
+"mainz , germany, , de","Mainz, Germany","OK",8.2472526,49.9928617
+"freeport, , il, us","Freeport, IL 61032, USA","OK",-89.6212271,42.2966861
+"kirkland, , wa, us","Kirkland, WA, USA","OK",-122.2059833,47.6768927
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

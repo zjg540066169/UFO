@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"old hickory, , tn, us","Old Hickory, Nashville, TN 37138, USA","OK",-86.6477748,36.2574941
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"papillion, , ne, us","Papillion, NE, USA","OK",-96.0422378,41.1544432
+"rockaway beach, , mo, us","Rockaway Beach, MO 65740, USA","OK",-93.1599022,36.6992276
+"st. albans, , vt, us","St Albans City, VT, USA","OK",-73.0835582,44.8107132
+"toms river, , nj, us","Toms River, NJ, USA","OK",-74.1979458,39.9537358
+"joppatowne, , md, us","Joppatowne, 1, Abingdon, MD 21085, USA","OK",-76.3682498,39.4254523
+"portage, , in, us","Portage, IN, USA","OK",-87.1761455,41.5758707
+"hutchinson, , ks, us","Hutchinson, KS, USA","OK",-97.9297743,38.0608445
+"milton, , vt, us","Milton, VT, USA","OK",-73.1103908,44.6397405
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"derby, , ks, us","Derby, KS 67037, USA","OK",-97.2689331,37.5455735
+"mulberry, , ar, us","Mulberry, AR 72947, USA","OK",-94.0515919,35.5006417
+"tiffin, , oh, us","Tiffin, OH 44883, USA","OK",-83.1779746,41.1144992
+"yatesville, , pa, us","Yatesville, PA, USA","OK",-75.7865824,41.3034138
+"o&#39fallon, , mo, us",NA,"REQUEST_DENIED",NA,NA
+"beaver falls, , pa, us","Beaver Falls, PA 15010, USA","OK",-80.3192295,40.7520097
+"bolingbrook, , il, us","Bolingbrook, IL, USA","OK",-88.0683955,41.6986416
+"amelia, , oh, us","Amelia, OH 45102, USA","OK",-84.2177136,39.0283966
+"arlington heights, , il, us","Arlington Heights, IL, USA","OK",-87.9806265,42.0883603
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"florence, , ky, us","Florence, KY, USA","OK",-84.6266111,38.9989499
+"hillsdale, , mi, us","Hillsdale, MI, USA","OK",-84.6305101,41.9200472
+"north charleston, , sc, us","North Charleston, SC, USA","OK",-80.0130514,32.8771106
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"plainfield, , il, us","Plainfield, IL, USA","OK",-88.2120315,41.632223
+"port richey, , fl, us","Port Richey, FL, USA","OK",-82.7195451,28.2716755
+"rancho santa margarita, , ca, us","Rancho Santa Margarita, CA, USA","OK",-117.602832,33.640171
+"ridgway, , il, us","Ridgway, IL 62979, USA","OK",-88.2611509,37.7992131
+"searcy, , ar, us","Searcy, AR, USA","OK",-91.7336846,35.2468204
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"surf city, , mi, ","306 S Topsail Dr, Surf City, NC 28445, USA","OK",-77.548289,34.424464
+"swedesboro, , nj, us","Swedesboro, NJ 08085, USA","OK",-75.3104654,39.7476136
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"wakefield, , ma, us","Wakefield, MA 01880, USA","OK",-71.0723391,42.5039395
+"west peoria, , il, us","West Peoria, IL, USA","OK",-89.627877,40.6925376
+"fall city, , wa, us","Fall City, WA 98024, USA","OK",-121.8887269,47.5673237
+"danbury, , ct, us","Danbury, CT, USA","OK",-73.4540111,41.394817
+"franklin, , pa, us","Franklin, PA 16323, USA","OK",-79.8314437,41.3978358
+"indio, , ca, us","Indio, CA, USA","OK",-116.2155619,33.7205771
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"belford, , nj, us","Belford, Middletown, NJ, USA","OK",-74.086807,40.425941
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"great falls, , mt, us","Great Falls, MT, USA","OK",-111.3007715,47.5052849
+"richardton, , nd, us","Richardton, ND 58652, USA","OK",-102.3157292,46.8838956
+"seymour, , in, us","Seymour, IN 47274, USA","OK",-85.8902547,38.9592201
+"wright city, , mo, us","Wright City, MO, USA","OK",-91.0201422,38.8275491
+"derby, , ct, us","Derby, CT, USA","OK",-73.0889973,41.3206523
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"polk city, , ia, us","Polk City, IA 50226, USA","OK",-93.7129997,41.7713764
+"batesville , near lake santee, in, us","Lake Santee, Indiana 47240, USA","OK",-85.3052201,39.4029582
+"belleville, , il, us","Belleville, IL, USA","OK",-89.9839935,38.5200504
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"cherokee villiage, , ar, ","Cherokee Village, AR, USA","OK",-91.515973,36.2978443
+"clear creek east resort, , ne, ","765 Willingham Rd, Talladega, AL 35160, USA","OK",-86.2857984,33.4560002
+"cutlerville, , mi, us","Cutlerville, MI, USA","OK",-85.6636305,42.8407024
+"deer park, , oh, us","Deer Park, OH 45236, USA","OK",-84.3946627,39.2053366
+"fort calhoun, , ne, us","Fort Calhoun, NE 68023, USA","OK",-96.0264024,41.4558282
+"fort wright, , ky, us","Fort Wright, KY, USA","OK",-84.5350292,39.0511558
+"gastonia, , nc, us","Gastonia, NC, USA","OK",-81.1873005,35.262082
+"georgetown, , ky, us","Georgetown, KY 40324, USA","OK",-84.5588311,38.2097967
+"heathsville, , va, us","Heathsville, VA 22473, USA","OK",-76.4721934,37.9175317
+"indianapolis, , in, us","Indianapolis, IN, USA","OK",-86.158068,39.768403
+"kingston, , wa, us","Kingston, WA, USA","OK",-122.4981921,47.7987072
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"lakewood, , wa, us","Lakewood, WA, USA","OK",-122.518458,47.1717649
+"lakewood, , wa, us","Lakewood, WA, USA","OK",-122.518458,47.1717649
+"lamesa, , tx, us","Lamesa, TX 79331, USA","OK",-101.950992,32.7376001
+"lorain, , oh, us","Lorain, OH, USA","OK",-82.1823746,41.452819
+"lynnwood, , wa, us","Lynnwood, WA, USA","OK",-122.3151314,47.8209301
+"milford, , ne, us","Milford, NE 68405, USA","OK",-97.0505887,40.7744509
+"montrose, , pa, us","Montrose, PA 18801, USA","OK",-75.8771388,41.8339653
+"north bend, , ne, us","North Bend, NE 68649, USA","OK",-96.7797515,41.4619485
+"paxton, , ma, us","Paxton, MA 01612, USA","OK",-71.9278427,42.3114889
+"piney flats, , tn, us","Piney Flats, TN, USA","OK",-82.3048542,36.4192723
+"portsmouth, , oh, us","Portsmouth, OH 45662, USA","OK",-82.9976742,38.7317431
+"rio linda, , ca, us","Rio Linda, CA, USA","OK",-121.4485654,38.6910138
+"selma, , ca, us","Selma, CA 93662, USA","OK",-119.6120765,36.5707838
+"shelby twp, , mi, ","Shelby Charter Twp, MI, USA","OK",-83.0329934,42.670782
+"springfield, , ma, us","Springfield, MA, USA","OK",-72.589811,42.1014831
+"tampa, , fl, us","Tampa, FL, USA","OK",-82.4571776,27.950575
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"wading river? franklin sq, , ny, ","Wading River, NY, USA","OK",-72.8426016,40.9503762
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"wickliff, , oh, ","Wickliffe, OH 44092, USA","OK",-81.4534492,41.6053266
+"st. paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"columbus, , ne, us","Columbus, NE 68601, USA","OK",-97.3593904,41.4302973
+"ipswich, , sd, us","Ipswich, SD 57451, USA","OK",-99.0292784,45.4444193
+"mentor, , oh, us","Mentor, OH 44060, USA","OK",-81.339552,41.6661573
+"newnan, , ga, us","Newnan, GA, USA","OK",-84.7996573,33.3806716
+"polk city, , ia, us","Polk City, IA 50226, USA","OK",-93.7129997,41.7713764
+"coudersport, , pa, us","Coudersport, PA 16915, USA","OK",-78.0205602,41.7747878
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"bennington, , ne, us","Bennington, NE 68007, USA","OK",-96.1577968,41.3647193
+"chicago, mt. greenwood, il, ","Mount Greenwood, Chicago, IL 60655, USA","OK",-87.7008049,41.6915904
+"clinton township, , mi, ","Clinton Twp, MI, USA","OK",-82.9195514,42.5868882
+"cloverdale, , in, us","Cloverdale, IN 46120, USA","OK",-86.7938968,39.5147682
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

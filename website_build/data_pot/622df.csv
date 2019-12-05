@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"edmonds, , wa, us","Edmonds, WA, USA","OK",-122.3773551,47.8106521
+"erie, , pa, us","Erie, PA, USA","OK",-80.085059,42.1292241
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"ipswich, , sd, us","Ipswich, SD 57451, USA","OK",-99.0292784,45.4444193
+"kearney, , ne, us","Kearney, NE, USA","OK",-99.0816784,40.6993303
+"lake stevens, , wa, us","Lake Stevens, WA 98258, USA","OK",-122.0637425,48.015098
+"lakeville, , mn, us","Lakeville, MN, USA","OK",-93.24272,44.6496868
+"lincoln, , ne, us","Lincoln, NE, USA","OK",-96.7025955,40.813616
+"springfield, , oh, us","Springfield, OH, USA","OK",-83.8088171,39.9242266
+"sultan, , wa, us","Sultan, WA, USA","OK",-121.8165095,47.8626013
+"vining, , mn, us","Vining, MN 56588, USA","OK",-95.536986,46.2630166
+"winchester, , in, us","Winchester, IN 47394, USA","OK",-84.9813549,40.1719892
+"womelsdorf, , pa, us","Womelsdorf, PA 19567, USA","OK",-76.1841139,40.3617591
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"apple valley, lakeville, mn, ","Apple Valley, MN 55124, USA","OK",-93.21772,44.7319094
+"north platte, , ne, us","North Platte, NE 69101, USA","OK",-100.7601454,41.1402759
+"haliburton , canada, on, ca","Haliburton County, ON, Canada","OK",-78.5084937,45.0467132
+"huntington beach, , ca, us","Huntington Beach, CA, USA","OK",-117.9988026,33.6594835
+"auburn, , ny, us","Auburn, NY 13021, USA","OK",-76.5660529,42.9317335
+"auburn, , ny, us","Auburn, NY 13021, USA","OK",-76.5660529,42.9317335
+"abbeville, , la, us","Abbeville, LA 70510, USA","OK",-92.1342921,29.9746502
+"bethesda, , oh, us","Bethesda, OH 43719, USA","OK",-81.0726013,40.0161818
+"bothell, , wa, us","Bothell, WA, USA","OK",-122.2054452,47.760111
+"cherry hill, , nj, us","Cherry Hill, NJ, USA","OK",-75.0246312,39.926813
+"coon rapids, , mn, us","Coon Rapids, MN, USA","OK",-93.3030063,45.1732394
+"dickson, , tn, us","Dickson, TN, USA","OK",-87.3877899,36.0770048
+"grand island, , ny, ","Grand Island, NY, USA","OK",-78.9657302,43.0216283
+"haslet, , tx, us","Haslet, TX, USA","OK",-97.3477957,32.9748469
+"hempstead, , ny, us","Hempstead, NY 11550, USA","OK",-73.6187397,40.7062128
+"las cruces, , nm, us","Las Cruces, NM, USA","OK",-106.7636538,32.3199396
+"lebanon, , in, us","Lebanon, IN 46052, USA","OK",-86.4691677,40.0483744
+"lowell, , ma, us","Lowell, MA, USA","OK",-71.3161718,42.6334247
+"marysville, , wa, us","Marysville, WA, USA","OK",-122.1770818,48.0517637
+"monticello, , in, us","Monticello, IN 47960, USA","OK",-86.7647343,40.7453169
+"omak, , wa, us","Omak, WA, USA","OK",-119.5275506,48.4109853
+"orland, , ca, us","Orland, CA 95963, USA","OK",-122.1963748,39.7473803
+"portland, , or, us","Portland, OR, USA","OK",-122.6750261,45.5051064
+"streamwood, , il, us","Streamwood, IL, USA","OK",-88.1784085,42.0255827
+"streamwood, , il, us","Streamwood, IL, USA","OK",-88.1784085,42.0255827
+"taholah, , wa, us","Taholah, WA 98587, USA","OK",-124.29324,47.3473047
+"wyoming valley, , pa, ","137 Timber Ridge Dr, Hawley, PA 18428, United States","OK",-75.117627,41.482153
+"eastport, , me, us","Eastport, ME, USA","OK",-66.9899785,44.9061906
+"linden, avis, pa, ","Avis, PA, USA","OK",-77.3138622,41.1847939
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"wassaic, , ny, us","Wassaic, NY 12592, USA","OK",-73.5587368,41.8039824
+"broken arrow, , ok, us","Broken Arrow, OK, USA","OK",-95.7974526,36.060949
+"hellertown, , pa, us","Hellertown, PA, USA","OK",-75.3407346,40.5795437
+"zeeland, , mi, us","Zeeland, MI 49464, USA","OK",-86.018651,42.8125246
+"cortland, , ny, us","Cortland, NY 13045, USA","OK",-76.1804843,42.6011813
+"plymouth, , ma, us","Plymouth, MA, USA","OK",-70.6672621,41.9584457
+"providence, , ri, us","Providence, RI, USA","OK",-71.4128343,41.8239891
+"grand isle, , la, us","Grand Isle, LA, USA","OK",-89.9872941,29.2366172
+"lynnwood, , wa, us","Lynnwood, WA, USA","OK",-122.3151314,47.8209301
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"belmont, , nc, us","Belmont, NC 28012, USA","OK",-81.037297,35.2429175
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"saint paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"saint paul, , mn, us","St Paul, MN, USA","OK",-93.0899578,44.9537029
+"springdale, , ar, us","Springdale, AR, USA","OK",-94.1288141,36.1867442
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"neenah, , wi, us","Neenah, WI 54956, USA","OK",-88.462609,44.1858193
+"chino, , ca, us","Chino, CA, USA","OK",-117.688944,34.0122346
+"cooks mills , welland, on, ","Cooks Mills, Welland, ON, Canada","OK",-79.184937,42.994009
+"cooks mills , welland, on, ","Cooks Mills, Welland, ON, Canada","OK",-79.184937,42.994009
+"new york, , ny, us","New York, NY, USA","OK",-74.0059728,40.7127753
+"grand rives, , ky, ","Grand Rivers, KY 42045, USA","OK",-88.2344746,37.0031109
+"west seattle, , wa, us","West Seattle, Seattle, WA, USA","OK",-122.3867537,47.5666668
+"snoqualmie, , wa, us","Snoqualmie, WA, USA","OK",-121.8253906,47.5287132
+"elizabethtown, , ky, us","Elizabethtown, KY, USA","OK",-85.8649408,37.7030646
+"lakeland, , fl, us","Lakeland, FL, USA","OK",-81.9498042,28.0394654
+"rolla, , mo, us","Rolla, MO, USA","OK",-91.7715303,37.948544
+"vancouver, , wa, us","Vancouver, WA, USA","OK",-122.6760886,45.6257379
+"cottonwood, , az, us","Cottonwood, AZ, USA","OK",-112.0098791,34.7391876
+"imlay city, , mi, us","Imlay City, MI 48444, USA","OK",-83.0777153,43.0247496
+"lake junaluska, , nc, us","Lake Junaluska, NC, USA","OK",-82.9595811,35.5278815
+"ocean beach, , ca, us","Ocean Beach, San Diego, CA, USA","OK",-117.2470353,32.7494988
+"spanaway, , wa, us","Spanaway, WA, USA","OK",-122.4345661,47.103988
+"west des moines, , ia, us","West Des Moines, IA, USA","OK",-93.7593841,41.5638902
+"pinckney, , mi, us","Pinckney, MI 48169, USA","OK",-83.9463358,42.4567013
+"morgan hill, , ca, us","Morgan Hill, CA, USA","OK",-121.6543901,37.1305012
+"antigo, , wi, us","Antigo, WI 54409, USA","OK",-89.1523353,45.140245
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"ellwood city, , pa, us","Ellwood City, PA 16117, USA","OK",-80.2864515,40.8617303
+"fairview, , tn, us","Fairview, TN 37062, USA","OK",-87.1213953,35.9820074
+"franklin square, , ny, us","Franklin Square, NY, USA","OK",-73.6759635,40.7073244
+"manchester, , mo, us","Manchester, MO, USA","OK",-90.5092882,38.5969977
+"pontiac, , mi, us","Pontiac, MI, USA","OK",-83.2910468,42.6389216
+"crestview, , fl, us","Crestview, FL, USA","OK",-86.5727995,30.7541808
+"traverse city, , mi, us","Traverse City, MI, USA","OK",-85.6206317,44.7630567
+"bryant, , ar, us","Bryant, AR, USA","OK",-92.4890469,34.5959265
+"ashland, , ky, us","Ashland, KY, USA","OK",-82.6379387,38.4784144
+"escondido, valley center, ca, ","Valley Center, CA, USA","OK",-117.0341967,33.2183701
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"pueblo, , co, us","Pueblo, CO, USA","OK",-104.6091409,38.2544472
+"rice lake, , wi, us","Rice Lake, WI, USA","OK",-91.738225,45.5060682
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"beecher, , il, us","Beecher, IL 60401, USA","OK",-87.6214286,41.34059
+"blue springs, , mo, us","Blue Springs, MO, USA","OK",-94.2816148,39.0169509
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

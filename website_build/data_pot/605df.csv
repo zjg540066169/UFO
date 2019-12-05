@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"north las vegas, , nv, us","North Las Vegas, NV, USA","OK",-115.1175013,36.1988592
+"penn hills, , pa, ","Penn Hills, PA, USA","OK",-79.8392158,40.5011794
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"williamsburg, , oh, us","Williamsburg, OH, USA","OK",-84.0529886,39.0542311
+"river falls, , wi, us","River Falls, WI 54022, USA","OK",-92.6238082,44.8613563
+"pittsburgh, , pa, us","Pittsburgh, PA, USA","OK",-79.9958864,40.4406248
+"anna, , tx, us","Anna, TX 75409, USA","OK",-96.5485991,33.3490011
+"bridgeport, fairfield, ct, ","Bridgeport, CT, USA","OK",-73.1894384,41.1792258
+"hereford, , pa, us","Hereford Township, PA, USA","OK",-75.5858886,40.4442247
+"hialeah, , fl, us","Hialeah, FL, USA","OK",-80.2781057,25.8575963
+"paintsville, , ky, us","Paintsville, KY, USA","OK",-82.8071054,37.8145384
+"north miami, , fl, us","North Miami, FL, USA","OK",-80.1867138,25.8900949
+"dayton, , pa, us","Dayton, PA, USA","OK",-79.241983,40.8803431
+"orrington, , me, us","Orrington, ME, USA","OK",-68.7904626,44.7202096
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"langley , canada, bc, ca","Langley City, BC, Canada","OK",-122.6603519,49.1041779
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"melbourne , australia, , au","Melbourne VIC, Australia","OK",144.9630576,-37.8136276
+"valdosta, , ga, us","Valdosta, GA, USA","OK",-83.2784851,30.8327022
+"highland, , in, us","Highland, IN, USA","OK",-87.451984,41.5536468
+"ocala, , fl, us","Ocala, FL, USA","OK",-82.1400923,29.1871986
+"gresham, , or, us","Gresham, OR, USA","OK",-122.4347608,45.5098502
+"vinton, , ia, us","Vinton, IA 52349, USA","OK",-92.0185651,42.1646477
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"linden, , wi, us","Linden, WI 53553, USA","OK",-90.2734579,42.9177726
+"zadariv , village, , ","Zadariv, Ternopil Oblast, Ukraine, 48340","OK",25.0392866,49.0517219
+"parshallville, , mi, us","Parshallville, MI 48430, USA","OK",-83.7821709,42.6919745
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"north delta municipality&#44 b.c. , canada, bc, ",NA,"REQUEST_DENIED",NA,NA
+"aloha, , or, us","Aloha, OR, USA","OK",-122.8670454,45.4942838
+"redmond, , wa, us","Redmond, WA, USA","OK",-122.121512,47.6739881
+"amite, , la, us","Amite City, LA 70422, USA","OK",-90.5089815,30.7265747
+"bonham , northeast of, tx, us","Bonham, TX 75418, USA","OK",-96.1783111,33.5773275
+"nags head, , nc, us","Nags Head, NC 27959, USA","OK",-75.6240619,35.9573922
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"canton, , ma, us","Canton, MA, USA","OK",-71.1447732,42.1584324
+"flagstaff, , az, us","Flagstaff, AZ, USA","OK",-111.651302,35.1982836
+"downers grove, , il, us","Downers Grove, IL, USA","OK",-88.0111746,41.8089191
+"interstate 95, , ri, ","I-95, Rhode Island, USA","OK",-71.4898153,41.6668359
+"hamilton , uk, , gb","Hamilton, UK","OK",-4.053679,55.777633
+"weatherford, , tx, us","Weatherford, TX, USA","OK",-97.7972544,32.7592955
+"lake in the hills, , il, us","Lake in the Hills, IL, USA","OK",-88.3303618,42.1816908
+"wormerveer , netherlands, , ","1521 Wormerveer, Netherlands","OK",4.7980675,52.4903502
+"melbourne beach, , fl, us","Melbourne Beach, FL, USA","OK",-80.5603303,28.0683496
+"gastonia, , nc, us","Gastonia, NC, USA","OK",-81.1873005,35.262082
+"fort lauderdale, , fl, us","Fort Lauderdale, FL, USA","OK",-80.1373174,26.1224386
+"cliffwood, , nj, us","Cliffwood, Aberdeen Township, NJ, USA","OK",-74.2389815,40.4373301
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"sidmouth , uk, , gb","Sidmouth, UK","OK",-3.23756,50.67865
+"santa cruz, , ca, us","Santa Cruz, CA, USA","OK",-122.0307963,36.9741171
+"west los angeles, , ca, us","West Los Angeles, Los Angeles, CA, USA","OK",-118.442596,34.0412085
+"new york mills, , ny, us","New York Mills, NY, USA","OK",-75.2912778,43.1053475
+"bluefield, green valley, wv, ","Green Valley, WV 24701, USA","OK",-81.1392597,37.311229
+"terrace , canada, bc, ca","Terrace, BC, Canada","OK",-128.6031539,54.5181925
+"nashville, , in, us","Nashville, IN 47448, USA","OK",-86.2469535,39.2072501
+"sayward , canada, bc, ca","Sayward, BC, Canada","OK",-125.960212,50.383718
+"sayward , canada, bc, ca","Sayward, BC, Canada","OK",-125.960212,50.383718
+"harrison twp, , mi, ","Harrison Charter Township, MI, USA","OK",-82.8293423,42.5835951
+"fairfield, , ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"bucharest , romania, , ","Bucharest, Romania","OK",26.1025384,44.4267674
+"zionsville, , in, us","Zionsville, IN 46077, USA","OK",-86.261937,39.9508733
+"key west, , fl, us","Key West, FL 33040, USA","OK",-81.7799871,24.5550593
+"lynnwood, , wa, us","Lynnwood, WA, USA","OK",-122.3151314,47.8209301
+"arlington, , wa, us","Arlington, WA, USA","OK",-122.1251418,48.1987118
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"alcochete , portugal, , ","Alcochete, Portugal","OK",-8.9598931,38.7561726
+"atlantic ocean , canada, ns, ","Atlantic, NS B0T 1H0, Canada","OK",-65.343001,43.583399
+"garden city beach, , tn, ","110 S Waccamaw Dr, Murrells Inlet, SC 29576, USA","OK",-78.9985376,33.5766714
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"catheys valley, , ca, us","Catheys Valley, CA 95306, USA","OK",-120.0985207,37.4319861
+"tomah, , wi, us","Tomah, WI 54660, USA","OK",-90.5040214,43.9785759
+"vero beach, , fl, us","Vero Beach, FL, USA","OK",-80.3972736,27.6386434
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"henvey island , canada, on, ","Henvey Islands, Unorganized Centre Parry Sound District, ON, Canada","OK",-80.7348828,45.8495611
+"cardiff , jamaica, , ","Cardiff Hall,, Rickets Dr, Runaway Bay, Jamaica","OK",-77.3205415,18.4579622
+"ocean isle, , nc, ","Ocean Isle Beach, NC, USA","OK",-78.426672,33.8943393
+"ocean isle, , nc, ","Ocean Isle Beach, NC, USA","OK",-78.426672,33.8943393
+"lesage, , wv, us","Lesage, WV 25537, USA","OK",-82.2984823,38.5064731
+"pinnacles national monument, , ca, ","Pinnacles National Park, California 95043, USA","OK",-121.1824925,36.4905655
+"oro valley, , az, us","Oro Valley, AZ, USA","OK",-110.966488,32.3909071
+"dartmouth , canada, ns, ca","Dartmouth, NS, Canada","OK",-63.5579269,44.7000282
+"romania, , , ","Romania","OK",24.96676,45.943161
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"sidney , canada, bc, ca","Sidney, BC, Canada","OK",-123.399005,48.6502411
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"mayville, , mi, us","Mayville, MI 48744, USA","OK",-83.3524502,43.3369682
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"apple valley, , mn, us","Apple Valley, MN 55124, USA","OK",-93.21772,44.7319094
+"berwick, , me, us","Berwick, ME, USA","OK",-70.8635506,43.2683199
+"topeka, , ks, us","Topeka, KS, USA","OK",-95.6751576,39.0473451
+"sonoma, , ca, us","Sonoma, CA 95476, USA","OK",-122.4580356,38.291859
+"sonoma, , ca, us","Sonoma, CA 95476, USA","OK",-122.4580356,38.291859
+"sonoma, , ca, us","Sonoma, CA 95476, USA","OK",-122.4580356,38.291859
+"hudson, , fl, us","Hudson, FL 34667, USA","OK",-82.6934343,28.3644485
+"fife, , wa, us","Fife, WA, USA","OK",-122.3570664,47.2392665
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"westminster, , co, us","Westminster, CO, USA","OK",-105.0372046,39.8366528
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

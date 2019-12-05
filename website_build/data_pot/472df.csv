@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"raymond, , nh, us","Raymond, NH, USA","OK",-71.1833857,43.0362094
+"hesperia, , ca, us","Hesperia, CA, USA","OK",-117.3008784,34.4263886
+"coral springs, , fl, us","Coral Springs, FL, USA","OK",-80.2706044,26.271192
+"hanna city, , il, us","Hanna City, IL 61536, USA","OK",-89.7951061,40.6917043
+"plantation, , fl, us","Plantation, FL, USA","OK",-80.2331036,26.1275862
+"nanaimo , canada, bc, ca","Nanaimo, BC, Canada","OK",-123.9400648,49.1658836
+"shaver lake, , ca, us","Shaver Lake, CA, USA","OK",-119.3176258,37.104114
+"shelby, , oh, us","Shelby, OH 44875, USA","OK",-82.6618424,40.8814452
+"meriden, , ct, us","Meriden, CT, USA","OK",-72.8070435,41.5381535
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"butte meadows , near, ca, us","Butte Meadows, CA 95942, USA","OK",-121.5510858,40.0812707
+"hart&#39s location, , nh, ",NA,"REQUEST_DENIED",NA,NA
+"john day, , or, us","John Day, OR 97845, USA","OK",-118.95301,44.4159883
+"simi valley, , ca, us","Simi Valley, CA, USA","OK",-118.781482,34.2694474
+"gisborne , new zealand, , ","Gisborne, New Zealand","OK",178.017649,-38.662334
+"houtzdale r.d., , pa, ","Houtzdale, PA 16651, USA","OK",-78.3511289,40.825059
+"yazoo city, , ms, us","Yazoo City, MS 39194, USA","OK",-90.4056468,32.8551326
+"hudson, , nh, us","Hudson, NH 03051, USA","OK",-71.4398074,42.7647763
+"gaithersburg, , md, us","Gaithersburg, MD, USA","OK",-77.2016062,39.1439689
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"grants pass, , or, us","Grants Pass, OR, USA","OK",-123.3283925,42.4390069
+"grand saline, , tx, us","Grand Saline, TX 75140, USA","OK",-95.7094069,32.6734636
+"calgary , west of, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"marshall, , il, us","Marshall, IL 62441, USA","OK",-87.6936384,39.3914252
+"lancaster, , oh, us","Lancaster, OH 43130, USA","OK",-82.5993294,39.7136754
+"felixstowe , uk, nt, gb","Felixstowe, [no name] IP11 3SY, UK","OK",1.3239048,51.9491514
+"hudsonville, , mi, us","Hudsonville, MI 49426, USA","OK",-85.8650358,42.870859
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"georgia coast , 90 miles off shore, ga, ","Georgia, USA","OK",-82.9000751,32.1656221
+"christchurch , new zealand, , ","Christchurch, New Zealand","OK",172.6362254,-43.5320544
+"attica, , mi, us","Attica, MI 48412, USA","OK",-83.1664723,43.0314202
+"fulton, , mo, us","Fulton, MO 65251, USA","OK",-91.9479586,38.8467082
+"san pedro de macoris, , , ","San Pedro De Macoris 21000, Dominican Republic","OK",-69.3051234,18.46266
+"north adams, , ma, us","North Adams, MA 01247, USA","OK",-73.1087148,42.700915
+"pensacola, , fl, us","Pensacola, FL, USA","OK",-87.2169149,30.421309
+"elsberry, , mo, us","Elsberry, MO 63343, USA","OK",-90.7809598,39.1667151
+"ocean city, , nj, us","Ocean City, NJ, USA","OK",-74.5746001,39.2776156
+"philadelphia, , pa, us","Philadelphia, PA, USA","OK",-75.1652215,39.9525839
+"columbia, , sc, us","Columbia, SC, USA","OK",-81.0348144,34.0007104
+"john&#39s island, james island, sc, ",NA,"REQUEST_DENIED",NA,NA
+"paterson, , nj, us","Paterson, NJ, USA","OK",-74.171811,40.9167654
+"lee park, , pa, us","Lee Park, Hanover Township, PA 18706, USA","OK",-75.9146419,41.2311929
+"bourbonnais, , il, us","Bourbonnais, IL 60914, USA","OK",-87.879523,41.1760108
+"florida keys, , fl, ","Florida Keys, Florida, USA","OK",-81.5357506,25.0273356
+"paxton, , il, us","Paxton, IL 60957, USA","OK",-88.0953201,40.4603125
+"sterling park , near dulles airport, va, us","22685 Holiday Park Dr Suite 15 20598, Sterling, VA 20166, USA","OK",-77.4284439,38.9879399
+"victoria, , tx, us","Victoria, TX, USA","OK",-97.0035982,28.8052674
+"dryden , canada, on, ca","Dryden, ON P0V, Canada","OK",-92.8369592,49.7800938
+"minot, , nd, us","Minot, ND, USA","OK",-101.2922906,48.2329668
+"bornem , belgium, , ","2880 Bornem, Belgium","OK",4.2404586,51.0996057
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"cleveland, , oh, us","Cleveland, OH, USA","OK",-81.6943605,41.49932
+"laredo, , tx, us","Laredo, TX, USA","OK",-99.5075519,27.5035613
+"uk, england, , ","England, UK","OK",-1.1743197,52.3555177
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"morrice, , mi, us","Morrice, MI 48857, USA","OK",-84.1783003,42.8386425
+"ithaca, , ny, us","Ithaca, NY, USA","OK",-76.5018807,42.4439614
+"hamilton , uk, , gb","Hamilton, UK","OK",-4.053679,55.777633
+"margate, , fl, us","Margate, FL, USA","OK",-80.206436,26.2445263
+"mesa, , az, us","Mesa, AZ, USA","OK",-111.8314724,33.4151843
+"fredericksburg, , va, us","Fredericksburg, VA 22401, USA","OK",-77.4605399,38.3031837
+"griffin, , ga, us","Griffin, GA, USA","OK",-84.2640904,33.2467807
+"hemel hempstead , uk, , gb","Hemel Hempstead, UK","OK",-0.448632,51.753241
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"rhein-main air base , west germany, , ",NA,"ZERO_RESULTS",NA,NA
+"victory heights , franklin, pa, us","5978 US-322, Franklin, PA 16323, USA","OK",-79.7625462,41.3626565
+"whitman, , ma, us","Whitman, MA 02382, USA","OK",-70.935599,42.0806564
+"wilsonville, , il, us","Wilsonville, IL, USA","OK",-89.8562091,39.0708798
+"castro valley, , ca, us","Castro Valley, CA, USA","OK",-122.0738678,37.6955029
+"farmington, , ny, us","Farmington, NY, USA","OK",-77.3094674,42.9877521
+"hollister, , ca, us","Hollister, CA 95023, USA","OK",-121.4016021,36.8524545
+"mitrovica , kosovo&#44 yugoslavia, , ",NA,"REQUEST_DENIED",NA,NA
+"napier , new zealand, , ","Napier, New Zealand","OK",176.9120178,-39.4928444
+"whidbey island, , wa, ","Whidbey Island, Washington, USA","OK",-122.4395026,47.9982761
+"marion, , in, us","Marion, IN, USA","OK",-85.6591442,40.5583739
+"attica, , mi, us","Attica, MI 48412, USA","OK",-83.1664723,43.0314202
+"overton, , tx, us","Overton, TX, USA","OK",-94.9785515,32.2745983
+"portugal, , , ","Portugal","OK",-8.224454,39.399872
+"calgary , canada, ab, ca","Calgary, AB, Canada","OK",-114.0718831,51.0447331
+"parkersburg, , wv, us","Parkersburg, WV, USA","OK",-81.5615135,39.2667418
+"plymouth , uk, , gb","Plymouth, UK","OK",-4.1426565,50.3754565
+"victorville, , ca, us","Victorville, CA, USA","OK",-117.2927641,34.5362184
+"baadon, , mi, ","Michigan, USA","OK",-85.6023643,44.3148443
+"temple terrace, , fl, us","Temple Terrace, FL, USA","OK",-82.3892596,28.0352964
+"evansville, , in, us","Evansville, IN, USA","OK",-87.5710898,37.9715592
+"montgomery, , al, us","Montgomery, AL, USA","OK",-86.3077368,32.3792233
+"ethell, , wa, ","Ethel, WA, USA","OK",-122.7404917,46.5322276
+"andover, , mn, us","Andover, MN 55304, USA","OK",-93.2913405,45.2332984
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"cali-buga , colombia, , ",NA,"ZERO_RESULTS",NA,NA
+"auxvasse, , mo, us","Auxvasse, MO 65231, USA","OK",-91.8971198,39.0180962
+"hamburg, , ny, us","Hamburg, NY 14075, USA","OK",-78.8294768,42.7158927
+"bethel, , ct, us","Bethel, CT 06801, USA","OK",-73.4139621,41.3712283
+"greeneville, , tn, us","Greeneville, TN, USA","OK",-82.8309861,36.1631574
+"ladue, , mo, us","Ladue, MO, USA","OK",-90.3806725,38.6497743
+"oroville, , ca, us","Oroville, CA, USA","OK",-121.556359,39.5137752
+"port wentworth, , ga, us","Port Wentworth, GA, USA","OK",-81.163168,32.149092
+"birmingham, , al, us","Birmingham, AL, USA","OK",-86.8103567,33.5185892
+"buenos aires , argentina, , ","Buenos Aires, Argentina","OK",-58.3815591,-34.6036844
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

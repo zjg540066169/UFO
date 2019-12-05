@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"san ramon, , ca, us","San Ramon, CA, USA","OK",-121.9780153,37.7799273
+"camano island, , wa, ","Camano, WA, USA","OK",-122.5282138,48.1739862
+"terre haute, , in, us","Terre Haute, IN, USA","OK",-87.4139092,39.4667034
+"spokane, , wa, us","Spokane, WA, USA","OK",-117.4260465,47.6587802
+"beckley, , wv, us","Beckley, WV 25801, USA","OK",-81.1881557,37.7781702
+"troy, , mi, us",NA,"ZERO_RESULTS",NA,NA
+"lander, , wy, us","Lander, WY 82520, USA","OK",-108.7306725,42.833014
+"interstate-95, , ri, ","I-95, Rhode Island, USA","OK",-71.4898153,41.6668359
+"morongo valley, , ca, us","Morongo Valley, CA 92256, USA","OK",-116.5808472,34.0469549
+"orlando, oviedo, fl, ","Oviedo, FL, USA","OK",-81.2081203,28.669997
+"amityville, , ny, us","Amityville, NY 11701, USA","OK",-73.4170673,40.6789893
+"commack, , ny, us","Commack, NY, USA","OK",-73.2928943,40.8428759
+"the woodlands , n. houston, tx, us","The Woodlands, TX, USA","OK",-95.4612625,30.1658207
+"central islip, , ny, us","Central Islip, NY, USA","OK",-73.2017811,40.7906538
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"golden valley, , mn, us","Golden Valley, MN, USA","OK",-93.3600034,44.9917149
+"san bernardino, , ca, us","San Bernardino, CA, USA","OK",-117.2897652,34.1083449
+"victoria , canada, bc, ca","Victoria, BC, Canada","OK",-123.3656444,48.4284207
+"lakin, , wv, us","Lakin, WV 25287, USA","OK",-82.0870872,38.9586901
+"brighton, , ia, us","Brighton, IA 52540, USA","OK",-91.8196149,41.1747394
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"shreveport , 20 miles off, la, us","I-20, Shreveport, LA, USA","OK",-93.80548,32.4697458
+"melrose park, , il, us",NA,"ZERO_RESULTS",NA,NA
+"estero, , fl, us","Estero, FL, USA","OK",-81.8067523,26.438136
+"mammoth lakes , near , ca, us","Mammoth Lakes, CA 93546, USA","OK",-118.972079,37.648546
+"norwich , uk, , gb","Norwich, UK","OK",1.297355,52.6308859
+"pacific ocean , inflight&#44 japan-los angeles, , ",NA,"REQUEST_DENIED",NA,NA
+"livingston, , la, us","Livingston, LA 70754, USA","OK",-90.7478737,30.5021345
+"cedar rapids, , ia, us","Cedar Rapids, IA, USA","OK",-91.6656232,41.9778795
+"trout run, , pa, us","Trout Run, PA 17771, USA","OK",-77.0551983,41.3857456
+"vienna, , va, us","Vienna, VA 22180, USA","OK",-77.2652604,38.9012225
+"alpharetta, , ga, us","Alpharetta, GA, USA","OK",-84.2940899,34.0753762
+"walden, , vt, us","Walden, VT, USA","OK",-72.2231563,44.4497781
+"paris, , ms, us","Paris, MS 38949, USA","OK",-89.4598017,34.1787205
+"lexington, , ky, us","Lexington, KY, USA","OK",-84.5037164,38.0405837
+"richmond, , va, us","Richmond, VA, USA","OK",-77.4360481,37.5407246
+"edmonton , canada, ab, ca","Edmonton, AB, Canada","OK",-113.4938229,53.5461245
+"rockaway beach, , ny, ","Rockaway Beach, Queens, NY, USA","OK",-73.8166259,40.5860224
+"panteago , italy, , ","3100 W Arkansas Ln, Arlington, TX 76016, USA","OK",-97.1561901,32.7058432
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"seattle , shoreline, wa, us","Shoreline, WA, USA","OK",-122.3456972,47.7559659
+"laughlin, , nv, us","Laughlin, NV 89029, USA","OK",-114.5730208,35.1677771
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"albany, , or, us","Albany, OR, USA","OK",-123.1059282,44.6365107
+"kendal , uk, , gb","Kendal LA9, UK","OK",-2.74629,54.328006
+"nashville, , tn, us","Nashville, TN, USA","OK",-86.7816016,36.1626638
+"hurricane, , ut, us","Hurricane, UT 84737, USA","OK",-113.2899484,37.1752607
+"kannattota , sri lanka, , ","Kannaththota, Sri Lanka","OK",80.2822811,7.0947226
+"williamsburg, , va, us","Williamsburg, VA, USA","OK",-76.7074571,37.2707022
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"sacramento, , ca, us","Sacramento, CA, USA","OK",-121.4943996,38.5815719
+"swannanoa, , nc, us","Swannanoa, NC 28778, USA","OK",-82.3998431,35.5978935
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"overland park, , ks, us","Overland Park, KS, USA","OK",-94.6707917,38.9822282
+"lake ariel, , pa, us","Lake Ariel, PA 18436, USA","OK",-75.3834512,41.4536638
+"hammond, , la, us","Hammond, LA, USA","OK",-90.4611995,30.5043583
+"stratford, , ct, us","Stratford, CT, USA","OK",-73.1331651,41.1845415
+"knoxville, , tn, us","Knoxville, TN, USA","OK",-83.9207392,35.9606384
+"dothan, , al, us","Dothan, AL, USA","OK",-85.3904888,31.2232313
+"new baltimore, , ny, us","New Baltimore, NY, USA","OK",-73.7886601,42.446194
+"visalia, , ca, us","Visalia, CA, USA","OK",-119.2920585,36.3302284
+"angelus oaks, , ca, us","Angelus Oaks, CA 92305, USA","OK",-116.9825321,34.1458435
+"auburn, , nh, us","Auburn, NH, USA","OK",-71.348398,43.0045288
+"okahandja , namibia, , ","Okahandja, Namibia","OK",16.9063491,-21.9718816
+"puerto rico, , , ","Puerto Rico","OK",-66.590149,18.220833
+"south easton, , ma, us","South Easton, Easton, MA, USA","OK",-71.0806659,42.0467781
+"kailua-kona, , hi, ","Kailua-Kona, HI, USA","OK",-155.9969261,19.639994
+"fontana, , ca, us","Fontana, CA, USA","OK",-117.435048,34.0922335
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"mesquite, , tx, us","Mesquite, TX, USA","OK",-96.5991593,32.7667955
+"fort hood, , tx, ","Fort Hood, TX 76544, USA","OK",-97.7413143,31.1950013
+"winnie, , tx, us","Winnie, TX 77665, USA","OK",-94.3840777,29.8202205
+"winnie, , tx, us","Winnie, TX 77665, USA","OK",-94.3840777,29.8202205
+"benwood, , wv, us","Benwood, WV, USA","OK",-80.7342493,40.0181288
+"fort smith, , ar, us",NA,"ZERO_RESULTS",NA,NA
+"santa maria, , ca, us","Santa Maria, CA, USA","OK",-120.4357191,34.9530337
+"barstow, , tx, us","Barstow, TX 79719, USA","OK",-103.3937815,31.4612451
+"yadkinville, , nc, us","Yadkinville, NC 27055, USA","OK",-80.6595079,36.1345807
+"homestead, , fl, us","Homestead, FL, USA","OK",-80.4775569,25.4687224
+"rancho viejo, , tx, us","Rancho Viejo, TX, USA","OK",-97.5563763,26.0395222
+"gainesville, , fl, us","Gainesville, FL, USA","OK",-82.3248262,29.6516344
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"panama city, , fl, us","Panama City, FL, USA","OK",-85.6602058,30.1588129
+"monroe, , mi, us","Monroe, MI, USA","OK",-83.3977101,41.9164343
+"oxnard, , ca, us","Oxnard, CA, USA","OK",-119.1770516,34.1975048
+"spring lake, , mi, us",NA,"ZERO_RESULTS",NA,NA
+"yuma, , az, us","Yuma, AZ, USA","OK",-114.6276916,32.6926512
+"buffalo , above, tx, us","Buffalo, TX 75831, USA","OK",-96.0580197,31.4637866
+"fowleville, , mi, ","Fowlerville, MI 48836, USA","OK",-84.0730142,42.6605894
+"pearson, , ga, us","Pearson, GA 31642, USA","OK",-82.8523668,31.297703
+"chesapeake, , va, us","Chesapeake, VA, USA","OK",-76.2874927,36.7682088
+"los angeles, , ca, us","Los Angeles, CA, USA","OK",-118.2436849,34.0522342
+"riverside, , ca, us","Riverside, CA, USA","OK",-117.3754942,33.9806005
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"fairlawn, , oh, us","Fairlawn, OH, USA","OK",-81.609844,41.127833
+"millersville, , pa, us","Millersville, PA, USA","OK",-76.3541274,39.9978764
+"rochester, , ny, us","Rochester, NY, USA","OK",-77.6088465,43.1565779
+"denver, , co, us","Denver, CO, USA","OK",-104.990251,39.7392358
+"fremont, , ca, us","Fremont, CA, USA","OK",-121.988583,37.5485396
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

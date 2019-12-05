@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"islip, , ny, us","Islip, NY, USA","OK",-73.2103934,40.7298207
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"ainsworth, , ia, us","Ainsworth, IA 52201, USA","OK",-91.5515505,41.2875208
+"alexandria, , va, us","Alexandria, VA, USA","OK",-77.0469214,38.8048355
+"mitchell, , sd, us","Mitchell, SD 57301, USA","OK",-98.0297992,43.7094283
+"san jacinto, , ca, us","San Jacinto, CA, USA","OK",-116.958635,33.7839084
+"lancaster, , ca, us","Lancaster, CA, USA","OK",-118.1541632,34.6867846
+"runnemede, , nj, us","Runnemede, NJ, USA","OK",-75.0679497,39.8523358
+"butler, , pa, us","Butler, PA, USA","OK",-79.8953328,40.8611755
+"st. louis, , mo, us","St. Louis, MO, USA","OK",-90.1994042,38.6270025
+"waynesboro, , ga, us","Waynesboro, GA 30830, USA","OK",-82.0156736,33.0898731
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"ames, , ia, us","Ames, IA, USA","OK",-93.6319131,42.0307812
+"kihei, , hi, us","Kihei, HI 96753, USA","OK",-156.4450063,20.7644275
+"east longmeadow, , ma, us","East Longmeadow, MA 01028, USA","OK",-72.5125863,42.0645396
+"santa rosa, , ca, us","Santa Rosa, CA, USA","OK",-122.7140548,38.440429
+"ottumwa, , ia, us","Ottumwa, IA 52501, USA","OK",-92.4083022,41.0160293
+"joliet, , il, us","Joliet, IL, USA","OK",-88.0817251,41.525031
+"indian heights, , in, us","Indian Heights, Kokomo, IN 46902, USA","OK",-86.1255471,40.4272601
+"winchester, , tn, us","Winchester, TN 37398, USA","OK",-86.1122071,35.1859163
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"magnolia, , tx, us","Magnolia, TX, USA","OK",-95.7507815,30.2093794
+"kansas , location unspecified, ks, ","Kansas, USA","OK",-98.4842465,39.011902
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"fleetwood, dryville, pa, ","Dryville Rd, Fleetwood, PA 19522, USA","OK",-75.8046762,40.4637141
+"riddle, , or, us","Riddle, OR 97469, USA","OK",-123.3642332,42.9509507
+"quartsite, phoenix, az, ","Quartzsite, AZ 85346, USA","OK",-114.2299486,33.6639137
+"houston, , tx, us","Houston, TX, USA","OK",-95.3698028,29.7604267
+"santa fe, , nm, us","Santa Fe, NM, USA","OK",-105.937799,35.6869752
+"spring hill, , tn, us","Spring Hill, TN, USA","OK",-86.9300023,35.751179
+"rio piedras, , , ","Río Piedras, San Juan, Puerto Rico","OK",-66.0404057,18.3894791
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"north port, , fl, us","North Port, FL, USA","OK",-82.2359254,27.044224
+"foxboro, , ma, us","Foxborough, MA, USA","OK",-71.2478251,42.0653812
+"foxboro, , ma, us","Foxborough, MA, USA","OK",-71.2478251,42.0653812
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"woodland, , ca, us","Woodland, CA, USA","OK",-121.7732971,38.6785157
+"newark, , ca, us","Newark, CA 94560, USA","OK",-122.0383968,37.5299765
+"glen dale, , md, ","Glenn Dale, MD, USA","OK",-76.8205265,38.9876104
+"winnipeg , canada, mb, ca","Winnipeg, MB, Canada","OK",-97.1383744,49.895136
+"galesburg, , il, us","Galesburg, IL 61401, USA","OK",-90.3712395,40.9478158
+"waterbury, , ct, us","Waterbury, CT, USA","OK",-73.0514965,41.5581525
+"watseka, , il, us","Watseka, IL 60970, USA","OK",-87.7364218,40.7761465
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"ystradgynlais , uk, , gb","Ystradgynlais, UK","OK",-3.753603,51.779621
+"york, , pa, us","York, PA, USA","OK",-76.727745,39.9625984
+"katy, , tx, us","Katy, TX, USA","OK",-95.8245093,29.7857765
+"fraser, , co, us","Fraser, CO, USA","OK",-105.8172316,39.9449868
+"crockett, , tx, us","Crockett, TX 75835, USA","OK",-95.4566136,31.3182359
+"lafayette, walnut creek, ca, ","Lafayette, CA, USA","OK",-122.1180201,37.8857582
+"kensington, , md, us","Kensington, MD 20895, USA","OK",-77.0763669,39.0256651
+"homestead, , fl, us","Homestead, FL, USA","OK",-80.4775569,25.4687224
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"amado, , az, us","Amado, AZ, USA","OK",-111.0645359,31.7078658
+"brisbane , qld&#44 australia, , au",NA,"REQUEST_DENIED",NA,NA
+"tacoma, , wa, us","Tacoma, WA, USA","OK",-122.4442906,47.2528768
+"deming, , nm, us","Deming, NM 88030, USA","OK",-107.7586404,32.2686981
+"austin, , tx, us","Austin, TX, USA","OK",-97.7430608,30.267153
+"hot springs, , ar, us","Hot Springs, AR, USA","OK",-93.0551795,34.5037004
+"boise, , id, us","Boise, ID, USA","OK",-116.2023137,43.6150186
+"oak creek, , wi, us","Oak Creek, WI 53154, USA","OK",-87.8631362,42.8858503
+"brighton , uk, , gb","Brighton, UK","OK",-0.137163,50.82253
+"kuwait, , , ","Kuwait","OK",47.481766,29.31166
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"burlington , canada, on, ca","Burlington, ON, Canada","OK",-79.7990319,43.3255196
+"lockport, , il, us","Lockport, IL, USA","OK",-88.057837,41.5894752
+"foely, , al, ","Foley, AL, USA","OK",-87.6835974,30.4065868
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"columbia, , ms, us","Columbia, MS 39429, USA","OK",-89.8354283,31.2524566
+"flint, , mi, us","Flint, MI, USA","OK",-83.6874562,43.0125274
+"birmingham , uk, , gb","Birmingham, UK","OK",-1.890401,52.486243
+"tafton, , pa, ","Tafton, PA 18464, USA","OK",-75.1829535,41.404534
+"clarksville, , tn, us","Clarksville, TN, USA","OK",-87.3594528,36.5297706
+"lancaster, , ny, us","Lancaster, NY, USA","OK",-78.6341996,42.8982361
+"mustang, , nv, us","1011 Wild Horse Canyon Dr, Sparks, NV 89434, USA","OK",-119.5562496,39.5446534
+"ridgecrest, , ca, us","Ridgecrest, CA 93555, USA","OK",-117.6708966,35.6224561
+"sheridan, , wy, us","Sheridan, WY 82801, USA","OK",-106.9561791,44.7971939
+"afghanistan, , , ","Afghanistan","OK",67.709953,33.93911
+"el paso, , tx, us","El Paso, TX, USA","OK",-106.4850217,31.7618778
+"sterling heights, , mi, us","Sterling Heights, MI, USA","OK",-83.0302033,42.5803122
+"mission viejo, lake forest, ca, ","Mission Viejo, CA, USA","OK",-117.6581562,33.5968913
+"irvine, , ca, us","Irvine, CA, USA","OK",-117.8265049,33.6845673
+"miami, , fl, us","Miami, FL, USA","OK",-80.1917902,25.7616798
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"heber springs, , ar, us","Heber Springs, AR 72543, USA","OK",-92.03126,35.4914677
+"highlands ranch, , co, us","Highlands Ranch, CO, USA","OK",-104.9739333,39.5480789
+"milpitas, , ca, us","Milpitas, CA 95035, USA","OK",-121.8995741,37.4323341
+"dade city, , fl, us","Dade City, FL, USA","OK",-82.1959178,28.3647248
+"indian rocks, , fl, ","Indian Rocks Beach, FL, USA","OK",-82.846561,27.8960019
+"mexicali&#44 baja california , mexico, , ",NA,"REQUEST_DENIED",NA,NA
+"campbell, , ca, us","Campbell, CA, USA","OK",-121.9499568,37.2871651
+"caracas , venezuela, , ","Caracas, Capital District, Venezuela","OK",-66.9036063,10.4805937
+"stanley, , nm, us","Stanley, NM 87056, USA","OK",-105.98027,35.1485724
+"san francisco, , ca, us","San Francisco, CA, USA","OK",-122.4194155,37.7749295
+"phoenix, , az, us","Phoenix, AZ, USA","OK",-112.0740373,33.4483771
+"new york city , queens, ny, us","Queens, NY, USA","OK",-73.7948516,40.7282239
+"venice, , la, us","Venice, Boothville-Venice, LA 70091, USA","OK",-89.3594449,29.2784888
+"haulover, , fl, ","Haulover Park, 10800 Collins Ave, Miami Beach, FL 33154, USA","OK",-80.1244416,25.9065987
+"kahului, , hi, us","Kahului, HI, USA","OK",-156.4729469,20.8893351
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

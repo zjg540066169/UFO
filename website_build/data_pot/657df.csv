@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"killeen, , tx, us","Killeen, TX, USA","OK",-97.7277959,31.1171194
+"everett, , wa, us","Everett, WA, USA","OK",-122.2020795,47.9789848
+"west richland, , wa, us","West Richland, WA, USA","OK",-119.3614091,46.3043015
+"newark, , nj, us","Newark, NJ, USA","OK",-74.1723667,40.735657
+"clinton, , mo, us","Clinton, MO 64735, USA","OK",-93.7782689,38.3686324
+"socastee, , sc, us","Socastee, SC, USA","OK",-78.9983676,33.683504
+"petersburgh, , ny, ","Petersburg, NY 12138, USA","OK",-73.3413948,42.7508272
+"royal oak, , mi, us","Royal Oak, MI, USA","OK",-83.1446485,42.4894801
+"clevedon , uk, , gb","Clevedon, UK","OK",-2.856196,51.442108
+"huntsville, , al, us","Huntsville, AL, USA","OK",-86.5861037,34.7303688
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"riverton, , wy, us","Riverton, WY 82501, USA","OK",-108.3806054,43.024673
+"menifee, , ca, us","Menifee, CA, USA","OK",-117.185294,33.6971468
+"redding, , ca, us","Redding, CA, USA","OK",-122.3916754,40.5865396
+"atlanta, , ga, us","Atlanta, GA, USA","OK",-84.3879824,33.7489954
+"skopje , macedonia, , ","Skopje, North Macedonia","OK",21.4407659,42.0050274
+"la grange, , tx, us","La Grange, TX 78945, USA","OK",-96.876647,29.9055033
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"dallas, , tx, us","Dallas, TX, USA","OK",-96.7969879,32.7766642
+"tromsoe , norway, , ","Tromsø, Norway","OK",18.9553239,69.6492047
+"tromsoe , norway, , ","Tromsø, Norway","OK",18.9553239,69.6492047
+"brighton , uk, , gb","Brighton, UK","OK",-0.137163,50.82253
+"hazelton, , nd, us","Hazelton, ND 58544, USA","OK",-100.2795572,46.4847126
+"lexington, , mo, us","Lexington, MO 64067, USA","OK",-93.8799426,39.1847339
+"mcgregor, , tx, us","McGregor, TX, USA","OK",-97.4091792,31.4440557
+"new castle, , ca, ","Newcastle, CA 95658, USA","OK",-121.1338884,38.8736824
+"grand island, , ne, us","Grand Island, NE, USA","OK",-98.3420118,40.9263957
+"gentry, , ar, us","Gentry, AR 72734, USA","OK",-94.4846601,36.2675793
+"guelph , canada, on, ca","Guelph, ON, Canada","OK",-80.2481666,43.5448048
+"nassau county, , ny, us","Nassau County, NY, USA","OK",-73.5594128,40.6546145
+"moses lake, , wa, us","Moses Lake, WA 98837, USA","OK",-119.2780771,47.1301417
+"summersville, , wv, us","Summersville, WV 26651, USA","OK",-80.8525981,38.2812203
+"nipomo, , ca, us","Nipomo, CA 93444, USA","OK",-120.4759986,35.0427547
+"towaco, , nj, us","Towaco, Montville, NJ 07082, USA","OK",-74.3439578,40.9232019
+"springfield, , il, us","Springfield, IL, USA","OK",-89.6501481,39.7817213
+"brentwood, , ca, us","Brentwood, CA 94513, USA","OK",-121.6957863,37.931868
+"cross roads, , tx, us","Cross Roads, TX 76227, USA","OK",-97.0022908,33.2318281
+"washington&#44 d.c., , dc, ",NA,"REQUEST_DENIED",NA,NA
+"seneca falls, , ny, us","Seneca Falls, NY 13148, USA","OK",-76.7966215,42.9106219
+"norwalk, , ca, us","Norwalk, CA, USA","OK",-118.081733,33.9022367
+"mendota, , ca, us","Mendota, CA 93640, USA","OK",-120.3815574,36.7535611
+"bloomington, , in, us","Bloomington, IN, USA","OK",-86.5263857,39.165325
+"greenville, , sc, us","Greenville, SC, USA","OK",-82.3940104,34.8526176
+"hilton, , ny, us","Hilton, NY 14468, USA","OK",-77.7933423,43.2881161
+"keswick , canada, on, ca","Keswick, Georgina, ON, Canada","OK",-79.453512,44.2266889
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"san antonio, , tx, us","San Antonio, TX, USA","OK",-98.4936282,29.4241219
+"scarborough , canada, on, ca","Scarborough, Toronto, ON, Canada","OK",-79.2317521,43.7764258
+"grand forks, , nd, us","Grand Forks, ND, USA","OK",-97.0328547,47.9252568
+"toronto , canada, on, ca","Toronto, ON, Canada","OK",-79.3831843,43.653226
+"chesterton, , in, us","Chesterton, IN 46304, USA","OK",-87.0641992,41.6105937
+"ellesmere port , uk, , gb","Ellesmere Port, UK","OK",-2.897404,53.279812
+"silver water , canada, on, ","Silver Water, ON P0P 1Y0, Canada","OK",-82.855147,45.857854
+"chicago, , il, us","Chicago, IL, USA","OK",-87.6297982,41.8781136
+"minot, , nd, us","Minot, ND, USA","OK",-101.2922906,48.2329668
+"oscoda, , mi, us","Oscoda, MI, USA","OK",-83.3307974,44.4202888
+"louisville, , ky, us","Louisville, KY, USA","OK",-85.7584557,38.2526647
+"davis, , ca, us","Davis, CA, USA","OK",-121.7405167,38.5449065
+"warsaw, , va, us","Warsaw, VA 22572, USA","OK",-76.7580139,37.9587446
+"battle creek, , mi, us","Battle Creek, MI, USA","OK",-85.1797142,42.3211522
+"berryville, , ar, us","Berryville, AR 72616, USA","OK",-93.5679667,36.364792
+"randolph, , ma, us","Randolph, MA 02368, USA","OK",-71.042551,42.1619739
+"sedro woolley, , wa, ","Sedro-Woolley, WA 98284, USA","OK",-122.2361101,48.50389
+"deerfield, , il, us","Deerfield, IL, USA","OK",-87.8445119,42.1711365
+"deer park, , wa, us","Deer Park, WA 99006, USA","OK",-117.476891,47.9543375
+"kent, , wa, us","Kent, WA, USA","OK",-122.2348432,47.3809335
+"san benito, , tx, us","San Benito, TX 78586, USA","OK",-97.6311006,26.132576
+"pulaski, , wi, us","Pulaski, WI 54162, USA","OK",-88.2426025,44.6722157
+"port angeles, , wa, us","Port Angeles, WA, USA","OK",-123.4307413,48.118146
+"lynnwood, , wa, us","Lynnwood, WA, USA","OK",-122.3151314,47.8209301
+"temecula, , ca, us","Temecula, CA, USA","OK",-117.1483648,33.4936391
+"hot springs, , va, us","Hot Springs, VA 24445, USA","OK",-79.831587,37.9993993
+"oak lawn, , il, us","Oak Lawn, IL 60453, USA","OK",-87.7479528,41.719978
+"winnetka, , ca, us","Winnetka, Los Angeles, CA, USA","OK",-118.5739621,34.2048586
+"wichita, , ks, us","Wichita, KS, USA","OK",-97.330053,37.6871761
+"northfield falls, , vt, us","Northfield Falls, Northfield, VT 05663, USA","OK",-72.6485574,44.1686842
+"n. phoenix, , az, ","North St, Phoenix, AZ 85043, USA","OK",-112.2009619,33.4550714
+"eagle lake, , me, us","Eagle Lake, ME, USA","OK",-68.5894891,47.0400396
+"durango, , co, us","Durango, CO, USA","OK",-107.8800667,37.27528
+"kingston, , wa, us","Kingston, WA, USA","OK",-122.4981921,47.7987072
+"metuchen, , nj, us","Metuchen, NJ 08840, USA","OK",-74.3632049,40.5431598
+"pompey, , ny, us","Pompey, NY 13084, USA","OK",-76.0160326,42.8989556
+"shelton, , wa, us","Shelton, WA 98584, USA","OK",-123.1007066,47.2150945
+"richland, , wa, us","Richland, WA, USA","OK",-119.2751996,46.28042
+"yosemite, , ca, ","Yosemite National Park, California, USA","OK",-119.5383294,37.8651011
+"milton, , nh, us","Milton, NH, USA","OK",-71.0091998,43.4440953
+"seaside, , or, us","Seaside, OR 97138, USA","OK",-123.9226385,45.9931636
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"omaha, , ne, us","Omaha, NE, USA","OK",-95.9345034,41.2565369
+"fairfield, , ca, us","Fairfield, CA, USA","OK",-122.0405151,38.2491956
+"watertown, , ny, us","Watertown, NY 13601, USA","OK",-75.9107565,43.9747838
+"woodland hills, , ca, us","Woodland Hills, Los Angeles, CA, USA","OK",-118.6089752,34.165357
+"rapid city, , sd, us","Rapid City, SD, USA","OK",-103.2310149,44.0805434
+"apple valley, , ca, us","Apple Valley, CA, USA","OK",-117.1858759,34.5008311
+"leavenworth, , wa, us","Leavenworth, WA 98826, USA","OK",-120.6614765,47.5962326
+"mashpee, , ma, us","Mashpee, MA, USA","OK",-70.4819674,41.647872
+"carmichael, , ca, us","Carmichael, CA, USA","OK",-121.3282843,38.617127
+"atlantic highlands, , nj, us","Atlantic Highlands, NJ, USA","OK",-74.034306,40.4078864
+"grafton, , ma, ","Grafton, MA, USA","OK",-71.6856236,42.2070391
+"tazewell, , tn, us","Tazewell, TN 37879, USA","OK",-83.569352,36.45425
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323

@@ -1,0 +1,102 @@
+"place_string","address_google","status","lat","long"
+"napa, , ca, us","Napa, CA, USA","OK",-122.286865,38.2975381
+"costa rica , riu palace hotel, , ","Playa Matapalo, Carrillo, Guanacaste Province, Sardinal District, Costa Rica","OK",-85.7491292,10.5276717
+"old bridge, , nj, us","Old Bridge Township, NJ, USA","OK",-74.307282,40.4128551
+"fayetteville, , nc, us","Fayetteville, NC, USA","OK",-78.8783585,35.0526641
+"long beach, , ca, us","Long Beach, CA, USA","OK",-118.1937395,33.7700504
+"new york city , brooklyn, ny, us","Brooklyn, NY, USA","OK",-73.9441579,40.6781784
+"athens, , tn, us","Athens, TN 37303, USA","OK",-84.5929898,35.4428512
+"alameda, , ca, us","Alameda, CA, USA","OK",-122.2821855,37.7798721
+"englewood, , fl, us","Englewood, FL, USA","OK",-82.3525952,26.9620053
+"windsor , canada, on, ca","Windsor, ON, Canada","OK",-83.0363633,42.3149367
+"sarasota, , fl, us","Sarasota, FL, USA","OK",-82.5306527,27.3364347
+"chillicothe, , oh, us","Chillicothe, OH 45601, USA","OK",-82.9824019,39.3331197
+"longview, , wa, us","Longview, WA, USA","OK",-122.9381672,46.1381676
+"highfill, , ar, us","Highfill, AR, USA","OK",-94.3577108,36.2614675
+"midvale, , ut, us","Midvale, UT, USA","OK",-111.8999353,40.6110589
+"tucson, , az, us","Tucson, AZ, USA","OK",-110.9747108,32.2226066
+"glendora, , ca, us","Glendora, CA, USA","OK",-117.865339,34.1361187
+"albuquerque, , nm, us","Albuquerque, NM, USA","OK",-106.650422,35.0843859
+"clarkton, , nc, us","Clarkton, NC 28433, USA","OK",-78.6561257,34.4873922
+"dunstable , uk, , gb","Dunstable, UK","OK",-0.52039,51.885644
+"exeter, , nh, us","Exeter, NH 03833, USA","OK",-70.9477546,42.9814292
+"mccall, , id, us","McCall, ID 83638, USA","OK",-116.1171311,44.906183
+"burbank, , ca, us","Burbank, CA, USA","OK",-118.3089661,34.1808392
+"jonesburg, , mo, us","Jonesburg, MO 63351, USA","OK",-91.3059895,38.8533773
+"peterborough , uk, , gb","Peterborough, UK","OK",-0.2405299,52.5694985
+"east wenatchee, , wa, us","East Wenatchee, WA 98802, USA","OK",-120.2931263,47.4156824
+"wenatchee, , wa, us","Wenatchee, WA 98801, USA","OK",-120.3103494,47.4234599
+"fort smith, , ar, ","Fort Smith, AR, USA","OK",-94.3985475,35.3859242
+"de leon, , tx, us","De Leon, TX 76444, USA","OK",-98.5358825,32.1109743
+"vilonia , just south of, ar, us","Vilonia, AR 72173, USA","OK",-92.2079277,35.083975
+"alberton, , mt, us","Alberton, MT 59820, USA","OK",-114.4734549,47.0015869
+"belton , 5mi south on sr y, mo, us","S State Rte Y, Belton, MO, USA","OK",-94.5317215,38.7913519
+"outer space, , , ","1474 N Milwaukee Ave, Chicago, IL 60622, USA","OK",-87.6749671,41.908616
+"scottsdale, , az, us","Scottsdale, AZ, USA","OK",-111.9260519,33.4941704
+"seattle, , wa, us","Seattle, WA, USA","OK",-122.3320708,47.6062095
+"greenville, , nh, us","Greenville, NH, USA","OK",-71.8122914,42.7673195
+"millersburg, , mo, us","Millersburg, MO 65251, USA","OK",-92.1232045,38.8985661
+"mcalester, , ok, us","McAlester, OK 74501, USA","OK",-95.7697131,34.9334298
+"columbia, , mo, us","Columbia, MO, USA","OK",-92.3340724,38.9517053
+"damascus , boring, or, us","Damascus, OR 97089, USA","OK",-122.4589783,45.4176209
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"east rutherford, secaucus, nj, ","Secaucus, NJ, USA","OK",-74.0565298,40.7895453
+"san jose del cabo , mexico, , ","San José del Cabo, Baja California Sur, Mexico","OK",-109.7024376,23.0636562
+"gilbert, , az, us","Gilbert, AZ, USA","OK",-111.789027,33.3528264
+"rohnert park, , ca, us","Rohnert Park, CA, USA","OK",-122.7010984,38.3396367
+"beaver, , oh, us","Beaver, OH 45613, USA","OK",-82.8243382,39.0306272
+"prescott valley, , az, us","Prescott Valley, AZ, USA","OK",-112.315721,34.6100243
+"laguna niguel, , ca, us","Laguna Niguel, CA, USA","OK",-117.7149438,33.5236744
+"pasadena, , ca, us","Pasadena, CA, USA","OK",-118.1445155,34.1477849
+"ludhiana , india, , ","Ludhiana, Punjab, India","OK",75.8572758,30.900965
+"east providence, , ri, us","East Providence, RI, USA","OK",-71.3700545,41.8137116
+"bemidji, , mn, us","Bemidji, MN 56601, USA","OK",-94.8826861,47.471573
+"mira loma, , ca, us","Mira Loma, Jurupa Valley, CA, USA","OK",-117.5159449,33.9845417
+"lenexa, , ks, us","Lenexa, KS, USA","OK",-94.7335709,38.9536174
+"orlando, , fl, us","Orlando, FL, USA","OK",-81.3792365,28.5383355
+"brantford , canada, on, ca","Brantford, ON, Canada","OK",-80.2644254,43.1393867
+"croydon, , pa, us","Croydon, PA 19021, USA","OK",-74.9034996,40.0873329
+"mt. holly , rural, pa, ","Mt Holly Springs, PA 17065, USA","OK",-77.1899817,40.1184235
+"odessa, , tx, us","Odessa, TX, USA","OK",-102.3676431,31.8456816
+"green bay, , wi, us","Green Bay, WI, USA","OK",-88.0132958,44.5133188
+"sharpsville, , pa, us","Sharpsville, PA, USA","OK",-80.4720141,41.2592225
+"sharpsville, , pa, us","Sharpsville, PA, USA","OK",-80.4720141,41.2592225
+"wilson, , nc, us","Wilson, NC, USA","OK",-77.9155395,35.7212689
+"hurricane, , wv, us","Hurricane, WV, USA","OK",-82.0201368,38.4325896
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"bellingham, , wa, us","Bellingham, WA, USA","OK",-122.4786854,48.7519112
+"tarboro, , nc, us","Tarboro, NC 27886, USA","OK",-77.5358049,35.8968236
+"vienna, , oh, us","Vienna Center, OH 44473, USA","OK",-80.6715317,41.2476902
+"wilson, , nc, us","Wilson, NC, USA","OK",-77.9155395,35.7212689
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"chimes, , ar, us","Chimes, Archey Valley Township, AR 72645, USA","OK",-92.7384985,35.6981337
+"bremerton, , wa, us","Bremerton, WA, USA","OK",-122.6269768,47.5650067
+"williamstown, , wv, us","Williamstown, WV 26187, USA","OK",-81.4481766,39.4006299
+"bend, , or, us","Bend, OR, USA","OK",-121.3153096,44.0581728
+"owings mills , area, md, us","Owings Mills, MD, USA","OK",-76.7802528,39.4195499
+"broummana , lebanon, , ","Broummana, Lebanon","OK",35.6386901,33.8852731
+"jacksonville, , fl, us","Jacksonville, FL, USA","OK",-81.655651,30.3321838
+"puyallup, , wa, us","Puyallup, WA, USA","OK",-122.2928974,47.1853785
+"london , uk, , gb","London, UK","OK",-0.1277583,51.5073509
+"national city, , ca, us","National City, CA, USA","OK",-117.0991967,32.6781085
+"apex, , nc, us","Apex, NC, USA","OK",-78.8502856,35.732652
+"orillia , canada, on, ca","Orillia, ON, Canada","OK",-79.4196783,44.6082465
+"houston , canada, bc, ca","Houston, BC V0J, Canada","OK",-126.6482087,54.3979972
+"hoofddorp , netherlands, , ","Hoofddorp, Netherlands","OK",4.6907041,52.3060853
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"guayaquill , ecuador, , ","Guayaquil, Ecuador","OK",-79.8890662,-2.1894128
+"satellite beach, , fl, us","Satellite Beach, FL, USA","OK",-80.5900519,28.1761233
+"beachwood, , oh, us","Beachwood, OH 44122, USA","OK",-81.5087322,41.4644979
+"beaverton, , or, us","Beaverton, OR, USA","OK",-122.8013771,45.4888761
+"gaviota, , ca, us","Gaviota, CA 93117, USA","OK",-120.2148716,34.4716558
+"myrtle beach, , sc, us","Myrtle Beach, SC, USA","OK",-78.8866943,33.6890603
+"deweese , south of, ne, us","Deweese, NE, USA","OK",-98.1386573,40.3547334
+"lithonia, , ga, us","Lithonia, GA 30058, USA","OK",-84.1051939,33.7123305
+"montreal , canada, qc, ca","Montreal, QC, Canada","OK",-73.567256,45.5016889
+"goldbar, , wa, ","Gold Bar, WA, USA","OK",-121.6970606,47.8567695
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"greenwood lake, , ny, us","Greenwood Lake, NY, USA","OK",-74.294317,41.2225942
+"las vegas, , nv, us","Las Vegas, NV, USA","OK",-115.1398296,36.1699412
+"peebles, , oh, us","Peebles, OH 45660, USA","OK",-83.4057458,38.9489593
+"new orleans, , la, us","New Orleans, LA, USA","OK",-90.0715323,29.9510658
+"edmond, , ok, us","Edmond, OK, USA","OK",-97.4780954,35.6528323
