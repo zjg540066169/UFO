@@ -97,7 +97,6 @@ After seeing the distribution of shape and UFO sighting frequency, we are tryint
 ```{r day_night_shape}
 ufo_day_night_shape =
 ufo_data %>%  
-separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate(date, into = c("month","day","year"), sep = "/") %>%
 separate(time, into = c("hour","minute"), sep = ":") %>% 
 mutate(hour=recode(hour, "00"="24")) %>% 
@@ -164,6 +163,10 @@ Can we take a guess that light is most frequent shape because majority of sighti
 
 ```{r}
 ## USA
+ufo =
+ufo_data %>%  
+separate( date, into = c("month","day","year"), sep = "/")
+
   ufo %>%
   filter(country == "USA", year >= 1950, encounter_length <6000) %>%
   select(year, month, encounter_length) %>%
