@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -237,7 +238,6 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -269,12 +269,6 @@ $(document).ready(function () {
 }
 }
 
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
 
 .toc-content {
   padding-left: 30px;
@@ -494,7 +488,7 @@ plot_us_month</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/spagetti_appearance_each_hour-1.png" width="90%" /></p>
 <p><em>Conclusion:</em> 1):The most frequent shape of UFO is light; 2):The UFO is more likely to appear during night.</p>
 </div>
-<div id="monthyear-vs.encounter-length-time" class="section level2">
+<div id="monthyear-vs.-encounter-length-time" class="section level2">
 <h2><em>Month/Year vs. Encounter length time </em></h2>
 <pre class="r"><code>## USA
 ufo =
@@ -530,7 +524,7 @@ separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), se
 <p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-1-1.png" width="90%" /></p>
 <p>The above plot shows that there are more observations with lower encounter length time after the year of 1990.</p>
 </div>
-<div id="shape-vs.encounter-length-time" class="section level2">
+<div id="shape-vs.-encounter-length-time" class="section level2">
 <h2><em>Shape vs. Encounter length time </em></h2>
 <p><strong>The violin plot of encounter length for each shape of ufo &amp; The bar chart of the median of encounter length time for each shape of UFO </strong></p>
 <pre class="r"><code># tidy data
@@ -635,7 +629,7 @@ ufo_month_counts_plot</code></pre>
 <p>According to the plot here, the number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year. In other words, the frequency of UFO appearance is higher after June, and peaks at July.</p>
 <p><em>Conclusion:</em> 1):There is no association between the shape of UFO and encounter length time; 2):The UFO is more likely to appear during the second half of the year.</p>
 </div>
-<div id="lasso-length-time-vs.location-time-shape" class="section level2">
+<div id="lasso-length-time-vs.-location-time-shape" class="section level2">
 <h2><em>LASSO (length time vs. location, time, shape)</em></h2>
 <p>After the visualization, we are interested in predicting and finding the association between the encounter length time with UFO shape, sighting location and sighting time. In order to make a accurate prediction, we use Lasso model to find the best fit. The reason for adapting Lasso model is that the parameter in the model will be large, and Lasso will give tune the parameters automatically into their best fit.</p>
 <pre class="r"><code># Read Dataset
