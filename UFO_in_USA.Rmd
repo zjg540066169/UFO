@@ -326,6 +326,9 @@ In other words, the frequency of UFO appearance is higher after June, and peaks 
             
 
 # *LASSO (length time vs. location, time, shape)*
+
+After the visualization, we are interested in predicting and finding the association between the encounter length time with UFO shape, sighting location and sighting time. In order to make a accurate prediction, we use Lasso model to find the best fit. The reason for adapting Lasso model is that the parameter in the model will be large, and Lasso will give tune the parameters automatically into their best fit. 
+
 ```{r read dataset}
 # Read Dataset
 ufo =
