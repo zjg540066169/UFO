@@ -186,7 +186,7 @@ separate( date, into = c("month","day","year"), sep = "/")
   geom_tile(aes(fill = ave_encountered_length), colour = "white") +
   scale_fill_gradient(low = "lightyellow", high = "darkblue") +
   scale_x_continuous(name="Years", 
-                     breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
+                     breaks = c(1950, 1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
                                 ), limits= c (1950,2015)) +
   labs(
     title = "Average UFO Encounter Length Compared among Months Across Time in USA ",
@@ -368,7 +368,7 @@ y_process = function(df){#get dependent variables
 
 
 
-```{r fig.width = 20, fig.height = 20}
+```{r fig.width = 10, fig.height = 10}
 # Run Lasso on the Data, Exclude City
 ufo_state = 
   ufo %>% 
@@ -390,6 +390,7 @@ lasso_fit_state %>%
     x = "Lambda",
     y = "Estimated Coefficients"
     ) +
+  theme(legend.position = "right") +
   theme(plot.title = element_text(hjust = 0.5))
 
 # cross - validation to calculate the best lambda
@@ -417,7 +418,7 @@ According to the result, none of terms are significant. Hence, we can conclude t
 # *Run lasso on data, only the city appeared more than 50 times included*
 
 We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.
-```{r fig.width = 15, fig.height = 15}
+```{r fig.width = 10, fig.height = 10}
 
 ufo_city = 
   ufo %>% 
@@ -444,6 +445,7 @@ lasso_fit_city %>%
     x = "Lambda",
     y = "Estimated Coefficients"
     ) +
+  theme(legend.position = "right") +
   theme(plot.title = element_text(hjust = 0.5))
 
 # cross - validation to calculate the best lambda
