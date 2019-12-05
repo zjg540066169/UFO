@@ -62,7 +62,7 @@ The light is the most frequent shape of UFO
 
 ufo =
 ufo_data %>%  
-separate(date_time, into = c( "date","time"), sep = " " ) %>%
+#separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate( date, into = c("month","day","year"), sep = "/") %>% 
   filter(country == "USA",year >= 1950) %>%
   group_by(state) %>%
@@ -133,7 +133,7 @@ The spagetti plot here confirms that UFOs are more likely to appear during night
 <strong> Numbers of appearance of UFO in each hour by month </strong>
 ```{r spagetti_appearance_each_hour}
 plot_us_month = ufo_data %>% 
-  separate(date_time, into = c( "date","time"), sep = " " ) %>%
+  #separate(date_time, into = c( "date","time"), sep = " " ) %>%
   separate( date, into = c("month","day","year"), sep = "/") %>% 
   filter(country == "USA",year >= 1950) %>%
   separate(time, into = c("hour", "minute"), sep = ":") %>% 
@@ -159,6 +159,37 @@ plot_us_month
             2):The UFO is more likely to appear during night.
 
 Can we take a guess that light is most frequent shape because majority of sighting occured during the nighttime? Is there a association between these two variables?
+
+# Month/Year vs. encounter length time 
+
+```{r}
+## USA
+  ufo %>%
+  filter(country == "USA", year >= 1950, encounter_length <6000) %>%
+  select(year, month, encounter_length) %>%
+  mutate(year = as.numeric(year),
+         month = as.numeric(month)) %>%
+  group_by(year,month) %>%
+  arrange(desc(month)) %>%
+  mutate(
+  ave_encountered_length = mean(encounter_length/60)) %>%
+  select(-encounter_length) %>%
+  ungroup() %>%
+  mutate(month = month.name[as.numeric(month)]) %>%
+  ggplot(aes(x = year, y = month)) +
+  geom_tile(aes(fill = ave_encountered_length), colour = "white") +
+  scale_fill_gradient(low = "lightyellow", high = "darkblue") +
+  scale_x_continuous(name="Years", 
+                     breaks = c(1950,    1955,1960,1965,1970,1975,1980,1985,1990,1995,2000,2005,2010,2015
+                                ), limits= c (1950,2015)) +
+  labs(
+    title = "Average UFO Encounter Length Compared among Months Across Time in USA ",
+    x = "Years",
+    y = "Month"
+  ) + 
+  theme(axis.text.x = element_text(angle = 300)) +
+  theme(plot.subtitle = element_text(hjust = 0.5))
+```
 
 
 
@@ -217,7 +248,7 @@ Whether the relationship between shape and the length time would change by time
 ```{r length_day_night}
 ufo_day_night_length =
 ufo_data %>%  
-separate(date_time, into = c( "date","time"), sep = " " ) %>%
+# separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate(date, into = c("month","day","year"), sep = "/") %>%
 separate(time, into = c("hour","minute"), sep = ":") %>% 
 mutate(hour=recode(hour, "00"="24")) %>% 
@@ -255,7 +286,7 @@ The plot did not display any particular pattern or trend over the shape of UFO, 
 ```{r ufo_appearance_month}
 ufo_month_counts_plot =
 ufo_data %>%  
-separate(date_time, into = c( "date","time"), sep = " " ) %>%
+# separate(date_time, into = c( "date","time"), sep = " " ) %>%
 separate(date, into = c("month","day","year"), sep = "/") %>%
 filter(country == "USA") %>% 
 mutate(year_1 = case_when(year >= 1950 ~ "true",
