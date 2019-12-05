@@ -12,15 +12,19 @@ library(flexdashboard)
 library(tidyverse)
 library(viridis)
 library(leaflet)
+rsconnect::setAccountInfo(name='ljf123-final',
+			  token='2D3CCCE4B6471B1C1EE6D2236959DEAB',
+			  secret='fJ9Z9UzAv8wgVhnKcfqzX+jBrn1wUdB5SqfFopGl')
 ```
 
 ```{r import, include=FALSE}
 # data import and cleaning
-ufo_data = read_csv("./data/tidied_data_final.csv", na = "")
+ufo_data =
+  read_csv("./data/tidied_data_final.csv", na = "") %>% 
+  select(-X12)
 
 ufo =
   ufo_data %>%  
-#  separate(date_time, into = c("date","time"), sep = " " ) %>%
   separate(date, into = c("month","day","year"), sep = "/") %>% 
   mutate(a = longitude, longitude = latitude, latitude = a) %>% 
   filter(country == "USA") %>% 

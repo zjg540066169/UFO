@@ -28,3 +28,5 @@ devtools::install_cran("data.table", quiet = TRUE)
 devtools::install_cran("gdtools", quiet = TRUE)
 devtools::install_cran("gdalUtils", quiet = TRUE)
 devtools::install_cran("leaflet", quiet = TRUE)
+devtools::install_cran("hexbin", quiet = TRUE)
+
