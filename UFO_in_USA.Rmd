@@ -47,13 +47,13 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 ufo_data = readr::read_csv("./data/tidied_data_final.csv")
 ```
 
-# Visualization of UFO in USA
+## *Visualization of UFO in USA*
 
 The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S, as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.
 
 
 
-# The Distribution of UFO Shape in the U.S
+## *The Distribution of UFO Shape in the U.S*
 
 
 <strong> Boxplot showing the distribution of the UFO Shape Observed in US </strong>.
@@ -162,7 +162,7 @@ plot_us_month
             2):The UFO is more likely to appear during night.
 
 
-# Month/Year vs. Encounter length time 
+## *Month/Year vs. Encounter length time *
 
 ```{r}
 ## USA
@@ -200,7 +200,7 @@ separate( date, into = c("month","day","year"), sep = "/")
 
 The above plot shows that there are more observations with lower encounter length time after the year of 1990. 
 
-# Shape vs. Encounter length time 
+## *Shape vs. Encounter length time *
 
 <strong>The violin plot of encounter length for each shape of ufo & The bar chart of the median of encounter length time for each shape of UFO </strong>
 
@@ -291,7 +291,7 @@ count = n()) %>%
 The plot did not display any particular pattern or trend over the shape of UFO, hence we conclude that there is no association between encounter length time and UFO shape. 
 
 
-# UFO Appearance in Each Month
+## *UFO Appearance in Each Month*
 ```{r ufo_appearance_month}
 ufo_month_counts_plot =
 ufo_data %>%  
@@ -325,7 +325,7 @@ In other words, the frequency of UFO appearance is higher after June, and peaks 
             2):The UFO is more likely to appear during the second half of the year.
             
 
-# *LASSO (length time vs. location, time, shape)*
+## *LASSO (length time vs. location, time, shape)*
 
 After the visualization, we are interested in predicting and finding the association between the encounter length time with UFO shape, sighting location and sighting time. In order to make a accurate prediction, we use Lasso model to find the best fit. The reason for adapting Lasso model is that the parameter in the model will be large, and Lasso will give tune the parameters automatically into their best fit. 
 

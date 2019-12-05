@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -238,6 +237,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -269,6 +269,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -395,12 +401,12 @@ div.tocify {
 </div>
 
 
-<div id="visualization-of-ufo-in-usa" class="section level1">
-<h1>Visualization of UFO in USA</h1>
+<div id="visualization-of-ufo-in-usa" class="section level2">
+<h2><em>Visualization of UFO in USA</em></h2>
 <p>The goal of this part is to explore whether there exist any association between the shape of UFOs and their appearance in the U.S, as well as to detect if there is any potential correlation between shape of UFOs and their encounter length time.</p>
 </div>
-<div id="the-distribution-of-ufo-shape-in-the-u.s" class="section level1">
-<h1>The Distribution of UFO Shape in the U.S</h1>
+<div id="the-distribution-of-ufo-shape-in-the-u.s" class="section level2">
+<h2><em>The Distribution of UFO Shape in the U.S</em></h2>
 <p><strong> Boxplot showing the distribution of the UFO Shape Observed in US </strong>.</p>
 <pre class="r"><code>### Boxplot showing the distribution of the UFO Shape Observed in US
 
@@ -488,8 +494,8 @@ plot_us_month</code></pre>
 <p><img src="UFO_in_USA_files/figure-html/spagetti_appearance_each_hour-1.png" width="90%" /></p>
 <p><em>Conclusion:</em> 1):The most frequent shape of UFO is light; 2):The UFO is more likely to appear during night.</p>
 </div>
-<div id="monthyear-vs.-encounter-length-time" class="section level1">
-<h1>Month/Year vs. Encounter length time</h1>
+<div id="monthyear-vs.encounter-length-time" class="section level2">
+<h2><em>Month/Year vs. Encounter length time </em></h2>
 <pre class="r"><code>## USA
 ufo =
 ufo_data %&gt;%  
@@ -524,8 +530,8 @@ separate( date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), se
 <p><img src="UFO_in_USA_files/figure-html/unnamed-chunk-1-1.png" width="90%" /></p>
 <p>The above plot shows that there are more observations with lower encounter length time after the year of 1990.</p>
 </div>
-<div id="shape-vs.-encounter-length-time" class="section level1">
-<h1>Shape vs. Encounter length time</h1>
+<div id="shape-vs.encounter-length-time" class="section level2">
+<h2><em>Shape vs. Encounter length time </em></h2>
 <p><strong>The violin plot of encounter length for each shape of ufo &amp; The bar chart of the median of encounter length time for each shape of UFO </strong></p>
 <pre class="r"><code># tidy data
 length_shape_data = ufo_data %&gt;% 
@@ -601,8 +607,8 @@ count = n()) %&gt;%
 <p><img src="UFO_in_USA_files/figure-html/length_day_night-1.png" width="90%" /></p>
 <p>The plot did not display any particular pattern or trend over the shape of UFO, hence we conclude that there is no association between encounter length time and UFO shape.</p>
 </div>
-<div id="ufo-appearance-in-each-month" class="section level1">
-<h1>UFO Appearance in Each Month</h1>
+<div id="ufo-appearance-in-each-month" class="section level2">
+<h2><em>UFO Appearance in Each Month</em></h2>
 <pre class="r"><code>ufo_month_counts_plot =
 ufo_data %&gt;%  
 # separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
@@ -629,8 +635,8 @@ ufo_month_counts_plot</code></pre>
 <p>According to the plot here, the number of appearance by month of UFO is lower during the first half of the year and higher during the second half of the year. In other words, the frequency of UFO appearance is higher after June, and peaks at July.</p>
 <p><em>Conclusion:</em> 1):There is no association between the shape of UFO and encounter length time; 2):The UFO is more likely to appear during the second half of the year.</p>
 </div>
-<div id="lasso-length-time-vs.-location-time-shape" class="section level1">
-<h1><em>LASSO (length time vs. location, time, shape)</em></h1>
+<div id="lasso-length-time-vs.location-time-shape" class="section level2">
+<h2><em>LASSO (length time vs. location, time, shape)</em></h2>
 <p>After the visualization, we are interested in predicting and finding the association between the encounter length time with UFO shape, sighting location and sighting time. In order to make a accurate prediction, we use Lasso model to find the best fit. The reason for adapting Lasso model is that the parameter in the model will be large, and Lasso will give tune the parameters automatically into their best fit.</p>
 <pre class="r"><code># Read Dataset
 ufo =
@@ -802,6 +808,7 @@ glmnet::coef.glmnet(lasso_best_fit_state) </code></pre>
 ## ufo_shapetriangle  .           
 ## ufo_shapeunknown   .</code></pre>
 <p>According to the result, none of terms are significant. Hence, we can conclude that the knowledge of state, shape, year, month, day, hour, minute does not contribute any insights on the encounter length of UFO.</p>
+</div>
 <div id="run-lasso-on-data-only-the-city-appeared-more-than-50-times-included" class="section level2">
 <h2><em>Run lasso on data, only the city appeared more than 50 times included</em></h2>
 <p>We only include cities that has UFO occured more than 50 times, because if not, we would need to adopt high-dimensional models which introduce non-significant terms in the model. To avoid insignificant model, we here only include cities with 50 or more UFO appearances.</p>
@@ -1023,7 +1030,6 @@ glmnet::coef.glmnet(lasso_best_fit_city) </code></pre>
 ## ufo_shapetriangle               .           
 ## ufo_shapeunknown                .</code></pre>
 <p>According to the result, most of terms are not statistically significant. The only siginificant term is the city Virginia Beach. However, the coefficient for this term is too small (9.223037e-11), so that we can just ignore. Hence, we can conclude that the knowledge of state, city, shape, month, year, hour, day, mintue does not contribute any insights on the encounter length of UFO.</p>
-</div>
 </div>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
