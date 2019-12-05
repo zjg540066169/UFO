@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Jungang Zou" />
+
+<meta name="date" content="2019-11-29" />
+
+<title>UFO_Prediction</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="EDA.html">EDA</a>
+</li>
+<li>
+  <a href="UFO_in_USA.html">UFO in USA</a>
+</li>
+<li>
+  <a href="index.html">Map of State</a>
+</li>
+<li>
+  <a href="index.html">Map of City</a>
+</li>
+<li>
+  <a href="index.html">Models</a>
+</li>
+<li>
+  <a href="https://zjg540066169.github.io">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">UFO_Prediction</h1>
+<h4 class="author">Jungang Zou</h4>
+<h4 class="date">11/29/2019</h4>
+
+</div>
+
+
+<pre class="r"><code>ufo_data = read_csv(file = &quot;./data/tidied_data_final.csv&quot;)</code></pre>
+<pre><code>## Parsed with column specification:
+## cols(
+##   latitude = col_double(),
+##   longitude = col_double(),
+##   city_description = col_character(),
+##   ufo_shape = col_character(),
+##   encounter_length = col_double(),
+##   described_encounter_length = col_character(),
+##   description = col_character(),
+##   date_documented = col_character(),
+##   country = col_character(),
+##   state = col_character(),
+##   city = col_character(),
+##   X12 = col_logical(),
+##   date = col_character(),
+##   time = col_time(format = &quot;&quot;)
+## )</code></pre>
+<pre class="r"><code>ufo =
+  ufo_data %&gt;%  
+  filter(country == &quot;USA&quot;) %&gt;% 
+  #na.omit(ufo_data) %&gt;% 
+  
+  #separate(date_time, into = c( &quot;date&quot;,&quot;time&quot;), sep = &quot; &quot; ) %&gt;%
+  separate(date, into = c(&quot;month&quot;,&quot;day&quot;,&quot;year&quot;), sep = &quot;/&quot;) %&gt;% 
+  separate(time, into = c(&quot;hour&quot;,&quot;minute&quot;), sep = &quot;:&quot;) %&gt;% 
+  select(year, month, day, hour, minute,state, city) %&gt;%
+  na.omit(ufo_data) %&gt;% 
+  mutate(add = paste(state, city)) %&gt;% 
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) #%&gt;%  
+  #mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), state = as.factor(state), city = as.factor(city)) %&gt;%
+  #select(-city, -state)# %&gt;% 
+  #as.data.frame()
+  
+ # mutate(ufo_indentification = as.factor(T)) #%&gt;% 
+  
+ufo_city = 
+  ufo %&gt;% 
+  dplyr::group_by(add) %&gt;% 
+  mutate(count = dplyr::n()) %&gt;% 
+  filter(count &gt; 100) %&gt;% 
+  ungroup() %&gt;% 
+  select(-count) %&gt;% 
+  select(-state, -city) %&gt;% 
+  mutate(add = as.factor(add))
+
+
+
+
+
+#library(GGally)
+#ggpairs(ufo,
+#  columns = c(&quot;year&quot;, &quot;month&quot;, &quot;day&quot;, &quot;hour&quot;, &quot;minute&quot;),#c(&quot;mfr&quot;,   &quot;fat&quot;, &quot;calories&quot;, &quot;sodium&quot;, &quot;sugars&quot;),
+  #ggplot2::aes(colour = state)
+#)
+nu_cv = tibble(
+  nu = numeric(),
+  f1_svm = list(),
+  label = list(),
+  pred_label = list()
+)
+
+factor_variable_cope = function(df){
+  if (is.tibble(df)) {
+    df = as.data.frame(df)
+  }
+  for (i in colnames(df[, sapply(df, is.factor)])) {
+    for (level in unique(df[, i])) {
+        df[paste(i, level, sep = &quot;_&quot;)] = 
+            as.integer(ifelse(df[, i] == level, 1, -1))
+    }
+  }
+  df
+}
+
+for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
+  false_samples = 5000
+
+  false_data = tibble(
+    year = sample(1900:2100, false_samples, replace = T),
+    month = sample(ufo_city$month, false_samples, replace = T),
+    day = sample(1:30, false_samples, replace = T),
+    hour = sample(0:24, false_samples, replace = T),
+    minute = sample(ufo_city$minute, false_samples, replace = T),
+    add = sample(ufo_city$add, false_samples, replace = T)
+  ) %&gt;% 
+    anti_join(ufo_city, by = c(&quot;year&quot;, &quot;month&quot;, &quot;day&quot;, &quot;hour&quot;, &quot;minute&quot;, &quot;add&quot;))# %&gt;% 
+    #factor_variable_cope() %&gt;% 
+    #select(-month, -add) %&gt;% 
+    #mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) 
+  
+  
+  false_n = nrow(false_data)
+  true_n = nrow(ufo_city)
+  
+  train_df = 
+    ufo_city %&gt;% 
+    bind_rows(false_data) %&gt;% 
+    factor_variable_cope() %&gt;% 
+    select(-month, -add) %&gt;% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %&gt;% 
+    sample_frac(1)
+  
+  
+  
+  false_df = 
+    train_df %&gt;% 
+    slice((true_n + 1):(true_n + false_n)) %&gt;% 
+    mutate(y = FALSE) %&gt;% 
+    as_tibble() 
+  
+  
+  cv_df = 
+    crossv_mc(train_df, 10) %&gt;% 
+    mutate(
+      train = map(train, as_tibble),
+      test = map(test, as_tibble)#,
+      
+      #test = bind_rows(test, false_df)                              # add false samples
+      )
+  
+  for (i in 1:nrow(cv_df)) {
+    cv_df$test[[i]] = mutate(cv_df$test[[i]], y = TRUE)
+    cv_df$test[[i]] = rbind(cv_df$test[[i]], false_df)
+    cv_df$label[[i]] = cv_df$test[[i]]$y
+    cv_df$test[[i]] = select(cv_df$test[[i]], -y)
+  }
+   
+  cv_model = 
+    cv_df %&gt;% 
+    mutate(svm_mod = map(train, ~svm(.x , y = NULL,
+             type = &#39;one-classification&#39;,
+             nu = nu_,
+             scale = TRUE, 
+             kernel = &quot;linear&quot;))) %&gt;% 
+    mutate(pred_label = map2(svm_mod, test, ~predict(.x, .y)))
+  
+  
+  cv_f1 =
+    cv_model %&gt;% 
+    mutate(f1_svm = map2_dbl(.x = label, .y = pred_label, ~F1_Score(y_true = .x, y_pred = .y))) 
+  
+  nu_cv = 
+    tibble(
+      nu = nu_,
+      f1_svm = mean(pull(cv_f1, f1_svm))
+      #label = nest(as_tibble(pull(cv_model, label))),
+      #pred_label = nest(as_tibble(pull(cv_model, pred_label))),
+    ) %&gt;% 
+    #slice(1) %&gt;% 
+    rbind(nu_cv, .)
+  
+}</code></pre>
+<pre class="r"><code>cvp = 
+  nu_cv %&gt;% 
+  mutate(nu = case_when(
+    nu &lt;= 0.3 ~ log10(nu),
+    nu &gt; 0.3 ~ exp(nu)
+  ))
+
+cvp %&gt;% 
+  ggplot(aes(x = nu, y = f1_svm, color = nu)) +
+  geom_point() +
+  geom_line() +
+  scale_x_continuous(
+    breaks = pull(cvp, nu),
+    labels = c(&quot;0.001&quot;, &quot;0.005&quot;, &quot;0.01&quot;, &quot;0.05&quot;, &quot;0.1&quot;, &quot;0.3&quot;, &quot;0.5&quot;, &quot;0.7&quot;, &quot;0.9&quot;, &quot;0.99&quot;)
+  ) +
+  labs(
+    title = &quot;Cross Validation Plot for nu in SVM&quot;,
+    x = &quot;nu&quot;,
+    y = &quot;F1 Score&quot;) +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))</code></pre>
+<p><img src="UFO_prediction_files/figure-html/unnamed-chunk-2-1.png" width="90%" /></p>
+<pre class="r"><code>nu_ = 0.5
+
+svm_model = 
+    ufo_city %&gt;% 
+    bind_rows(false_data) %&gt;% 
+    factor_variable_cope() %&gt;% 
+    select(-month, -add) %&gt;% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %&gt;% 
+    sample_frac(1) %&gt;% 
+    svm(y = NULL,
+             type = &#39;one-classification&#39;,
+             nu = nu_,
+             scale = TRUE, 
+             kernel = &quot;linear&quot;)
+  
+svm_model</code></pre>
+<pre><code>## 
+## Call:
+## svm.default(x = ., y = NULL, scale = TRUE, type = &quot;one-classification&quot;, 
+##     kernel = &quot;linear&quot;, nu = nu_)
+## 
+## 
+## Parameters:
+##    SVM-Type:  one-classification 
+##  SVM-Kernel:  linear 
+##       gamma:  0.01587302 
+##          nu:  0.5 
+## 
+## Number of Support Vectors:  7083</code></pre>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -2,7 +2,7 @@
 title: "UFO_Prediction"
 author: "Jungang Zou"
 date: "11/29/2019"
-output: github_document
+output: html_document
 ---
 
 ```{r set up, include = FALSE}
@@ -15,16 +15,15 @@ try(source("./dependencies.R"), silent = TRUE)
 set.seed(10)
 
 # load library
-library(tidyverse)
+
 library(viridis)
 library(ggridges)
 library(patchwork)
 library(rvest)
-library(mapsapi)
+library(MLmetrics)
 library(e1071)
-library(ggbiplot)
-library(FactoMineR)
-
+library(tidyverse)
+library(modelr)
 
 
 knitr::opts_chunk$set(
@@ -57,32 +56,191 @@ theme_set(theme_bw() + theme(legend.position = "bottom"))
 ufo_data = read_csv(file = "./data/tidied_data_final.csv")
 
 
+
+
 ufo =
   ufo_data %>%  
+  filter(country == "USA") %>% 
   #na.omit(ufo_data) %>% 
-  separate(date_time, into = c( "date","time"), sep = " " ) %>%
+  
+  #separate(date_time, into = c( "date","time"), sep = " " ) %>%
   separate(date, into = c("month","day","year"), sep = "/") %>% 
   separate(time, into = c("hour","minute"), sep = ":") %>% 
-  mutate(month = month.name[as.numeric(month)], year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), country = as.factor(country), state = as.factor(state), city = as.factor(city)) %>% 
-  select(year, month, day, hour, minute, country, state, city) %>% 
-  mutate(ufo_indentification = as.factor(T)) 
+  select(year, month, day, hour, minute,state, city) %>%
+  na.omit(ufo_data) %>% 
+  mutate(add = paste(state, city)) %>% 
+  mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day)) #%>%  
+  #mutate(month = as.factor(month.name[as.numeric(month)]), year = as.numeric(year), hour = as.numeric(hour), minute = as.numeric(minute), day = as.numeric(day), state = as.factor(state), city = as.factor(city)) %>%
+  #select(-city, -state)# %>% 
+  #as.data.frame()
+  
+ # mutate(ufo_indentification = as.factor(T)) #%>% 
+  
+ufo_city = 
+  ufo %>% 
+  dplyr::group_by(add) %>% 
+  mutate(count = dplyr::n()) %>% 
+  filter(count > 100) %>% 
+  ungroup() %>% 
+  select(-count) %>% 
+  select(-state, -city) %>% 
+  mutate(add = as.factor(add))
 
-model = svm(ufo_indentification ~ ., data = ufo, type = 'one-classification', kernel = "linear")
 
-plot(x = model,data = ufo, formula =  minute ~ year)
+
+
+
+#library(GGally)
+#ggpairs(ufo,
+#  columns = c("year", "month", "day", "hour", "minute"),#c("mfr",   "fat", "calories", "sodium", "sugars"),
+  #ggplot2::aes(colour = state)
+#)
+nu_cv = tibble(
+  nu = numeric(),
+  f1_svm = list(),
+  label = list(),
+  pred_label = list()
+)
+
+factor_variable_cope = function(df){
+  if (is.tibble(df)) {
+    df = as.data.frame(df)
+  }
+  for (i in colnames(df[, sapply(df, is.factor)])) {
+    for (level in unique(df[, i])) {
+        df[paste(i, level, sep = "_")] = 
+            as.integer(ifelse(df[, i] == level, 1, -1))
+    }
+  }
+  df
+}
+
+for (nu_ in c(0.001, 0.005, 0.01, 0.05, 0.1, 0.3, 0.5, 0.7, 0.9, 0.99)) {
+  false_samples = 5000
+
+  false_data = tibble(
+    year = sample(1900:2100, false_samples, replace = T),
+    month = sample(ufo_city$month, false_samples, replace = T),
+    day = sample(1:30, false_samples, replace = T),
+    hour = sample(0:24, false_samples, replace = T),
+    minute = sample(ufo_city$minute, false_samples, replace = T),
+    add = sample(ufo_city$add, false_samples, replace = T)
+  ) %>% 
+    anti_join(ufo_city, by = c("year", "month", "day", "hour", "minute", "add"))# %>% 
+    #factor_variable_cope() %>% 
+    #select(-month, -add) %>% 
+    #mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) 
+  
+  
+  false_n = nrow(false_data)
+  true_n = nrow(ufo_city)
+  
+  train_df = 
+    ufo_city %>% 
+    bind_rows(false_data) %>% 
+    factor_variable_cope() %>% 
+    select(-month, -add) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
+    sample_frac(1)
+  
+  
+  
+  false_df = 
+    train_df %>% 
+    slice((true_n + 1):(true_n + false_n)) %>% 
+    mutate(y = FALSE) %>% 
+    as_tibble() 
+  
+  
+  cv_df = 
+    crossv_mc(train_df, 10) %>% 
+    mutate(
+      train = map(train, as_tibble),
+      test = map(test, as_tibble)#,
+      
+      #test = bind_rows(test, false_df)                              # add false samples
+      )
+  
+  for (i in 1:nrow(cv_df)) {
+    cv_df$test[[i]] = mutate(cv_df$test[[i]], y = TRUE)
+    cv_df$test[[i]] = rbind(cv_df$test[[i]], false_df)
+    cv_df$label[[i]] = cv_df$test[[i]]$y
+    cv_df$test[[i]] = select(cv_df$test[[i]], -y)
+  }
+   
+  cv_model = 
+    cv_df %>% 
+    mutate(svm_mod = map(train, ~svm(.x , y = NULL,
+             type = 'one-classification',
+             nu = nu_,
+             scale = TRUE, 
+             kernel = "linear"))) %>% 
+    mutate(pred_label = map2(svm_mod, test, ~predict(.x, .y)))
+  
+  
+  cv_f1 =
+    cv_model %>% 
+    mutate(f1_svm = map2_dbl(.x = label, .y = pred_label, ~F1_Score(y_true = .x, y_pred = .y))) 
+  
+  nu_cv = 
+    tibble(
+      nu = nu_,
+      f1_svm = mean(pull(cv_f1, f1_svm))
+      #label = nest(as_tibble(pull(cv_model, label))),
+      #pred_label = nest(as_tibble(pull(cv_model, pred_label))),
+    ) %>% 
+    #slice(1) %>% 
+    rbind(nu_cv, .)
+  
+}
+```
+
+```{r}
+cvp = 
+  nu_cv %>% 
+  mutate(nu = case_when(
+    nu <= 0.3 ~ log10(nu),
+    nu > 0.3 ~ exp(nu)
+  ))
+
+cvp %>% 
+  ggplot(aes(x = nu, y = f1_svm, color = nu)) +
+  geom_point() +
+  geom_line() +
+  scale_x_continuous(
+    breaks = pull(cvp, nu),
+    labels = c("0.001", "0.005", "0.01", "0.05", "0.1", "0.3", "0.5", "0.7", "0.9", "0.99")
+  ) +
+  labs(
+    title = "Cross Validation Plot for nu in SVM",
+    x = "nu",
+    y = "F1 Score") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+
+```
+```{r}
+nu_ = 0.5
+
+svm_model = 
+    ufo_city %>% 
+    bind_rows(false_data) %>% 
+    factor_variable_cope() %>% 
+    select(-month, -add) %>% 
+    mutate(year = as.integer(year), day = as.integer(day), hour = as.integer(hour), minute = as.integer(minute)) %>% 
+    sample_frac(1) %>% 
+    svm(y = NULL,
+             type = 'one-classification',
+             nu = nu_,
+             scale = TRUE, 
+             kernel = "linear")
+  
+svm_model
+
 ```
 
 
-```{r }
-library(e1071)
 
-day = c(0,1,2,3,4,5,6)
-weather = c(6,5,4,3,2,1,0) #on the example, it was: c(1,0,0,0,0,0,0)
-happy = factor(c(T,T,T,T,T,T,T)) #on the example it was: happy = factor(c(T,F,F,F,F,F,F))
 
-d = data.frame(day=day, weather=weather, happy=happy)
-model = svm(happy ~ day + weather, data = d, type='one-classification') #on the example it was: model = svm(happy ~ day + weather, data = d)
 
-plot(model, d)
-
-```
