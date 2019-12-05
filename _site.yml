@@ -9,8 +9,6 @@ navbar:
       href: EDA.html
     - text: "UFO in USA"
       href: UFO_in_USA.html
-    - text: "Map of State"
-      href: index.html
     - text: "Map of City"
       href: index.html
     - text: "Models"
